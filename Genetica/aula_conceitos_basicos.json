@@ -1,0 +1,354 @@
+{
+  "titulo": "Conceitos Básicos de Genética",
+  "eyebrow": "Neurociência e Genética · Fundamentos",
+  "subtitulo": "Gene, alelo, genótipo e fenótipo na leitura do comportamento",
+  "intro": "Percorre o vocabulário essencial da genética — gene, lócus, alelo, homozigose e heterozigose, dominância e recessividade — e chega à relação entre genótipo, ambiente e fenótipo. Fecha discutindo por que a herança sozinha não explica o comportamento humano.",
+  "questoes": [
+    {
+      "question": "O que caracteriza um gene?",
+      "options": [
+        "Segmento de DNA que contém a informação para sintetizar um polipeptídeo",
+        "Proteína do núcleo que organiza o DNA em cromossomos compactados",
+        "Molécula de açúcar que sustenta a dupla-hélice do material genético",
+        "Estrutura do citoplasma responsável por montar as cadeias de RNA"
+      ],
+      "correctIndex": 0,
+      "explanation": "O gene é um segmento da molécula de DNA capaz de determinar uma característica, porque carrega a informação necessária à síntese de um polipeptídeo. Não é proteína nem açúcar: é um trecho da própria sequência de DNA, com endereço definido no cromossomo."
+    },
+    {
+      "question": "Qual estrutura é considerada a unidade básica da hereditariedade?",
+      "options": [
+        "O gene, sequência de DNA com instrução para uma proteína ou RNA",
+        "O lócus, faixa do cromossomo que armazena várias proteínas",
+        "O nucleossomo, novelo de DNA que transmite os traços físicos",
+        "O centrômero, região que guarda a informação hereditária"
+      ],
+      "correctIndex": 0,
+      "explanation": "O gene é a unidade básica da hereditariedade: uma sequência de DNA com instruções para produzir uma proteína ou um RNA funcional. É ele que determina características físicas e biológicas como cor dos olhos, altura e predisposição a doenças."
+    },
+    {
+      "question": "O que são genes alelos?",
+      "options": [
+        "Genes que ocupam o mesmo lócus em cromossomos homólogos",
+        "Genes vizinhos que ficam lado a lado no mesmo cromossomo",
+        "Genes que só aparecem nos cromossomos sexuais X e Y",
+        "Genes copiados duas vezes dentro de um mesmo cromossomo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alelos são as variações de um mesmo gene, ocupando o mesmo lócus em cromossomos homólogos. É o par que decide a cor dos olhos, por exemplo: um alelo para castanho e outro para azul disputam o mesmo endereço no cromossomo."
+    },
+    {
+      "question": "Para cada gene, quantos alelos uma pessoa possui e qual é a origem deles?",
+      "options": [
+        "Dois alelos, um herdado do pai e outro herdado da mãe",
+        "Um alelo só, escolhido ao acaso entre pai e mãe",
+        "Quatro alelos, dois de cada um dos genitores",
+        "Dois alelos, ambos vindos do genitor do mesmo sexo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Como os cromossomos vêm aos pares — 23 do pai e 23 da mãe —, cada gene aparece em duas cópias, uma em cada homólogo. Esse par de cópias no mesmo lócus é justamente o par de alelos do indivíduo."
+    },
+    {
+      "question": "A faixa destacada no cromossomo da figura corresponde ao lócus gênico. O que ele representa?",
+      "options": [
+        "O local exato do cromossomo onde se localiza um gene",
+        "O ponto onde as duas cromátides-irmãs se unem",
+        "A extremidade que protege o cromossomo do desgaste",
+        "A região que produz as proteínas do cromossomo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O lócus é o endereço do gene no cromossomo, e cada lócus abriga um gene. Falar em cromossomos homólogos com o mesmo lócus é dizer que ambos guardam, naquele ponto, cópias do mesmo gene.",
+      "image": "pg13",
+      "imageCaption": "Lócus gênico: a faixa marcada no cromossomo"
+    },
+    {
+      "question": "Genes alelos são necessariamente idênticos entre si?",
+      "options": [
+        "Não, podem diferir entre si em razão de processos mutacionais",
+        "Sim, por ocuparem o mesmo lócus são sempre idênticos",
+        "Sim, salvo nos cromossomos sexuais X e Y do homem",
+        "Não, porque cada um deles fica num cromossomo diferente"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ocupar o mesmo lócus não obriga os alelos a serem iguais. Mutações fazem surgir versões diferentes do mesmo gene, e é dessa diferença que nascem as variações de característica dentro de uma população."
+    },
+    {
+      "question": "A figura mostra um par de cromossomos homólogos com os alelos A e a num lócus, e B e b em outro. Como se classifica esse indivíduo para essas duas características?",
+      "options": [
+        "Heterozigoto nas duas, pois os alelos de cada par são diferentes",
+        "Homozigoto nas duas, pois os alelos de cada par são iguais",
+        "Homozigoto na primeira e heterozigoto na segunda característica",
+        "Heterozigoto na primeira e homozigoto na segunda característica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Heterozigoto é o indivíduo cujos dois alelos para uma característica são diferentes, como Aa e Bb. Se os alelos do par fossem iguais — AA ou bb — o indivíduo seria homozigoto para aquela característica.",
+      "image": "pg21",
+      "imageCaption": "Par de homólogos com os alelos Aa e Bb"
+    },
+    {
+      "question": "Um indivíduo é chamado de homozigoto quando:",
+      "options": [
+        "Apresenta dois alelos iguais para a característica analisada",
+        "Apresenta dois alelos diferentes para a característica",
+        "Possui apenas um alelo para a característica analisada",
+        "Possui alelos iguais em todos os pares de cromossomos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Homozigoto, também chamado de puro, é quem tem dois alelos iguais para determinada característica, como AA ou aa. A classificação vale para o par analisado, não para o genoma inteiro."
+    },
+    {
+      "question": "Os genótipos AA e aa recebem, respectivamente, os nomes de:",
+      "options": [
+        "Homozigoto dominante e homozigoto recessivo",
+        "Heterozigoto dominante e heterozigoto recessivo",
+        "Homozigoto recessivo e homozigoto dominante",
+        "Homozigoto dominante e heterozigoto recessivo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os dois genótipos são homozigotos, porque em cada um os alelos do par são iguais. AA reúne duas cópias dominantes e recebe o nome de homozigoto dominante; aa reúne duas cópias recessivas e é o homozigoto recessivo."
+    },
+    {
+      "question": "O que define um alelo dominante?",
+      "options": [
+        "Expressa-se no fenótipo mesmo estando em uma única cópia",
+        "Precisa estar em duas cópias para aparecer no fenótipo",
+        "Só se manifesta quando o indivíduo é homozigoto para ele",
+        "Aparece apenas quando está nos cromossomos sexuais"
+      ],
+      "correctIndex": 0,
+      "explanation": "O alelo dominante tem maior expressividade e se manifesta com uma cópia só: basta um A para que a característica apareça, tanto em AA quanto em Aa. Por convenção, ele é representado por letra maiúscula."
+    },
+    {
+      "question": "Em que condição um alelo recessivo se manifesta no fenótipo?",
+      "options": [
+        "Apenas em homozigose, ou seja, com as duas cópias recessivas",
+        "Sempre que estiver presente, mesmo em uma única cópia",
+        "Somente quando acompanhado de um alelo dominante",
+        "Apenas nas células sexuais, que têm 23 cromossomos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O alelo recessivo tem menor expressividade e precisa de duas cópias para se manifestar. Em heterozigose (Aa) ele fica inibido pelo dominante, de modo que só aparece no fenótipo quando o genótipo é aa."
+    },
+    {
+      "question": "Na figura, os alelos do par A e A se expressam os dois, mas no par B e b somente B aparece. Qual princípio explica essa diferença?",
+      "options": [
+        "Em heterozigose o alelo dominante impede a expressão do recessivo",
+        "Em heterozigose os dois alelos se expressam pela metade cada um",
+        "O alelo recessivo se expressa apenas nos cromossomos maternos",
+        "O alelo que fica mais perto do centrômero é sempre o expresso"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quando os dois alelos do par são iguais, ambos se expressam e o resultado é o mesmo. Em heterozigose, porém, o dominante inibe o recessivo, e por isso Bb produz o mesmo fenótipo de BB.",
+      "image": "pg22",
+      "imageCaption": "Par AA e par Bb num mesmo conjunto de homólogos"
+    },
+    {
+      "question": "Como se representam convencionalmente os genes dominantes e os recessivos?",
+      "options": [
+        "Dominantes com letras maiúsculas e recessivos com minúsculas",
+        "Dominantes com letras minúsculas e recessivos com maiúsculas",
+        "Dominantes com números e recessivos com letras do alfabeto",
+        "Dominantes com letras gregas e recessivos com letras latinas"
+      ],
+      "correctIndex": 0,
+      "explanation": "A convenção usa a mesma letra para o par de alelos, variando a caixa: A, B, C para os dominantes e a, b, c para os recessivos. Assim o genótipo Aa já informa de imediato que há um alelo de cada tipo."
+    },
+    {
+      "question": "A figura vai da célula até o nucleotídeo. Qual descrição corresponde à organização do material genético?",
+      "options": [
+        "O DNA se compacta em cromossomos, e o gene é um trecho do DNA",
+        "O gene se compacta em DNA, e o DNA é um trecho do cromossomo",
+        "O cromossomo é um trecho do gene, que se compacta em DNA",
+        "O nucleotídeo agrupa cromossomos, que formam trechos de DNA"
+      ],
+      "correctIndex": 0,
+      "explanation": "A hierarquia vai do maior para o menor: dentro do núcleo estão os cromossomos, formados por DNA compactado com proteínas; o gene é um segmento desse DNA; e o nucleotídeo é a unidade química que compõe a molécula.",
+      "image": "pg06",
+      "imageCaption": "Da célula ao nucleotídeo: cromossomo, DNA e gene"
+    },
+    {
+      "question": "Um cromossomo é formado por:",
+      "options": [
+        "DNA compactado associado a proteínas",
+        "RNA compactado associado a lipídios",
+        "Proteínas puras produzidas no núcleo",
+        "Açúcares ligados a cadeias de fosfato"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cromossomos são estruturas de DNA compactado associado a proteínas. Essa organização permite que a longa molécula caiba no núcleo e seja dividida com segurança entre as células-filhas."
+    },
+    {
+      "question": "Quantos cromossomos há numa célula somática humana e como eles estão organizados?",
+      "options": [
+        "46 cromossomos, organizados em 23 pares dentro do núcleo",
+        "23 cromossomos, organizados em 46 pares dentro do núcleo",
+        "46 cromossomos, organizados em 23 pares no citoplasma",
+        "92 cromossomos, organizados em 46 pares dentro do núcleo"
+      ],
+      "correctIndex": 0,
+      "explanation": "As células somáticas humanas têm 46 cromossomos, arranjados em 23 pares de homólogos e alojados no núcleo. Cada par reúne um cromossomo de origem paterna e outro de origem materna.",
+      "image": "pg07",
+      "imageCaption": "Cariótipo humano: 23 pares de cromossomos"
+    },
+    {
+      "question": "Dos 23 pares de cromossomos humanos, como se dividem autossomos e cromossomos sexuais?",
+      "options": [
+        "22 pares de autossomos e 1 par sexual, XX ou XY",
+        "23 pares de autossomos e 1 par sexual, XX ou XY",
+        "20 pares de autossomos e 3 pares sexuais, XX ou XY",
+        "22 pares sexuais e 1 par de autossomos, XX ou XY"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vinte e dois pares são autossomos, ligados a características não sexuais. O par restante é o sexual: XX nas mulheres e XY nos homens."
+    },
+    {
+      "question": "Quantos cromossomos carregam o óvulo e o espermatozoide, e o que ocorre na fecundação?",
+      "options": [
+        "23 cada um; a união deles restaura o total de 46",
+        "46 cada um; a união deles restaura o total de 92",
+        "23 cada um; a união deles mantém o total de 23",
+        "46 cada um; a união deles reduz o total para 46"
+      ],
+      "correctIndex": 0,
+      "explanation": "As células sexuais têm metade do número: 23 cromossomos cada uma. Na fecundação, os 23 do óvulo somam-se aos 23 do espermatozoide e o total de 46 da célula somática é restaurado."
+    },
+    {
+      "question": "Qual é a estimativa do número de genes humanos e do número de alelos correspondente?",
+      "options": [
+        "20.000 a 23.000 genes, o que dá 40.000 a 46.000 alelos",
+        "20.000 a 23.000 genes, o que dá 20.000 a 23.000 alelos",
+        "2.000 a 2.300 genes, o que dá 4.000 a 4.600 alelos",
+        "46 genes por cromossomo, o que dá cerca de 2.116 alelos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A estimativa fica entre 20.000 e 23.000 genes. Como cada gene aparece em duas cópias, uma por cromossomo homólogo, o total de alelos dobra: de 40.000 a 46.000."
+    },
+    {
+      "question": "O que é o genótipo de um indivíduo?",
+      "options": [
+        "A constituição gênica, o conjunto de alelos que ele carrega",
+        "A aparência física resultante da ação dos genes e do meio",
+        "O conjunto de proteínas fabricadas pelas suas células",
+        "O número de cromossomos presentes em suas células"
+      ],
+      "correctIndex": 0,
+      "explanation": "Genótipo é a constituição gênica do indivíduo. O termo serve tanto para o par de alelos que está sendo analisado quanto para o conjunto completo de genes que a pessoa carrega."
+    },
+    {
+      "question": "A figura traz a equação do fenótipo. Como ele é determinado?",
+      "options": [
+        "Pela ação conjunta do genótipo com o meio ambiente",
+        "Apenas pelo genótipo, sem qualquer papel do ambiente",
+        "Apenas pelo ambiente, sem qualquer papel do genótipo",
+        "Pelo número de cromossomos somado ao de alelos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fenótipo é a aparência do organismo e resulta da ação conjunta do genótipo com o meio ambiente. Daí a fórmula: fenótipo = genótipo + ambiente.",
+      "image": "pg27",
+      "imageCaption": "Fenótipo = genótipo + ambiente"
+    },
+    {
+      "question": "Dois gêmeos idênticos criados em ambientes distintos aparecem, 20 anos depois, com corpos bem diferentes. O que explica esse resultado?",
+      "options": [
+        "O mesmo genótipo produz fenótipos distintos conforme o meio",
+        "O genótipo dos dois mudou ao longo dos 20 anos de vida",
+        "Gêmeos idênticos nascem com genótipos ligeiramente diferentes",
+        "O fenótipo é fixado no nascimento e não depende do meio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gêmeos idênticos partilham o mesmo genótipo, mas o fenótipo depende também da interação com o meio. Alimentação, atividade física e experiências de vida diferentes produzem aparências distintas a partir do mesmo conjunto de genes.",
+      "image": "pg29",
+      "imageCaption": "Mesmo genótipo, fenótipos diferentes 20 anos depois"
+    },
+    {
+      "question": "Por que a cor da pele ilustra bem a influência do ambiente sobre o fenótipo?",
+      "options": [
+        "Mesmos genótipos dão tons distintos conforme a exposição solar",
+        "A exposição ao sol altera a sequência de DNA dos melanócitos",
+        "O tom de pele independe dos genes e vem apenas do ambiente",
+        "Cada tom de pele corresponde a um único alelo dominante"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pigmentação sofre forte influência ambiental: pessoas com o mesmo genótipo podem exibir tons diferentes conforme a exposição à radiação ultravioleta. O genótipo delimita a faixa possível, e o ambiente define o ponto dentro dessa faixa."
+    },
+    {
+      "question": "Numa tabela de características humanas, lóbulo solto e covinhas figuram como dominantes, e lóbulo preso e ausência de covinhas como recessivos. O que separa os dois tipos?",
+      "options": [
+        "A dominante aparece com uma cópia; a recessiva exige duas",
+        "A dominante exige duas cópias; a recessiva aparece com uma",
+        "A dominante é sempre a mais comum na população estudada",
+        "A dominante vem do pai e a recessiva vem sempre da mãe"
+      ],
+      "correctIndex": 0,
+      "explanation": "A característica dominante se manifesta com um único alelo dominante presente, isto é, tanto em AA quanto em Aa. A recessiva só aparece em homozigose recessiva (aa), porque um alelo dominante bastaria para inibi-la.",
+      "image": "pg24",
+      "imageCaption": "Características humanas: alelo dominante e alelo recessivo"
+    },
+    {
+      "question": "Uma pessoa com genética favorável à resistência física não desenvolve seu potencial sem treino nem apoio. O que esse caso demonstra?",
+      "options": [
+        "O potencial genético só se realiza com um ambiente adequado",
+        "O potencial genético se realiza independentemente do ambiente",
+        "O ambiente substitui completamente a contribuição genética",
+        "O desempenho físico não tem qualquer componente hereditário"
+      ],
+      "correctIndex": 0,
+      "explanation": "A herança fornece a predisposição, mas quem converte potencial em desempenho é o ambiente: treinamento, motivação e suporte psicológico. Genética e ambiente atuam juntos na formação da característica."
+    },
+    {
+      "question": "No acompanhamento de um paciente com transtorno bipolar consideram-se o histórico familiar e também eventos traumáticos e estresse. Por quê?",
+      "options": [
+        "A predisposição genética existe, mas o ambiente desencadeia os sintomas",
+        "A predisposição genética basta, e o ambiente não altera o quadro",
+        "O histórico familiar é irrelevante diante de eventos traumáticos",
+        "O transtorno decorre exclusivamente do estilo de vida adotado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Transtornos do humor costumam reunir carga hereditária e gatilhos ambientais. A predisposição genética pode estar presente sem que os sintomas apareçam: é o ambiente que desencadeia, ou não, a manifestação clínica."
+    },
+    {
+      "question": "Por que os fatores genéticos, isoladamente, não determinam o comportamento humano?",
+      "options": [
+        "O genótipo dá predisposições que o ambiente pode ativar ou não",
+        "O genótipo humano é idêntico em todas as pessoas do planeta",
+        "O comportamento não guarda nenhuma relação com a biologia",
+        "As predisposições herdadas desaparecem na vida adulta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os genes estabelecem predisposições, não destinos. O fenótipo comportamental resulta da interação entre genótipo e ambiente, e experiências, vínculos e contexto de vida decidem se a predisposição se manifesta."
+    },
+    {
+      "question": "O que caracteriza a epigenética?",
+      "options": [
+        "Mudanças na expressão dos genes sem alterar a sequência do DNA",
+        "Mudanças permanentes na sequência de bases do DNA herdado",
+        "A troca de cromossomos inteiros entre pares de homólogos",
+        "A perda de alelos recessivos ao longo das gerações"
+      ],
+      "correctIndex": 0,
+      "explanation": "Epigenética designa alterações na expressão dos genes sem mudança na sequência do DNA — é como ligar ou desligar genes. Fatores ambientais estão entre os principais responsáveis por acionar esses interruptores."
+    },
+    {
+      "question": "Estudos com sobreviventes de trauma intenso mostraram alteração epigenética na regulação do cortisol, também encontrada nos filhos. O que isso sugere?",
+      "options": [
+        "Marcas da experiência podem ser transmitidas à geração seguinte",
+        "O trauma alterou a sequência de DNA transmitida aos filhos",
+        "O cortisol é produzido apenas por quem sofreu trauma direto",
+        "As experiências de vida não afetam o funcionamento dos genes"
+      ],
+      "correctIndex": 0,
+      "explanation": "O achado indica herança de marcas emocionais: a regulação do cortisol foi modificada por via epigenética e apareceu também na geração seguinte. A sequência de DNA permaneceu intacta — o que mudou foi o padrão de expressão."
+    },
+    {
+      "question": "O que estuda a genética?",
+      "options": [
+        "A transmissão de características hereditárias entre gerações",
+        "A adaptação dos organismos ao ambiente ao longo do tempo",
+        "A estrutura interna das células e de suas organelas",
+        "A distribuição das espécies pelos diferentes territórios"
+      ],
+      "correctIndex": 0,
+      "explanation": "Genética é a ciência que estuda a transmissão de características hereditárias de pais para filhos ao longo das gerações. É dela que vêm os conceitos de gene, alelo, genótipo e fenótipo."
+    }
+  ]
+}

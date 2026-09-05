@@ -1,0 +1,352 @@
+{
+  "titulo": "Regulação da Expressão Gênica",
+  "eyebrow": "Neurociência e Genética · Epigenética",
+  "subtitulo": "Como o mesmo DNA produz células, cérebros e histórias diferentes",
+  "intro": "Do gene ativado ao comportamento: expressão gênica, estados da cromatina, fatores de transcrição e as marcas epigenéticas que o ambiente deixa sobre os genes.",
+  "questoes": [
+    {
+      "question": "Um hepatócito e um neurônio de uma mesma pessoa carregam praticamente o mesmo genoma, mas exercem funções bem distintas. O que explica essa diferença?",
+      "options": [
+        "Cada tipo celular ativa um conjunto próprio de genes e silencia os demais",
+        "Cada tipo celular recebe um genoma diferente durante a divisão celular",
+        "Cada tipo celular perde os genes que não utiliza ao longo da vida adulta",
+        "Cada tipo celular altera a sequência do seu DNA conforme o tecido de origem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Todas as células somáticas de um indivíduo herdam o mesmo conteúdo de DNA. A identidade celular vem do padrão de expressão: quais genes estão ativados e quais estão silenciados. Esse padrão gera proteínas diferentes e, portanto, funções especializadas."
+    },
+    {
+      "question": "O que caracteriza a expressão gênica?",
+      "options": [
+        "A conversão da informação de um gene em proteína ou RNA funcional",
+        "A duplicação da molécula de DNA antes de cada divisão celular",
+        "A separação dos cromossomos homólogos na formação dos gametas",
+        "A troca de segmentos entre cromátides durante a prófase da meiose"
+      ],
+      "correctIndex": 0,
+      "explanation": "Expressão gênica é o processo pelo qual a informação contida no gene é transformada em produto funcional — uma proteína ou um RNA. É o que permite ao pâncreas produzir insulina e ao neurônio produzir neurotransmissores, a partir do mesmo genoma."
+    },
+    {
+      "question": "Qual característica distingue a eucromatina da heterocromatina?",
+      "options": [
+        "A eucromatina é descondensada e permite acesso à maquinaria de transcrição",
+        "A eucromatina é condensada e impede o acesso dos fatores de transcrição",
+        "A eucromatina aparece só na divisão celular, quando o DNA se compacta",
+        "A eucromatina não contém genes e ocupa centrômeros e telômeros do cromossomo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eucromatina é a forma aberta e ativa da cromatina: os fatores de transcrição e a RNA polimerase alcançam o DNA e o gene pode ser transcrito. Heterocromatina é a forma condensada e inativa, que dificulta esse acesso e mantém os genes silenciados."
+    },
+    {
+      "question": "A figura compara dois estados da cromatina. O que ocorre com a transcrição quando as caudas das histonas recebem grupos acetil?",
+      "options": [
+        "A cromatina relaxa, o DNA fica acessível e a transcrição do gene aumenta",
+        "A cromatina condensa, o DNA fica inacessível e a transcrição é reprimida",
+        "A cromatina se mantém igual e a transcrição depende só da metilação do DNA",
+        "A cromatina se fecha ainda mais e os fatores de transcrição são degradados"
+      ],
+      "correctIndex": 0,
+      "explanation": "A acetilação das caudas de histona afrouxa a interação entre o DNA e o nucleossomo, deixando a cromatina em estado aberto. Com o DNA acessível, os fatores de transcrição se ligam e a expressão do gene aumenta.",
+      "image": "pg23",
+      "imageCaption": "Modificações de histonas: DNA inacessível com grupo metil, acessível com grupo acetil"
+    },
+    {
+      "question": "O que a epigenética estuda?",
+      "options": [
+        "Mudanças na expressão dos genes que não alteram a sequência do DNA",
+        "Mudanças na sequência do DNA que surgem por erros na replicação",
+        "Mudanças no número de cromossomos observadas em células somáticas",
+        "Mudanças na estrutura das proteínas causadas por falhas de tradução"
+      ],
+      "correctIndex": 0,
+      "explanation": "A epigenética trata das modificações químicas que ligam ou desligam genes sem mexer em uma única letra da sequência do DNA. Metilação do DNA e modificações de histonas são os dois mecanismos centrais, e parte dessas marcas pode ser herdada."
+    },
+    {
+      "question": "A figura mostra a adição de grupos metil a citosinas de ilhas CpG na região promotora. Qual é o efeito habitual sobre o gene?",
+      "options": [
+        "O gene é reprimido, porque a metilação bloqueia a ligação de fatores ao promotor",
+        "O gene é ativado, porque a metilação recruta a RNA polimerase até o promotor",
+        "O gene é mutado, porque a metilação troca a citosina por outra base no promotor",
+        "O gene é duplicado, porque a metilação sinaliza a região promotora para cópia"
+      ],
+      "correctIndex": 0,
+      "explanation": "A metilação do DNA acrescenta grupos metil às citosinas, sobretudo em ilhas CpG de regiões promotoras, e em geral reprime a expressão. O gene continua ali, com a sequência intacta: o que muda é o acesso, porque a marca impede a ligação de fatores e recruta proteínas repressoras.",
+      "image": "pg22",
+      "imageCaption": "Metilação da citosina e promotor não metilado (gene ativo) × metilado (gene inativo)"
+    },
+    {
+      "question": "Entre as modificações químicas das histonas, qual efeito é atribuído à acetilação?",
+      "options": [
+        "Neutraliza a carga das caudas, afrouxa a cromatina e favorece a transcrição",
+        "Aumenta a carga das caudas, compacta a cromatina e bloqueia a transcrição",
+        "Corta as caudas das histonas, libera o nucleossomo e encerra a transcrição",
+        "Substitui as histonas por metilcitosinas e mantém a transcrição constante"
+      ],
+      "correctIndex": 0,
+      "explanation": "A acetilação é a modificação de histona classicamente associada à abertura da cromatina: ela reduz a atração entre a cauda da histona e o DNA, o nucleossomo se afrouxa e a transcrição fica facilitada. Metilação e fosforilação de histonas podem tanto abrir quanto compactar, conforme o resíduo atingido."
+    },
+    {
+      "question": "O trauma precoce foi associado a alteração epigenética em qual gene ligado à resposta ao estresse?",
+      "options": [
+        "NR3C1, que codifica o receptor de glicocorticoides",
+        "GAPDH, que codifica uma enzima da via glicolítica",
+        "ACTB, que codifica a β-actina do citoesqueleto",
+        "TUBB, que codifica a β-tubulina dos microtúbulos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O NR3C1 codifica o receptor de glicocorticoides, peça central da resposta ao estresse. Experiências adversas na infância alteram a metilação desse gene, reduzem a expressão do receptor e podem elevar a vulnerabilidade a transtornos psiquiátricos ao longo da vida."
+    },
+    {
+      "question": "A figura resume o eixo de resposta ao estresse. Ao chegar à célula-alvo, como o cortisol modifica a expressão gênica?",
+      "options": [
+        "Liga-se a um receptor nuclear e o complexo atua como fator de transcrição",
+        "Liga-se ao DNA sozinho e substitui a RNA polimerase durante a transcrição",
+        "Liga-se às histonas e as retira do nucleossomo antes de haver transcrição",
+        "Liga-se ao RNA mensageiro e impede que ele seja traduzido em proteína"
+      ],
+      "correctIndex": 0,
+      "explanation": "O cortisol é lipossolúvel e atravessa a membrana até receptores nucleares. O complexo hormônio-receptor funciona como fator de transcrição: liga-se a sequências regulatórias do DNA e modula a expressão dos genes da resposta ao estresse.",
+      "image": "pg18",
+      "imageCaption": "Eixo hipotálamo-hipófise-adrenal: CRH, ACTH e liberação de cortisol"
+    },
+    {
+      "question": "Dois gêmeos monozigóticos criados em ambientes muito diferentes apresentam saúde e comportamento distintos. Como isso se explica?",
+      "options": [
+        "O ambiente altera marcas epigenéticas e muda quais genes são expressos",
+        "O ambiente altera a sequência do DNA e cria novos alelos em cada irmão",
+        "O ambiente altera o número de cromossomos das células de cada irmão",
+        "O ambiente altera o código genético e reescreve os códons de cada irmão"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gêmeos monozigóticos têm o mesmo genótipo e ainda assim divergem em fenótipo. Dieta, estresse, trauma e experiências deixam marcas epigenéticas diferentes em cada um, alterando quais genes são ligados ou desligados — sem mudar uma letra da sequência."
+    },
+    {
+      "question": "Por que a regulação da expressão gênica é decisiva para o funcionamento do neurônio?",
+      "options": [
+        "Ela sustenta a plasticidade sináptica, base do aprendizado e da memória",
+        "Ela impede qualquer mudança nas sinapses, mantendo os circuitos fixos",
+        "Ela substitui a transmissão sináptica por contato direto entre os núcleos",
+        "Ela reduz o gasto de energia ao desligar todos os genes do neurônio"
+      ],
+      "correctIndex": 0,
+      "explanation": "O neurônio precisa produzir neurotransmissores, receptores e proteínas estruturais em resposta à atividade. Genes da plasticidade sináptica são ativados quando uma experiência exige nova conexão, e é essa expressão regulada que permite aprender, consolidar memória e adaptar circuitos."
+    },
+    {
+      "question": "Qual proteína reguladora é apontada como essencial para a consolidação da memória de longo prazo?",
+      "options": [
+        "CREB, que ativa genes ligados à plasticidade sináptica",
+        "GAPDH, que atua na via glicolítica do metabolismo celular",
+        "EPO, que estimula a produção de hemácias na medula óssea",
+        "IL-2, que promove a proliferação de linfócitos na resposta imune"
+      ],
+      "correctIndex": 0,
+      "explanation": "A CREB (cAMP Response Element-Binding protein) é uma proteína reguladora ativada por sinalização intracelular. Ela liga genes da plasticidade sináptica, fortalece conexões neuronais e é indispensável para transformar uma experiência em memória de longo prazo."
+    },
+    {
+      "question": "Variações em qual gene, ligado à neuroplasticidade, foram associadas à depressão e à esquizofrenia?",
+      "options": [
+        "BDNF, fator neurotrófico derivado do cérebro",
+        "INS, hormônio que controla a glicemia",
+        "HPRT1, enzima do metabolismo de nucleotídeos",
+        "RPLP0, proteína da estrutura do ribossomo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O BDNF (Brain-Derived Neurotrophic Factor) sustenta a sobrevivência neuronal, a neuroplasticidade e a memória. Variações na sua expressão foram associadas a depressão e esquizofrenia, mostrando como a regulação de um único gene repercute em circuitos e comportamento."
+    },
+    {
+      "question": "O gene SLC6A4 codifica o transportador de qual neurotransmissor, com ligação a depressão e ansiedade?",
+      "options": [
+        "Serotonina, cuja sinalização modula humor e ansiedade",
+        "Dopamina, cuja sinalização modula recompensa e prazer",
+        "Glutamato, cuja sinalização modula a excitação cortical",
+        "Acetilcolina, cuja sinalização modula a contração muscular"
+      ],
+      "correctIndex": 0,
+      "explanation": "O SLC6A4 codifica o transportador de serotonina, responsável pela recaptação desse neurotransmissor na fenda sináptica. Sua regulação afeta vias do humor, da ansiedade e a própria plasticidade sináptica, e desregulações contribuem para quadros depressivos e ansiosos."
+    },
+    {
+      "question": "A tabela separa genes constitutivos de genes regulados. Em qual grupo se encaixa o GAPDH, e por quê?",
+      "options": [
+        "Constitutivo, pois sua enzima da glicólise é necessária de forma contínua",
+        "Regulado, pois sua enzima só é produzida sob estímulo hormonal específico",
+        "Regulado, pois sua expressão ocorre apenas em neurônios especializados",
+        "Constitutivo, pois sua proteína atua somente na resposta ao choque térmico"
+      ],
+      "correctIndex": 0,
+      "explanation": "GAPDH é um gene housekeeping: codifica uma enzima da glicólise, exigida por qualquer célula o tempo todo, e por isso é expresso de forma constante. Genes regulados como INS, EPO e TH só entram em cena diante de um estímulo ou de uma necessidade específica.",
+      "image": "pg11",
+      "imageCaption": "Genes housekeeping × genes regulados e seus respectivos produtos"
+    },
+    {
+      "question": "O que define a expressão gênica regulada, em contraste com a expressão constitutiva?",
+      "options": [
+        "Genes ligados ou desligados conforme a necessidade e o estímulo recebido",
+        "Genes sempre ativos, que produzem proteínas em quantidade constante",
+        "Genes que perderam a região promotora e não podem mais ser transcritos",
+        "Genes presentes apenas nos gametas e ausentes das células somáticas"
+      ],
+      "correctIndex": 0,
+      "explanation": "A expressão constitutiva mantém ativos os genes de funções vitais, como metabolismo e reparo do DNA, independentemente de estímulo. A expressão regulada liga e desliga genes conforme a necessidade, e é ela que permite especialização celular, eficiência energética e adaptação ao ambiente."
+    },
+    {
+      "question": "A figura mostra a via ativada por um fator de crescimento. Qual é a ordem correta dos eventos até a proteína?",
+      "options": [
+        "Ligação ao receptor, cascata intracelular, fator de transcrição, transcrição",
+        "Ligação ao DNA, cascata intracelular, receptor de membrana, transcrição",
+        "Transcrição do gene, cascata intracelular, receptor, fator de crescimento",
+        "Fator de transcrição, ligação ao receptor, cascata intracelular, tradução"
+      ],
+      "correctIndex": 0,
+      "explanation": "O fator de crescimento é um sinal externo: liga-se a um receptor de superfície, que muda de forma e dispara uma cascata de sinalização intracelular. A cascata ativa fatores de transcrição, que se ligam ao DNA e disparam a transcrição; o RNA é então traduzido em proteína.",
+      "image": "pg09",
+      "imageCaption": "Do fator de crescimento ao fator de transcrição no núcleo"
+    },
+    {
+      "question": "O que faz um fator de transcrição?",
+      "options": [
+        "Liga-se a regiões regulatórias do DNA e controla a transcrição do gene",
+        "Liga-se ao ribossomo e controla a montagem da cadeia de aminoácidos",
+        "Liga-se à membrana celular e controla a entrada de íons no citoplasma",
+        "Liga-se ao RNA transportador e controla o pareamento com os códons"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fatores de transcrição são proteínas que reconhecem elementos regulatórios do DNA, como promotores e enhancers, e ativam ou reprimem a transcrição do gene correspondente. São o ponto em que os sinais recebidos pela célula se convertem em decisão sobre quais genes expressar."
+    },
+    {
+      "question": "Pax6 e NeuroD1 são fatores de transcrição com qual papel no desenvolvimento do sistema nervoso?",
+      "options": [
+        "Guiam neurogênese, migração e diferenciação dos neurônios no embrião",
+        "Degradam o excesso de neurotransmissores liberado na fenda sináptica",
+        "Formam a bainha de mielina em torno dos axônios dos neurônios maduros",
+        "Transportam cálcio até o terminal axonal durante o potencial de ação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pax6 e NeuroD1 comandam programas gênicos do desenvolvimento cerebral: definem quando as células precursoras se dividem, para onde migram e em que tipo neuronal se diferenciam. A regulação precisa desses fatores é o que permite a formação de estruturas cerebrais complexas."
+    },
+    {
+      "question": "Como um neurotransmissor liberado na sinapse altera a expressão gênica do neurônio pós-sináptico?",
+      "options": [
+        "Ativa receptores e cascatas que modulam fatores de transcrição no núcleo",
+        "Entra direto no núcleo e se liga ao promotor dos genes que serão ativados",
+        "Corta o DNA nas regiões promotoras e libera os genes para a transcrição",
+        "Substitui as histonas do nucleossomo por proteínas de choque térmico"
+      ],
+      "correctIndex": 0,
+      "explanation": "O neurotransmissor se liga a receptores da superfície celular e desencadeia cascatas de sinalização intracelular. Essas cascatas ativam ou inibem fatores de transcrição, que então alteram a expressão gênica — é assim que a atividade sináptica vira mudança duradoura no neurônio."
+    },
+    {
+      "question": "Entre as informações que a célula usa para decidir quais genes ativar, qual delas é de origem interna?",
+      "options": [
+        "O nível de ATP disponível e a presença de danos no próprio DNA",
+        "Os sinais químicos secretados pelas células vizinhas do tecido",
+        "Os estímulos mecânicos vindos da matriz extracelular ao redor",
+        "A disponibilidade de nutrientes no meio que circunda a célula"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sinais internos incluem proteínas herdadas da célula-mãe, danos ao DNA e o nível de ATP disponível. Sinais externos vêm de fora: substâncias químicas de células vizinhas, estímulos mecânicos da matriz extracelular e oferta de nutrientes. A célula integra os dois conjuntos para decidir seu programa gênico."
+    },
+    {
+      "question": "Qual é a diferença entre heterocromatina constitutiva e heterocromatina facultativa?",
+      "options": [
+        "A constitutiva fica sempre condensada; a facultativa alterna entre ativa e inativa",
+        "A constitutiva alterna entre ativa e inativa; a facultativa fica sempre expressa",
+        "A constitutiva existe só na mitose; a facultativa existe apenas na interfase",
+        "A constitutiva reúne genes muito ativos; a facultativa não contém gene algum"
+      ],
+      "correctIndex": 0,
+      "explanation": "A heterocromatina constitutiva permanece condensada em todas as células, como nos centrômeros e telômeros. A facultativa é reversível: pode se descondensar e permitir expressão, o que faz dela um dos alvos naturais da regulação epigenética."
+    },
+    {
+      "question": "Qual estrutura é a unidade básica da organização da cromatina?",
+      "options": [
+        "O nucleossomo, com cerca de 146 pares de bases enrolados em histonas",
+        "O centrômero, com a região em que as cromátides irmãs ficam unidas",
+        "O telômero, com as repetições que protegem as pontas do cromossomo",
+        "O ribossomo, com as subunidades que fazem a leitura do RNA mensageiro"
+      ],
+      "correctIndex": 0,
+      "explanation": "O nucleossomo é formado por cerca de 146 pares de bases de DNA enrolados em histonas, e é a unidade repetitiva da cromatina. É justamente sobre as caudas dessas histonas que agem as modificações químicas que abrem ou fecham o acesso ao gene."
+    },
+    {
+      "question": "Onde a metilação do DNA se concentra preferencialmente no genoma?",
+      "options": [
+        "Em ilhas CpG, regiões ricas em citosina e guanina junto a promotores",
+        "Em regiões teloméricas, ricas em repetições que protegem as pontas",
+        "Em íntrons distantes, ricos em sequências que nunca são transcritas",
+        "Em regiões de RNA ribossômico, ricas nas bases que formam o nucléolo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A metilação incide sobre citosinas agrupadas em ilhas CpG, trechos ricos no dinucleotídeo citosina-guanina que costumam ficar em regiões promotoras. Metilar essa região promotora é a forma mais direta de silenciar o gene sem tocar na sua sequência."
+    },
+    {
+      "question": "O que se sabe sobre a transmissão das marcas epigenéticas entre gerações?",
+      "options": [
+        "Surgem no indivíduo e algumas podem passar às gerações seguintes",
+        "Surgem no indivíduo e nunca ultrapassam o limite de uma única célula",
+        "Surgem apenas nos gametas e jamais aparecem em células somáticas",
+        "Surgem no zigoto e ficam fixas até o fim da vida, sem qualquer mudança"
+      ],
+      "correctIndex": 0,
+      "explanation": "As modificações epigenéticas se instalam no indivíduo ao longo da vida, em resposta ao ambiente. Ainda assim, parte dessas marcas pode ser transmitida aos descendentes, o que dá base à ideia de herança epigenética de experiências como o trauma."
+    },
+    {
+      "question": "Por que os fatores genéticos, sozinhos, não determinam o comportamento humano?",
+      "options": [
+        "Porque a expressão deles depende do ambiente e das experiências vividas",
+        "Porque o comportamento depende só do ambiente, sem contribuição gênica",
+        "Porque cada gene produz sempre a mesma proteína em qualquer situação",
+        "Porque o genoma humano é rigorosamente idêntico entre todas as pessoas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O genótipo estabelece possibilidades, não sentenças. O que se manifesta depende de quais genes são expressos, e isso é modulado por estresse, dieta, vínculos e experiências, via marcas epigenéticas e fatores de transcrição. Gêmeos monozigóticos com fenótipos distintos são a evidência mais direta disso."
+    },
+    {
+      "question": "Na figura, o gene da álcool desidrogenase gera RNA no hepatócito e aparece bloqueado no neurônio. Por quê?",
+      "options": [
+        "O gene está transcrito no hepatócito e permanece silenciado no neurônio",
+        "O gene está presente no hepatócito e foi eliminado do genoma do neurônio",
+        "O gene sofreu mutação no neurônio e perdeu a sua sequência codificadora",
+        "O gene do neurônio usa outro código genético, que traduz outra proteína"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os dois genes estão presentes nas duas células, com sequência idêntica. No hepatócito, o gene da álcool desidrogenase é transcrito e o de neurotransmissor fica silenciado; no neurônio ocorre o inverso. Genes ativos em um tipo celular estão inativos em outro — é isso que define a especialização.",
+      "image": "pg06",
+      "imageCaption": "Célula hepática × neurônio: qual gene gera RNA e qual permanece bloqueado"
+    },
+    {
+      "question": "O que significa dizer que a expressão gênica é dinâmica?",
+      "options": [
+        "Ela varia conforme a célula, o momento e os estímulos internos e externos",
+        "Ela se mantém idêntica em todas as células durante toda a vida do corpo",
+        "Ela ocorre apenas durante a fase embrionária e cessa após o nascimento",
+        "Ela depende exclusivamente do número de cromossomos presentes no núcleo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A expressão gênica não é constante: muda de célula para célula e, dentro da mesma célula, muda ao longo do tempo conforme sinais internos e externos. Esse caráter dinâmico é a base da diferenciação celular, da plasticidade e da adaptação ao ambiente."
+    },
+    {
+      "question": "Na figura, o mesmo par de genes existe nas duas células, mas só um deles é transcrito em cada uma. Qual conceito isso ilustra?",
+      "options": [
+        "Diferenciação celular pelo padrão de genes ativados e silenciados",
+        "Mutação somática que apaga um dos genes em cada tipo celular",
+        "Recombinação genética que troca genes entre as duas células",
+        "Duplicação cromossômica que dobra a carga genética da célula"
+      ],
+      "correctIndex": 0,
+      "explanation": "A diferenciação celular não elimina nem reescreve genes: ela seleciona quais serão expressos. O mesmo genoma gera proteínas diferentes em cada tipo celular, e daí vêm as funções especializadas do fígado, do neurônio ou de qualquer outro tecido.",
+      "image": "pg03",
+      "imageCaption": "Expressão gênica → proteínas diferentes → funções especializadas"
+    },
+    {
+      "question": "O que descreve corretamente a interação entre genética e ambiente na formação do comportamento?",
+      "options": [
+        "O ambiente modula a expressão do genótipo e ajuda a moldar o fenótipo",
+        "O genótipo fixa o fenótipo e o ambiente apenas o revela sem alterá-lo",
+        "O ambiente reescreve o genótipo e cria alelos novos ao longo da vida",
+        "O genótipo e o ambiente atuam em vias separadas, sem qualquer contato"
+      ],
+      "correctIndex": 0,
+      "explanation": "Genótipo e ambiente não são forças independentes. Experiências, estresse e nutrição alteram marcas epigenéticas e a atividade de fatores de transcrição, mudando quais genes são expressos. O fenótipo observado, inclusive o comportamento, é o resultado dessa interação contínua."
+    }
+  ]
+}

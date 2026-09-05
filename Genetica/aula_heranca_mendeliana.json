@@ -1,0 +1,350 @@
+{
+  "titulo": "Herança Mendeliana",
+  "eyebrow": "Neurociência e Genética · Hereditariedade",
+  "subtitulo": "As duas leis de Mendel e os cruzamentos que caem na prova",
+  "intro": "Cobre o experimento de Mendel com ervilhas, a lei da segregação e a lei da segregação independente, o quadro de Punnett, o cruzamento-teste e o cálculo das proporções 3:1 e 9:3:3:1.",
+  "questoes": [
+    {
+      "question": "A primeira lei de Mendel, também chamada de lei da segregação, afirma que:",
+      "options": [
+        "cada característica é determinada por dois alelos que se separam na formação dos gametas",
+        "cada característica é determinada por dois alelos que migram juntos para o mesmo gameta",
+        "cada característica é determinada por um único alelo duplicado na formação do gameta",
+        "cada característica é determinada por quatro alelos distribuídos entre todos os gametas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os dois alelos de um mesmo par se separam durante a gametogênese, de modo que cada gameta recebe apenas um deles. É por isso que o heterozigoto Aa produz metade dos gametas com A e metade com a."
+    },
+    {
+      "question": "No quadro de Punnett do cruzamento Rr × Rr, a proporção genotípica esperada na descendência é:",
+      "options": [
+        "1 homozigoto RR, 2 heterozigotos Rr e 1 homozigoto rr",
+        "2 homozigotos RR, 1 heterozigoto Rr e 1 homozigoto rr",
+        "1 homozigoto RR, 1 heterozigoto Rr e 2 homozigotos rr",
+        "2 homozigotos RR, 2 heterozigotos Rr e nenhum rr"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cada genitor forma gametas R e r em igual proporção, e as quatro combinações do quadro são RR, Rr, Rr e rr. Daí a proporção genotípica 1:2:1, com metade da prole heterozigota.",
+      "image": "pg08",
+      "imageCaption": "Quadro de Punnett do cruzamento Rr × Rr"
+    },
+    {
+      "question": "No cruzamento entre dois heterozigotos Aa, a proporção fenotípica esperada na descendência é:",
+      "options": [
+        "3 indivíduos com o fenótipo dominante para 1 com o fenótipo recessivo",
+        "1 indivíduo com o fenótipo dominante para 1 com o fenótipo recessivo",
+        "todos os indivíduos com o fenótipo dominante e nenhum com o recessivo",
+        "2 indivíduos com o fenótipo dominante para 2 com o fenótipo recessivo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dos quatro resultados possíveis, três (AA, Aa, Aa) expressam o fenótipo dominante e apenas um (aa) expressa o recessivo. A proporção fenotípica é 3:1, ou seja, 75% contra 25%."
+    },
+    {
+      "question": "Quanto ao par de alelos considerado, um indivíduo heterozigoto Aa produz gametas assim:",
+      "options": [
+        "dois tipos de gametas, A e a, na proporção 1:1",
+        "dois tipos de gametas, A e a, na proporção 3:1",
+        "um único tipo de gameta, contendo os alelos A e a",
+        "quatro tipos de gametas, na proporção 1:1:1:1"
+      ],
+      "correctIndex": 0,
+      "explanation": "A segregação dos alelos na meiose é equitativa: metade dos gametas leva A e a outra metade leva a. A proporção 3:1 é fenotípica na descendência, e não uma proporção de gametas."
+    },
+    {
+      "question": "Considerando um único par de alelos, o indivíduo que forma um só tipo de gameta é o:",
+      "options": [
+        "homozigoto, que possui dois alelos idênticos no locus",
+        "heterozigoto, que possui dois alelos diferentes no locus",
+        "haploide, que possui dois alelos idênticos nesse locus",
+        "diploide, que possui dois alelos diferentes no locus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se os dois alelos são iguais, todos os gametas saem com a mesma informação: AA só forma gametas A e aa só forma gametas a. O heterozigoto, ao contrário, forma dois tipos distintos."
+    },
+    {
+      "question": "No cruzamento-teste, o indivíduo de fenótipo dominante e genótipo desconhecido é cruzado com um parceiro:",
+      "options": [
+        "homozigoto recessivo, que só forma gametas com o alelo recessivo",
+        "homozigoto dominante, que só forma gametas com o alelo dominante",
+        "heterozigoto, que forma gametas com os dois alelos do par",
+        "duplo-heterozigoto, que forma quatro tipos diferentes de gametas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Como o parceiro rr só contribui com o alelo recessivo, o fenótipo da prole revela o gameta vindo do indivíduo testado. Se aparecer algum descendente recessivo, o testado era heterozigoto.",
+      "image": "pg09",
+      "imageCaption": "Cruzamento-teste: RR × rr à esquerda e Rr × rr à direita"
+    },
+    {
+      "question": "O cruzamento entre uma linhagem pura dominante RR e uma linhagem pura recessiva rr produz uma geração F1:",
+      "options": [
+        "100% heterozigota Rr, toda com o fenótipo dominante",
+        "100% heterozigota Rr, toda com o fenótipo recessivo",
+        "com 50% de homozigotos RR e 50% de homozigotos rr",
+        "com 75% de indivíduos dominantes e 25% recessivos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O genitor RR só fornece gametas R e o genitor rr só fornece gametas r, então toda a F1 é Rr. Como R é dominante, o caráter recessivo desaparece nessa geração e reaparece em F2."
+    },
+    {
+      "question": "O cruzamento Rr × rr gera uma descendência com a seguinte composição esperada:",
+      "options": [
+        "1/2 Rr com fenótipo dominante e 1/2 rr com fenótipo recessivo",
+        "3/4 Rr com fenótipo dominante e 1/4 rr com fenótipo recessivo",
+        "1/4 RR com fenótipo dominante e 3/4 rr com fenótipo recessivo",
+        "toda Rr, portanto todos os descendentes têm fenótipo dominante"
+      ],
+      "correctIndex": 0,
+      "explanation": "O heterozigoto forma gametas R e r em igual proporção e o homozigoto recessivo só forma gametas r. O resultado é 50% Rr e 50% rr, uma proporção fenotípica de 1:1."
+    },
+    {
+      "question": "Uma característica é classificada como recessiva quando ela:",
+      "options": [
+        "só se manifesta no indivíduo que possui os dois alelos recessivos",
+        "só se manifesta no indivíduo que possui um único alelo recessivo",
+        "se manifesta sempre que o alelo recessivo estiver presente no par",
+        "se manifesta apenas nos indivíduos heterozigotos para o caráter"
+      ],
+      "correctIndex": 0,
+      "explanation": "O caráter recessivo exige dose dupla: aparece somente em homozigose recessiva, como aa. No heterozigoto Aa ele fica encoberto pelo alelo dominante, que é quem define o fenótipo."
+    },
+    {
+      "question": "Um alelo é chamado de dominante quando ele:",
+      "options": [
+        "manifesta seu fenótipo mesmo em dose única, no heterozigoto",
+        "manifesta seu fenótipo apenas em dose dupla, no homozigoto",
+        "impede fisicamente a duplicação do alelo do cromossomo homólogo",
+        "se manifesta somente na geração F2, após a autofecundação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Basta uma cópia do alelo dominante para que o caráter apareça, o que torna AA e Aa fenotipicamente iguais. Foi esse encobrimento que fez o caráter rugoso sumir na F1 das ervilhas."
+    },
+    {
+      "question": "A diferença entre genótipo e fenótipo está em que o genótipo:",
+      "options": [
+        "é a constituição alélica do indivíduo, e o fenótipo é a característica observável",
+        "é a característica observável, e o fenótipo é a constituição alélica do indivíduo",
+        "é a característica observável, e o fenótipo é o conjunto de fatores ambientais",
+        "é o conjunto de fatores ambientais, e o fenótipo é a constituição alélica dele"
+      ],
+      "correctIndex": 0,
+      "explanation": "Genótipo é o par de alelos que o indivíduo carrega, como AA, Aa ou aa. Fenótipo é o que se observa, como a semente lisa, e resulta do genótipo em interação com o ambiente."
+    },
+    {
+      "question": "Um indivíduo é chamado de heterozigoto para um determinado gene quando ele:",
+      "options": [
+        "possui dois alelos diferentes nesse locus, como Aa",
+        "possui dois alelos iguais nesse locus, como AA ou aa",
+        "possui um único alelo nesse locus, por ser haploide",
+        "possui quatro alelos nesse locus, dois de cada genitor"
+      ],
+      "correctIndex": 0,
+      "explanation": "O heterozigoto recebeu alelos distintos de cada genitor e por isso forma dois tipos de gametas. O homozigoto tem os dois alelos iguais e forma um único tipo de gameta."
+    },
+    {
+      "question": "Sobre a relação entre genótipo, fenótipo e ambiente, é correto afirmar que o:",
+      "options": [
+        "fenótipo resulta do genótipo em interação com o ambiente",
+        "fenótipo resulta exclusivamente do genótipo, sem o ambiente",
+        "genótipo resulta do fenótipo em interação com o ambiente",
+        "genótipo resulta exclusivamente do ambiente em que se vive"
+      ],
+      "correctIndex": 0,
+      "explanation": "O genótipo estabelece o potencial herdado, mas a característica observada depende também das condições de vida. Dois indivíduos de mesmo genótipo podem exibir fenótipos diferentes."
+    },
+    {
+      "question": "A meiose de uma célula heterozigota Aa origina:",
+      "options": [
+        "quatro células, duas portadoras de A e duas portadoras de a",
+        "quatro células, cada uma portadora dos dois alelos A e a",
+        "duas células, cada uma portadora dos dois alelos A e a",
+        "duas células, uma portadora de A e outra portadora de a"
+      ],
+      "correctIndex": 0,
+      "explanation": "O cromossomo se duplica antes da meiose I, os homólogos se separam na meiose I e as cromátides na meiose II. O resultado são quatro células haploides, metade com A e metade com a.",
+      "image": "pg10",
+      "imageCaption": "Segregação dos alelos R e r ao longo da meiose"
+    },
+    {
+      "question": "A mitose de uma célula heterozigota Aa origina:",
+      "options": [
+        "duas células, cada uma com os dois alelos A e a",
+        "duas células, uma com o alelo A e outra com o alelo a",
+        "quatro células, cada uma com os dois alelos A e a",
+        "quatro células, duas com o alelo A e duas com o alelo a"
+      ],
+      "correctIndex": 0,
+      "explanation": "A mitose conserva o genótipo: as duas células filhas continuam diploides e heterozigotas Aa. Quem separa os alelos do par e reduz o número de cromossomos é a meiose."
+    },
+    {
+      "question": "A segunda lei de Mendel, da segregação independente, estabelece que:",
+      "options": [
+        "genes de características diferentes vão para os gametas de forma independente",
+        "genes de características diferentes vão sempre juntos para o mesmo gameta",
+        "genes de características diferentes ocupam o mesmo locus do cromossomo",
+        "genes de características diferentes deixam de se separar durante a meiose"
+      ],
+      "correctIndex": 0,
+      "explanation": "A separação dos alelos de um par não interfere na separação dos alelos de outro par situado em cromossomos homólogos distintos. Por isso todas as combinações de gametas surgem com igual chance."
+    },
+    {
+      "question": "No cruzamento entre ervilhas puras amarelas e lisas (VVRR) e ervilhas puras verdes e rugosas (vvrr), a geração F1 é:",
+      "options": [
+        "toda VvRr, com sementes amarelas e lisas",
+        "toda VvRr, com sementes verdes e rugosas",
+        "metade VVRR amarela e metade vvrr verde",
+        "toda VVrr, com sementes amarelas e rugosas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O genitor VVRR só forma gametas VR e o vvrr só forma gametas vr, então toda a F1 recebe o genótipo VvRr. Como V e R são dominantes, todas as sementes saem amarelas e lisas.",
+      "image": "pg21",
+      "imageCaption": "Cruzamento diíbrido: geração parental VVRR × vvrr e a F1"
+    },
+    {
+      "question": "A autofecundação de uma planta diíbrida VvRr produz, na geração F2, a proporção fenotípica:",
+      "options": [
+        "9 amarelas lisas : 3 amarelas rugosas : 3 verdes lisas : 1 verde rugosa",
+        "1 amarela lisa : 3 amarelas rugosas : 3 verdes lisas : 9 verdes rugosas",
+        "3 amarelas lisas : 3 amarelas rugosas : 1 verde lisa : 1 verde rugosa",
+        "1 amarela lisa : 1 amarela rugosa : 1 verde lisa : 1 verde rugosa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cada genitor forma quatro tipos de gametas (VR, Vr, vR, vr), gerando dezesseis combinações no quadro de Punnett. Elas se distribuem em 9 V_R_, 3 V_rr, 3 vvR_ e 1 vvrr.",
+      "image": "pg22",
+      "imageCaption": "Quadro de Punnett 4×4 do cruzamento VvRr × VvRr"
+    },
+    {
+      "question": "Na geração F2 obtida da autofecundação de uma planta VvRr, a fração de sementes verdes e rugosas é:",
+      "options": [
+        "1/16, porque só o genótipo vvrr dá esse fenótipo",
+        "3/16, porque três genótipos diferentes dão esse fenótipo",
+        "9/16, porque nove genótipos diferentes dão esse fenótipo",
+        "4/16, porque quatro genótipos distintos dão esse fenótipo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O duplo recessivo exige gameta vr vindo dos dois genitores, e cada um deles é formado com chance de 1/4. Multiplicando 1/4 por 1/4 chega-se a 1/16, a menor classe da F2."
+    },
+    {
+      "question": "Da autofecundação de uma planta diíbrida foram obtidas 800 sementes; quantas se espera que sejam verdes e rugosas?",
+      "options": [
+        "50 sementes, que correspondem a 1/16 do total",
+        "150 sementes, que correspondem a 3/16 do total",
+        "200 sementes, que correspondem a 4/16 do total",
+        "450 sementes, que correspondem a 9/16 do total"
+      ],
+      "correctIndex": 0,
+      "explanation": "A classe duplo-recessiva corresponde a 1/16 da descendência esperada. Aplicando essa fração ao total, 800 dividido por 16 resulta em 50 sementes verdes e rugosas."
+    },
+    {
+      "question": "Uma planta diíbrida autofecundada gerou 800 sementes; quantas se espera que tenham cor amarela?",
+      "options": [
+        "600 sementes, pois 3/4 delas carregam o alelo V",
+        "450 sementes, pois 9/16 delas carregam o alelo V",
+        "200 sementes, pois 1/4 delas carregam o alelo V",
+        "400 sementes, pois 1/2 delas carregam o alelo V"
+      ],
+      "correctIndex": 0,
+      "explanation": "Analisando apenas o par V/v, o cruzamento Vv × Vv devolve a proporção 3:1 para a cor. Três quartos de 800 corresponde a 600 sementes amarelas, independentemente da textura."
+    },
+    {
+      "question": "O número de tipos diferentes de gametas de um indivíduo é dado por 2 elevado a n, em que n corresponde ao número de:",
+      "options": [
+        "pares de alelos em heterozigose no genótipo",
+        "pares de alelos em homozigose no genótipo",
+        "cromossomos presentes na célula diploide",
+        "alelos dominantes presentes no genótipo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Só o par heterozigoto oferece duas opções de alelo para o gameta; o par homozigoto oferece uma só. Com dois pares heterozigotos são 2², ou seja, quatro tipos de gametas.",
+      "image": "pg24",
+      "imageCaption": "Enunciado da segunda lei e a regra 2 elevado a n"
+    },
+    {
+      "question": "O genótipo AaBBCCddEeFFGghhIi forma quantos tipos diferentes de gametas?",
+      "options": [
+        "16, porque há quatro pares de alelos em heterozigose",
+        "8, porque há três pares de alelos em heterozigose",
+        "32, porque há cinco pares de alelos em heterozigose",
+        "64, porque há seis pares de alelos em heterozigose"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os pares heterozigotos desse genótipo são Aa, Ee, Gg e Ii, num total de quatro. Aplicando 2 elevado a 4, chega-se a dezesseis tipos de gametas diferentes."
+    },
+    {
+      "question": "Um indivíduo duplo-heterozigoto VvRr, com os dois genes em cromossomos diferentes, forma gametas na proporção:",
+      "options": [
+        "1/4 VR : 1/4 Vr : 1/4 vR : 1/4 vr",
+        "1/4 VV : 1/4 Vv : 1/4 vR : 1/4 vr",
+        "1/4 Vv : 1/4 Rr : 1/4 VR : 1/4 vr",
+        "1/2 VR : 1/2 vr, sem outros tipos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cada gameta recebe um alelo de cada par, e a combinação entre os pares é livre. Surgem quatro tipos equiprováveis, na proporção 1:1:1:1, que é a base da proporção 9:3:3:1 em F2."
+    },
+    {
+      "question": "A ervilha foi um material experimental adequado para os estudos de hereditariedade porque:",
+      "options": [
+        "tem cultivo fácil, autopolinização e características bem definidas",
+        "tem cultivo difícil, autopolinização e características variáveis",
+        "tem ciclo de vida longo, fecundação cruzada obrigatória e um só fruto",
+        "tem ciclo de vida longo, características contínuas e pouca descendência"
+      ],
+      "correctIndex": 0,
+      "explanation": "A autopolinização permitia obter linhagens puras, e a polinização manual permitia cruzamentos controlados. Somam-se a isso caracteres com apenas duas formas nítidas, como semente lisa ou rugosa."
+    },
+    {
+      "question": "Uma linhagem é considerada pura para uma característica quando ela:",
+      "options": [
+        "gera apenas descendentes com essa mesma característica por várias gerações",
+        "gera descendentes com duas formas da característica em cada geração",
+        "gera descendentes sempre diferentes dos genitores a cada geração",
+        "gera descendentes com a característica recessiva apenas na F2"
+      ],
+      "correctIndex": 0,
+      "explanation": "A linhagem pura é homozigota para o caráter observado, então a autofecundação não faz surgir a forma alternativa. Ervilhas de flor púrpura pura só originam flores púrpuras ao longo das gerações."
+    },
+    {
+      "question": "Dois porcos heterozigotos de orelhas compridas cruzam entre si; qual a probabilidade de um filhote nascer de orelhas curtas?",
+      "options": [
+        "1/4, ou 25%, pois só o homozigoto recessivo tem orelha curta",
+        "1/2, ou 50%, pois só o homozigoto recessivo tem orelha curta",
+        "3/4, ou 75%, pois só o homozigoto recessivo tem orelha curta",
+        "zero, pois o alelo de orelha curta não aparece nessa prole"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se os pais têm orelhas compridas mas geraram filhotes de orelhas curtas, ambos são heterozigotos Aa. O cruzamento Aa × Aa devolve 1/4 de aa, que é a classe de orelha curta."
+    },
+    {
+      "question": "Na geração F2 de um cruzamento monoíbrido Aa × Aa, entre os indivíduos de fenótipo dominante:",
+      "options": [
+        "1/3 são homozigotos AA e 2/3 são heterozigotos Aa",
+        "2/3 são homozigotos AA e 1/3 são heterozigotos Aa",
+        "1/2 são homozigotos AA e 1/2 são heterozigotos Aa",
+        "todos são homozigotos AA e nenhum é heterozigoto Aa"
+      ],
+      "correctIndex": 0,
+      "explanation": "A F2 traz 1 AA, 2 Aa e 1 aa. Descartando o aa, restam três indivíduos dominantes, dos quais apenas um é AA. Por isso a chance de um dominante ser heterozigoto é de 2/3."
+    },
+    {
+      "question": "O locus de um gene é definido como:",
+      "options": [
+        "a posição que esse gene ocupa no cromossomo",
+        "a forma alternativa que esse gene pode assumir",
+        "a célula reprodutiva que carrega um só alelo",
+        "o conjunto de características observáveis nele"
+      ],
+      "correctIndex": 0,
+      "explanation": "Locus é o endereço físico do gene no cromossomo, e o mesmo locus é ocupado nos dois homólogos. As formas alternativas que podem ocupar esse endereço são os alelos, como R e r."
+    },
+    {
+      "question": "O retrocruzamento consiste em cruzar um indivíduo da geração F1 com:",
+      "options": [
+        "um dos genitores da geração parental que o originou",
+        "outro indivíduo da F1 obtido no mesmo cruzamento",
+        "um indivíduo da geração F2 já obtida a partir dele",
+        "um indivíduo de outra espécie, desde que puro"
+      ],
+      "correctIndex": 0,
+      "explanation": "No retrocruzamento o híbrido volta a ser cruzado com um dos parentais. Quando o parental escolhido é o homozigoto recessivo, ele funciona como cruzamento-teste e revela o genótipo do híbrido."
+    }
+  ]
+}

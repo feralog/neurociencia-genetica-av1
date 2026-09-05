@@ -1,0 +1,20 @@
+# Slides originais da professora — material de aula, fica so na maquina
+*.pdf
+*.pptx
+*.docx
+Genetica/originais/
+NEUROCIÊNCIA E GENÉTICA C_/
+
+# Acervo de imagens em base64 — regeravel com _scripts/extrair.py
+*/imagens_*.json
+
+# Chave do tutor (se um dia for usar) e indice local
+deepseek_key.js
+index_local.html
+
+# Lixo do sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+__pycache__/
+*.pyc

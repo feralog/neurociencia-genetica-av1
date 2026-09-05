@@ -1,0 +1,354 @@
+{
+  "titulo": "Anomalias Cromossômicas",
+  "eyebrow": "Neurociência e Genética · Citogenética",
+  "subtitulo": "Alterações de número e de estrutura e os padrões de herança monogênica",
+  "intro": "Cobre as anomalias numéricas (aneuploidias e poliploidias), a não disjunção como mecanismo, as síndromes de Down, Turner e Klinefelter, as alterações estruturais (deleção, duplicação, inversão e translocação) e os quatro tipos de herança monogênica.",
+  "questoes": [
+    {
+      "question": "Anomalias cromossômicas são definidas como alterações que ocorrem:",
+      "options": [
+        "no número ou na estrutura dos cromossomos, podendo alterar o fenótipo",
+        "apenas na estrutura dos cromossomos, sem qualquer efeito sobre o fenótipo",
+        "apenas no número de cromossomos, sempre sem repercussão sobre o fenótipo",
+        "no citoplasma da célula, sem envolver o material cromossômico do núcleo"
+      ],
+      "correctIndex": 0,
+      "explanation": "As anomalias cromossômicas englobam tanto mudanças de quantidade quanto de arquitetura dos cromossomos. Elas podem modificar o fenótipo do portador e, nos casos mais graves, inviabilizar o embrião e levar à morte."
+    },
+    {
+      "question": "A diferença essencial entre alteração numérica e alteração estrutural é que:",
+      "options": [
+        "a numérica muda a quantidade total de cromossomos e a estrutural muda a arquitetura",
+        "a numérica muda a arquitetura do cromossomo e a estrutural muda a quantidade total",
+        "a numérica ocorre só em autossomos e a estrutural só nos cromossomos sexuais",
+        "a numérica ocorre só na mitose e a estrutural ocorre apenas durante a meiose"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alterações numéricas envolvem cromossomos a mais ou a menos, mudando a contagem total. Alterações estruturais modificam a organização interna do cromossomo, sem necessariamente alterar o número total."
+    },
+    {
+      "question": "O principal mecanismo responsável pelo surgimento das aneuploidias é:",
+      "options": [
+        "a não disjunção, em que cromossomos ou cromátides-irmãs deixam de se separar",
+        "a recombinação homóloga, em que segmentos equivalentes são trocados na prófase",
+        "a condensação da cromatina, em que o cromossomo se compacta antes da divisão",
+        "a duplicação do centrômero, em que a constrição primária aparece em duplicata"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na não disjunção, meiótica ou mitótica, os cromossomos homólogos ou as cromátides-irmãs não migram para polos opostos. O resultado são gametas ou células com número cromossômico alterado, que ao serem fecundados originam trissomias e monossomias.",
+      "image": "pg05",
+      "imageCaption": "Meiose normal e meiose com não disjunção"
+    },
+    {
+      "question": "A trissomia é representada pela fórmula 2n+1 porque corresponde à:",
+      "options": [
+        "presença de um cromossomo extra em um par homólogo do cariótipo",
+        "ausência de um dos cromossomos de um par homólogo do cariótipo",
+        "presença de um conjunto haploide extra somado ao cariótipo diploide",
+        "ausência dos dois cromossomos que formam um par homólogo do cariótipo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na trissomia o indivíduo tem três cópias de um mesmo cromossomo em vez de duas, somando um cromossomo ao total diploide. A Síndrome de Down, trissomia do 21, é a trissomia autossômica mais comum e conhecida."
+    },
+    {
+      "question": "A monossomia corresponde à fórmula 2n-1 e caracteriza-se pela:",
+      "options": [
+        "ausência de um cromossomo em um par homólogo, gerando deficiência genética",
+        "presença de um cromossomo extra num par homólogo, gerando excesso genético",
+        "ausência de um conjunto cromossômico inteiro, gerando célula haploide viável",
+        "presença de dois conjuntos extras, gerando célula tetraploide sempre viável"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na monossomia falta um dos dois cromossomos do par homólogo, o que deixa o indivíduo com apenas uma cópia dos genes daquela região. Essa deficiência genética é frequentemente letal, e a Síndrome de Turner (45,X0) é o exemplo viável mais notável."
+    },
+    {
+      "question": "Nas aneuploidias, as fórmulas 2n-2 e 2n+2 correspondem, respectivamente, a:",
+      "options": [
+        "nulissomia e tetrassomia",
+        "monossomia e trissomia",
+        "haploidia e triploidia",
+        "triploidia e tetraploidia"
+      ],
+      "correctIndex": 0,
+      "explanation": "A nulissomia (2n-2) é a perda do par homólogo inteiro e a tetrassomia (2n+2) é a presença de dois cromossomos extras do mesmo par. Entre elas ficam a monossomia (2n-1) e a trissomia (2n+1), as aneuploidias compatíveis com a vida.",
+      "image": "pg06",
+      "imageCaption": "Tipos de mutação cromossômica numérica"
+    },
+    {
+      "question": "A diferença entre euploidia e aneuploidia está em que a euploidia envolve:",
+      "options": [
+        "conjuntos cromossômicos completos, e a aneuploidia envolve cromossomos isolados",
+        "cromossomos isolados, e a aneuploidia envolve conjuntos completos duplicados",
+        "somente autossomos, e a aneuploidia atinge somente os cromossomos sexuais",
+        "somente perdas de material, e a aneuploidia envolve somente ganhos de material"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nas euploidias o número varia em múltiplos do conjunto haploide, como na triploidia (3n) e na tetraploidia (4n). Nas aneuploidias a variação é de um ou poucos cromossomos individuais, como na trissomia e na monossomia."
+    },
+    {
+      "question": "Entre as euploidias, os tipos incompatíveis com a vida na espécie humana são:",
+      "options": [
+        "a triploidia (3n) e a tetraploidia (4n)",
+        "a haploidia (n) e a diploidia (2n)",
+        "a diploidia (2n) e a triploidia (3n)",
+        "a haploidia (n) e a tetraploidia (4n)"
+      ],
+      "correctIndex": 0,
+      "explanation": "A haploidia (n) é a condição normal dos gametas e a diploidia (2n) é a condição normal das células do corpo. Já três ou quatro conjuntos cromossômicos completos produzem fenótipos gravíssimos e são inviáveis em humanos."
+    },
+    {
+      "question": "Quanto aos cromossomos, as células somáticas humanas normais possuem:",
+      "options": [
+        "46 cromossomos, sendo 22 pares de autossomos e 1 par de cromossomos sexuais",
+        "46 cromossomos, sendo 23 pares de autossomos e nenhum cromossomo sexual",
+        "23 cromossomos, sendo 22 autossomos isolados e 1 cromossomo sexual isolado",
+        "44 cromossomos, sendo 21 pares de autossomos e 1 par de cromossomos sexuais"
+      ],
+      "correctIndex": 0,
+      "explanation": "O cariótipo humano diploide tem 46 cromossomos organizados em 23 pares: 22 pares de autossomos, numerados de 1 a 22, e um par sexual (XX na mulher, XY no homem). É esse total de referência que permite reconhecer 47 como trissomia e 45 como monossomia."
+    },
+    {
+      "question": "O número de cromossomos de um gameta humano normal e a sua designação são:",
+      "options": [
+        "23 cromossomos, condição haploide representada por n",
+        "46 cromossomos, condição diploide representada por 2n",
+        "23 cromossomos, condição diploide representada por 2n",
+        "46 cromossomos, condição haploide representada por n"
+      ],
+      "correctIndex": 0,
+      "explanation": "O gameta carrega um único conjunto cromossômico, com 23 cromossomos, e é por isso chamado haploide (n). A fecundação reúne os conjuntos paterno e materno e restaura a condição diploide (2n) de 46 cromossomos do zigoto."
+    },
+    {
+      "question": "Entre as consequências das aneuploidias sobre o desenvolvimento, destaca-se:",
+      "options": [
+        "a inviabilidade embrionária, que se manifesta como abortos espontâneos",
+        "a esterilidade universal do portador, sem qualquer perda gestacional",
+        "a ausência total de efeito clínico, por compensação da dosagem gênica",
+        "a limitação do dano a tecidos periféricos, poupando sempre o embrião"
+      ],
+      "correctIndex": 0,
+      "explanation": "O desequilíbrio na dosagem de centenas de genes costuma inviabilizar o embrião ou o feto, e boa parte dos abortos espontâneos tem causa cromossômica. Quando o desenvolvimento prossegue, resulta em síndromes clínicas específicas, com grau de disfunção correlacionado ao cromossomo envolvido."
+    },
+    {
+      "question": "Observando um cariótipo com três cópias do cromossomo 21, a condição identificada é:",
+      "options": [
+        "Síndrome de Down, a aneuploidia autossômica mais comum",
+        "Síndrome de Turner, a monossomia sexual mais conhecida",
+        "Síndrome de Klinefelter, a trissomia sexual mais comum",
+        "Síndrome Cri du Chat, a deleção autossômica mais comum"
+      ],
+      "correctIndex": 0,
+      "explanation": "A presença de uma terceira cópia do cromossomo 21 define a trissomia do 21, ou Síndrome de Down, com 47 cromossomos no total. É a aneuploidia autossômica mais frequente e cursa com fenótipo característico e impacto no desenvolvimento cognitivo.",
+      "image": "pg10",
+      "imageCaption": "Cariótipo com trissomia do cromossomo 21"
+    },
+    {
+      "question": "O cariótipo de uma pessoa com Síndrome de Turner e o sexo correspondente são:",
+      "options": [
+        "45,X0, com fenótipo feminino e ausência de cromatina sexual",
+        "47,XXY, com fenótipo masculino e uma cromatina sexual presente",
+        "47,XX+21, com fenótipo feminino e a cromatina sexual presente",
+        "46,XY, com fenótipo masculino e ausência de cromatina sexual"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Síndrome de Turner é uma aneuploidia do tipo monossomia (2n-1) com 45 cromossomos e um único cromossomo X. Como não há segundo X para ser inativado, a cromatina sexual está ausente.",
+      "image": "pg11",
+      "imageCaption": "Cariótipo e fenótipo da Síndrome de Turner"
+    },
+    {
+      "question": "Entre os achados clínicos típicos da Síndrome de Turner encontram-se:",
+      "options": [
+        "baixa estatura, pescoço curto e alado, ovários rudimentares e esterilidade",
+        "alta estatura, membros longos, testículos atrofiados e mamas desenvolvidas",
+        "alta estatura, pescoço curto e alado, ovários normais e fertilidade normal",
+        "baixa estatura, membros longos, testículos atrofiados e barba muito rala"
+      ],
+      "correctIndex": 0,
+      "explanation": "O fenótipo de Turner reúne baixa estatura, membros curtos, pescoço alado, tórax largo com mamilos afastados e mamas atrofiadas. Os ovários rudimentares levam à deficiência hormonal, ausência de menstruação e esterilidade, e há ainda constrição da aorta."
+    },
+    {
+      "question": "A Síndrome de Klinefelter é uma trissomia sexual cujo cariótipo é:",
+      "options": [
+        "47,XXY, com fenótipo masculino e uma cromatina sexual presente",
+        "45,X0, com fenótipo feminino e ausência de cromatina sexual",
+        "47,XYY, com fenótipo masculino e ausência de cromatina sexual",
+        "46,XX, com fenótipo feminino e duas cromatinas sexuais presentes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Klinefelter é uma aneuploidia do tipo trissomia (2n+1) com 47 cromossomos e a fórmula sexual XXY. O X extra é inativado e aparece como uma cromatina sexual, achado que não existe no homem 46,XY.",
+      "image": "pg12",
+      "imageCaption": "Cariótipo e fenótipo da Síndrome de Klinefelter"
+    },
+    {
+      "question": "O conjunto de achados que caracteriza a Síndrome de Klinefelter inclui:",
+      "options": [
+        "alta estatura, ginecomastia, testículos atrofiados e algum grau de déficit cognitivo",
+        "baixa estatura, mamas atrofiadas, ovários rudimentares e cognição sempre preservada",
+        "alta estatura, pelos corporais abundantes, testículos volumosos e fertilidade normal",
+        "baixa estatura, ginecomastia, testículos volumosos e déficit cognitivo muito profundo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O portador de Klinefelter é do sexo masculino, alto, de membros longos, com poucos pelos corporais, mamas desenvolvidas e testículos atrofiados, o que resulta em esterilidade. Costuma haver ainda algum grau de deficiência intelectual, o que aproxima a citogenética do estudo do comportamento."
+    },
+    {
+      "question": "A alteração estrutural em que um segmento cromossômico é perdido chama-se:",
+      "options": [
+        "deleção, e pode ir de um único nucleotídeo a grande porção do cromossomo",
+        "duplicação, e pode ir de um único nucleotídeo a grande porção do cromossomo",
+        "inversão, e pode ir de um único nucleotídeo a grande porção do cromossomo",
+        "translocação, e pode ir de um nucleotídeo a grande porção do cromossomo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A deleção é a perda de um segmento de DNA, de extensão muito variável. A Síndrome Cri du Chat, causada por deleção no braço curto do cromossomo 5 (5p), mostra o impacto fenotípico severo que uma perda pode gerar.",
+      "image": "pg14",
+      "imageCaption": "Esquema das alterações cromossômicas estruturais"
+    },
+    {
+      "question": "Partindo de A-B-C-D-E-F-G-H, o resultado A-B-C-D-C-D-E-F-G-H corresponde a uma:",
+      "options": [
+        "duplicação, com ganho de material genético copiado e reinserido",
+        "deleção, com perda definitiva do material genético do segmento",
+        "inversão, com rotação de 180 graus do segmento no mesmo lugar",
+        "translocação, com troca de segmento entre cromossomos distintos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O segmento CD aparece duas vezes no cromossomo resultante, caracterizando duplicação. O ganho de material eleva a quantidade de produtos gênicos e desequilibra vias metabólicas."
+    },
+    {
+      "question": "A duplicação da região 17p12, que envolve o gene PMP22, está associada à:",
+      "options": [
+        "Doença de Charcot-Marie-Tooth tipo 1A, com fraqueza muscular progressiva",
+        "Síndrome Cri du Chat, com choro de gato e atraso do desenvolvimento",
+        "leucemia mieloide crônica, com proliferação descontrolada de leucócitos",
+        "Síndrome de Turner, com baixa estatura e disgenesia gonadal feminina"
+      ],
+      "correctIndex": 0,
+      "explanation": "A CMT1A resulta da duplicação do gene PMP22 no cromossomo 17 e é uma neuropatia hereditária. Manifesta-se na infância ou adolescência com fraqueza progressiva de pés e pernas, pés cavos, dedos em martelo, perda de sensibilidade distal e reflexos diminuídos."
+    },
+    {
+      "question": "Uma inversão cromossômica é definida como o rearranjo em que um segmento:",
+      "options": [
+        "gira 180 graus e é reinserido no mesmo cromossomo em orientação oposta",
+        "é transferido para um cromossomo não homólogo e ali reinserido de modo estável",
+        "é copiado e reinserido em sequência, dobrando o conteúdo daquela região",
+        "é removido do cromossomo e degradado, reduzindo o conteúdo daquela região"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na inversão há duas quebras, rotação do trecho intermediário em 180 graus e reinserção no próprio cromossomo. O conteúdo genético total permanece o mesmo, mas a ordem dos genes muda, o que compromete o pareamento na meiose."
+    },
+    {
+      "question": "Inversão pericêntrica e inversão paracêntrica distinguem-se por o segmento invertido:",
+      "options": [
+        "incluir o centrômero na pericêntrica e excluí-lo na paracêntrica",
+        "excluir o centrômero na pericêntrica e incluí-lo na paracêntrica",
+        "incluir os telômeros na pericêntrica e excluí-los na paracêntrica",
+        "abranger dois cromossomos na pericêntrica e apenas um na paracêntrica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na inversão pericêntrica as quebras ocorrem em braços opostos e o centrômero fica dentro do trecho invertido, o que pode mudar a morfologia do cromossomo. Na paracêntrica as duas quebras ficam no mesmo braço e o centrômero permanece fora do segmento.",
+      "image": "pg18",
+      "imageCaption": "Inversão paracêntrica e inversão pericêntrica"
+    },
+    {
+      "question": "Portadores de inversões equilibradas costumam apresentar como repercussão reprodutiva:",
+      "options": [
+        "infertilidade ou abortos recorrentes, pela formação de gametas desequilibrados",
+        "fertilidade acima da média, pela maior variabilidade dos gametas produzidos",
+        "esterilidade absoluta, pela impossibilidade completa de formação de gametas",
+        "ausência de qualquer efeito, pela correção automática do trecho na meiose"
+      ],
+      "correctIndex": 0,
+      "explanation": "O portador da inversão em geral é fenotipicamente normal porque não perdeu material genético. O problema aparece na meiose: o pareamento anômalo gera gametas com duplicações e deleções, o que se traduz em abortos de repetição e infertilidade."
+    },
+    {
+      "question": "A translocação cromossômica consiste na troca de segmentos:",
+      "options": [
+        "entre cromossomos não homólogos, redistribuindo material genético",
+        "entre cromossomos homólogos, apenas durante a permuta da prófase I",
+        "dentro de um mesmo cromossomo, com rotação do trecho deslocado",
+        "entre cromátides-irmãs, com perda definitiva do trecho deslocado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na translocação, pedaços de cromossomos de pares diferentes são trocados entre si. A troca pode aproximar sequências reguladoras de genes que normalmente estariam distantes, ativando genes ligados ao crescimento celular descontrolado.",
+      "image": "pg20",
+      "imageCaption": "Troca de segmentos entre cromossomos não homólogos"
+    },
+    {
+      "question": "O cromossomo Filadélfia, resultante da translocação t(9;22), origina o gene e a doença:",
+      "options": [
+        "BCR-ABL, associado à leucemia mieloide crônica",
+        "PMP22, associado à leucemia mieloide crônica",
+        "BCR-ABL, associado à Síndrome Cri du Chat",
+        "PMP22, associado à Síndrome de Klinefelter"
+      ],
+      "correctIndex": 0,
+      "explanation": "A translocação recíproca entre os cromossomos 9 e 22 origina o cromossomo Filadélfia e o gene híbrido BCR-ABL. O produto desse gene mantém a sinalização de proliferação permanentemente ativa, causando a leucemia mieloide crônica."
+    },
+    {
+      "question": "A Síndrome Cri du Chat decorre de deleção em 5p e manifesta-se por:",
+      "options": [
+        "choro semelhante ao miado de gato, microcefalia e atraso do desenvolvimento",
+        "choro semelhante ao miado de gato, macrocefalia e desenvolvimento preservado",
+        "fraqueza muscular progressiva, pés cavos e perda de sensibilidade distal",
+        "baixa estatura, pescoço alado e ausência de desenvolvimento das mamas"
+      ],
+      "correctIndex": 0,
+      "explanation": "A perda de material no braço curto do cromossomo 5 altera a laringe e o sistema nervoso central. O resultado é o choro agudo característico que dá nome à síndrome, associado a microcefalia e atraso importante do desenvolvimento."
+    },
+    {
+      "question": "Diz-se que uma característica ou doença tem herança monogênica quando ela é:",
+      "options": [
+        "causada por um único gene, situado em autossomo ou em cromossomo sexual",
+        "causada por vários genes somados, situados sempre em autossomos distintos",
+        "causada por alteração no número total de cromossomos da célula somática",
+        "causada apenas por fatores ambientais, sem participação de gene específico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na herança monogênica a transmissão da característica depende de um só gene, e não de um conjunto de genes ou de alteração cromossômica. Esse gene pode estar em um autossomo ou em um cromossomo sexual, o que define os quatro padrões clássicos."
+    },
+    {
+      "question": "Na herança autossômica dominante, como na Doença de Huntington e na acondroplasia:",
+      "options": [
+        "basta uma cópia alterada do gene para que a doença se manifeste",
+        "são necessárias duas cópias alteradas para que a doença se manifeste",
+        "basta uma cópia alterada, mas apenas em indivíduos do sexo masculino",
+        "são necessárias duas cópias alteradas e um fator ambiental associado"
+      ],
+      "correctIndex": 0,
+      "explanation": "No padrão dominante, o alelo alterado se expressa mesmo em heterozigose, de modo que o heterozigoto já é afetado. Como o gene está em autossomo, homens e mulheres são atingidos na mesma proporção, e cada filho de um afetado tem 50% de risco."
+    },
+    {
+      "question": "Fibrose cística, anemia falciforme e fenilcetonúria compartilham o padrão de herança:",
+      "options": [
+        "autossômica recessiva, exigindo duas cópias alteradas para se manifestar",
+        "autossômica dominante, exigindo uma só cópia alterada para se manifestar",
+        "ligada ao X recessiva, exigindo duas cópias alteradas somente nas mulheres",
+        "ligada ao X dominante, exigindo uma só cópia alterada em ambos os sexos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nas três doenças o gene está em autossomo e o alelo alterado só se manifesta em homozigose. O heterozigoto é portador assintomático, e o risco de filho afetado surge quando ambos os genitores carregam o alelo."
+    },
+    {
+      "question": "Hemofilia A e daltonismo têm herança recessiva ligada ao X, o que explica por que:",
+      "options": [
+        "homens são mais afetados, pois têm um só X e não há alelo normal compensando",
+        "mulheres são mais afetadas, pois têm dois X e acumulam duas cópias alteradas",
+        "homens são mais afetados, pois precisam herdar o alelo alterado do pai e da mãe",
+        "mulheres são mais afetadas, pois o cromossomo Y anula o alelo alterado do X"
+      ],
+      "correctIndex": 0,
+      "explanation": "O homem tem uma única cópia dos genes do cromossomo X: um só alelo alterado já se expressa, porque não existe segundo X com alelo normal. A mulher precisa de duas cópias alteradas para manifestar a doença, e com apenas uma é portadora."
+    },
+    {
+      "question": "A incontinentia pigmenti exemplifica a herança ligada ao X dominante, padrão em que:",
+      "options": [
+        "os dois sexos podem ser afetados, com quadro em geral mais grave nos homens",
+        "os dois sexos podem ser afetados, com quadro em geral mais leve nos homens",
+        "somente as mulheres são afetadas, pois o gene não existe no cromossomo Y",
+        "somente os homens são afetados, pois a mulher sempre inativa o X alterado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Como o alelo é dominante, uma única cópia alterada no X já produz a doença em homens e mulheres. No homem, porém, não há um segundo X para atenuar o efeito, e o quadro tende a ser mais grave."
+    }
+  ]
+}

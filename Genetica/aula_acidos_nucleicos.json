@@ -1,0 +1,322 @@
+{
+  "titulo": "Ácidos Nucleicos e Cromossomos",
+  "eyebrow": "Neurociência e Genética · Biologia Molecular",
+  "subtitulo": "Do nucleotídeo ao cromossomo: como a informação genética é guardada",
+  "intro": "Estrutura do DNA e do RNA, o empacotamento em nucleossomos e cromatina, e a arquitetura do cromossomo — centrômero, telômeros e o cariótipo humano de 46.",
+  "questoes": [
+    {
+      "question": "Qual divisão de papéis distingue o DNA do RNA dentro da célula?",
+      "options": [
+        "O DNA armazena a informação genética e o RNA a executa",
+        "O RNA armazena a informação genética e o DNA a executa",
+        "O DNA executa a informação e o RNA a degrada no núcleo",
+        "Ambos armazenam a informação e nenhum origina proteína"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ácidos nucleicos armazenam e transmitem informação genética, mas com funções complementares. O DNA é o arquivo estável das instruções; o RNA converte essas instruções em proteínas funcionais, atuando como executor do que está escrito no DNA."
+    },
+    {
+      "question": "Em quais compartimentos da célula humana o DNA está presente?",
+      "options": [
+        "No núcleo celular e também nas mitocôndrias",
+        "No núcleo celular e também nos ribossomos",
+        "No citoplasma e também no complexo de Golgi",
+        "Na membrana celular e também nos lisossomos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A maior parte do DNA humano fica no núcleo, organizado em cromossomos, mas as mitocôndrias possuem seu próprio DNA. Essa dupla localização é o que fundamenta a herança mitocondrial, transmitida exclusivamente pela mãe."
+    },
+    {
+      "question": "As duas cadeias de nucleotídeos que formam a dupla hélice do DNA são chamadas de antiparalelas porque:",
+      "options": [
+        "correm em sentidos opostos, uma de 5' para 3' e a outra de 3' para 5'",
+        "correm no mesmo sentido, ambas de 5' para 3' ao longo de toda a hélice",
+        "uma delas é formada por ribose e a outra por desoxirribose no esqueleto",
+        "uma delas concentra as bases púricas e a outra somente as pirimídicas"
+      ],
+      "correctIndex": 0,
+      "explanation": "No modelo da dupla hélice descrito por Watson e Crick, as duas cadeias se enrolam correndo em direções opostas: uma no sentido 5'→3' e a complementar no sentido 3'→5'. Essa orientação inversa é condição para o pareamento correto das bases ao longo de toda a molécula.",
+      "image": "pg04",
+      "imageCaption": "Modelo da dupla hélice, com os sentidos 5' e 3' das duas fitas"
+    },
+    {
+      "question": "Como os componentes do nucleotídeo se distribuem espacialmente na dupla hélice do DNA?",
+      "options": [
+        "As bases nitrogenadas ficam no interior, e o fosfato e o açúcar, no exterior",
+        "As bases nitrogenadas ficam no exterior, e o fosfato e o açúcar, no interior",
+        "As bases e os grupos fosfato ficam no interior, e apenas o açúcar, no exterior",
+        "As bases e o açúcar ficam voltados para fora, e apenas o fosfato, para dentro"
+      ],
+      "correctIndex": 0,
+      "explanation": "As bases nitrogenadas ocupam o miolo da hélice, onde se pareiam entre si, enquanto o esqueleto de açúcar e fosfato forma as bordas externas da molécula. É essa arquitetura que protege a informação genética no interior e deixa o esqueleto voltado para o meio aquoso."
+    },
+    {
+      "question": "No pareamento de bases da dupla hélice, cada base se liga especificamente a qual outra?",
+      "options": [
+        "Adenina com timina, e citosina com guanina",
+        "Adenina com citosina, e timina com guanina",
+        "Adenina com guanina, e citosina com timina",
+        "Adenina com uracila, e citosina com timina"
+      ],
+      "correctIndex": 0,
+      "explanation": "O pareamento no DNA é rígido e específico: adenina sempre com timina, citosina sempre com guanina. Essa complementaridade permite que cada fita sirva de molde para a outra, o que explica como a informação é copiada com fidelidade na replicação."
+    },
+    {
+      "question": "Que tipo de ligação química mantém unidas as bases nitrogenadas das duas fitas do DNA?",
+      "options": [
+        "Ligações de hidrogênio, fracas isoladas e estáveis em conjunto",
+        "Ligações covalentes, individualmente fortes e quase irreversíveis",
+        "Ligações iônicas, formadas entre grupos fosfato vizinhos",
+        "Ligações peptídicas, as mesmas que unem os aminoácidos"
+      ],
+      "correctIndex": 0,
+      "explanation": "As bases pareadas se unem por ligações de hidrogênio, mais fracas que as covalentes quando tomadas uma a uma. Somadas ao longo de milhões de pares, garantem estabilidade à molécula e ao mesmo tempo permitem que a hélice seja aberta para replicação e transcrição."
+    },
+    {
+      "question": "Uma amostra de DNA de fita dupla apresenta 30% de adenina. Pela regra de Chargaff, qual é o percentual de citosina nessa amostra?",
+      "options": ["20%", "30%", "40%", "60%"],
+      "correctIndex": 0,
+      "explanation": "A regra de Chargaff estabelece que a quantidade de adenina é igual à de timina e a de citosina igual à de guanina. Com 30% de adenina há 30% de timina, somando 60%; os 40% restantes se dividem igualmente entre citosina e guanina, ou seja, 20% de citosina."
+    },
+    {
+      "question": "O que é um nucleossomo?",
+      "options": [
+        "Um trecho de DNA enrolado em torno de um conjunto de proteínas histonas",
+        "Um trecho de RNA enrolado em torno de um conjunto de proteínas ribossomais",
+        "Um conjunto de histonas ligadas entre si, sem nenhum DNA associado a elas",
+        "Uma região do cromossomo em que as duas cromátides-irmãs ficam conectadas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O nucleossomo é a unidade básica de empacotamento do DNA: a molécula se enrola em proteínas chamadas histonas, formando estruturas que lembram contas em um colar. É o primeiro nível de compactação, o que permite guardar uma molécula de quase dois metros dentro do núcleo."
+    },
+    {
+      "question": "Aproximadamente quantos pares de bases de DNA cada nucleossomo envolve?",
+      "options": ["146 pares de bases", "460 pares de bases", "1.460 pares de bases", "46 pares de bases"],
+      "correctIndex": 0,
+      "explanation": "Cada nucleossomo envolve cerca de 146 pares de bases de DNA enrolados no conjunto de histonas. Esse valor é constante e serve de referência para calcular quantos nucleossomos são necessários para empacotar um cromossomo inteiro."
+    },
+    {
+      "question": "Como se chama a forma em que o DNA se encontra no núcleo durante a interfase, tendo o nucleossomo como unidade básica?",
+      "options": [
+        "Cromatina, o complexo de DNA com histonas ainda descondensado",
+        "Cromossomo, o complexo de DNA com histonas já muito condensado",
+        "Cinetócoro, a estrutura proteica que ancora as fibras do fuso",
+        "Cromátide, cada uma das metades de um cromossomo duplicado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os nucleossomos são as unidades básicas da cromatina, que é a forma assumida pelo DNA no núcleo durante a interfase. Nessa fase o material está descondensado o bastante para permitir transcrição e replicação, e só se compacta em cromossomos visíveis quando a célula entra em divisão.",
+      "image": "pg07",
+      "imageCaption": "Níveis de compactação: dupla hélice, nucleossomos, cromatina e cromossomo"
+    },
+    {
+      "question": "O que caracteriza a eucromatina quanto à estrutura e à expressão gênica?",
+      "options": [
+        "É a forma mais aberta da cromatina e permite acesso dos fatores de transcrição",
+        "É a forma mais condensada da cromatina e bloqueia o acesso à maquinaria celular",
+        "É a forma mais aberta da cromatina, porém impede o acesso dos fatores proteicos",
+        "É a forma mais condensada da cromatina, mas ainda permite transcrição intensa"
+      ],
+      "correctIndex": 0,
+      "explanation": "A eucromatina é a cromatina descondensada e transcricionalmente ativa. Por estar aberta, deixa o DNA acessível aos fatores de transcrição, de modo que os genes situados nessas regiões podem ser expressos."
+    },
+    {
+      "question": "O que caracteriza a heterocromatina quanto à estrutura e à expressão gênica?",
+      "options": [
+        "É condensada e inativa, o que dificulta o acesso necessário à expressão gênica",
+        "É descondensada e ativa, o que facilita o acesso necessário à expressão gênica",
+        "É condensada e ativa, pois a compactação aproxima os fatores de transcrição",
+        "É descondensada e inativa, pois a abertura afasta os fatores de transcrição"
+      ],
+      "correctIndex": 0,
+      "explanation": "A heterocromatina é a cromatina fortemente condensada e transcricionalmente inativa. O empacotamento fecha o acesso da maquinaria de transcrição ao DNA, silenciando os genes ali localizados — o oposto do que ocorre na eucromatina."
+    },
+    {
+      "question": "Qual é a diferença entre heterocromatina constitutiva e heterocromatina facultativa?",
+      "options": [
+        "A constitutiva fica sempre condensada; a facultativa alterna entre ativa e inativa",
+        "A facultativa fica sempre condensada; a constitutiva alterna entre ativa e inativa",
+        "A constitutiva ocorre só na interfase; a facultativa, só durante a divisão celular",
+        "A constitutiva contém apenas genes ativos; a facultativa, apenas genes silenciados"
+      ],
+      "correctIndex": 0,
+      "explanation": "A heterocromatina constitutiva permanece condensada em todos os tipos celulares e ocupa regiões como centrômeros e telômeros. A facultativa pode alternar entre estado condensado e descondensado, permitindo que os mesmos genes sejam silenciados ou expressos conforme o tipo de célula e o momento."
+    },
+    {
+      "question": "Em que momento o material genético assume a forma altamente condensada que chamamos de cromossomo?",
+      "options": [
+        "Durante a divisão celular, quando só então fica visível ao microscópio óptico",
+        "Durante a interfase, quando só então fica visível ao microscópio óptico",
+        "Durante toda a vida da célula, sendo sempre visível ao microscópio óptico",
+        "Apenas no momento da fecundação, quando fica visível ao microscópio óptico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Durante a divisão celular a cromatina se compacta ao máximo e assume a forma de cromossomo, condição em que se torna visível ao microscópio óptico. Fora da divisão, na interfase, o material permanece descondensado como cromatina e não aparece como estrutura individualizada."
+    },
+    {
+      "question": "Qual é a principal função dos telômeros?",
+      "options": [
+        "Proteger as extremidades dos cromossomos contra degradação e fusão",
+        "Unir as duas cromátides-irmãs de um mesmo cromossomo duplicado",
+        "Servir de ponto de ancoragem para as fibras do fuso na divisão",
+        "Determinar o sexo do indivíduo conforme a combinação XX ou XY"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os telômeros ocupam as extremidades dos cromossomos e são formados por sequências repetitivas de DNA associadas a proteínas. Sua função principal é proteger essas pontas, impedindo a degradação do material genético e a fusão indevida entre cromossomos vizinhos.",
+      "image": "pg12",
+      "imageCaption": "Telômeros nas pontas e centrômero na constrição do cromossomo"
+    },
+    {
+      "question": "O que acontece com os telômeros a cada divisão celular e a que processo biológico esse fenômeno é associado?",
+      "options": [
+        "Eles encurtam progressivamente, e isso se relaciona ao envelhecimento celular",
+        "Eles se alongam progressivamente, e isso se relaciona ao envelhecimento celular",
+        "Eles se duplicam a cada novo ciclo, e isso se relaciona à determinação do sexo",
+        "Eles migram para o centro do cromossomo, e isso se relaciona à sua duplicação"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cada ciclo de replicação as extremidades cromossômicas não são copiadas por completo e os telômeros ficam um pouco mais curtos. Esse encurtamento progressivo limita o número de divisões que uma célula pode realizar e é um dos mecanismos associados ao envelhecimento celular."
+    },
+    {
+      "question": "Qual é a principal função do centrômero?",
+      "options": [
+        "Unir as cromátides-irmãs e ancorar as fibras do fuso na divisão celular",
+        "Proteger as pontas do cromossomo contra degradação e fusão indevida",
+        "Traduzir a sequência de bases do DNA em cadeias de aminoácidos",
+        "Definir quantos pares de autossomos a espécie humana apresenta"
+      ],
+      "correctIndex": 0,
+      "explanation": "O centrômero é a região em que as cromátides-irmãs permanecem unidas até serem separadas na divisão. Nele se organiza o cinetócoro, ponto de fixação das fibras do fuso, o que garante que cada célula-filha receba uma cópia de cada cromossomo."
+    },
+    {
+      "question": "Qual estrutura se forma na região do centrômero e serve de ponto de fixação para as fibras do fuso?",
+      "options": ["O cinetócoro", "O telômero", "O nucleossomo", "O nucléolo"],
+      "correctIndex": 0,
+      "explanation": "O cinetócoro é o complexo proteico montado sobre o centrômero durante a divisão celular. É nele que as fibras do fuso se prendem para puxar as cromátides-irmãs para polos opostos, o que torna essa estrutura essencial à segregação correta dos cromossomos."
+    },
+    {
+      "question": "Qual característica do cromossomo determina se ele é classificado como metacêntrico, submetacêntrico, acrocêntrico ou telocêntrico?",
+      "options": [
+        "A posição do centrômero ao longo do cromossomo",
+        "O comprimento total do cromossomo em micrômetros",
+        "A quantidade de telômeros presente em cada ponta",
+        "O número de genes ativos que o cromossomo contém"
+      ],
+      "correctIndex": 0,
+      "explanation": "A classificação morfológica dos cromossomos se baseia em onde o centrômero está situado, pois é ele que define o tamanho relativo dos dois braços. Quanto mais deslocado para uma das extremidades, mais assimétrico fica o cromossomo.",
+      "image": "pg13",
+      "imageCaption": "Tipos de cromossomo conforme a posição do centrômero"
+    },
+    {
+      "question": "Como é chamado o cromossomo cujo centrômero fica na região central, deixando os dois braços com tamanhos praticamente iguais?",
+      "options": ["Metacêntrico", "Acrocêntrico", "Telocêntrico", "Submetacêntrico"],
+      "correctIndex": 0,
+      "explanation": "No cromossomo metacêntrico o centrômero ocupa posição mediana, o que resulta em dois braços de comprimento semelhante e aspecto simétrico em X. Conforme o centrômero se desloca do centro surgem as formas submetacêntrica, acrocêntrica e telocêntrica."
+    },
+    {
+      "question": "Como é chamado o cromossomo cujo centrômero fica muito próximo de uma das extremidades, deixando um braço bem curto e outro longo?",
+      "options": ["Acrocêntrico", "Metacêntrico", "Submetacêntrico", "Isocromossomo"],
+      "correctIndex": 0,
+      "explanation": "No cromossomo acrocêntrico o centrômero está deslocado para perto de uma das pontas, deixando um braço bem curto e outro alongado. O caso extremo é o telocêntrico, em que o centrômero fica na própria extremidade e praticamente só um braço aparece."
+    },
+    {
+      "question": "Quantos cromossomos há normalmente em uma célula somática humana?",
+      "options": ["46 cromossomos", "23 cromossomos", "44 cromossomos", "92 cromossomos"],
+      "correctIndex": 0,
+      "explanation": "O cariótipo humano normal reúne 46 cromossomos nas células somáticas, organizados em 23 pares. Os gametas, por serem haploides, carregam metade desse total, ou seja, 23 cromossomos.",
+      "image": "pg14",
+      "imageCaption": "Cariótipo humano masculino e feminino, com os 23 pares"
+    },
+    {
+      "question": "Como estão organizados os 46 cromossomos de uma célula somática humana?",
+      "options": [
+        "Em 22 pares de autossomos e 1 par de cromossomos sexuais, XX ou XY",
+        "Em 23 pares de autossomos e 1 par de cromossomos sexuais, XX ou XY",
+        "Em 22 pares de cromossomos sexuais e 1 par de autossomos, XX ou XY",
+        "Em 44 pares de autossomos e 2 pares de cromossomos sexuais, XX ou XY"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dos 23 pares humanos, 22 são autossomos, que não participam da determinação do sexo, e 1 par é sexual. As mulheres apresentam a combinação XX e os homens, XY, de modo que o gameta masculino é o que define o sexo do embrião."
+    },
+    {
+      "question": "Quais características estruturais definem o RNA?",
+      "options": [
+        "Geralmente fita simples, com ribose e as bases A, G, C e U",
+        "Geralmente fita dupla, com ribose e as bases A, G, C e U",
+        "Geralmente fita simples, com desoxirribose e as bases A, G, C e T",
+        "Geralmente fita dupla, com desoxirribose e as bases A, G, C e T"
+      ],
+      "correctIndex": 0,
+      "explanation": "O RNA é normalmente uma molécula de fita simples formada por ribose, fosfato e bases nitrogenadas. Ele usa uracila no lugar da timina, de modo que seu conjunto de bases é adenina, guanina, citosina e uracila."
+    },
+    {
+      "question": "Qual açúcar compõe o esqueleto de cada um dos dois ácidos nucleicos?",
+      "options": [
+        "Desoxirribose no DNA e ribose no RNA",
+        "Ribose no DNA e desoxirribose no RNA",
+        "Desoxirribose nos dois ácidos nucleicos",
+        "Glicose no DNA e frutose no RNA"
+      ],
+      "correctIndex": 0,
+      "explanation": "O nome de cada molécula já indica o açúcar que a compõe: ácido desoxirribonucleico traz desoxirribose e ácido ribonucleico traz ribose. A ausência de um átomo de oxigênio na desoxirribose torna o DNA quimicamente mais estável que o RNA."
+    },
+    {
+      "question": "Qual base nitrogenada está presente no RNA e ausente no DNA, ocupando o lugar de outra base?",
+      "options": [
+        "A uracila, que substitui a timina",
+        "A timina, que substitui a uracila",
+        "A guanina, que substitui a citosina",
+        "A adenina, que substitui a guanina"
+      ],
+      "correctIndex": 0,
+      "explanation": "DNA e RNA compartilham adenina, guanina e citosina. A quarta base é o ponto de divergência: o DNA usa timina e o RNA usa uracila em seu lugar, uma das diferenças químicas mais características entre os dois ácidos nucleicos.",
+      "image": "pg19",
+      "imageCaption": "Bases nitrogenadas do DNA e do RNA lado a lado"
+    },
+    {
+      "question": "Onde se localizam preferencialmente o DNA e o RNA em uma célula eucarionte?",
+      "options": [
+        "O DNA no núcleo e nas mitocôndrias; o RNA no núcleo, no citoplasma e nos ribossomos",
+        "O DNA no citoplasma e nos ribossomos; o RNA no núcleo e somente nas mitocôndrias",
+        "O DNA e o RNA ficam restritos ao núcleo, sem passagem para qualquer outro local",
+        "O DNA fica só na membrana plasmática; o RNA, só no interior do complexo de Golgi"
+      ],
+      "correctIndex": 0,
+      "explanation": "O DNA permanece confinado ao núcleo e às mitocôndrias, onde a informação é guardada. O RNA é produzido no núcleo e migra para o citoplasma, atuando nos ribossomos durante a síntese proteica — por isso circula por compartimentos que o DNA não alcança."
+    },
+    {
+      "question": "Qual afirmação descreve corretamente a relação entre DNA, genes e cromossomos?",
+      "options": [
+        "O gene é um trecho de DNA, e o DNA condensado com histonas forma o cromossomo",
+        "O cromossomo é um trecho de gene, e o gene condensado com histonas forma o DNA",
+        "O DNA é um trecho de gene, e o gene condensado com histonas forma o cromossomo",
+        "O gene é um trecho de cromossomo, e o cromossomo se enrola para formar o DNA"
+      ],
+      "correctIndex": 0,
+      "explanation": "A relação é de níveis encaixados: o gene é um segmento da molécula de DNA que carrega a instrução para um produto, e o DNA, associado às histonas, se enrola e se condensa formando o cromossomo. Assim, um único cromossomo contém uma longa molécula de DNA com milhares de genes.",
+      "image": "pg21",
+      "imageCaption": "Da célula ao nucleotídeo: cromossomo, DNA e gene"
+    },
+    {
+      "question": "O que são cromossomos homólogos?",
+      "options": [
+        "Pares de mesmo tamanho e forma, com os mesmos genes nos mesmos loci",
+        "Pares de tamanhos diferentes, com genes distintos em loci distintos",
+        "As duas cromátides unidas pelo centrômero de um mesmo cromossomo",
+        "Os cromossomos sexuais que determinam se o indivíduo é XX ou XY"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cromossomos homólogos formam pares de mesmo tamanho e forma, com os mesmos genes ocupando as mesmas posições, embora os alelos possam ser iguais ou diferentes. Cada homólogo do par vem de um progenitor diferente e os dois se unem na fecundação."
+    },
+    {
+      "question": "Alterações genéticas como a trissomia do cromossomo 21 e a mutação do gene FMR1 repercutem no desenvolvimento neuropsicológico. Qual leitura é a mais adequada sobre o papel dos genes no comportamento?",
+      "options": [
+        "Os genes influenciam o desenvolvimento, mas ambiente e plasticidade cerebral também o moldam",
+        "Os genes determinam sozinhos o desenvolvimento, sem qualquer espaço para influência do ambiente",
+        "Os genes não guardam relação com o desenvolvimento, que depende apenas do ambiente vivido",
+        "Os genes atuam somente na vida adulta, quando a plasticidade cerebral já se esgotou por completo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A síndrome de Down, ligada à trissomia do 21, e a síndrome do X frágil, ligada ao gene FMR1, podem cursar com déficits de atenção e memória, dificuldades de linguagem e alterações no comportamento adaptativo. Ainda assim, a carga genética influencia sem determinar sozinha: ambiente e plasticidade cerebral participam ativamente da construção do desenvolvimento."
+    }
+  ]
+}
