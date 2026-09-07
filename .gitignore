@@ -1,3 +1,14 @@
+# Capitulo de livro (Bock) e o conteudo que o embute — obra protegida
+PsicoSocial/originais/Cap12*
+PsicoSocial/conteudo_historico.md
+
+# Pastas originais das disciplinas, com os PDFs das aulas
+d personalidade humana/
+processos psciologicos contemporaneos/
+psicologia social/
+psicologia social e d culturais/
+*/originais/
+
 # Slides originais da professora — material de aula, fica so na maquina
 *.pdf
 *.pptx
@@ -18,3 +29,7 @@ desktop.ini
 .DS_Store
 __pycache__/
 *.pyc
+
+# Guias de estudo escritos por colega de turma (trabalho de terceiro, compartilhado
+# dentro da turma) — servem de referencia local para gerar o material, nao se publicam
+ProcessosPsi/guia_*.md

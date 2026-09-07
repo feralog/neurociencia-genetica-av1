@@ -1,0 +1,376 @@
+{
+  "titulo": "Psicologia Social e Dinâmicas Culturais III",
+  "eyebrow": "Psicologia Social · Antropologia Interpretativa",
+  "subtitulo": "Geertz, descrição densa e o olhar sobre a diferença cultural",
+  "intro": "Antropologia interpretativa de Clifford Geertz: a cultura como rede de significados, a lógica da descrição densa e a distinção entre etnocentrismo, alteridade e relativismo cultural. Fecha com as implicações desses conceitos para a escuta e a intervenção do psicólogo.",
+  "questoes": [
+    {
+      "question": "Para Clifford Geertz, compreender uma cultura significa principalmente:",
+      "options": [
+        "compreender os significados que as pessoas atribuem às suas práticas",
+        "descrever com precisão os comportamentos observáveis daquele grupo",
+        "medir a frequência com que certos costumes se repetem naquele grupo",
+        "comparar o grupo com culturas tidas como tecnicamente avançadas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Geertz desloca o foco do comportamento para o sentido: uma cultura só é compreendida quando se alcança o significado que as próprias pessoas dão àquilo que fazem. Contar ou catalogar costumes descreve a superfície e deixa escapar exatamente o que a antropologia interpretativa persegue."
+    },
+    {
+      "question": "Na antropologia interpretativa, a cultura é definida como:",
+      "options": [
+        "uma rede de significados dentro da qual as pessoas vivem",
+        "um conjunto de traços biológicos herdados por cada grupo",
+        "uma soma de objetos materiais produzidos por cada grupo",
+        "uma escala de estágios pelos quais todos os povos passam"
+      ],
+      "correctIndex": 0,
+      "explanation": "A imagem da rede (ou teia) de significados é a definição central de Geertz: o ser humano está suspenso em tramas de significação que ele mesmo teceu. Isso afasta a cultura tanto da herança biológica quanto do inventário de objetos ou da hierarquia evolutiva entre povos."
+    },
+    {
+      "question": "A antropologia interpretativa sustenta que uma prática cultural deve ser:",
+      "options": [
+        "compreendida dentro do contexto de significação em que ela ocorre",
+        "avaliada segundo critérios universais de racionalidade já fixados",
+        "registrada apenas em seus aspectos externos, visíveis e mensuráveis",
+        "explicada sobretudo pelas condições materiais que cercam o grupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O núcleo da proposta é que a cultura é um sistema de significados e que o ser humano está inserido em redes de significação. Por isso a prática não pode ser lida por critérios externos ao grupo nem reduzida ao que é mensurável: ela precisa ser interpretada no contexto que lhe dá sentido."
+    },
+    {
+      "question": "Uma pessoa levanta a mão. O mesmo movimento pode ser um aceno, um pedido para falar, um cumprimento, uma brincadeira ou um sinal combinado. O exemplo demonstra que:",
+      "options": [
+        "o movimento físico é semelhante, mas o significado muda com o contexto",
+        "o movimento físico varia conforme a intenção de quem decide realizá-lo",
+        "o significado do gesto permanece o mesmo em qualquer contexto cultural",
+        "o gesto só pode ser interpretado por quem o realizou naquele momento"
+      ],
+      "correctIndex": 0,
+      "explanation": "O exemplo isola a variável: a forma do movimento é idêntica em todos os casos e ainda assim o sentido muda. É o argumento que sustenta a tese seguinte — observar o comportamento não basta, é preciso compreender o significado que ele possui naquele contexto cultural.",
+      "image": "pg06",
+      "imageCaption": "O exemplo da mão levantada e seus vários sentidos possíveis"
+    },
+    {
+      "question": "O percurso \"ver → interpretar → compreender\" indica que a observação:",
+      "options": [
+        "é apenas o primeiro passo e ainda não entrega o significado",
+        "já basta para identificar o significado de um comportamento",
+        "deve ser evitada quando se estuda uma cultura desconhecida",
+        "substitui a interpretação quando o observador é experiente"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ver, interpretar e compreender são etapas encadeadas, não sinônimos. Silêncio, olhar, abraço, roupa, gesto, comida e religião são observáveis por qualquer um, mas nenhum deles carrega o mesmo significado para todas as pessoas — o sentido só aparece no passo interpretativo."
+    },
+    {
+      "question": "A descrição densa corresponde à soma de:",
+      "options": [
+        "comportamento + contexto + significado",
+        "comportamento + frequência + intensidade",
+        "comportamento + intenção + diagnóstico",
+        "comportamento + biografia + estatística"
+      ],
+      "correctIndex": 0,
+      "explanation": "Essa é a fórmula da descrição densa: ao comportamento observável somam-se a situação em que ele ocorre e o sentido que ele carrega para os envolvidos. Retirar qualquer um dos três termos devolve o relato ao patamar da descrição superficial.",
+      "image": "pg11",
+      "imageCaption": "Descrição superficial, descrição contextualizada e a fórmula da descrição densa"
+    },
+    {
+      "question": "\"Um homem piscou.\" Essa formulação é um exemplo de:",
+      "options": [
+        "descrição superficial, que registra só o comportamento observável",
+        "descrição densa, que já reúne o contexto e a intenção do gesto",
+        "interpretação cultural, que atribui sentido ao gesto observado",
+        "relativismo cultural, que situa o gesto no contexto do grupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase informa apenas o movimento da pálpebra: não diz quem piscou para quem, em que situação, com que intenção nem com que sentido. É a descrição superficial, ponto de partida que Geertz usa para mostrar o quanto ainda falta para compreender o gesto."
+    },
+    {
+      "question": "\"Um homem piscou para seu amigo durante uma conversa, usando o gesto como sinal previamente combinado entre os dois.\" Trata-se de:",
+      "options": [
+        "descrição densa, porque reúne comportamento, contexto e significado",
+        "descrição superficial, porque descreve um movimento da pálpebra",
+        "julgamento etnocêntrico, porque avalia o gesto por padrão próprio",
+        "hipótese diagnóstica, porque nomeia um sintoma a partir do gesto"
+      ],
+      "correctIndex": 0,
+      "explanation": "O relato informa quem agiu, para quem, em que situação, qual era a intenção e qual significado o gesto possuía. Com esses elementos o mesmo movimento de pálpebra deixa de ser ambíguo: essa é exatamente a lógica da descrição densa."
+    },
+    {
+      "question": "A descrição contextualizada de um gesto permite saber quem agiu, para quem, em qual situação, com qual intenção e ainda:",
+      "options": [
+        "qual significado o gesto possuía para os envolvidos",
+        "qual a frequência com que o gesto se repete no dia",
+        "qual diagnóstico melhor explica a conduta observada",
+        "qual norma cultural universal o gesto acaba violando"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os cinco elementos que a descrição contextualizada acrescenta são: quem realizou a ação, para quem, em qual situação, qual era a intenção e qual significado o gesto possuía. O quinto item é o que fecha o sentido e distingue a descrição densa da mera anotação."
+    },
+    {
+      "question": "Geertz recorre à piscadela para mostrar que um gesto:",
+      "options": [
+        "não é apenas um movimento da pálpebra: depende do contexto",
+        "é sempre involuntário e por isso escapa à interpretação",
+        "possui significado fixo, aprendido na infância pelo grupo",
+        "só é compreendido quando repetido diante de testemunhas"
+      ],
+      "correctIndex": 0,
+      "explanation": "A piscadela é o caso canônico porque o mesmo movimento pode ser um tique nervoso, um sinal previamente combinado ou a imitação de outra piscadela. Fisicamente indistinguíveis, esses gestos exigem contexto para serem diferenciados — daí a necessidade da descrição densa."
+    },
+    {
+      "question": "Um estagiário registra no prontuário: \"A paciente chorou durante a sessão.\" Esse registro configura:",
+      "options": [
+        "descrição superficial, pois anota o comportamento sem o sentido",
+        "descrição densa, pois já situa a cena e a intenção da paciente",
+        "interpretação etnocêntrica, pois julga a paciente por seus valores",
+        "escuta em alteridade, pois acolhe a experiência sem julgamento"
+      ],
+      "correctIndex": 0,
+      "explanation": "O registro informa o comportamento observável e nada além disso: não há assunto, relação, história nem significado atribuído pela própria paciente. Faltam o contexto e o sentido — os dois termos que transformariam a anotação em descrição densa."
+    },
+    {
+      "question": "Registro: \"A paciente chorou ao falar da mudança de cidade, dizendo sentir falta das primas com quem convivia todo dia.\" Esse registro configura:",
+      "options": [
+        "descrição densa, pois articula comportamento, contexto e sentido",
+        "descrição superficial, pois limita-se ao comportamento visível",
+        "relativismo cultural, pois compara costumes de duas cidades",
+        "etnocentrismo, pois avalia a mudança pelos padrões do técnico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aqui aparecem os três termos da fórmula: o comportamento (chorar), o contexto (falar da mudança de cidade) e o significado atribuído pela própria pessoa (a falta das primas). O choro deixa de ser um dado solto e passa a ser compreensível."
+    },
+    {
+      "question": "Numa visita domiciliar a equipe anota: \"A família mantém um altar na sala.\" Para transformar esse registro em descrição densa é preciso acrescentar:",
+      "options": [
+        "o significado que o altar tem para os moradores da casa",
+        "o número de objetos religiosos presentes em cada cômodo",
+        "a comparação com o modo de morar da equipe que visitou",
+        "a avaliação do risco que o altar representa para a casa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Contar objetos apenas aprofunda a descrição superficial, e comparar com o próprio modo de morar introduz etnocentrismo. A descrição densa exige o sentido que a prática tem para quem a realiza: para que serve o altar, quem cuida dele, o que ele organiza na vida da família."
+    },
+    {
+      "question": "Uma estudante cruza os braços, evita olhar para a professora e permanece em silêncio durante toda a discussão em sala. Diante dessa cena pode-se afirmar com certeza:",
+      "options": [
+        "apenas o comportamento observado, não o seu significado",
+        "que ela discorda do que está sendo dito naquele momento",
+        "que ela apresenta timidez diante daquele grupo de colegas",
+        "que ela perdeu o interesse pelo tema que está em debate"
+      ],
+      "correctIndex": 0,
+      "explanation": "Braços cruzados, olhar desviado e silêncio são fatos observáveis; desinteresse, timidez ou discordância já são hipóteses. Confundir as duas coisas é o erro que a antropologia interpretativa denuncia: o comportamento não entrega automaticamente o seu significado."
+    },
+    {
+      "question": "Cruzar os braços e ficar em silêncio admite muitas leituras: desinteresse, raiva, timidez, cansaço, discordância, ansiedade ou simples conforto. Isso mostra que:",
+      "options": [
+        "o comportamento observado não revela sozinho o seu significado",
+        "o comportamento observado indica sempre algum tipo de recusa",
+        "a interpretação correta depende da experiência do observador",
+        "a variedade de leituras torna a observação clínica dispensável"
+      ],
+      "correctIndex": 0,
+      "explanation": "A lista de leituras possíveis é o argumento: se um mesmo comportamento comporta sete explicações incompatíveis, ele não determina nenhuma delas. O significado depende de contexto, história, relações e do sentido que a própria pessoa atribui à sua conduta.",
+      "image": "pg13",
+      "imageCaption": "Possíveis interpretações de um mesmo comportamento observado"
+    },
+    {
+      "question": "Para compreender o sentido de um comportamento é preciso considerar contexto, história, relações e ainda:",
+      "options": [
+        "os significados atribuídos pela própria pessoa à sua conduta",
+        "os padrões de conduta esperados pelo grupo do observador",
+        "os critérios diagnósticos disponíveis para aquele quadro",
+        "as normas de convívio adotadas pela maioria da população"
+      ],
+      "correctIndex": 0,
+      "explanation": "A fórmula é contexto + história + relações + significados atribuídos pela própria pessoa. O último termo é decisivo porque impede que o observador preencha o sentido com os próprios critérios: quem diz o que aquilo significa é quem viveu a cena."
+    },
+    {
+      "question": "O etnocentrismo consiste na tendência de:",
+      "options": [
+        "tomar os próprios valores como referência para julgar outros",
+        "suspender o próprio ponto de vista para escutar o outro",
+        "situar cada prática dentro do contexto em que ela existe",
+        "reconhecer que o outro tem uma história diferente da minha"
+      ],
+      "correctIndex": 0,
+      "explanation": "Etnocentrismo é tomar os próprios valores e costumes como medida para avaliar outras culturas, o que instala a oposição entre o normal (o meu) e o diferente (o do outro). As demais alternativas descrevem alteridade e relativismo cultural, que são justamente os antídotos."
+    },
+    {
+      "question": "\"Essa família é estranha porque não educa os filhos como nós educamos.\" A pergunta que desmonta esse julgamento é:",
+      "options": [
+        "\"Estranha para quem?\", que revela o padrão usado como medida",
+        "\"Estranha desde quando?\", que situa a prática no tempo dela",
+        "\"Estranha para a lei?\", que checa a legalidade da conduta",
+        "\"Estranha por quê?\", que pede a causa do comportamento visto"
+      ],
+      "correctIndex": 0,
+      "explanation": "A frase parece descrever a família, mas na verdade descreve a régua de quem fala: o \"como nós educamos\" é o critério oculto. Perguntar \"estranha para quem?\" torna esse critério visível e mostra que a estranheza está na comparação, não na família.",
+      "image": "pg16",
+      "imageCaption": "Etnocentrismo e a pergunta que devolve o julgamento a quem julga"
+    },
+    {
+      "question": "A alteridade consiste em reconhecer que o outro:",
+      "options": [
+        "possui experiência, história e visão de mundo próprias",
+        "precisa adaptar seus costumes ao contexto majoritário",
+        "reage aos mesmos estímulos da mesma forma que eu reajo",
+        "deve ser avaliado por critérios comuns a todos os grupos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alteridade é reconhecer que o outro tem uma experiência, uma história e uma forma de compreender o mundo que não precisam ser iguais às minhas. Implica a capacidade de deslocar-se do próprio ponto de vista, e não a de submeter o outro a um padrão comum."
+    },
+    {
+      "question": "Na clínica, a alteridade exige uma escuta que:",
+      "options": [
+        "não transforme imediatamente a diferença em problema",
+        "identifique rapidamente o desvio para poder tratá-lo",
+        "aproxime a experiência do paciente da do profissional",
+        "confirme as hipóteses formuladas na primeira entrevista"
+      ],
+      "correctIndex": 0,
+      "explanation": "O ponto é sustentar a diferença sem convertê-la em patologia. Quando o profissional traduz de imediato o diferente em desvio, ele perde o acesso à experiência do paciente e passa a trabalhar sobre a própria expectativa — o oposto do reconhecimento do outro."
+    },
+    {
+      "question": "O relativismo cultural sustenta que uma prática deve ser compreendida:",
+      "options": [
+        "considerando o contexto histórico e cultural em que ela existe",
+        "comparando-a às práticas equivalentes da cultura dominante",
+        "a partir dos princípios morais compartilhados pelo analista",
+        "segundo o grau de desenvolvimento alcançado por cada povo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Relativismo cultural é situar a prática no contexto histórico e cultural em que ela existe, em vez de julgá-la pelos padrões de quem observa. Comparar com a cultura dominante ou hierarquizar povos por desenvolvimento reintroduz exatamente o etnocentrismo."
+    },
+    {
+      "question": "Afirmar que o relativismo cultural significa que \"tudo é permitido\" é:",
+      "options": [
+        "incorreto: o objetivo é compreender antes de julgar",
+        "correto: nenhuma prática cultural pode ser criticada",
+        "correto: cada grupo define sozinho o que é aceitável",
+        "incorreto: o objetivo é hierarquizar as culturas vistas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Relativismo cultural não é permissividade nem suspensão de todo critério. É uma exigência de método: compreender antes de julgar, sem transformar automaticamente toda diferença cultural em patologia ou em sinal de inferioridade."
+    },
+    {
+      "question": "O relativismo cultural encontra um limite claro quando:",
+      "options": [
+        "a prática entra em conflito com os direitos humanos",
+        "a prática causa estranhamento em quem a observa",
+        "a prática difere dos costumes do grupo majoritário",
+        "a prática não tem explicação registrada por escrito"
+      ],
+      "correctIndex": 0,
+      "explanation": "Compreender o contexto de uma prática não obriga a validá-la. O limite aparece quando ela colide com princípios de direitos humanos ou configura violência: aí a compreensão do sentido não suspende a responsabilidade ética do profissional."
+    },
+    {
+      "question": "A frase \"O meu jeito é o normal\" expressa qual das três posturas diante da diferença?",
+      "options": [
+        "etnocentrismo, que julga o outro pelos padrões de quem julga",
+        "alteridade, que reconhece o outro naquilo que ele tem de seu",
+        "relativismo cultural, que lê a prática dentro do contexto",
+        "descrição densa, que junta comportamento, cena e significado"
+      ],
+      "correctIndex": 0,
+      "explanation": "As três posturas têm frases-síntese próprias: o etnocentrismo diz \"o meu jeito é o normal\"; a alteridade, \"o outro possui uma experiência diferente\"; o relativismo cultural, \"preciso compreender antes de julgar\". A primeira erige o próprio padrão em norma universal.",
+      "image": "pg19",
+      "imageCaption": "Etnocentrismo, alteridade e relativismo cultural lado a lado"
+    },
+    {
+      "question": "Um risco direto do etnocentrismo na prática psicológica é:",
+      "options": [
+        "patologizar comportamentos que são culturalmente situados",
+        "reduzir o tempo dedicado à anamnese do paciente atendido",
+        "impedir que o profissional formule qualquer hipótese útil",
+        "aumentar a adesão do paciente às orientações recebidas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quando o próprio padrão vira norma, o que destoa dele aparece como sintoma. É assim que hábitos alimentares, rituais religiosos, arranjos familiares ou formas de expressar emoção acabam descritos como desvio — patologização de comportamentos culturalmente contextualizados."
+    },
+    {
+      "question": "Entre as marcas do etnocentrismo está a oposição rígida entre:",
+      "options": [
+        "\"normal\" e \"diferente\", com a própria cultura como referência",
+        "\"individual\" e \"coletivo\", com foco no grupo de pertencimento",
+        "\"consciente\" e \"inconsciente\", na leitura dos comportamentos",
+        "\"observado\" e \"interpretado\", na construção do relato clínico"
+      ],
+      "correctIndex": 0,
+      "explanation": "O etnocentrismo opera por um par assimétrico: aquilo que é meu vira o normal e aquilo que é do outro vira o diferente, com a minha cultura ocupando silenciosamente o lugar de referência. Desse par derivam tanto o julgamento quanto o risco de patologização.",
+      "image": "pg22",
+      "imageCaption": "Síntese dos três conceitos e de seus desdobramentos"
+    },
+    {
+      "question": "Uma psicóloga atende uma adolescente de 16 anos vinda de comunidade cultural distinta da sua e conclui de imediato que os pais são \"atrasados\" e os costumes \"inadequados\". O etnocentrismo aparece:",
+      "options": [
+        "no uso dos próprios valores como medida do que é adequado",
+        "na escolha de atender alguém de outra comunidade cultural",
+        "no fato de registrar as regras familiares em seu prontuário",
+        "na decisão de ouvir a adolescente antes de ouvir os pais"
+      ],
+      "correctIndex": 0,
+      "explanation": "A profissional não investigou o significado das regras para a família nem para a jovem: julgou a partir do repertório em que ela própria cresceu. É o etnocentrismo em ato — o próprio costume tomado como referência do que é adequado."
+    },
+    {
+      "question": "Nesse mesmo atendimento, a descrição densa mudaria a compreensão do caso porque levaria a profissional a:",
+      "options": [
+        "investigar o significado das regras para a família e a jovem",
+        "listar todas as regras familiares em ordem de severidade",
+        "orientar a jovem a abandonar os costumes mais rígidos",
+        "comparar essas regras com as da comunidade da psicóloga"
+      ],
+      "correctIndex": 0,
+      "explanation": "Descrição densa é comportamento mais contexto mais significado. Aplicada ao caso, obriga a perguntar o que as regras sobre roupas, horários e relacionamento afetivo representam para aquela família e como a própria adolescente as vive — dado que o julgamento imediato descartou."
+    },
+    {
+      "question": "Ainda no mesmo caso, orientar a escuta pela alteridade significaria:",
+      "options": [
+        "acolher a experiência da jovem sem convertê-la em desvio",
+        "supor que a jovem vive a situação como a psicóloga viveria",
+        "encaminhar a família para avaliação de outro profissional",
+        "suspender o atendimento até conhecer melhor a comunidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alteridade é reconhecer que a experiência da adolescente e de sua família tem história própria e não precisa coincidir com a da profissional. Na clínica isso se traduz numa escuta que não transforma imediatamente a diferença em problema a ser corrigido."
+    },
+    {
+      "question": "A sequência de trabalho proposta para a psicologia diante da diferença cultural é:",
+      "options": [
+        "observar, contextualizar, interpretar, compreender e intervir",
+        "observar, diagnosticar, intervir, contextualizar e compreender",
+        "interpretar, observar, compreender, intervir e contextualizar",
+        "compreender, observar, interpretar, intervir e contextualizar"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ordem importa: a intervenção ética é o último passo e só se sustenta depois de observar, contextualizar, interpretar e compreender. Inverter a sequência — intervir logo após observar — é justamente o erro cometido no caso da adolescente.",
+      "image": "pg25",
+      "imageCaption": "Do observar ao intervir eticamente"
+    },
+    {
+      "question": "Uma implicação clínica direta da antropologia interpretativa é que aquilo que se observa:",
+      "options": [
+        "não deve ser convertido de imediato em diagnóstico ou juízo",
+        "deve ser convertido em hipótese diagnóstica na mesma sessão",
+        "só tem valor quando confirmado por instrumentos validados",
+        "perde relevância diante do relato verbal trazido pela pessoa"
+      ],
+      "correctIndex": 0,
+      "explanation": "O observável é matéria-prima, não conclusão. Antes de virar diagnóstico, julgamento ou explicação, ele precisa passar pela pessoa em sua história, suas relações e seu contexto cultural — caso contrário o profissional interpreta a própria expectativa."
+    },
+    {
+      "question": "Considere as frases-síntese \"Julgo o outro a partir dos meus valores\" e \"Compreendo a prática dentro de seu contexto cultural\". Elas correspondem, respectivamente, a:",
+      "options": [
+        "etnocentrismo e relativismo cultural",
+        "etnocentrismo e descrição densa",
+        "alteridade e relativismo cultural",
+        "descrição densa e etnocentrismo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cada conceito tem uma formulação em primeira pessoa: etnocentrismo é \"julgo o outro a partir dos meus valores\"; alteridade, \"reconheço o outro em sua diferença\"; descrição densa, \"procuro compreender o significado daquilo que observo\"; relativismo cultural, \"compreendo a prática dentro de seu contexto cultural\".",
+      "image": "pg28",
+      "imageCaption": "As quatro formulações em primeira pessoa"
+    }
+  ]
+}

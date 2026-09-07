@@ -1,0 +1,398 @@
+{
+  "titulo": "Psicologia Social e Dinâmicas Culturais I",
+  "eyebrow": "Psicologia Social · Cultura",
+  "subtitulo": "A cultura como matriz de subjetivação e os níveis de análise",
+  "intro": "Aula inaugural da disciplina: o que a Psicologia Social estuda, por que a subjetividade não nasce pronta, os quatro níveis de análise (individual, interpessoal, grupal e macrossocial/cultural) e os eixos da ementa — etnocentrismo, alteridade, decolonialidade e direitos humanos.",
+  "questoes": [
+    {
+      "question": "A Psicologia Social busca compreender pensamentos, sentimentos e comportamentos como fenômenos influenciados principalmente por quais dimensões?",
+      "options": [
+        "Pelas relações sociais, pela cultura e pelo contexto histórico",
+        "Pelos circuitos neurais inatos e pela herança genética individual",
+        "Pelos conflitos inconscientes recalcados na primeira infância",
+        "Pelos reforços e punições do ambiente físico imediato do sujeito"
+      ],
+      "correctIndex": 0,
+      "explanation": "A definição de campo da Psicologia Social articula três vetores: relações sociais, cultura e contexto histórico. Ela não nega a biologia nem a história pessoal, mas desloca o foco para a produção social do psiquismo. É esse recorte que a distingue da neuropsicologia e da psicanálise clássica."
+    },
+    {
+      "question": "Afirmar que a cultura é matriz de subjetivação significa sustentar que:",
+      "options": [
+        "a subjetividade se constrói nas relações sociais e culturais",
+        "a subjetividade vem pronta desde o nascimento biológico",
+        "a subjetividade depende apenas de traços de personalidade",
+        "a subjetividade se forma isolada das instituições sociais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Matriz de subjetivação é a ideia de que a cultura é o meio no qual a subjetividade se forma, e não um verniz aplicado sobre um sujeito já constituído. A subjetividade não nasce pronta: ela é produzida continuamente nas relações. Essa é a premissa que sustenta toda a disciplina."
+    },
+    {
+      "question": "Entre as instâncias sociais que participam ativamente da construção da subjetividade estão:",
+      "options": [
+        "família, escola, religião, comunidade e redes sociais",
+        "temperamento, genoma, metabolismo e maturação neural",
+        "reflexos inatos, instintos, pulsões e traços herdados",
+        "carga genética, tipo sanguíneo, biotipo e altura final"
+      ],
+      "correctIndex": 0,
+      "explanation": "A subjetividade é construída na família, na escola, na religião, na comunidade, nas redes sociais e nos grupos de convivência. Todas essas instâncias são espaços de circulação de valores, normas e modelos de conduta. As alternativas incorretas listam determinantes biológicos, que não são instâncias de socialização.",
+      "image": "pg08",
+      "imageCaption": "Onde a subjetividade é construída"
+    },
+    {
+      "question": "Os níveis de análise reconhecidos pela Psicologia Social para estudar um mesmo fenômeno são:",
+      "options": [
+        "individual, interpessoal, grupal e macrossocial/cultural",
+        "consciente, pré-consciente, inconsciente e simbólico",
+        "sensório-motor, cognitivo, afetivo e emocional puro",
+        "biológico, bioquímico, fisiológico e anatômico geral"
+      ],
+      "correctIndex": 0,
+      "explanation": "São quatro níveis: individual, interpessoal, grupal e macrossocial/cultural. Cada um formula uma pergunta principal diferente sobre o mesmo fenômeno, sem que um anule o outro. A análise completa costuma exigir a articulação entre eles."
+    },
+    {
+      "question": "Qual é a pergunta principal que orienta o nível individual de análise?",
+      "options": [
+        "Como a pessoa pensa, sente e age diante da situação?",
+        "O que acontece na relação direta entre duas pessoas?",
+        "Como funciona determinado grupo e suas normas próprias?",
+        "Como sociedade e cultura produzem formas de subjetividade?"
+      ],
+      "correctIndex": 0,
+      "explanation": "O nível individual pergunta como a pessoa pensa, sente e age, e tem como exemplo típico investigar por que alguém tem medo de falar em público. É o nível dos processos psicológicos do sujeito tomado singularmente. As demais alternativas correspondem, na ordem, aos níveis interpessoal, grupal e macrossocial.",
+      "image": "pg14",
+      "imageCaption": "Tabela dos níveis — pergunta principal por nível"
+    },
+    {
+      "question": "Investigar como duas pessoas resolvem os conflitos existentes entre elas é uma pergunta típica de qual nível?",
+      "options": [
+        "Do nível interpessoal, centrado na relação entre pessoas",
+        "Do nível individual, centrado nos processos internos do sujeito",
+        "Do nível grupal, centrado nas normas de um coletivo definido",
+        "Do nível macrossocial, centrado nas estruturas históricas amplas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O nível interpessoal pergunta o que acontece na relação entre pessoas, e o exemplo clássico é justamente investigar como duas pessoas resolvem seus conflitos. O foco não é o psiquismo isolado nem o coletivo, mas a interação direta. Ele é o degrau intermediário entre o individual e o grupal."
+    },
+    {
+      "question": "Perguntar como uma equipe de trabalho desenvolve suas próprias normas corresponde a qual nível de análise?",
+      "options": [
+        "Nível grupal, que examina o funcionamento de um coletivo",
+        "Nível individual, que examina cognições e afetos do sujeito",
+        "Nível interpessoal, que examina a díade e seus conflitos",
+        "Nível macrossocial, que examina estruturas e época histórica"
+      ],
+      "correctIndex": 0,
+      "explanation": "O nível grupal pergunta como funciona determinado grupo, e o exemplo dado é como uma equipe desenvolve suas normas. Ele trata de fenômenos que só existem no coletivo, como normas, papéis e coesão. Não se confunde com o interpessoal, que se limita à relação entre pessoas."
+    },
+    {
+      "question": "Perguntar por que determinada sociedade valoriza tanto o sucesso profissional situa a análise em qual nível?",
+      "options": [
+        "Macrossocial/cultural, que trata da produção social da subjetividade",
+        "Individual, que trata da autoestima e da ansiedade de cada pessoa",
+        "Interpessoal, que trata do que circula na relação entre duas pessoas",
+        "Grupal, que trata das expectativas internas de uma turma específica"
+      ],
+      "correctIndex": 0,
+      "explanation": "O nível macrossocial/cultural pergunta como sociedade e cultura produzem determinadas formas de subjetividade, e o exemplo é exatamente a valorização social do sucesso profissional. Esse nível investiga história, estruturas econômicas e instituições. É o nível próprio da perspectiva macrossociológica."
+    },
+    {
+      "question": "Uma menina afirma: \"não sou boa em Matemática porque sou mulher\". Investigar sua autoestima, sua ansiedade e suas experiências escolares corresponde a qual nível?",
+      "options": [
+        "Nível individual, voltado aos processos psíquicos da própria menina",
+        "Nível interpessoal, voltado ao que professores e colegas lhe disseram",
+        "Nível grupal, voltado às expectativas que circulam naquela turma",
+        "Nível macrossocial, voltado à origem histórica da ideia de gênero"
+      ],
+      "correctIndex": 0,
+      "explanation": "Autoestima, ansiedade e experiências escolares são variáveis do próprio sujeito, portanto do nível individual. O mesmo enunciado da menina pode ser lido nos quatro níveis, e cada leitura produz um objeto de investigação distinto. As demais alternativas descrevem corretamente os outros três níveis."
+    },
+    {
+      "question": "No mesmo caso, verificar se professores ou colegas disseram que meninas são menos capazes em Matemática pertence a qual nível?",
+      "options": [
+        "Interpessoal, pois examina o que circulou em relações diretas",
+        "Individual, pois examina crenças e emoções internas da menina",
+        "Grupal, pois examina as normas construídas por aquele coletivo",
+        "Macrossocial, pois examina a história das relações de gênero"
+      ],
+      "correctIndex": 0,
+      "explanation": "Falas de professores e colegas dirigidas à menina são interações diretas, logo objeto do nível interpessoal. A diferença em relação ao nível grupal é sutil mas real: aqui interessa o que foi dito na relação, não a norma coletiva da turma. Essa distinção é frequentemente cobrada."
+    },
+    {
+      "question": "Ainda no mesmo caso, observar as expectativas existentes dentro daquela turma corresponde a qual nível de análise?",
+      "options": [
+        "Grupal, porque a expectativa é uma norma compartilhada pelo coletivo",
+        "Individual, porque a expectativa é um conteúdo mental de cada aluno",
+        "Interpessoal, porque a expectativa nasce sempre de uma díade isolada",
+        "Macrossocial, porque a expectativa reflete a época histórica vigente"
+      ],
+      "correctIndex": 0,
+      "explanation": "Expectativas que circulam dentro de uma turma são fenômeno coletivo, portanto grupal. Elas funcionam como norma implícita e pressionam o comportamento de quem pertence ao grupo. O nível grupal ocupa a faixa entre a interação direta e as estruturas macrossociais."
+    },
+    {
+      "question": "Perguntar de onde vem a ideia social de que homens seriam naturalmente melhores em áreas matemáticas exige investigar:",
+      "options": [
+        "história, cultura, gênero, educação, mídia, poder e instituições",
+        "autoestima, ansiedade, motivação e memória de trabalho da aluna",
+        "vínculos afetivos, conflitos e comunicação entre duas pessoas",
+        "normas internas, papéis e coesão de uma turma escolar específica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Esse é o nível macrossocial/cultural, e ele mobiliza história, cultura, gênero, educação, mídia, relações de poder e instituições sociais. É exatamente isso que significa compreender a cultura como matriz de subjetivação. A ideia investigada não é um traço da aluna, mas um produto social sedimentado.",
+      "image": "pg15",
+      "imageCaption": "O nível macrossocial e seus objetos de investigação"
+    },
+    {
+      "question": "A metáfora que compara a cultura ao solo e a pessoa a uma planta sustenta qual tese?",
+      "options": [
+        "A pessoa tem características próprias, mas se desenvolve num ambiente",
+        "A pessoa é produto integral do ambiente, sem qualquer traço próprio",
+        "A pessoa se desenvolve igualmente em qualquer ambiente cultural dado",
+        "A pessoa carrega um destino biológico que o ambiente apenas revela"
+      ],
+      "correctIndex": 0,
+      "explanation": "A metáfora do solo afirma que a subjetividade humana se desenvolve dentro de um meio cultural determinado, como a planta no solo. Ela preserva as características próprias do sujeito e, ao mesmo tempo, torna o desenvolvimento indissociável do ambiente. Não é uma tese determinista nem uma tese de indiferença ao meio.",
+      "image": "pg16",
+      "imageCaption": "A metáfora do solo e da planta"
+    },
+    {
+      "question": "Sobre o alcance da influência cultural sobre o sujeito, é correto afirmar que:",
+      "options": [
+        "a cultura participa da construção de quem somos, mas não nos determina",
+        "a cultura determina integralmente quem somos, sem margem de recusa",
+        "a cultura apenas decora comportamentos já fixados pela biologia",
+        "a cultura influencia somente hábitos externos, nunca a subjetividade"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cultura participa da construção do sujeito sem determiná-lo completamente. A pessoa interpreta, incorpora, questiona, modifica e às vezes rejeita aquilo que a cultura oferece. Essa margem de agência é o que impede que a perspectiva culturalista vire determinismo."
+    },
+    {
+      "question": "Quais verbos descrevem corretamente a posição ativa do sujeito diante do que a cultura lhe oferece?",
+      "options": [
+        "Interpreta, incorpora, questiona, modifica e às vezes rejeita",
+        "Absorve, reproduz, repete, obedece e jamais contesta o recebido",
+        "Ignora, recusa, isola-se, rompe e permanece fora de toda cultura",
+        "Herda, transmite, conserva, cristaliza e nunca altera o recebido"
+      ],
+      "correctIndex": 0,
+      "explanation": "O sujeito interpreta, incorpora, questiona, modifica e por vezes rejeita os conteúdos culturais. Essa lista é importante porque descreve uma relação de mão dupla, não de mera absorção passiva. É por isso que sujeitos de uma mesma cultura não são idênticos entre si.",
+      "image": "pg13",
+      "imageCaption": "A posição ativa do sujeito diante da cultura"
+    },
+    {
+      "question": "Aquilo que uma sociedade considera \"natural\" ou \"normal\" deve ser compreendido, do ponto de vista da Psicologia Social, como:",
+      "options": [
+        "uma construção cultural historicamente situada e portanto variável",
+        "uma verdade universal válida para todas as sociedades humanas",
+        "um dado biológico invariante presente em toda espécie humana",
+        "uma escolha racional feita livremente por cada indivíduo adulto"
+      ],
+      "correctIndex": 0,
+      "explanation": "O que parece natural costuma ser, na verdade, uma construção cultural: diferentes sociedades constroem diferentes maneiras de ser humano. Reconhecer isso é o passo que permite perguntar \"normal para quem?\". A naturalização é justamente o mecanismo que esconde a origem social de uma norma."
+    },
+    {
+      "question": "A perspectiva macrossociológica adotada pela disciplina investiga preferencialmente:",
+      "options": [
+        "como estruturas sociais e históricas participam da formação dos indivíduos",
+        "como traços estáveis de personalidade explicam as escolhas de cada sujeito",
+        "como duas pessoas negociam significados em uma interação face a face",
+        "como pequenos grupos constroem normas próprias em contextos fechados"
+      ],
+      "correctIndex": 0,
+      "explanation": "A perspectiva macrossociológica pergunta como estruturas sociais e históricas participam da formação dos indivíduos. Ela se diferencia expressamente da análise de processos interacionais e grupais diretos. É o nível em que se examinam classe social, mercado de trabalho e expectativas de época."
+    },
+    {
+      "question": "A ideia de \"sucesso profissional\" é apresentada como exemplo de construção ligada a quais condições?",
+      "options": [
+        "Estruturas econômicas, mercado de trabalho, classe social e escolarização",
+        "Predisposições genéticas, temperamento herdado e maturação do cérebro",
+        "Preferências individuais estáveis, formadas antes da vida escolar",
+        "Vínculos afetivos primários estabelecidos apenas dentro da família"
+      ],
+      "correctIndex": 0,
+      "explanation": "O valor atribuído ao sucesso profissional está relacionado às condições econômicas, ao mercado de trabalho, à classe social, à escolarização, aos valores culturais e às expectativas sociais de determinada época. Ele é, portanto, um bom exemplo de conteúdo subjetivo produzido macrossocialmente. Muda de sentido conforme o período histórico."
+    },
+    {
+      "question": "Formas de vestir, de cumprimentar, padrões de beleza e definições de masculinidade e feminilidade são exemplos de:",
+      "options": [
+        "construções culturais aprendidas, variáveis entre sociedades diferentes",
+        "universais biológicos idênticos em todas as sociedades já descritas",
+        "escolhas puramente individuais, imunes a qualquer pressão coletiva",
+        "instintos herdados que se expressam sem mediação social alguma"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vestuário, saudação, religião, alimentação, profissão, beleza e as definições de masculinidade e feminilidade são apresentados como construções culturais. Nenhum deles é dado pela natureza, ainda que todos pareçam óbvios a quem está dentro da própria cultura. É essa aparência de obviedade que precisa ser desnaturalizada."
+    },
+    {
+      "question": "Qual conjunto de afirmações resume corretamente a posição da Psicologia Social sobre a formação da identidade?",
+      "options": [
+        "Ninguém vive isolado e a identidade é construída continuamente",
+        "Cada um vive isolado e a identidade se fixa na primeira infância",
+        "Ninguém vive isolado, mas a identidade é definida ao nascer",
+        "Cada um constrói a identidade sozinho, ao longo de toda a vida"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dois destaques sustentam a posição: ninguém vive isolado e a identidade é construída continuamente. A continuidade importa porque impede pensar a identidade como algo concluído em alguma etapa da vida. Isolamento e fixidez são exatamente o que a perspectiva recusa."
+    },
+    {
+      "question": "O que aprendemos socialmente desde o nascimento, segundo a perspectiva da Psicologia Social?",
+      "options": [
+        "Valores, crenças, normas e papéis sociais próprios do nosso meio",
+        "Reflexos, instintos, pulsões e disposições inatas do organismo",
+        "Apenas habilidades técnicas transmitidas na educação formal",
+        "Somente hábitos alimentares e de higiene aprendidos em casa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Desde o nascimento aprendemos valores, crenças, normas e papéis sociais. Esse aprendizado é anterior a qualquer escolha deliberada e por isso costuma ser vivido como natural. É a base concreta do processo de socialização."
+    },
+    {
+      "question": "Por que a distinção entre os níveis de análise é considerada fundamental para a Psicologia Social?",
+      "options": [
+        "Porque o comportamento não se explica só por personalidade ou relações imediatas",
+        "Porque a personalidade é a única variável realmente capaz de explicar condutas",
+        "Porque as relações imediatas esgotam a explicação de qualquer comportamento",
+        "Porque a biologia individual determina o comportamento em qualquer contexto"
+      ],
+      "correctIndex": 0,
+      "explanation": "A distinção mostra que o comportamento humano não pode ser explicado apenas pela personalidade ou pelas relações imediatas: o sujeito também é produzido dentro de uma sociedade e de uma cultura historicamente determinadas. Sem esse recorte, a explicação psicológica fica presa ao indivíduo. É o argumento que justifica o próprio campo."
+    },
+    {
+      "question": "Afirmar que o sujeito é produzido dentro de uma sociedade e de uma cultura \"historicamente determinadas\" implica reconhecer que:",
+      "options": [
+        "as formas de subjetividade mudam conforme o período histórico vivido",
+        "as formas de subjetividade permanecem estáveis em qualquer época",
+        "as formas de subjetividade dependem só do estágio de desenvolvimento",
+        "as formas de subjetividade decorrem apenas de vínculos familiares"
+      ],
+      "correctIndex": 0,
+      "explanation": "A determinação histórica implica que sociedades e épocas distintas produzem subjetividades distintas. Por isso a Psicologia Social recorre à história e às instituições, e não apenas ao presente da interação. Não se trata de determinismo rígido, mas de condicionamento histórico das formas possíveis de ser."
+    },
+    {
+      "question": "Etnocentrismo, na acepção usada pela Antropologia e pela Psicologia Social, designa:",
+      "options": [
+        "julgar outras culturas a partir dos valores da própria cultura",
+        "descrever uma cultura a partir dos critérios que ela mesma adota",
+        "reconhecer o outro como legítimo em sua diferença e autonomia",
+        "estudar culturas comparando dados objetivos sem qualquer juízo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Etnocentrismo é tomar a própria cultura como medida universal e julgar as demais a partir dela, geralmente hierarquizando-as. É o mecanismo por trás da pergunta \"existe cultura superior?\". Seu contraponto metodológico é o relativismo cultural."
+    },
+    {
+      "question": "O relativismo cultural, como postura metodológica, consiste em:",
+      "options": [
+        "compreender uma prática dentro do sistema de sentido que a produz",
+        "hierarquizar práticas culturais segundo o grau de desenvolvimento",
+        "avaliar toda prática pela régua da cultura ocidental contemporânea",
+        "recusar qualquer descrição de práticas culturais que sejam alheias"
+      ],
+      "correctIndex": 0,
+      "explanation": "O relativismo cultural exige compreender uma prática a partir do sistema de significados da cultura que a produz, e não pela régua da cultura do observador. É um procedimento de método, que suspende o juízo prévio para tornar a compreensão possível. Opõe-se diretamente ao etnocentrismo."
+    },
+    {
+      "question": "A noção de alteridade, tal como mobilizada nos estudos socioculturais, refere-se a:",
+      "options": [
+        "reconhecer o outro como diferente e legítimo em sua própria existência",
+        "reduzir o outro às categorias já disponíveis na cultura do observador",
+        "identificar no outro apenas aquilo que ele tem em comum conosco",
+        "manter distância do outro para preservar a neutralidade científica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alteridade é o reconhecimento do outro como legítimo em sua diferença, e não como versão incompleta de nós mesmos. Ela é condição para o relativismo cultural e antídoto ao etnocentrismo. Esses três conceitos formam o núcleo conceitual que a disciplina desenvolve em seguida."
+    },
+    {
+      "question": "A socialização primária distingue-se da secundária principalmente porque:",
+      "options": [
+        "ocorre na infância, na família, com forte carga afetiva e identificação",
+        "ocorre na vida adulta, em instituições, com baixa carga afetiva",
+        "ocorre no trabalho, transmitindo papéis técnicos e especializados",
+        "ocorre nos grupos de pares, transmitindo códigos de sociabilidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "A socialização primária acontece na infância, sobretudo na família, e é marcada por forte vínculo afetivo, o que torna seus conteúdos difíceis de revisar depois. A socialização secundária ocorre em instituições posteriores, como escola e trabalho, transmitindo papéis mais especializados. As duas são complementares, não excludentes."
+    },
+    {
+      "question": "Quais são os eixos formativos que estruturam a disciplina de Psicologia Social e Dinâmicas Culturais?",
+      "options": [
+        "Análise antropológica, letramento racial, interseccionalidade, ética e diagnóstico",
+        "Avaliação psicométrica, psicodiagnóstico, testagem, laudo técnico e devolutiva",
+        "Neuroanatomia, neurofisiologia, farmacologia, genética e psiquiatria clínica",
+        "Psicopatologia, entrevista clínica, formulação de caso, manejo e alta do paciente"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os cinco eixos são: análise antropológica e contextual; letramento racial e decolonial; análise interseccional de gênero e sexualidade; posicionamento ético em direitos humanos; e diagnóstico e planejamento sociocultural. Eles organizam a progressão do semestre inteiro. Nenhum deles é de natureza clínica individual.",
+      "image": "pg04",
+      "imageCaption": "Os cinco eixos formativos da ementa"
+    },
+    {
+      "question": "O giro decolonial e as epistemologias do Sul, como conteúdos programáticos, propõem:",
+      "options": [
+        "desconstruir matrizes eurocêntricas hegemônicas de produção de saber",
+        "consolidar o cânone europeu como padrão universal de cientificidade",
+        "abandonar toda produção teórica em favor apenas da prática militante",
+        "restringir a análise cultural às sociedades do hemisfério norte global"
+      ],
+      "correctIndex": 0,
+      "explanation": "O giro decolonial e as epistemologias do Sul visam desconstruir matrizes eurocêntricas hegemônicas, questionando quem produz conhecimento legítimo e a partir de onde. Não é recusa da teoria, mas deslocamento do lugar de enunciação. O tema se articula ao letramento racial e à discussão sobre branquitude."
+    },
+    {
+      "question": "O patrimônio simbólico tratado na disciplina compreende:",
+      "options": [
+        "bens materiais e imateriais, associados às lutas de movimentos socioculturais",
+        "apenas monumentos e edificações tombados por órgãos públicos oficiais",
+        "somente práticas orais e festivas, sem qualquer suporte material físico",
+        "exclusivamente acervos museológicos preservados por instituições privadas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O patrimônio simbólico abrange dimensões material e imaterial e aparece articulado às lutas dos movimentos socioculturais. Reduzi-lo a monumentos é justamente o recorte eurocêntrico que a disciplina problematiza. Práticas, saberes e memórias contam como patrimônio tanto quanto edificações."
+    },
+    {
+      "question": "A abordagem macro-antropológica da cultura diferencia-se de qual outro tipo de análise?",
+      "options": [
+        "Da análise de processos interacionais e grupais diretos entre pessoas",
+        "Da análise de estruturas civilizatórias e de sua evolução histórica",
+        "Da análise de relações étnico-raciais estruturais em escala nacional",
+        "Da análise de políticas públicas intersetoriais na prática profissional"
+      ],
+      "correctIndex": 0,
+      "explanation": "A perspectiva macro-antropológica e macrossociológica é definida por contraste com a análise de processos interacionais e grupais diretos. As demais alternativas descrevem conteúdos que pertencem à própria abordagem macro, e não ao seu contraponto. A distinção reaparece na tabela dos níveis de análise."
+    },
+    {
+      "question": "Diante da pergunta \"existe cultura superior?\", a resposta coerente com a Psicologia Social é:",
+      "options": [
+        "não, pois cada cultura organiza sentidos próprios e igualmente legítimos",
+        "sim, pois culturas com maior desenvolvimento técnico são mais avançadas",
+        "sim, pois culturas escritas superam culturas de tradição exclusivamente oral",
+        "não, pois todas as culturas humanas produzem exatamente as mesmas práticas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Não há hierarquia entre culturas: cada uma organiza sentidos próprios e igualmente legítimos para a existência. Note que a última alternativa também nega a superioridade, mas por um argumento falso — culturas não são idênticas, são diferentes e equivalentes em legitimidade. A pergunta \"normal para quem?\" aponta exatamente para esse ponto.",
+      "image": "pg11",
+      "imageCaption": "Existe cultura superior?"
+    },
+    {
+      "question": "A frase \"não somos apenas resultado da nossa biologia, somos também resultado das relações, da história e da cultura\" sustenta que:",
+      "options": [
+        "a biologia é insuficiente, embora não irrelevante, para explicar o sujeito",
+        "a biologia é irrelevante e deve ser descartada da explicação psicológica",
+        "a biologia é suficiente e as relações apenas modulam o que já está dado",
+        "a biologia e a cultura atuam separadamente, sem qualquer articulação"
+      ],
+      "correctIndex": 0,
+      "explanation": "O advérbio \"apenas\" é decisivo: a biologia entra na explicação, mas não a esgota. Relações, história e cultura completam o quadro, e é essa construção da subjetividade que a Psicologia Social busca compreender. Trata-se de recusar o reducionismo biológico sem cair no seu oposto.",
+      "image": "pg17",
+      "imageCaption": "Biologia, relações, história e cultura"
+    },
+    {
+      "question": "Ao articular dinâmicas culturais e práticas profissionais, a disciplina posiciona a cultura como base para:",
+      "options": [
+        "promover bem-estar e diagnosticar vulnerabilidades em contextos institucionais",
+        "padronizar condutas profissionais independentemente do contexto local",
+        "substituir a avaliação psicológica individual por análise puramente social",
+        "restringir a atuação profissional aos espaços de pesquisa acadêmica"
+      ],
+      "correctIndex": 0,
+      "explanation": "As dinâmicas culturais servem de base para promover práticas integrativas de bem-estar e sustentabilidade e para diagnosticar vulnerabilidades em contextos e estruturas institucionais. A leitura cultural não substitui outras ferramentas: ela as contextualiza. Direitos humanos e políticas públicas intersetoriais completam esse desenho de práxis."
+    }
+  ]
+}

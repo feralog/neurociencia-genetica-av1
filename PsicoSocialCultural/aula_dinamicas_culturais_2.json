@@ -1,0 +1,365 @@
+{
+  "titulo": "Psicologia Social e Dinâmicas Culturais II",
+  "eyebrow": "Psicologia Social · Cultura",
+  "subtitulo": "Natureza, cultura, símbolos e as teorias que hierarquizaram povos",
+  "intro": "Da dimensão biológica à subjetividade: como a cultura constrói o modo de sentir fome, dormir e demonstrar afeto; o ser humano como animal simbólico e a cultura como sistema de significados; o evolucionismo cultural do século XIX, o eurocentrismo e o colonialismo; a resposta de Franz Boas com o particularismo histórico e o relativismo cultural; e o que tudo isso exige da escuta psicológica.",
+  "questoes": [
+    {
+      "question": "Um bebê que crescesse totalmente isolado numa ilha, sem nenhum contato humano, não desenvolveria por conta própria linguagem, religião, costumes nem valores. O que essa constatação demonstra?",
+      "options": [
+        "Linguagem, religião e valores são adquiridos na convivência social",
+        "Linguagem, religião e valores são herdados por via biológica",
+        "Linguagem, religião e valores surgem da maturação do cérebro",
+        "Linguagem, religião e valores dependem só do temperamento"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nada do que forma um repertório cultural — idioma, crença, norma de conduta — vem inscrito no organismo. Esses conteúdos só se constituem na relação com outros seres humanos, o que faz da convivência a condição de possibilidade da vida cultural. É por isso que a cultura se define como aquilo que não é transmitido biologicamente."
+    },
+    {
+      "question": "Qual formulação descreve corretamente a relação entre a biologia e a existência humana?",
+      "options": [
+        "A existência humana tem base biológica, mas não se explica só por ela",
+        "A existência humana é integralmente determinada pela sua biologia",
+        "A existência humana dispensa qualquer referência à sua biologia",
+        "A existência humana resulta apenas de instintos herdados"
+      ],
+      "correctIndex": 0,
+      "explanation": "O ser humano possui uma dimensão biológica real, mas ela é insuficiente para explicar sua existência. A cultura participa da construção da linguagem, das regras sociais, das crenças, dos valores e até das concepções de saúde e doença. Negar a biologia e reduzir tudo a ela são os dois erros simétricos."
+    },
+    {
+      "question": "Todo ser humano sente fome, mas nem todos comem as mesmas coisas nem da mesma maneira. Que conclusão essa observação sustenta?",
+      "options": [
+        "A necessidade é biológica, mas o modo de vivê-la é cultural",
+        "A necessidade é cultural, e o modo de vivê-la é biológico",
+        "A necessidade e o modo de vivê-la são ambos biológicos",
+        "A necessidade e o modo de vivê-la independem da cultura"
+      ],
+      "correctIndex": 0,
+      "explanation": "A necessidade pode ter origem orgânica, mas a maneira como ela é vivenciada e expressada é culturalmente construída. O que se considera comida, o horário da refeição e a companhia à mesa variam entre grupos. O mesmo raciocínio vale para o sono e para as necessidades afetivas."
+    },
+    {
+      "question": "Todo ser humano possui necessidades afetivas, porém as formas de demonstrar afeto variam entre grupos. Isso indica que:",
+      "options": [
+        "A expressão da emoção é modelada pela cultura de origem",
+        "A expressão da emoção é idêntica em todos os grupos",
+        "A emoção só existe onde há palavras para nomeá-la",
+        "A emoção independe de qualquer aprendizado prévio"
+      ],
+      "correctIndex": 0,
+      "explanation": "As formas de expressar emoções estão entre os âmbitos que a cultura constrói, ao lado da linguagem, das regras sociais e das noções de certo e errado. O contato físico, a distância entre corpos e a demonstração pública de afeto obedecem a códigos aprendidos. A necessidade afetiva é comum; a gramática que a expressa, não."
+    },
+    {
+      "question": "No esquema exibido, qual é a sequência que organiza a passagem da dimensão orgânica ao sujeito?",
+      "options": [
+        "Natureza → cultura → subjetividade",
+        "Cultura → natureza → subjetividade",
+        "Subjetividade → cultura → natureza",
+        "Natureza → subjetividade → cultura"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ordem é natureza, depois cultura, depois subjetividade: o organismo é o ponto de partida, a cultura é a mediação e a subjetividade é o resultado. Inverter os termos desfaz o argumento, porque colocaria o sujeito antes daquilo que o constitui. A subjetividade é ponto de chegada, não de partida.",
+      "image": "pg06",
+      "imageCaption": "Da natureza à subjetividade e o que a cultura constrói"
+    },
+    {
+      "question": "As concepções de saúde e de doença estão entre os âmbitos construídos culturalmente. Qual consequência decorre disso?",
+      "options": [
+        "O que se considera adoecimento varia conforme a cultura",
+        "O que se considera adoecimento é igual em toda cultura",
+        "O que se considera adoecimento depende só de exames",
+        "O que se considera adoecimento decorre só da idade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se as noções de saúde e doença são culturalmente construídas, o limite entre o normal e o patológico não é um dado natural fixo. Comportamentos tratados como sintoma num grupo podem ser experiência valorizada em outro. Reconhecer isso é condição para não converter diferença cultural em diagnóstico."
+    },
+    {
+      "question": "Por que via a cultura se transmite de uma geração à seguinte?",
+      "options": [
+        "Por aprendizagem e convivência com outras pessoas",
+        "Por transmissão genética de pais para filhos",
+        "Por maturação espontânea do sistema nervoso",
+        "Por seleção natural entre grupos concorrentes"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cultura não é herdada biologicamente: ela é aprendida na convivência, por meio da linguagem e da socialização. É justamente essa via não genética que explica por que um bebê isolado não a desenvolveria. Linguagem, aprendizagem e socialização são os operadores dessa passagem."
+    },
+    {
+      "question": "Fisicamente uma aliança é apenas um objeto metálico. Culturalmente, ela pode representar:",
+      "options": [
+        "Casamento, compromisso, amor ou pertencimento",
+        "Riqueza, hierarquia militar ou posto de comando",
+        "Luto, penitência religiosa ou voto de silêncio",
+        "Território, soberania nacional ou fronteira"
+      ],
+      "correctIndex": 0,
+      "explanation": "O anel circular é lido como amor sem começo nem fim, leitura que remonta ao Egito antigo, e a aliança condensa casamento, compromisso e pertencimento. Nada disso está no metal: está no sistema de significados que o grupo compartilha. O mesmo objeto, em outro código cultural, diria outra coisa.",
+      "image": "pg10",
+      "imageCaption": "Aliança e bandeira: o físico e o simbólico"
+    },
+    {
+      "question": "Uma bandeira é, fisicamente, um tecido com determinadas cores e formas. Simbolicamente, o que ela pode representar?",
+      "options": [
+        "Identidade, território, história e pertencimento",
+        "Resistência do tecido, custo e durabilidade",
+        "Gosto estético individual de quem a confecciona",
+        "Padrão técnico de cores adotado na indústria"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bandeira funciona como símbolo de identidade coletiva, território, história partilhada e pertencimento, função que os estandartes já cumpriam nos séculos XVIII e XIX. A descrição material do objeto não alcança nada disso. A diferença entre o plano físico e o plano simbólico é exatamente o que define o símbolo."
+    },
+    {
+      "question": "Uma cruz é, fisicamente, duas linhas que se cruzam, mas pode carregar profundo significado religioso. Que tese esse contraste sustenta?",
+      "options": [
+        "O significado do objeto é construído socialmente",
+        "O significado do objeto é intrínseco à sua forma",
+        "O significado do objeto vem do material que o compõe",
+        "O significado do objeto é criação estritamente individual"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se a forma material fosse a fonte do sentido, duas linhas cruzadas significariam o mesmo em qualquer lugar. O significado religioso ligado ao sacrifício e à história de Jesus é atribuído por um grupo que o compartilha. Símbolo é aquilo cujo sentido é convencionado e partilhado, não deduzido da matéria."
+    },
+    {
+      "question": "Chamar o ser humano de animal simbólico significa afirmar que ele:",
+      "options": [
+        "Interpreta a realidade por símbolos, linguagem e significação",
+        "Reage à realidade por reflexos automáticos e instintivos",
+        "Percebe a realidade sem qualquer mediação de linguagem",
+        "Apreende a realidade apenas pelos cinco sentidos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O ser humano não acessa o mundo diretamente: ele o interpreta por meio de símbolos, linguagem e sistemas de significação. Objetos, gestos e acontecimentos chegam a ele já carregados de sentido atribuído coletivamente. Essa mediação simbólica é o que distingue sua relação com a realidade."
+    },
+    {
+      "question": "Definir a cultura como sistema de significados implica entendê-la:",
+      "options": [
+        "Como forma de produzir e compartilhar significados",
+        "Como simples inventário de costumes e hábitos",
+        "Como conjunto de traços herdados geneticamente",
+        "Como etapa superada do desenvolvimento humano"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cultura não se reduz a uma lista de costumes observáveis: ela é o processo pelo qual sentidos são produzidos e partilhados entre pessoas. Por isso duas práticas idênticas na aparência podem significar coisas opostas em grupos diferentes. Descrever o costume sem alcançar o significado é descrever pela metade."
+    },
+    {
+      "question": "No quadro exibido, o evolucionismo cultural do século XIX ordenava as sociedades em três estágios. Qual é a sequência?",
+      "options": [
+        "Selvageria → barbárie → civilização",
+        "Barbárie → selvageria → civilização",
+        "Civilização → barbárie → selvageria",
+        "Selvageria → civilização → barbárie"
+      ],
+      "correctIndex": 0,
+      "explanation": "A escala evolutiva partia da selvageria, passava pela barbárie e culminava na civilização, entendida como o ponto mais alto. A ordem importa porque o esquema é linear e cumulativo: cada sociedade estaria em algum ponto do mesmo trajeto. A civilização, no topo, era identificada com a Europa.",
+      "image": "pg14",
+      "imageCaption": "Evolucionismo cultural: autores, escala e características"
+    },
+    {
+      "question": "Quais autores estão associados ao evolucionismo cultural do século XIX?",
+      "options": [
+        "Edward Tylor e Lewis Morgan",
+        "Franz Boas e Ruth Benedict",
+        "Marcel Mauss e Émile Durkheim",
+        "Margaret Mead e Clifford Geertz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Edward Tylor e Lewis Morgan são os nomes centrais do evolucionismo cultural oitocentista, que propunha um caminho único de desenvolvimento para todas as sociedades. Franz Boas aparece depois e justamente como crítico dessa perspectiva. Confundir os dois campos inverte a história da disciplina."
+    },
+    {
+      "question": "Qual era a tese central do evolucionismo cultural?",
+      "options": [
+        "Todas as culturas evoluem seguindo um mesmo caminho",
+        "Cada cultura percorre um caminho histórico próprio",
+        "As culturas não mudam no tempo, apenas se repetem",
+        "As culturas mudam apenas quando sofrem invasão"
+      ],
+      "correctIndex": 0,
+      "explanation": "O evolucionismo supunha um percurso único e linear, pelo qual todas as sociedades passariam nas mesmas etapas. A consequência imediata é que as diferenças entre povos viram atraso ou adiantamento no mesmo trajeto. A tese do caminho próprio de cada cultura pertence ao particularismo histórico, que se opõe a ela."
+    },
+    {
+      "question": "No quadro exibido, como se define o eurocentrismo?",
+      "options": [
+        "Tomar a Europa e seus valores como referência para julgar outras culturas",
+        "Tomar cada cultura como referência exclusiva de si mesma na avaliação",
+        "Recusar qualquer comparação entre culturas por falta de critério",
+        "Avaliar culturas pelo bem-estar declarado por seus próprios membros"
+      ],
+      "correctIndex": 0,
+      "explanation": "O eurocentrismo coloca a Europa e seus valores como referência central para avaliar as demais sociedades. Combinado à ideia de estágios, ele produz a hierarquização cultural entre superiores e inferiores. É o vetor que transforma diferença em escala de desenvolvimento.",
+      "image": "pg16",
+      "imageCaption": "Evolucionismo, eurocentrismo e hierarquização cultural"
+    },
+    {
+      "question": "Em que consiste a hierarquização cultural produzida pelo evolucionismo?",
+      "options": [
+        "Ordenar culturas como superiores e inferiores numa escala",
+        "Descrever culturas como trajetórias históricas distintas",
+        "Agrupar culturas por proximidade geográfica e linguística",
+        "Classificar culturas pelo tamanho de suas populações"
+      ],
+      "correctIndex": 0,
+      "explanation": "A hierarquização organiza os povos numa escala de desenvolvimento cultural em que uns valem mais que outros. Ela nasce da combinação entre a ideia de estágios e a adoção da Europa como parâmetro. Descrever trajetórias distintas, sem ordená-las, é justamente o movimento contrário."
+    },
+    {
+      "question": "No quadro exibido, o colonialismo é caracterizado como:",
+      "options": [
+        "Dominação política, econômica e cultural de um território e seus povos",
+        "Acordo comercial voluntário entre dois territórios independentes",
+        "Deslocamento espontâneo de populações em busca de novas terras",
+        "Difusão pacífica de técnicas agrícolas entre povos vizinhos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O colonialismo é um sistema de dominação de um território e de seus povos por uma potência estrangeira, e essa dominação é simultaneamente política, econômica e cultural. A dimensão cultural é decisiva: não se impõe apenas administração, impõe-se também um modo de julgar o mundo. Daí sua ligação estreita com o evolucionismo.",
+      "image": "pg17",
+      "imageCaption": "Etnocentrismo e colonialismo"
+    },
+    {
+      "question": "O etnocentrismo consiste na tendência de:",
+      "options": [
+        "Julgar outras culturas pelos valores e padrões da própria",
+        "Julgar a própria cultura pelos valores das culturas vizinhas",
+        "Suspender todo juízo diante das práticas de outras culturas",
+        "Comparar culturas usando critérios negociados entre elas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O etnocentrismo toma os valores e padrões do próprio grupo como medida universal e avalia os demais a partir dela. Ele costuma passar despercebido porque os próprios critérios são vividos como óbvios. Suspender esse juízo é o gesto que abre caminho para o relativismo cultural."
+    },
+    {
+      "question": "Qual relação existe entre a hierarquização das culturas e a dominação colonial?",
+      "options": [
+        "A hierarquia oferecia justificativa moral para a dominação",
+        "A hierarquia só apareceu depois do fim da dominação",
+        "A hierarquia foi formulada para conter a dominação",
+        "A hierarquia não teve nenhuma relação com a dominação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Classificar povos como menos evoluídos fornecia a justificativa para submetê-los, apresentando a dominação como missão civilizatória. Por isso o evolucionismo é descrito como fortemente influenciado pelo colonialismo, e não como teoria neutra. A escala dita científica e o projeto político se sustentavam mutuamente."
+    },
+    {
+      "question": "No quadro exibido, qual princípio pertence ao particularismo histórico?",
+      "options": [
+        "Cada povo deve ser compreendido dentro do seu próprio contexto",
+        "Cada povo deve ser situado na escala universal de progresso",
+        "Cada povo deve ser avaliado pelo seu grau de desenvolvimento",
+        "Cada povo deve ser comparado ao modelo europeu de sociedade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os três princípios são: cada cultura possui sua própria história, não existem culturas superiores e cada povo deve ser compreendido dentro do seu próprio contexto. É desse conjunto que emerge o relativismo cultural. As demais formulações repõem exatamente a escala que o particularismo recusa.",
+      "image": "pg18",
+      "imageCaption": "Franz Boas: os três princípios do particularismo histórico"
+    },
+    {
+      "question": "Franz Boas está associado a qual corrente do pensamento antropológico?",
+      "options": [
+        "Particularismo histórico",
+        "Evolucionismo cultural",
+        "Determinismo biológico",
+        "Difusionismo alemão"
+      ],
+      "correctIndex": 0,
+      "explanation": "Boas formulou o particularismo histórico, que afirma a história própria de cada cultura contra a ideia de um percurso único. A corrente rompe com o evolucionismo do século XIX e dá origem à noção de relativismo cultural. Situá-lo no campo evolucionista inverte sua posição teórica."
+    },
+    {
+      "question": "O que sustenta o relativismo cultural?",
+      "options": [
+        "Não se deve julgar outra cultura pelos valores da própria",
+        "Deve-se julgar outra cultura pelos valores da mais antiga",
+        "Deve-se julgar toda cultura por um padrão moral universal",
+        "Não se deve descrever outra cultura sem classificá-la antes"
+      ],
+      "correctIndex": 0,
+      "explanation": "O relativismo cultural recusa o uso dos próprios valores como régua para avaliar práticas alheias e exige compreendê-las no contexto que lhes dá sentido. Ele decorre diretamente dos princípios do particularismo histórico. É a posição oposta ao etnocentrismo."
+    },
+    {
+      "question": "No quadro comparativo exibido, como cada corrente explica as diferenças entre as culturas?",
+      "options": [
+        "O evolucionismo explica pela evolução; o particularismo, pela história",
+        "O evolucionismo explica pela história; o particularismo, pela evolução",
+        "Ambos explicam pela evolução linear das sociedades humanas",
+        "Ambos explicam pela história particular de cada sociedade"
+      ],
+      "correctIndex": 0,
+      "explanation": "O evolucionismo atribui as diferenças ao ponto que cada povo ocuparia numa evolução comum; o particularismo as atribui à trajetória histórica singular de cada cultura. Junto disso, um hierarquiza e o outro afirma a diversidade sem escala. É a linha divisória entre as duas perspectivas.",
+      "image": "pg20",
+      "imageCaption": "Evolucionismo cultural × particularismo histórico"
+    },
+    {
+      "question": "Na síntese exibida, o que se interpõe entre a dimensão biológica e a cultura?",
+      "options": [
+        "Linguagem, aprendizagem e socialização",
+        "Símbolos, valores, crenças e costumes",
+        "Subjetividade e diversidade de formas",
+        "Território, economia e sistema político"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sequência vai do ser humano à dimensão biológica, desta a linguagem, aprendizagem e socialização, e só então à cultura. Símbolos, valores, crenças e costumes vêm depois da cultura, e a subjetividade depois deles. A cadeia termina na diversidade de formas de ser humano.",
+      "image": "pg27",
+      "imageCaption": "Síntese conceitual: da natureza à diversidade humana"
+    },
+    {
+      "question": "Um psicólogo que interpreta a conduta do paciente apenas a partir dos próprios valores culturais tende a:",
+      "options": [
+        "Interpretar de modo equivocado condutas com sentido no contexto",
+        "Alcançar leitura mais objetiva por eliminar a influência do meio",
+        "Reduzir o risco de erro ao adotar critério único de avaliação",
+        "Descrever com precisão os sentidos atribuídos pelo próprio sujeito"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sem considerar o contexto cultural, práticas que fazem sentido na vida do paciente podem ser lidas como desvio, sintoma ou falha. O critério único não elimina o viés: ele apenas o torna invisível ao profissional. Compreender o contexto cultural é passo anterior à interpretação do comportamento."
+    },
+    {
+      "question": "Substituir a pergunta sobre por que um povo não se veste de maneira adequada por outra sobre o significado das roupas naquela cultura e sobre como essa prática foi construída historicamente representa a passagem de:",
+      "options": [
+        "Um juízo etnocêntrico para uma pergunta contextualizada",
+        "Uma descrição neutra para um juízo moral sobre a prática",
+        "Uma pergunta contextualizada para um critério universal",
+        "Um relato empírico para uma classificação evolutiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "A primeira formulação já embute o veredito, porque a palavra adequada supõe um padrão externo tomado como correto. A segunda desloca a atenção para o significado local e para a construção histórica da prática. Trocar o juízo pela pergunta sobre sentido é a operação básica do olhar relativista."
+    },
+    {
+      "question": "Diante de uma família cuja forma de educar os filhos difere da do profissional, qual pergunta é culturalmente contextualizada?",
+      "options": [
+        "Quais valores e costumes essa família trouxe de seus pais?",
+        "Por que essa família educa os filhos de maneira errada?",
+        "Quanto essa família se afasta do modelo correto de educar?",
+        "Como convencer essa família a adotar outra forma de educar?"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pergunta contextualizada investiga a transmissão intergeracional de valores e costumes em vez de medir a família por um padrão prévio. As demais partem da premissa de que existe uma forma correta única, o que é o próprio gesto etnocêntrico. Compreender a origem da prática antecede qualquer intervenção."
+    },
+    {
+      "question": "Como se chama o processo pelo qual a pessoa internaliza normas, valores e papéis do grupo em que vive?",
+      "options": [
+        "Socialização, processo de internalização de normas",
+        "Maturação, desdobramento espontâneo do organismo",
+        "Habituação, repetição mecânica de gestos motores",
+        "Adaptação, ajuste fisiológico às condições do meio"
+      ],
+      "correctIndex": 0,
+      "explanation": "A socialização é o processo pelo qual os conteúdos culturais deixam de ser exteriores e passam a organizar a conduta e a própria percepção de si. Ela integra a cadeia que leva da dimensão biológica à cultura, ao lado da linguagem e da aprendizagem. Maturação e adaptação descrevem processos orgânicos, não culturais."
+    },
+    {
+      "question": "Qual é a distinção entre socialização primária e secundária?",
+      "options": [
+        "A primária ocorre na família; a secundária, em outras instituições",
+        "A primária ocorre na escola; a secundária, dentro da família",
+        "A primária ocorre na vida adulta; a secundária, na infância",
+        "A primária ocorre no trabalho; a secundária, na comunidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "A socialização primária acontece na infância, sobretudo na família, com forte carga afetiva e identificação com quem transmite. A secundária ocorre em instituições posteriores, como escola e trabalho, e transmite papéis mais especializados. As duas são complementares, e a primeira condiciona a leitura da segunda."
+    },
+    {
+      "question": "O que é um papel social?",
+      "options": [
+        "Conjunto de condutas esperadas de quem ocupa certa posição",
+        "Traço de temperamento transmitido por herança biológica",
+        "Preferência pessoal escolhida livremente na vida adulta",
+        "Sintoma psíquico que sinaliza conflito interno não resolvido"
+      ],
+      "correctIndex": 0,
+      "explanation": "O papel social reúne as expectativas de conduta associadas a uma posição, como ser mãe, aluno ou profissional de saúde. Essas expectativas são culturais e variam entre sociedades, o que explica por que o mesmo papel se exerce de formas distintas. Aprendê-los é parte do que a socialização realiza."
+    }
+  ]
+}

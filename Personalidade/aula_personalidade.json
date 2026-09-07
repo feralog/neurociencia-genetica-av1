@@ -1,0 +1,338 @@
+{
+  "titulo": "Diversidade da Personalidade Humana",
+  "eyebrow": "Psicologia · Personalidade",
+  "subtitulo": "Da máscara grega às teorias psicodinâmicas da personalidade",
+  "intro": "Cobre a construção epistemológica do conceito de personalidade — persona, temperamento e caráter, nomotético e idiográfico, crítica W.E.I.R.D. e neurodiversidade — e as matrizes psicodinâmicas: as tópicas de Freud, os arquétipos de Jung e as relações objetais de Klein e Winnicott.",
+  "questoes": [
+    {
+      "question": "O termo personalidade deriva do latim persona (grego prosopon). No mundo clássico, o que essa palavra designava originalmente?",
+      "options": [
+        "Máscara teatral usada pelos atores no mundo greco-romano",
+        "Retrato pintado que os nobres exibiam nos salões romanos",
+        "Registro civil que atestava a cidadania no império romano",
+        "Assinatura ritual que os oradores gravavam em suas togas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Persona era a máscara de teatro dos atores clássicos. Com os séculos, o sentido se desloca da máscara que se usa para o sujeito que a veste — a pessoa como portadora de direitos, deveres e de uma interioridade psicológica."
+    },
+    {
+      "question": "A definição de personalidade como organização dinâmica, dentro do indivíduo, dos sistemas psicofísicos que determinam seu comportamento e pensamento característicos foi publicada em 1937 e funda o campo moderno. Quem a formulou?",
+      "options": [
+        "Gordon Allport",
+        "Carl Gustav Jung",
+        "Melanie Klein",
+        "Donald Winnicott"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gordon Allport publica em 1937 a obra que funda o estudo moderno da personalidade na psicologia. A partir dela, a personalidade deixa de ser alma abstrata ou traço moral e passa a ser um construto científico, inferido do comportamento observável."
+    },
+    {
+      "question": "Qual dimensão da personalidade corresponde às tendências herdadas, ao nível de atividade, à reatividade emocional e ao limiar de estimulação, manifestando-se já nos primeiros meses de vida?",
+      "options": [
+        "O temperamento, base constitucional e biológica",
+        "O caráter, base valorativa adquirida na cultura",
+        "A persona, interface social construída no papel",
+        "O superego, instância moral herdada dos pais"
+      ],
+      "correctIndex": 0,
+      "explanation": "O temperamento é a dimensão constitucional: aspectos formais do comportamento com forte determinação genética, ligados ao sistema límbico e aos neurotransmissores. É a matéria-prima biológica sobre a qual o caráter vai depois trabalhar."
+    },
+    {
+      "question": "O conjunto de valores, crenças, hábitos e autoconceito internalizados a partir da socialização, da cultura e do ambiente familiar recebe qual nome no modelo biopsicossocial?",
+      "options": [
+        "Caráter, a dimensão adquirida da personalidade",
+        "Temperamento, a dimensão herdada constitucional",
+        "Arquétipo, a imagem primordial herdada da espécie",
+        "Complexo, o núcleo afetivo do inconsciente pessoal"
+      ],
+      "correctIndex": 0,
+      "explanation": "O caráter é a inscrição cultural e social da personalidade: modula as tendências do temperamento e introduz o julgamento moral, a ética e a adaptação social. Desenvolve-se ao longo da vida pelo aprendizado e pela reflexão subjetiva."
+    },
+    {
+      "question": "Um temperamento muito reativo ao medo pode gerar um caráter ansioso e isolado num ambiente hostil, ou um caráter prudente e analítico num ambiente acolhedor. Que princípio explica essa diferença de desfecho?",
+      "options": [
+        "A epigenética: o ambiente modula a expressão dos genes",
+        "O inatismo: o gene fixa o desfecho seja qual for o meio",
+        "O behaviorismo puro: só o reforço externo produz traços",
+        "O determinismo psíquico: a infância decide tudo na mente"
+      ],
+      "correctIndex": 0,
+      "explanation": "O paradigma biopsicossocial rejeita tanto o reducionismo biológico quanto o determinismo cultural. A personalidade resulta da epigenética: ambiente e cultura modificam a expressão dos genes, de modo que a mesma base temperamental pode desembocar em caracteres opostos."
+    },
+    {
+      "question": "A matriz metodológica que foca nas semelhanças entre as pessoas, busca traços universais e se apoia em psicometria e análise fatorial — como no modelo dos Cinco Grandes Fatores — é a:",
+      "options": [
+        "Abordagem nomotética",
+        "Abordagem idiográfica",
+        "Abordagem hermenêutica",
+        "Abordagem narrativista"
+      ],
+      "correctIndex": 0,
+      "explanation": "O modelo nomotético busca leis universais da personalidade por métodos quantitativos. Permite comparação entre indivíduos, diagnósticos padronizados e previsibilidade estatística, mas corre o risco de reduzir o sujeito a uma pontuação num gráfico."
+    },
+    {
+      "question": "O critério que exige que as hipóteses de uma teoria possam ser testadas e eventualmente provadas falsas foi formulado por Karl Popper e se chama:",
+      "options": [
+        "Falseabilidade da teoria",
+        "Capacidade heurística",
+        "Utilidade prática clínica",
+        "Consistência situacional"
+      ],
+      "correctIndex": 0,
+      "explanation": "A falseabilidade de Popper é um dos três critérios que validam uma teoria da personalidade, ao lado da utilidade prática e da capacidade heurística. Uma teoria que explica absolutamente tudo e nunca pode ser refutada por dados perde o caráter de ciência rigorosa."
+    },
+    {
+      "question": "A sigla W.E.I.R.D., usada na crítica ao viés amostral da psicologia, designa populações:",
+      "options": [
+        "Ocidentais, instruídas, industrializadas, ricas e democráticas",
+        "Ocidentais, endógamas, individualistas, rurais e distantes",
+        "Orientais, escolarizadas, integradas, religiosas e diversas",
+        "Ocidentais, elitizadas, isoladas, resilientes e dominantes"
+      ],
+      "correctIndex": 0,
+      "explanation": "W.E.I.R.D. é o acrônimo de Western, Educated, Industrialized, Rich and Democratic. A maior parte das teorias clássicas foi construída sobre amostras desse perfil e depois aplicada como se fossem leis universais para toda a humanidade."
+    },
+    {
+      "question": "Traços avaliados como passividade, agressividade ou desadaptação por testes padronizados internacionais podem ser lidos, pela escuta decolonial, como:",
+      "options": [
+        "Estratégias de sobrevivência e modos de vida legítimos",
+        "Sinais precoces de transtorno de personalidade grave",
+        "Erros de preenchimento que invalidam todo o protocolo",
+        "Traços universais que confirmam a validade do teste"
+      ],
+      "correctIndex": 0,
+      "explanation": "A decolonialidade exige que a cultura local não seja vista como desvio, e sim como o solo de onde a personalidade brota. Modos de vida de povos indígenas, quilombolas ou periféricos podem ser patologizados por instrumentos construídos em outro contexto."
+    },
+    {
+      "question": "O conceito de neurodiversidade entende condições como o Transtorno do Espectro Autista e o TDAH como:",
+      "options": [
+        "Variações naturais e saudáveis do genoma humano",
+        "Doenças degenerativas que exigem cura definitiva",
+        "Desvios morais produzidos por falhas de criação",
+        "Quadros transitórios que remitem na vida adulta"
+      ],
+      "correctIndex": 0,
+      "explanation": "A neurodiversidade trata variações do funcionamento neurológico como parte natural da diversidade humana, e não como defeito. O foco da intervenção desloca-se de consertar o defeito para promover acessibilidade e respeito a outra forma de vivenciar o mundo."
+    },
+    {
+      "question": "Quais são os dois eixos contemporâneos que permitem diferenciar uma variação individual saudável de um transtorno mental que exige tratamento?",
+      "options": [
+        "Sofrimento subjetivo intenso e prejuízo funcional rígido",
+        "Desvio estatístico da média e raridade do comportamento",
+        "Reprovação social do grupo e queixa trazida pela família",
+        "Duração acima de seis meses e presença de sintoma físico"
+      ],
+      "correctIndex": 0,
+      "explanation": "O critério não é o desvio da média, e sim se o modo de funcionar causa sofrimento íntimo paralisante e se impede o sujeito de trabalhar, amar e manter laços. Quem difere da média mas é flexível, está bem e mantém vínculos está no campo da diversidade."
+    },
+    {
+      "question": "O modelo topográfico formulado por Freud em 1900, a primeira tópica, divide o aparelho psíquico em:",
+      "options": [
+        "Consciente, pré-consciente e inconsciente",
+        "Id, ego e superego, em conflito dinâmico",
+        "Ego, inconsciente pessoal e coletivo",
+        "Persona, sombra e Self, como arquétipos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A primeira tópica descreve três camadas: o consciente, de acesso direto; o pré-consciente, de memórias evocáveis com esforço de atenção; e o inconsciente, reservatório de desejos censurados e impulsos recalcados, regido pelo processo primário."
+    },
+    {
+      "question": "O modelo estrutural de 1923, a segunda tópica freudiana, apresenta a personalidade como a dinâmica de forças entre quais instâncias?",
+      "options": [
+        "Id, ego e superego, em tensão permanente",
+        "Consciente, pré-consciente e inconsciente",
+        "Persona, sombra, anima e Self integrados",
+        "Seio bom, seio mau e objeto já integrado"
+      ],
+      "correctIndex": 0,
+      "explanation": "A segunda tópica não substitui a primeira: as duas são complementares. Nela, a personalidade é o resultado da tensão entre o id, o ego e o superego, cada um operando sob uma lógica própria."
+    },
+    {
+      "question": "Qual instância psíquica é totalmente inconsciente, movida pelo princípio do prazer, e não conhece moralidade nem lógica?",
+      "options": [
+        "O id, matriz original da personalidade",
+        "O ego, mediador com a realidade externa",
+        "O superego, juiz interno e moral",
+        "O pré-consciente, arquivo evocável"
+      ],
+      "correctIndex": 0,
+      "explanation": "O id é a matriz original da personalidade e exige satisfação imediata dos impulsos biológicos e sexuais (libido). É o ego, e não o id, que opera sob o princípio da realidade, buscando satisfazer esses desejos de modo seguro e socialmente aceitável."
+    },
+    {
+      "question": "O superego se forma pela internalização das normas parentais e culturais no desfecho do Complexo de Édipo. O que ele contém e como age sobre o ego?",
+      "options": [
+        "Ideal do ego e consciência moral; pune o ego com culpa",
+        "Princípio do prazer e libido bruta; exige gozo imediato",
+        "Processo primário e recalque; devolve o desejo à cena",
+        "Inconsciente coletivo e arquétipos; herda toda a espécie"
+      ],
+      "correctIndex": 0,
+      "explanation": "O superego é o juiz interno: abriga o ideal do ego e a consciência moral, e pune o ego com culpa quando as regras são violadas. É por isso que o ego vive pressionado por três frentes — id, superego e realidade externa."
+    },
+    {
+      "question": "Sentir com convicção que ele me odeia quando o sentimento inaceitável de ódio é do próprio sujeito exemplifica qual mecanismo de defesa?",
+      "options": [
+        "Projeção, que atribui ao outro o próprio afeto",
+        "Sublimação, que desvia a pulsão para a arte",
+        "Recalque, que empurra o desejo ao inconsciente",
+        "Formação reativa, que inverte o desejo real"
+      ],
+      "correctIndex": 0,
+      "explanation": "A projeção atribui a outro indivíduo sentimentos ou desejos inaceitáveis do próprio sujeito. Como todo mecanismo de defesa, é acionada de forma inconsciente pelo ego e distorce a realidade para reduzir a angústia."
+    },
+    {
+      "question": "Transformar a agressividade em prática esportiva ou em produção artística corresponde a qual mecanismo de defesa do ego?",
+      "options": [
+        "Sublimação, desvio da pulsão para fins valorizados",
+        "Projeção, atribuição do próprio afeto a outra pessoa",
+        "Recalque, expulsão do desejo para o inconsciente",
+        "Formação reativa, adoção do comportamento oposto"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sublimação desvia a energia pulsional para fins socialmente valorizados. Difere da formação reativa, em que o sujeito adota o comportamento contrário ao desejo reprimido — como demonstrar carinho excessivo por quem secretamente detesta."
+    },
+    {
+      "question": "Traços de organização, teimosia, avareza ou generosidade são associados por Freud ao desfecho de qual fase do desenvolvimento psicossexual?",
+      "options": [
+        "Fase anal, do controle dos esfíncteres",
+        "Fase oral, da amamentação e do desmame",
+        "Fase fálica, do Complexo de Édipo",
+        "Fase genital, da escolha de parceiros"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na fase anal, entre 1 e 3 anos, a libido se concentra no controle dos esfíncteres, e o modo como o treino de higiene ocorre molda esses traços. A fase oral, dos 0 ao 1 ano, é a que molda dependência, otimismo ou sarcasmo pelo desmame."
+    },
+    {
+      "question": "A resolução bem-sucedida da fase fálica, palco do Complexo de Édipo entre os 3 e os 6 anos, dota o sujeito de:",
+      "options": [
+        "Um superego funcional e uma identidade de gênero",
+        "Um ego auxiliar e uma libido inteiramente oral",
+        "Um id pacificado e uma consciência ampliada",
+        "Um falso-self robusto e uma persona ajustada"
+      ],
+      "correctIndex": 0,
+      "explanation": "É na fase fálica que a internalização das normas parentais constitui o superego e se firma a identidade de gênero. Depois dela vem a latência, com aquietamento das pulsões e foco na socialização e no aprendizado intelectual."
+    },
+    {
+      "question": "A camada mais profunda da psique descrita por Jung, que não depende da experiência pessoal e constitui herança filogenética compartilhada por todos os humanos, é:",
+      "options": [
+        "O inconsciente coletivo, repositório dos arquétipos",
+        "O inconsciente pessoal, onde nascem os complexos",
+        "O pré-consciente, arquivo de memórias evocáveis",
+        "O ego consciente, centro do senso de identidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "O inconsciente coletivo é a maior inovação teórica de Jung: estrutura universal independente de época e cultura, que abriga os arquétipos — moldes e imagens primordiais que orientam a reação humana ao nascimento, à morte, ao perigo e ao amor."
+    },
+    {
+      "question": "Os traços, desejos e impulsos que o sujeito considera inferiores ou incompatíveis com sua autoimagem idealizada — e que costuma projetar nos outros, gerando preconceitos — formam qual arquétipo?",
+      "options": [
+        "A sombra, oposta à persona social",
+        "A persona, interface de adaptação",
+        "O animus, contraparte masculina",
+        "O Self, arquétipo da totalidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sombra é o oposto da persona e concentra o que o sujeito recusa em si. Enquanto não é integrada, tende a ser projetada em outras pessoas, o que alimenta preconceitos e intolerâncias."
+    },
+    {
+      "question": "Qual arquétipo é descrito como o centro regulador da personalidade, responsável pela ordem, pela totalidade e pelo equilíbrio entre consciente e inconsciente?",
+      "options": [
+        "O Self, ou Si-Mesmo, arquétipo da totalidade",
+        "A persona, arquétipo da adaptação social",
+        "A sombra, arquétipo do que é recusado",
+        "O animus, arquétipo da lógica e da ação"
+      ],
+      "correctIndex": 0,
+      "explanation": "O Self é o arquétipo da ordem e da unificação da psique e atua como verdadeiro centro da personalidade — não o ego, que é apenas o centro da consciência. É em torno do Self que a individuação se organiza."
+    },
+    {
+      "question": "O processo de individuação, eixo central da clínica junguiana, tem como meta:",
+      "options": [
+        "A completude, integrando as forças opostas da psique",
+        "A perfeição moral, eliminando a sombra do sujeito",
+        "A normalidade estatística, ajustando-se ao padrão",
+        "A adaptação social plena, reforçando a persona"
+      ],
+      "correctIndex": 0,
+      "explanation": "A individuação exige reconhecer a persona sem ser engolido por ela, encarar a própria sombra retirando as projeções e integrar anima e animus. Não busca perfeição nem normalidade estatística, mas completude: fazer as pazes com as forças opostas internas."
+    },
+    {
+      "question": "Na posição esquizoparanoide descrita por Melanie Klein, como o ego primitivo do bebê se defende da angústia de aniquilamento?",
+      "options": [
+        "Cinde o seio em bom e mau, com medo persecutório",
+        "Integra o objeto materno, com culpa e ambivalência",
+        "Repara o dano causado, com empatia e sublimação",
+        "Aceita o holding do ambiente, com onipotência"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nos primeiros meses, o bebê ainda não concebe que a mesma pessoa possa ser boa e má, então cinde o seio materno em seio bom e seio mau. Ao projetar sua agressividade inata no seio mau, passa a temer ser atacado por ele — o medo persecutório do tudo ou nada."
+    },
+    {
+      "question": "O que caracteriza a passagem para a posição depressiva descrita por Melanie Klein?",
+      "options": [
+        "O bebê integra o objeto e teme ter destruído a mãe boa",
+        "O bebê cinde o objeto e teme ser destruído por ele",
+        "O bebê perde o ego primitivo e regride à cisão total",
+        "O bebê adota o falso-self para agradar a cuidadora"
+      ],
+      "correctIndex": 0,
+      "explanation": "Por volta de meados do primeiro ano, o bebê percebe que seio bom e seio mau pertencem à mesma mãe. O medo de ser destruído cede lugar ao medo de ter destruído a mãe boa, surgindo a culpa e a ambivalência — amar e odiar a mesma pessoa."
+    },
+    {
+      "question": "A frase não existe essa coisa chamada bebê, o que existe é um bebê e alguém sintetiza a posição teórica de qual autor?",
+      "options": [
+        "Donald Winnicott",
+        "Carl Gustav Jung",
+        "Gordon Allport",
+        "Melanie Klein"
+      ],
+      "correctIndex": 0,
+      "explanation": "Winnicott, pediatra de formação, desloca o olhar das fantasias internas do bebê para a relação real da dupla mãe-bebê. Para ele, o bebê só existe dentro de um ambiente de cuidado, nunca isoladamente."
+    },
+    {
+      "question": "O que define a mãe suficientemente boa na teoria de Winnicott?",
+      "options": [
+        "Adapta-se ao bebê e depois falha em doses toleráveis",
+        "Adapta-se perfeitamente ao bebê e nunca o frustra",
+        "Frustra o bebê desde o início para ensinar limites",
+        "Delega o cuidado para preservar a espontaneidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Não é a mãe perfeita — a perfeição gera rigidez. É a que se adapta totalmente no início, dando ao bebê a ilusão de onipotência, e depois introduz frustrações graduais e toleráveis. Essa falha amorosa é o que empurra a criança a reconhecer a realidade externa."
+    },
+    {
+      "question": "A personalidade organizada em torno do falso-self, segundo Winnicott, resulta de qual condição ambiental?",
+      "options": [
+        "Ambiente que exige do bebê adaptação às vontades da mãe",
+        "Ambiente seguro que valida os gestos espontâneos do bebê",
+        "Herança genética de um temperamento pouco reativo ao medo",
+        "Fixação na fase anal por treino de higiene muito rígido"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quando o ambiente falha repetidamente e exige que o bebê se adapte aos humores da mãe, ele aprende a adivinhar o que ela quer para não ser abandonado. Forma-se então uma máscara de submissão e adequação social perfeita — o bebê bonzinho que nunca chora."
+    },
+    {
+      "question": "Qual diferença de foco separa Melanie Klein de Donald Winnicott dentro da escola das relações objetais?",
+      "options": [
+        "Klein enfatiza a fantasia interna; Winnicott, a relação real",
+        "Winnicott enfatiza a pulsão de morte; Klein, o meio externo",
+        "Klein estuda o adulto neurótico; Winnicott, o adulto psicótico",
+        "Winnicott descreve as posições; Klein descreve o holding"
+      ],
+      "correctIndex": 0,
+      "explanation": "Klein se concentra nas fantasias inconscientes do bebê e nas posições esquizoparanoide e depressiva. Winnicott desloca o olhar para a relação concreta da dupla mãe-bebê e para a qualidade do ambiente facilitador que sustenta o desenvolvimento."
+    },
+    {
+      "question": "Qual é a principal inovação de Jung em relação ao modelo freudiano do inconsciente?",
+      "options": [
+        "Postular um inconsciente coletivo, herdado por toda a espécie",
+        "Postular que o inconsciente guarda apenas o que foi recalcado",
+        "Negar a existência de qualquer camada inconsciente na psique",
+        "Reduzir o psiquismo às fases da libido e às zonas erógenas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Além do inconsciente pessoal, comparável ao território freudiano do recalcado, Jung postula uma camada coletiva de herança filogenética. Com isso a psique deixa de apenas mediar conflitos e passa a caminhar ativamente rumo ao desenvolvimento do potencial humano."
+    }
+  ]
+}

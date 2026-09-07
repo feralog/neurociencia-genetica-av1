@@ -1,0 +1,412 @@
+{
+  "titulo": "Cognição Social",
+  "eyebrow": "Psicologia Social · Cognição",
+  "subtitulo": "Como pensamos, julgamos e explicamos as outras pessoas",
+  "intro": "Schemas, atribuições causais de Weiner, profecia autorrealizante, heurísticas e vieses de julgamento, além dos processos de atenção, memória e inferência que sustentam a cognição social.",
+  "questoes": [
+    {
+      "question": "Cognição social é definida como o conjunto de quais processos?",
+      "options": [
+        "Os processos cognitivos pelos quais compreendemos e explicamos os outros e a nós mesmos",
+        "Os processos afetivos pelos quais regulamos a emoção diante de estranhos e de amigos",
+        "Os processos grupais pelos quais uma coletividade transmite normas e valores aos membros",
+        "Os processos perceptivos pelos quais identificamos objetos físicos no ambiente imediato"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cognição social é o pensar do indivíduo a respeito de si próprio e dos outros, ocorrendo de forma instantânea e quase automática, embora também possa envolver análises lentas. A ênfase inicial esteve no pensar, mas sentimentos e comportamentos foram associados depois, originando a distinção entre cognição quente e cognição fria."
+    },
+    {
+      "question": "Schemas, um dos dois elementos básicos da cognição social, são melhor descritos como:",
+      "options": [
+        "Estruturas cognitivas que organizam conhecimentos sobre conceitos, objetos e eventos",
+        "Impulsos afetivos que bloqueiam conhecimentos sobre conceitos, objetos e eventos",
+        "Regras morais explícitas que hierarquizam conceitos, objetos e eventos socialmente",
+        "Reflexos inatos que independem de conceitos, objetos e eventos já experimentados"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fiske define schemas como estruturas cognitivas compostas de conhecimentos sobre conceitos, objetos ou eventos, representados por atributos e pelas relações entre eles. Expressam pré-concepções ou teorias e são construídos a partir de experiências sociais anteriores, socialização, filmes, séries e livros. O outro elemento básico da cognição social são as atribuições."
+    },
+    {
+      "question": "Qual é o efeito dos schemas sobre o processamento das informações sociais?",
+      "options": [
+        "Influenciam como codificamos, relembramos e julgamos, e dirigem a nossa atenção",
+        "Impedem a codificação de dados novos, mas preservam a memória e a atenção",
+        "Atuam só na recuperação da memória, sem tocar a codificação nem a atenção",
+        "Reduzem o julgamento a um cálculo lento, deliberado e independente da atenção"
+      ],
+      "correctIndex": 0,
+      "explanation": "Schemas influenciam a maneira como codificamos, relembramos e julgamos as informações a que temos acesso, e também dirigem a atenção para determinados aspectos dessas informações. Permitem julgamentos automáticos, simplificados e polarizados, feitos on-line, sem que tenhamos consciência de que estão operando."
+    },
+    {
+      "question": "O que pode romper ou diminuir a influência dos schemas e estereótipos na percepção do outro?",
+      "options": [
+        "Mais atenção e mais motivação para ir além das reações automáticas",
+        "Menos tempo disponível e maior sobrecarga cognitiva no momento",
+        "Mais cansaço e menos informação individual sobre a pessoa alvo",
+        "Menos contato com a pessoa e mais confiança na primeira impressão"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os fatores que diminuem a influência de schemas e estereótipos são mais atenção e mais motivação, permitindo ir além das reações automáticas. O oposto — pouco tempo, sobrecarga cognitiva e cansaço — faz predominar o schema sobre as evidências individualizadoras a respeito daquela pessoa."
+    },
+    {
+      "question": "Os schemas que reúnem comportamentos e atributos esperados de quem ocupa uma posição social equivalem a:",
+      "options": [
+        "Estereótipos, com os atributos esperados de chefes, líderes ou professores",
+        "Self-schemas, com os atributos que compõem o autoconceito de cada pessoa",
+        "Scripts de situação, com a conduta esperada num restaurante ou no cinema",
+        "Schemas de objetivo social, como os de vingança, de sedução e de ajuda"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os schemas sobre papéis sociais contêm os comportamentos e atributos que esperamos de quem ocupa determinadas posições — chefes, líderes, professores, políticos — e são equivalentes a estereótipos. Scripts descrevem a conduta esperada em situações, e self-schemas formam a base do autoconceito."
+    },
+    {
+      "question": "Qual é apontada como a categoria mais forte da percepção social, sempre gerando julgamento favorável ao próprio grupo?",
+      "options": [
+        "A divisão entre nós e eles, que separa o intragrupo do grupo de fora",
+        "A divisão entre jovens e velhos, que separa gerações sucessivas",
+        "A divisão entre ricos e pobres, que separa as classes econômicas",
+        "A divisão entre homens e mulheres, que separa papéis de gênero"
+      ],
+      "correctIndex": 0,
+      "explanation": "A categoria mais forte que existe é nós versus eles, uma divisão intergrupos que sempre desencadeia julgamentos positivos para o próprio grupo e negativos para os de fora. Esse viés intragrupo foi documentado por Brewer (1979) e por Mullen, Brown e Smith (1992)."
+    },
+    {
+      "question": "Um professor decide entrar na sala vestido de palhaço e todos os olhares se voltam para ele. Que fator captura a atenção nesse caso?",
+      "options": [
+        "A inconsistência entre o comportamento e o schema daquele papel",
+        "A consistência entre o comportamento e o schema daquele papel",
+        "A repetição do comportamento em várias situações semelhantes",
+        "A semelhança do comportamento com o de outros profissionais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Qualquer comportamento que vá de encontro ao conhecimento prévio que temos de papéis ou de pessoas chama nossa atenção: a inconsistência com o schema é saliente. Fiske (1995) usa exatamente o professor vestido de palhaço como caso típico de contraste entre o comportamento e o schema de papel."
+    },
+    {
+      "question": "Três grupos leram a mesma história sobre Cris, mudando apenas a abertura: gravidez indesejada, candidato a atleta ou nenhuma introdução. O que a pesquisa encontrou meia hora depois?",
+      "options": [
+        "Os grupos com introdução relembraram mais detalhes e com menos erros",
+        "Os grupos com introdução relembraram menos detalhes e com mais erros",
+        "Os três grupos relembraram a mesma quantidade de detalhes da história",
+        "O grupo sem introdução relembrou a história na ordem mais fiel de todas"
+      ],
+      "correctIndex": 0,
+      "explanation": "No estudo de Owens, Bower e Black (1979), os dois grupos cujas histórias ativaram schemas distintos relembraram mais detalhes, na ordem correta e com menos erros e acréscimos do que o grupo controle. Os schemas ativados dirigem a atenção para detalhes cruciais, guiam a memória e influenciam o julgamento."
+    },
+    {
+      "question": "Um rapaz acredita ser socialmente desajeitado e que ninguém gostará dele na festa. Chega calado, evita contato visual e não puxa conversa; os outros leem isso como frieza e se afastam, e ele conclui que estava certo. O fenômeno é:",
+      "options": [
+        "A profecia autorrealizante, com a expectativa gerando o próprio resultado",
+        "A heurística da representatividade, com a semelhança guiando a estimativa",
+        "A atribuição intrapessoal, com a busca de causa para o próprio resultado",
+        "A ilusão do agrupamento, com a ordem percebida em sequências aleatórias"
+      ],
+      "correctIndex": 0,
+      "explanation": "A profecia autorrealizante ocorre quando a expectativa termina por provocar o próprio comportamento que originalmente se antecipava. A crença de ser desajeitado produz uma conduta reservada, que os outros interpretam como desinteresse, e a resposta fria deles confirma a crença inicial, fechando o ciclo."
+    },
+    {
+      "question": "Uma professora julga que certo aluno não tem capacidade. Passa a lhe dar menos tempo de resposta e tarefas menos desafiadoras, e ele de fato rende pouco. O que caracteriza o caso como profecia autorrealizante?",
+      "options": [
+        "Houve um mecanismo que converteu a expectativa em ação confirmatória",
+        "Houve uma coincidência estatística entre a previsão e o desempenho",
+        "Houve uma causa externa, instável e incontrolável para o mau resultado",
+        "Houve uma inferência correta a partir de dados completos e comparados"
+      ],
+      "correctIndex": 0,
+      "explanation": "Só existe profecia autorrealizante quando algum mecanismo transforma a expectativa em ação confirmatória, muitas vezes de modo inconsciente para quem tem a expectativa inicial. Sem esse mecanismo, não há profecia. Por não acreditar na capacidade do aprendiz, o docente age de forma que induz a não aprendizagem."
+    },
+    {
+      "question": "Observe o ciclo representado na figura. Qual é a sequência correta das etapas?",
+      "options": [
+        "Esquema e crenças, expectativas, comportamentos, resultados, e volta a confirmar",
+        "Comportamentos, esquema e crenças, resultados, expectativas, e volta a confirmar",
+        "Expectativas, resultados, esquema e crenças, comportamentos, e volta a confirmar",
+        "Resultados, comportamentos, expectativas, esquema e crenças, e volta a confirmar"
+      ],
+      "correctIndex": 0,
+      "explanation": "O esquema ou crença influencia as expectativas, que influenciam os comportamentos, que produzem resultados, e esses resultados voltam a confirmar o esquema inicial. É esse fechamento circular que faz da expectativa uma causa do próprio resultado observado.",
+      "image": "pg15",
+      "imageCaption": "Ciclo da profecia autorrealizante"
+    },
+    {
+      "question": "Um motorista fecha você no trânsito e a conclusão imediata é que ele é uma pessoa agressiva, sem cogitar que possa estar com pressa. Que tipo de atribuição foi feita?",
+      "options": [
+        "Interna, por situar a causa numa disposição do próprio motorista",
+        "Externa, por situar a causa numa circunstância do trânsito daquele dia",
+        "Instável, por situar a causa num estado que muda de um dia para o outro",
+        "Controlável, por situar a causa em algo que a vítima poderia ter evitado"
+      ],
+      "correctIndex": 0,
+      "explanation": "O comportamento do outro chama a atenção e desencadeia uma busca automática por uma causa. Julgar que a pessoa é agressiva é atribuição interna, ligada à disposição dela; considerar que está com pressa seria atribuição externa, ligada à situação. A tendência é privilegiar a explicação disposicional."
+    },
+    {
+      "question": "Weiner propõe duas teorias de atribuição causal. O que distingue a intrapessoal da interpessoal?",
+      "options": [
+        "A intrapessoal explica o próprio comportamento; a interpessoal, o dos outros",
+        "A intrapessoal explica o comportamento do grupo; a interpessoal, o do país",
+        "A intrapessoal explica causas externas; a interpessoal, apenas as internas",
+        "A intrapessoal explica emoções positivas; a interpessoal, só as negativas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weiner (2000, 2005) distingue a teoria da atribuição intrapessoal, que descreve as causas a que o indivíduo recorre para explicar os próprios comportamentos, da teoria da atribuição interpessoal, voltada aos comportamentos dos outros. Ambas usam as mesmas três dimensões causais, mas com consequências diferentes."
+    },
+    {
+      "question": "No modelo de Weiner, em que espaço tridimensional as causas atribuídas são enquadradas?",
+      "options": [
+        "Locus, estabilidade e controlabilidade da causa atribuída",
+        "Saliência, frequência e desejabilidade da causa atribuída",
+        "Intensidade, duração e valência da emoção desencadeada",
+        "Atenção, memória e inferência do observador da situação"
+      ],
+      "correctIndex": 0,
+      "explanation": "As causas são descritas por locus (interno ou externo), estabilidade (estável ou instável) e controlabilidade (controlável ou incontrolável). Esse enquadramento importa porque cada combinação gera expectativas e reações afetivas distintas, e são elas os principais determinantes motivacionais da ação."
+    },
+    {
+      "question": "Um candidato aprovado num concurso conclui que venceu por sua competência inata. Como essa causa se define nas três dimensões?",
+      "options": [
+        "Interna, estável e incontrolável",
+        "Externa, estável e controlável",
+        "Interna, instável e controlável",
+        "Externa, instável e incontrolável"
+      ],
+      "correctIndex": 0,
+      "explanation": "A aptidão é interna porque é propriedade do indivíduo, estável porque é permanente e constante, e incontrolável porque a capacidade inata não depende da vontade dele. Atribuir o sucesso à aptidão gera expectativa alta de sucesso futuro e emoções positivas."
+    },
+    {
+      "question": "Outro aprovado no mesmo concurso atribui o resultado ao esforço que dedicou aos estudos. Essa causa é classificada como:",
+      "options": [
+        "Interna, instável e controlável",
+        "Interna, estável e incontrolável",
+        "Externa, instável e incontrolável",
+        "Externa, estável e controlável"
+      ],
+      "correctIndex": 0,
+      "explanation": "O esforço é interno porque parte do indivíduo, instável porque varia de uma ocasião para outra, e controlável porque ele decide o quanto se dedica. Nas causas externas ficam acaso, sorte e ajuda, todas instáveis e incontroláveis."
+    },
+    {
+      "question": "Uma estudante reprova e conclui que simplesmente não tem aptidão para a área. Que consequências o modelo intrapessoal prevê?",
+      "options": [
+        "Vergonha e humilhação, com expectativa muito baixa de sucesso futuro",
+        "Culpa passageira, com boas expectativas de sucesso na próxima tentativa",
+        "Alegria contida, com incerteza sobre a habilidade nas tarefas seguintes",
+        "Apreensão moderada, com expectativa alta de reverter o quadro em breve"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fracasso atribuído à falta de aptidão gera vergonha, humilhação e embaraço, além de nenhuma expectativa de reverter a situação, porque a causa é interna, estável e incontrolável. Já o fracasso atribuído à falta de esforço produz baixa autoestima e culpa passageiras, com a expectativa de sucesso preservada."
+    },
+    {
+      "question": "Na figura reproduzida, em que condição o indivíduo dispara a busca por causas depois da reação afetiva inicial?",
+      "options": [
+        "Quando o evento é negativo, inesperado ou importante para ele",
+        "Quando o evento é positivo, previsível e de pouca importância",
+        "Quando o evento envolve outra pessoa observada numa tarefa",
+        "Quando o evento se repete pelo menos três vezes em sequência"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eventos que significam alcançar ou não um objetivo provocam automaticamente reações afetivas positivas ou negativas, sem interferência cognitiva. Só a partir daí, e apenas se o evento for negativo, inesperado ou muito importante, é que se desencadeia o processo de atribuição no espaço tridimensional.",
+      "image": "f2_pg10",
+      "imageCaption": "Modelo da atribuição intrapessoal"
+    },
+    {
+      "question": "No esquema reproduzido, o que decide entre a reação de raiva e a de simpatia diante do fracasso alheio?",
+      "options": [
+        "Se o observador considera o outro responsável ou não pela causa",
+        "Se o evento atingiu ou não os objetivos pessoais do observador",
+        "Se a causa apontada é estável ou instável ao longo do tempo",
+        "Se o observador tem ou não um schema prévio sobre aquele grupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na atribuição interpessoal, a dimensionalidade da causa serve apenas para decidir se o outro é responsável pelo evento. Julgado responsável, seguem-se raiva e condutas de reprimenda, condenação, abandono ou retaliação; julgado não responsável, seguem-se simpatia, ajuda e ausência de retaliação.",
+      "image": "pg18",
+      "imageCaption": "Modelo da atribuição interpessoal"
+    },
+    {
+      "question": "Diante do fracasso alheio, que reação a atribuição à falta de esforço produz, em contraste com a atribuição à falta de aptidão?",
+      "options": [
+        "Raiva e reprimenda, porque o outro é percebido como responsável",
+        "Simpatia e ajuda, porque o outro é percebido como não responsável",
+        "Culpa e vergonha, porque o observador se compara ao que fracassou",
+        "Alívio e alegria, porque o observador se percebe como mais capaz"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aqui os dois modelos se invertem. Para quem fracassou, atribuir à falta de esforço é melhor do que atribuir à falta de aptidão: gera emoções negativas passageiras e mantém a esperança. Para o observador, a falta de esforço torna o outro responsável e provoca raiva, enquanto a falta de aptidão gera simpatia."
+    },
+    {
+      "question": "Fiske e Taylor descrevem as pessoas como avarentas cognitivas. O que a expressão significa?",
+      "options": [
+        "Poupam esforço mental e preferem atalhos a análises minuciosas",
+        "São incapazes de realizar qualquer trabalho cognitivo complexo",
+        "Guardam informações sobre os outros e evitam compartilhá-las",
+        "Investem esforço máximo em toda decisão, por menor que seja"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Fiske e Taylor (1991, 2008), as pessoas procuram render ao máximo o pouco esforço cognitivo que exercem: não é incapacidade, pois realizam trabalhos complexos quando julgam necessário. Como o mundo social é complicado, preferem atalhos, simplificações e aproximações a análises bem fundamentadas."
+    },
+    {
+      "question": "Ao formar impressão sobre alguém, o observador percebe também a si próprio, e a pessoa observada devolve a percepção. Esses dois princípios da cognição social se chamam:",
+      "options": [
+        "Percepção mútua e centralidade do eu",
+        "Orientação para processos e saliência",
+        "Avareza cognitiva e teoria da mente",
+        "Qualidade da percepção e inferência"
+      ],
+      "correctIndex": 0,
+      "explanation": "A percepção mútua faz da cognição social um processo de mão dupla: quem é observado também observa. Uma consequência disso é a centralidade do eu — as reações que a pessoa julga perceber nos outros definem também o que ela é, sendo inevitável o envolvimento do eu de quem percebe."
+    },
+    {
+      "question": "O modelo do indivíduo como ator-ativado, mais recente na cognição social, sustenta que:",
+      "options": [
+        "Associações inconscientes ativam cognições, afetos e comportamentos",
+        "Toda ação social decorre de deliberação consciente e voluntária",
+        "As emoções só surgem depois de uma análise causal detalhada",
+        "Os schemas desaparecem quando o observador está motivado"
+      ],
+      "correctIndex": 0,
+      "explanation": "O modelo do ator-ativado considera que predominam processos afetivos e comportamentais automáticos, não acessíveis à consciência. Associações inconscientes ativadas em milésimos de segundo preparam cognições, avaliações, afetos e motivações — os chamados efeitos de priming, estudados por Dijksterhuis e Bargh (2001)."
+    },
+    {
+      "question": "No teste de falsa crença, a criança vê Sally guardar doces sob a almofada e Ana trocá-los para o bolso enquanto Sally está fora. Antes dos quatro anos e meio, a criança responde que Sally procurará:",
+      "options": [
+        "No bolso de Ana, pois supõe que todos creem no que ela mesma viu",
+        "Sob a almofada, pois já distingue a crença de Sally da sua própria",
+        "Nos dois lugares, pois ainda não fixou o local na sua memória",
+        "Em lugar nenhum, pois não atribui intenções a bonecos de brinquedo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antes dos quatro anos e meio a criança responde no bolso de Ana, resposta típica de quem ainda não desenvolveu teoria da mente: ela não concebe que outros tenham crenças diferentes das suas. Depois dessa idade passa a responder que Sally acredita que os doces estão sob a almofada, e só então aprende a mentir."
+    },
+    {
+      "question": "Axelrod apontou três condições que, juntas, neutralizam o problema dos aproveitadores nos grupos. Uma delas é que:",
+      "options": [
+        "Os organismos se reencontram repetidas vezes ao longo do tempo",
+        "Os organismos migram continuamente para grupos desconhecidos",
+        "Os organismos dividem os recursos em partes exatamente iguais",
+        "Os organismos punem apenas quem pertence a outro grupo social"
+      ],
+      "correctIndex": 0,
+      "explanation": "Axelrod (1984) listou três condições: encontrar repetidamente os mesmos organismos, reconhecer quem já foi encontrado antes e ter memória suficiente para lembrar como cada um se comportou nesses encontros. Com elas, aproveitadores podem ser punidos e cooperadores recompensados, viabilizando o altruísmo recíproco."
+    },
+    {
+      "question": "Dunbar contestou a tese de que a linguagem evoluiu para trocar informações sobre o ambiente físico. Para ele, a função básica da linguagem é:",
+      "options": [
+        "Trocar informações sociais sobre quem merece ou não confiança",
+        "Coordenar a caça de grandes presas em ambientes muito abertos",
+        "Transmitir técnicas de fabricação de ferramentas entre gerações",
+        "Avisar o grupo sobre predadores durante a escuridão da noite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dunbar (2004) propôs que a linguagem evoluiu para a troca de informações sobre o ambiente social. Em grupos grandes o altruísmo recíproco só funciona se houver informação sobre quem é confiável, e a experiência direta não basta. Daí o fascínio humano pela fofoca, forma mais eficaz de obter essa informação."
+    },
+    {
+      "question": "Estudantes avaliaram três sequências de nascimentos (HHHHHH, HHHMMM e MHHMMH) e a maioria julgou a terceira mais provável, embora as três tenham probabilidade quase idêntica. O atalho responsável é:",
+      "options": [
+        "A heurística da representatividade, que exige aparência de aleatoriedade",
+        "A atribuição intrapessoal, que exige uma causa para o evento inesperado",
+        "A profecia autorrealizante, que exige um mecanismo de confirmação ativa",
+        "A saliência do estímulo, que exige contraste com o contexto imediato"
+      ],
+      "correctIndex": 0,
+      "explanation": "No estudo de Tversky e Kahneman (1973), a terceira sequência foi julgada mais provável por parecer mais representativa de um processo aleatório. A heurística da representatividade faz esperar que o exemplar se pareça com a categoria, que os efeitos se assemelhem às causas e que o acaso tenha aparência desordenada."
+    },
+    {
+      "question": "Depois de uma longa sequência de números baixos nos dados, o jogador aposta que o próximo será alto, porque assim a série pareceria mais aleatória. Trata-se da:",
+      "options": [
+        "Falácia do jogador, apoiada na heurística da representatividade",
+        "Ilusão do agrupamento, apoiada na atribuição de causas externas",
+        "Confirmação positiva, apoiada na busca deliberada de casos favoráveis",
+        "Profecia autorrealizante, apoiada na expectativa que gera a conduta"
+      ],
+      "correctIndex": 0,
+      "explanation": "A falácia do jogador nasce da mesma raiz das sequências de nascimentos: o julgamento de que o resultado seguinte deve tornar a série mais representativa de um processo aleatório. É a heurística da representatividade aplicada ao acaso, ignorando que cada lançamento é independente dos anteriores."
+    },
+    {
+      "question": "Funcionários de uma maternidade notam vários meninos seguidos e depois várias meninas, e atribuem o padrão às fases da lua. Esse fenômeno é chamado de:",
+      "options": [
+        "Ilusão do agrupamento, ver ordem onde só existe acaso",
+        "Avareza cognitiva, poupar esforço em decisões difíceis",
+        "Centralidade do eu, incluir o observador no julgamento",
+        "Atribuição interpessoal, julgar a responsabilidade alheia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tendemos a ver ordem onde não existe nenhuma e a perceber um processo coerente onde há apenas acaso — os testes projetivos exploram essa propensão. A ilusão do agrupamento aparece também na face vista na lua, nos canais de Marte e em imagens percebidas em nuvens e madeiras."
+    },
+    {
+      "question": "Muita gente conclui que a moeda está viciada ao ver poucos lançamentos com divisão desequilibrada entre cara e coroa. Onde está o erro de julgamento?",
+      "options": [
+        "Esperar a divisão meio a meio, que só se firma em muitos lançamentos",
+        "Esperar sequências desequilibradas, impossíveis em qualquer amostra",
+        "Supor que a moeda tem memória dos resultados já obtidos até agora",
+        "Supor que cada face tem probabilidade diferente a cada lançamento"
+      ],
+      "correctIndex": 0,
+      "explanation": "O aspecto saliente de uma moeda é o resultado esperado de metade cara e metade coroa, e essa expectativa é comparada automaticamente com a sequência obtida. A lei dos grandes números assegura a divisão de cinquenta por cento apenas no longo prazo; em poucos lançamentos, séries desequilibradas são perfeitamente possíveis."
+    },
+    {
+      "question": "Na tabela reproduzida, o que representa exatamente a célula C?",
+      "options": [
+        "Pacientes que receberam placebo e mesmo assim foram curados",
+        "Pacientes que receberam o tratamento e não foram curados",
+        "Pacientes que receberam o tratamento e foram curados",
+        "Pacientes que receberam placebo e não foram curados"
+      ],
+      "correctIndex": 0,
+      "explanation": "A célula C reúne pacientes que não receberam o tratamento — tomaram placebo acreditando ser o tratamento verdadeiro — e ainda assim foram curados. É justamente essa informação que costuma ser ignorada e cuja ausência impede julgar se o tratamento realmente funciona.",
+      "image": "f2_pg17",
+      "imageCaption": "As quatro células necessárias para testar um tratamento"
+    },
+    {
+      "question": "Para julgar se um tratamento cura, seria preciso comparar quatro condições: tratados e curados, tratados e não curados, placebo e curados, placebo e não curados. Qual é o erro comum?",
+      "options": [
+        "Concluir a partir dos tratados e curados, evidência necessária mas insuficiente",
+        "Concluir a partir dos que tomaram placebo e não melhoraram, ignorando o resto",
+        "Comparar as quatro condições, o que acaba confundindo tratamento com placebo",
+        "Ignorar os tratados e curados, por serem apenas relatos pessoais de pacientes"
+      ],
+      "correctIndex": 0,
+      "explanation": "As pessoas se detêm nos casos positivos, que confirmam a crença, e concluem que o tratamento funciona. Essa evidência é necessária mas não suficiente: sem comparar com quem melhorou sem tratamento e com quem não melhorou apesar dele, nada se pode afirmar. Crocker (1981) documentou esse padrão de julgamento."
+    },
+    {
+      "question": "As pessoas buscam ativa e deliberadamente apenas os dados que confirmam suas crenças e recusam o papel de advogado do diabo. Esse padrão é conhecido como:",
+      "options": [
+        "Confirmação positiva, que dispensa evidências capazes de refutar",
+        "Correção normativa, que exige evidências capazes de confirmar tudo",
+        "Atribuição externa, que transfere a causa para fora do observador",
+        "Codificação seletiva, que apaga da memória os dados desagradáveis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cognitivamente é mais fácil lidar com a confirmação positiva, porque ela encerra toda a evidência aparentemente necessária para o julgamento. Pesquisas de Skov e Sherman (1986), Snyder e Swann (1978) e Trope e Bassok (1982) mostram que as pessoas procuram deliberadamente apenas dados confirmatórios."
+    },
+    {
+      "question": "A atenção é composta por codificação e consciência. Qual é a sua principal característica, aquela que a obriga a ser seletiva?",
+      "options": [
+        "Ser limitada, impedindo que atendamos a todos os estímulos",
+        "Ser ilimitada, permitindo que atendamos a todos os estímulos",
+        "Ser automática, dispensando qualquer registro feito na memória",
+        "Ser voluntária, exigindo decisão consciente a cada estímulo novo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A principal característica da atenção é ser limitada: não podemos atender a todos os estímulos que nos atingem e temos que nos restringir a uma pequena parte a cada momento. Por isso ela é seletiva, o que já estabelece propriedades únicas aos conteúdos da cognição social."
+    },
+    {
+      "question": "Uma pessoa se destaca visualmente num grupo e passa a ser o foco do observador. Que consequência a saliência produz sobre o julgamento?",
+      "options": [
+        "Ela recebe mais peso causal e as avaliações ficam polarizadas",
+        "Ela recebe menos peso causal e as avaliações ficam moderadas",
+        "Ela é esquecida mais rápido e as avaliações ficam indefinidas",
+        "Ela é julgada com mais exatidão e as avaliações ficam neutras"
+      ],
+      "correctIndex": 0,
+      "explanation": "O estímulo saliente tende a assumir o papel causal principal: quem chama a atenção ganha mais crédito e parece mais influente do que os demais. A maior atenção também polariza as avaliações — quem já gostava passa a gostar mais, quem não gostava passa a gostar menos — e aumenta a chance de a pessoa ser lembrada."
+    },
+    {
+      "question": "Para memorizar informações sobre alguém descrito como ousado, convencido, distante e teimoso, qual estratégia se mostra mais eficaz?",
+      "options": [
+        "Formar uma impressão geral que ligue os traços entre si",
+        "Memorizar cada adjetivo isolado em uma lista bem ordenada",
+        "Usar a primeira letra de cada adjetivo para formar uma sigla",
+        "Repetir os adjetivos em voz alta até fixá-los pela sonoridade"
+      ],
+      "correctIndex": 0,
+      "explanation": "É bem mais eficaz formar uma impressão ou descrição geral da pessoa do que gravar pedaços isolados de informação ou usar truques mnemônicos. A vantagem vem da integração das informações num todo coerente: quanto mais traços e mais ligações entre eles, melhor a memorização."
+    }
+  ]
+}

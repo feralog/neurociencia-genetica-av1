@@ -1,0 +1,350 @@
+{
+  "titulo": "Métodos de Pesquisa em Psicologia Cognitiva",
+  "eyebrow": "Processos Psicológicos · Método",
+  "subtitulo": "Que método responde a qual pergunta sobre a mente",
+  "intro": "Do pressuposto comum a todos os métodos — a metáfora computacional — ao desenho do experimento: variáveis, tempo de reação, validade ecológica, neuroimagem, estudos de caso e modelagem. Fecha com o que define a atuação do psicólogo cognitivo e o que a separa das áreas vizinhas.",
+  "questoes": [
+    {
+      "question": "Qual pressuposto teórico é comum aos métodos de investigação da psicologia cognitiva?",
+      "options": [
+        "A mente processa informação em etapas, como um programa de computador",
+        "A mente é uma caixa preta cujo interior não pode ser investigado",
+        "O comportamento resulta apenas do pareamento entre estímulo e resposta",
+        "A conduta se explica por conflitos inconscientes formados na infância"
+      ],
+      "correctIndex": 0,
+      "explanation": "A metáfora computacional é o pressuposto que unifica o campo: entre a entrada de informação e a resposta existe um processamento interno descritível em etapas. É justamente esse processamento intermediário que o behaviorismo tratava como caixa preta inacessível. Sem essa suposição, medir tempo de resposta ou modelar a memória não faria sentido."
+    },
+    {
+      "question": "O esquema abaixo alinha a função cognitiva ao programa de computador. O que ele afirma?",
+      "options": [
+        "Entre o estímulo e a resposta existe uma etapa de processamento interno",
+        "O estímulo determina a resposta sem qualquer etapa intermediária",
+        "A resposta antecede o processamento e depois seleciona o estímulo",
+        "O processamento ocorre fora do organismo, no ambiente que o estimula"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os dois trilhos do esquema têm a mesma estrutura de três casas: entrada, processamento e saída. A função cognitiva ocupa a casa do meio, exatamente onde o programa opera sobre a informação. O paralelo serve para justificar o estudo do que acontece entre estímulo e resposta.",
+      "image": "pg04",
+      "imageCaption": "Metáfora computacional: estímulo, processamento e resposta"
+    },
+    {
+      "question": "No modelo esquematizado da memória, o que decide se a informação fica conservada por muito tempo?",
+      "options": [
+        "A repetição da informação, que estende o tempo de conservação",
+        "A intensidade física do estímulo no momento em que ele chega",
+        "A ordem de chegada da informação em relação às demais",
+        "O tamanho da lista de itens apresentada ao participante"
+      ],
+      "correctIndex": 0,
+      "explanation": "O modelo é escrito como uma regra condicional de programa: informação nova é conservada por pouco tempo; informação repetida passa a ser armazenada por mais tempo. A repetição é o operador que muda o destino do item. É esse formato de regra explícita que torna o modelo testável.",
+      "image": "pg05",
+      "imageCaption": "Modelo computacional da memória de curto e longo prazo"
+    },
+    {
+      "question": "Numa pesquisa experimental em psicologia cognitiva, o que precisa vir antes de montar o experimento?",
+      "options": [
+        "Propor um modelo teórico e formular a hipótese de pesquisa",
+        "Escolher o método estatístico que vai analisar os dados",
+        "Delimitar as variáveis dependentes e as independentes",
+        "Discutir os resultados obtidos frente à literatura"
+      ],
+      "correctIndex": 0,
+      "explanation": "O percurso começa pela escolha de um modelo teórico e pela formulação da hipótese; só depois se monta o experimento, delimitam-se as variáveis e se escolhe o tratamento estatístico. A ordem importa porque o experimento existe para testar a hipótese, não o contrário. Inverter isso produz um estudo que encontra qualquer coisa e não confirma nada.",
+      "image": "pg06",
+      "imageCaption": "As sete etapas do percurso experimental"
+    },
+    {
+      "question": "Numa pesquisa experimental, o que caracteriza a variável independente?",
+      "options": [
+        "É a variável manipulada e determinada pelo próprio pesquisador",
+        "É a variável medida como resultado do comportamento estudado",
+        "É a variável que permanece constante em todas as condições",
+        "É a variável que não pode ser observada nem quantificada"
+      ],
+      "correctIndex": 0,
+      "explanation": "A variável independente é a que o pesquisador escolhe e faz variar entre condições — tamanho da lista, presença de ruído, congruência entre cor e palavra. É a manipulação deliberada dessa variável que permite atribuir causalidade ao resultado. Se ela varia sozinha, o estudo deixa de ser experimental."
+    },
+    {
+      "question": "O que é a variável dependente num experimento de psicologia cognitiva?",
+      "options": [
+        "É o comportamento medido, aquilo que a pesquisa quer investigar",
+        "É a condição que o pesquisador altera entre um grupo e outro",
+        "É o fator de ruído que se procura manter sob controle",
+        "É a hipótese teórica que orienta a montagem do estudo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A variável dependente é o desfecho medido: tempo de resposta, número de acertos, quantidade de itens evocados. Chama-se dependente porque se espera que seu valor dependa da manipulação feita. Ela é o que a pesquisa investiga; a independente é o instrumento para investigá-la."
+    },
+    {
+      "question": "No teste de memória de Sternberg o participante recebe listas de símbolos de tamanhos diferentes e diz se um item estava nelas. Qual é a variável independente?",
+      "options": [
+        "O tamanho da lista de símbolos apresentada ao participante",
+        "O tempo que o participante leva para emitir a resposta",
+        "A quantidade de erros cometidos ao longo das tentativas",
+        "A ordem em que os símbolos aparecem dentro de cada lista"
+      ],
+      "correctIndex": 0,
+      "explanation": "O experimentador controla quantos itens compõem cada lista: essa é a manipulação, a variável independente. O tempo de resposta é o que se mede em função dela, portanto a variável dependente. Reconhecer qual é qual é o primeiro passo para ler qualquer relato experimental.",
+      "image": "pg08",
+      "imageCaption": "Sternberg: lista como variável independente, tempo como dependente"
+    },
+    {
+      "question": "O tempo de resposta no teste de Sternberg cresce à medida que a lista aumenta. Que interpretação esse achado sustenta?",
+      "options": [
+        "A memória de curto prazo é varrida item a item na busca",
+        "A memória de curto prazo tem capacidade praticamente ilimitada",
+        "O item procurado é acessado de imediato, sem qualquer busca",
+        "A resposta depende só da familiaridade prévia com o símbolo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se cada item acrescentado custa um incremento de tempo, a busca percorre os itens em série, um a um — é a teoria do escaneamento. Um acesso direto ao conteúdo produziria tempos constantes, independentes do tamanho da lista. O formato da relação entre as variáveis é que discrimina as duas hipóteses."
+    },
+    {
+      "question": "No efeito Stroop, nomear a cor da tinta de uma palavra incongruente demora mais. O que o experimento evidencia?",
+      "options": [
+        "A leitura automática interfere no controle voluntário da resposta",
+        "A percepção de cor depende do reconhecimento prévio da palavra",
+        "A palavra escrita é processada depois da cor em que aparece",
+        "O tempo de reação independe da relação entre cor e palavra"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ler é um processo automático em leitores fluentes e se dispara mesmo quando a tarefa pede outra coisa. Quando a palavra nomeia uma cor diferente da tinta, esse automatismo compete com a resposta pretendida e custa tempo. O atraso mede o esforço de controle necessário para vencer a interferência."
+    },
+    {
+      "question": "Por que o tempo de reação é uma variável dependente tão usada na psicologia cognitiva?",
+      "options": [
+        "Ele estima indiretamente a duração do processamento mental",
+        "Ele mede diretamente a atividade elétrica dos neurônios",
+        "Ele dispensa a formulação de hipóteses sobre a cognição",
+        "Ele elimina a necessidade de tratamento estatístico"
+      ],
+      "correctIndex": 0,
+      "explanation": "O tempo entre estímulo e resposta funciona como um cronômetro do que acontece no meio do caminho. Comparando condições que diferem por uma única etapa suposta, a diferença de tempo estima o custo dessa etapa. É uma medida comportamental barata e sensível, mas indireta: ela infere o processo, não o observa."
+    },
+    {
+      "question": "O que a expressão validade ecológica designa numa pesquisa?",
+      "options": [
+        "O quanto os resultados se transferem para situações da vida real",
+        "O quanto o pesquisador controla as variáveis do experimento",
+        "O quanto a amostra representa a população-alvo do estudo",
+        "O quanto os instrumentos medem sempre o mesmo desempenho"
+      ],
+      "correctIndex": 0,
+      "explanation": "Validade ecológica é a correspondência entre a situação de pesquisa e as situações do cotidiano às quais se quer generalizar. Um estudo pode ser rigorosamente controlado e ainda assim ter baixa validade ecológica, se a tarefa não se parece com nada que a pessoa faça fora dali. Controle e validade ecológica são dimensões distintas, e frequentemente em tensão."
+    },
+    {
+      "question": "A figura contrasta laboratório e mundo real. Qual é a principal vantagem da pesquisa em laboratório?",
+      "options": [
+        "O controle das variáveis que atuam sobre o comportamento",
+        "A alta validade ecológica dos resultados obtidos",
+        "A percepção das variáveis próprias do ambiente natural",
+        "A facilidade de generalizar os achados para o cotidiano"
+      ],
+      "correctIndex": 0,
+      "explanation": "O laboratório permite isolar a variável de interesse e manter as demais constantes, o que é a condição para afirmar uma relação causal. O preço é a artificialidade: a situação controlada é justamente a que menos se parece com a vida real. Por isso o laboratório é descrito como de baixa validade ecológica.",
+      "image": "pg09",
+      "imageCaption": "Laboratório e mundo real: vantagens e desvantagens"
+    },
+    {
+      "question": "Qual é a principal desvantagem de estudar a cognição em laboratório?",
+      "options": [
+        "A artificialidade, que dificulta generalizar para o mundo real",
+        "A impossibilidade de manipular qualquer variável de interesse",
+        "A perda de precisão na medida do tempo de resposta",
+        "A ausência de método estatístico aplicável aos dados"
+      ],
+      "correctIndex": 0,
+      "explanation": "A tarefa de laboratório é montada para eliminar interferências, e é exatamente isso que a afasta da situação cotidiana. Um resultado obtido nessas condições pode não se sustentar quando as variáveis suprimidas voltam a atuar. Daí o rótulo de baixa validade ecológica."
+    },
+    {
+      "question": "Qual é a principal desvantagem de pesquisar a cognição em contextos do mundo real?",
+      "options": [
+        "A dificuldade de isolar variáveis e afirmar relação causal",
+        "A impossibilidade de registrar o comportamento estudado",
+        "A perda total de contato com as variáveis do ambiente",
+        "A queda da validade ecológica dos dados coletados"
+      ],
+      "correctIndex": 0,
+      "explanation": "No ambiente natural atuam simultaneamente variáveis que o pesquisador não controla nem sempre consegue medir. O resultado pode ser rico e generalizável, mas a atribuição de causa fica frágil. A escolha entre laboratório e campo é uma troca entre controle causal e generalização."
+    },
+    {
+      "question": "Mergulhadores memorizaram listas de palavras em terra firme e debaixo da água, e foram testados nos dois ambientes. Que fator esse arranjo investiga?",
+      "options": [
+        "O efeito do contexto ambiental sobre a evocação do material",
+        "O efeito do tamanho da lista sobre o tempo de resposta",
+        "O efeito do estado emocional sobre a formação de hábitos",
+        "O efeito da instrução verbal sobre a atenção seletiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cruzar o ambiente de aprendizagem com o ambiente de teste isola o papel do contexto físico na recuperação da informação. Lembrar melhor quando os dois ambientes coincidem indica que o contexto entra na memória junto com o material. O delineamento tem alta validade ecológica porque a manipulação acontece em ambientes reais.",
+      "image": "pg10",
+      "imageCaption": "Dois estudos de memória com alta validade ecológica"
+    },
+    {
+      "question": "Participantes foram instruídos a telefonar de casa para o laboratório em horários combinados. Que tipo de memória o estudo investiga?",
+      "options": [
+        "A memória prospectiva, isto é, lembrar de executar uma ação",
+        "A memória semântica, isto é, o conhecimento geral do mundo",
+        "A memória de trabalho, isto é, a manutenção temporária",
+        "A memória procedimental, isto é, as habilidades motoras"
+      ],
+      "correctIndex": 0,
+      "explanation": "Memória prospectiva é lembrar de fazer algo num momento futuro, e não recuperar um conteúdo do passado. Testá-la dentro do laboratório é artificial, porque ali a pessoa está atenta e sem concorrência de tarefas. Deslocar a tarefa para a casa do participante devolve as distrações que fazem parte do fenômeno."
+    },
+    {
+      "question": "Por que pedir que os participantes telefonem de casa aumenta a validade ecológica de um estudo de memória prospectiva?",
+      "options": [
+        "A tarefa ocorre no cotidiano, com as interferências reais",
+        "A tarefa elimina qualquer variável estranha ao laboratório",
+        "A tarefa reduz o número de participantes necessários",
+        "A tarefa dispensa a definição de variável dependente"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lembrar de um compromisso em meio à rotina é o fenômeno de interesse, e a rotina é parte dele. Ao migrar a tarefa para a casa, o estudo passa a medir o desempenho nas condições em que ele importa. Em troca, o pesquisador perde controle sobre o que acontece do outro lado da linha."
+    },
+    {
+      "question": "Um estudo observa que quem dorme menos acerta menos numa prova de atenção, sem manipular o sono. Que conclusão o delineamento autoriza?",
+      "options": [
+        "Há associação entre as medidas, sem prova de relação causal",
+        "A privação de sono é a causa direta da queda de desempenho",
+        "O baixo desempenho na prova é o que reduz o tempo de sono",
+        "As duas medidas são independentes uma da outra no grupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sem manipulação da variável suposta como causa, resta a associação entre duas medidas observadas. A direção pode ser a inversa, e uma terceira variável — ansiedade, uso de telas, trabalho noturno — pode produzir as duas. Só a manipulação experimental do sono, com alocação controlada, sustentaria a afirmação causal."
+    },
+    {
+      "question": "Um pesquisador quer saber se o ruído de fundo prejudica a compreensão de leitura. Que delineamento responde diretamente à pergunta?",
+      "options": [
+        "Experimento que manipula o ruído e mede a compreensão",
+        "Levantamento que pergunta o quanto cada um lê por dia",
+        "Estudo de caso de um leitor com dificuldade específica",
+        "Modelagem computacional do reconhecimento de palavras"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pergunta é causal — se o ruído prejudica —, e só o experimento com manipulação da variável independente responde a esse tipo de pergunta. O ruído é fixado pelo pesquisador em níveis definidos e a compreensão é medida como desfecho. As demais opções descrevem ou geram hipóteses, mas não testam a causa."
+    },
+    {
+      "question": "Um pesquisador precisa saber em que milissegundo o cérebro passa a discriminar dois estímulos. Que técnica atende melhor a essa pergunta?",
+      "options": [
+        "Eletroencefalografia, de altíssima resolução temporal",
+        "Ressonância funcional, de alta resolução espacial",
+        "Tomografia estrutural, que mostra a anatomia fixa",
+        "Entrevista clínica, que descreve a experiência"
+      ],
+      "correctIndex": 0,
+      "explanation": "O registro eletroencefalográfico acompanha a atividade elétrica na escala de milissegundos, que é a escala da pergunta. A ressonância funcional localiza melhor no espaço, mas seu sinal se desenrola em segundos e não resolve o decurso temporal fino. A técnica se escolhe pela pergunta, não pelo prestígio do equipamento."
+    },
+    {
+      "question": "O que a ressonância magnética funcional registra durante uma tarefa cognitiva?",
+      "options": [
+        "A variação do fluxo sanguíneo associada à atividade neural",
+        "O disparo elétrico de cada neurônio isolado do córtex",
+        "A concentração de neurotransmissores em cada sinapse",
+        "A espessura das fibras que conectam as áreas corticais"
+      ],
+      "correctIndex": 0,
+      "explanation": "O sinal captado é hemodinâmico: reflete mudanças na oxigenação do sangue que acompanham, com atraso de alguns segundos, a atividade de populações de neurônios. É por isso que a técnica localiza bem onde algo acontece e mal quando acontece. Confundir o sinal vascular com disparo neuronal leva a interpretações exageradas da imagem."
+    },
+    {
+      "question": "Concluir que houve processamento emocional apenas porque a amígdala apareceu ativa numa imagem é um erro conhecido. Por quê?",
+      "options": [
+        "Uma mesma região participa de vários processos diferentes",
+        "A amígdala nunca se ativa em tarefas de conteúdo emocional",
+        "A imagem funcional não distingue regiões cerebrais entre si",
+        "O sinal medido é elétrico e não guarda relação com a tarefa"
+      ],
+      "correctIndex": 0,
+      "explanation": "É a chamada inferência reversa: saber que um processo ativa uma região não autoriza concluir o processo a partir da ativação. As regiões cerebrais não têm correspondência de um para um com funções psicológicas, e a amígdala participa também de vigilância, saliência e aprendizagem. A inferência só ganha força quando a região é bastante seletiva e há tarefas de controle."
+    },
+    {
+      "question": "Que ganho e que limite marcam o estudo de caso único de um paciente com lesão cerebral?",
+      "options": [
+        "Detalha uma dissociação rara, mas generaliza com dificuldade",
+        "Detalha uma dissociação rara e generaliza com segurança",
+        "Permite manipular variáveis, mas mede só o tempo de reação",
+        "Elimina o viés do examinador, mas exige amostras grandes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Um caso em que uma função se perde e outra se preserva é evidência forte de que as duas são separáveis, e isso nenhum estudo de grupo mostra tão bem. O limite é o número: a lesão é única, quase nunca circunscrita, e o cérebro pode ter se reorganizado. Por isso o caso sugere arquitetura funcional e depende de replicação."
+    },
+    {
+      "question": "Para que serve construir um modelo computacional de um processo cognitivo?",
+      "options": [
+        "Para testar se as regras propostas reproduzem o desempenho humano",
+        "Para substituir a coleta de dados empíricos com participantes",
+        "Para descrever o hardware biológico que sustenta a cognição",
+        "Para medir o fluxo sanguíneo enquanto a tarefa é executada"
+      ],
+      "correctIndex": 0,
+      "explanation": "O modelo obriga a explicitar cada passo da teoria em regras que rodam, e o resultado simulado pode então ser comparado ao desempenho observado. Se a simulação não reproduz o padrão humano, a teoria está incompleta ou errada. O modelo não dispensa dados: ele existe para gerar previsões que os dados vão confrontar."
+    },
+    {
+      "question": "Na analogia entre mente e computador, de que se ocupa o psicólogo cognitivo?",
+      "options": [
+        "Do programa, isto é, das operações que transformam a informação",
+        "Do suporte físico em que a informação fica registrada",
+        "Da probabilidade de uma resposta seguir a um estímulo",
+        "Da relação afetiva do sujeito com a tarefa proposta"
+      ],
+      "correctIndex": 0,
+      "explanation": "A comparação clássica é com o técnico que quer descobrir como um computador foi programado: interessa o conjunto de instruções, não se o armazenamento é em disco ou em fita. Transposta para a mente, a tarefa é descrever os procedimentos pelos quais a informação é elaborada. O nível de descrição é funcional, e não o do suporte material."
+    },
+    {
+      "question": "Qual é o objeto de investigação do psicólogo cognitivo?",
+      "options": [
+        "As bases do conhecimento e o modo como ele é organizado e usado",
+        "As correlações entre condições externas e respostas observáveis",
+        "Os conflitos afetivo-emocionais que a pessoa vivencia no dia a dia",
+        "As normas de convívio que regulam a vida dos grupos sociais"
+      ],
+      "correctIndex": 0,
+      "explanation": "O interesse recai sobre os meios pelos quais o indivíduo constrói um conhecimento organizado do mundo em categorias e o emprega para planejar ação. Isso abrange percepção, memória, imagem mental, pensamento, raciocínio e aprendizagem. A ênfase está na elaboração interna da informação, não apenas no que entra e no que sai."
+    },
+    {
+      "question": "Diante de uma criança com dificuldade de aprendizagem, qual é o risco de cada especialista olhar apenas pela própria lente teórica?",
+      "options": [
+        "Hipóteses alternativas são descartadas antes de serem testadas",
+        "O caso deixa de ter qualquer explicação teórica possível",
+        "A criança passa a receber duas intervenções simultâneas",
+        "O diagnóstico se torna responsabilidade exclusiva da escola"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quem olha só pelo desenvolvimento cognitivo atribui a dificuldade a esse âmbito; quem olha só pelo afetivo-emocional atribui a problemas pessoais. Em ambos os casos, explicações concorrentes são eliminadas a priori, sem exame. Competência especializada é necessária; o que empobrece o caso é a competência fechada em si mesma."
+    },
+    {
+      "question": "Usar o método clínico ou tarefas piagetianas torna o pesquisador necessariamente piagetiano?",
+      "options": [
+        "Não, pois a técnica pode servir a referenciais teóricos diversos",
+        "Sim, pois o método carrega consigo a teoria que o originou",
+        "Sim, porque só a teoria de Piaget prevê essas tarefas",
+        "Não, porque o método clínico não é usado em cognição"
+      ],
+      "correctIndex": 0,
+      "explanation": "Método e teoria são coisas separáveis: há estudos que usam tarefas de conservação ou de inclusão de classes partindo de referenciais distintos, alguns deles levando à revisão da própria teoria piagetiana. Estudo cognitivo e estudo piagetiano não são sinônimos. Confundir os dois é fonte frequente de mal-entendido dentro da própria psicologia."
+    },
+    {
+      "question": "Qual é a diferença entre competência especializada e competência setorializada?",
+      "options": [
+        "A especializada dialoga com outras áreas; a setorializada se fecha",
+        "A especializada dispensa método; a setorializada exige rigor",
+        "A especializada é teórica; a setorializada é sempre aplicada",
+        "A especializada surge na graduação; a setorializada na prática"
+      ],
+      "correctIndex": 0,
+      "explanation": "A competência especializada reconhece o caráter parcial da própria investigação e mantém o conhecimento intercambiável com o de outras áreas. A setorializada trata o conhecimento de modo circular, fechado, e acaba isolando a área. A proposta não é abolir a especialidade, e sim impedir que ela vire confinamento."
+    },
+    {
+      "question": "Na tradição anglo-saxônica, o que distingue a psicologia cognitiva da psicologia do desenvolvimento?",
+      "options": [
+        "A cognitiva estuda estrutura e processos; a outra, sua mudança",
+        "A cognitiva estuda a infância; a outra, a vida adulta",
+        "A cognitiva usa laboratório; a outra, apenas observação",
+        "A cognitiva é aplicada; a outra é exclusivamente teórica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Naquela divisão, a psicologia cognitiva investiga estrutura, processamento e funcionamento do conhecimento, enquanto a do desenvolvimento investiga como essas estruturas se transformam ao longo da vida, abrangendo também o social e o afetivo. No Brasil, o rótulo cognitivo costuma englobar as duas perspectivas de uma vez. É por isso que a obra de Piaget se filia mais ao desenvolvimento do que à cognitiva em sentido estrito."
+    }
+  ]
+}

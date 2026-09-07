@@ -1,0 +1,330 @@
+{
+  "titulo": "Psicofísica Clássica",
+  "eyebrow": "Processos Psicológicos · Psicofísica",
+  "subtitulo": "Weber, Fechner e a medida matemática da sensação humana",
+  "intro": "Como o mundo físico vira sensação: limiar absoluto, diferença apenas perceptível, as duas versões da lei de Weber-Fechner e os limites dessa medida.",
+  "questoes": [
+    {
+      "question": "A psicofísica é o campo que estuda qual tipo de relação?",
+      "options": [
+        "A relação entre os estímulos do mundo físico e as sensações psicológicas",
+        "A relação entre lesões do sistema nervoso e os déficits comportamentais",
+        "A relação entre os conflitos inconscientes e os sintomas físicos relatados",
+        "A relação entre o reforço do ambiente e a frequência das respostas emitidas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Psicofísica é o estudo da relação entre os estímulos do mundo físico e as sensações e percepções psicológicas que eles produzem. Ela põe de um lado a grandeza física mensurável (peso, luminância, pressão sonora) e do outro a experiência subjetiva, e procura a função matemática que liga as duas."
+    },
+    {
+      "question": "Além da pesquisa básica, em quais campos a psicofísica tem aplicação direta?",
+      "options": [
+        "Ergonomia de imagens e sons, avaliação sensorial, design e artes",
+        "Diagnóstico de transtornos de personalidade e psicoterapia breve",
+        "Seleção de pessoal e avaliação de desempenho nas organizações",
+        "Reabilitação motora após lesão da medula espinhal e fisioterapia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Medir quanto de estímulo é preciso para que algo seja percebido interessa a quem projeta interfaces, calibra som e imagem, conduz avaliação sensorial de produtos e trabalha com cinema, música, pintura e arquitetura. Todas essas áreas dependem de saber qual diferença física o usuário efetivamente nota."
+    },
+    {
+      "question": "Segundo a conclusão de Weber, a menor diferença perceptível entre dois estímulos corresponde a:",
+      "options": [
+        "uma proporção constante da intensidade do estímulo inicial",
+        "um valor absoluto fixo, independente do estímulo inicial",
+        "uma fração que cresce quando o estímulo inicial diminui",
+        "uma quantidade definida apenas pelo estado do observador"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weber concluiu que a menor percepção de diferença entre dois estímulos é uma proporção constante do estímulo inicial. Ou seja, sentir a mudança de um estímulo para outro depende de quanto já havia antes: o que importa não é o acréscimo bruto, mas a razão entre o acréscimo e a intensidade de partida."
+    },
+    {
+      "question": "Na primeira versão da lei de Weber-Fechner, ΔE = C · E, o que o termo ΔE representa?",
+      "options": [
+        "A diferença perceptível, o menor acréscimo de estímulo que é detectado",
+        "A energia total do estímulo que chega ao receptor sensorial ativado",
+        "A quantidade mínima de estímulo para que exista qualquer sensação",
+        "O erro médio que o sujeito comete ao comparar dois estímulos vizinhos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em ΔE = C · E, o termo ΔE é a diferença perceptível, também chamada limiar de diferença ou Diferença Apenas Perceptível (D.A.P.). É o menor acréscimo que precisa ser somado ao estímulo para que a mudança seja notada. A quantidade mínima para haver qualquer sensação é outro conceito: o limiar absoluto.",
+      "image": "pg12",
+      "imageCaption": "Primeira versão: ΔE = C · E e o exemplo com peso"
+    },
+    {
+      "question": "Na fórmula ΔE = C · E, o que caracteriza a constante C?",
+      "options": [
+        "É uma constante que varia conforme o tipo de estímulo avaliado",
+        "É uma constante universal, igual para todas as modalidades",
+        "É um coeficiente que muda a cada repetição da mesma medida",
+        "É um valor fixo determinado pela intensidade final do estímulo"
+      ],
+      "correctIndex": 0,
+      "explanation": "C é uma constante que varia conforme o tipo de estímulo: peso, luminosidade e som têm valores diferentes. Para peso, o valor usado é 0,025, isto é, 2,5% do estímulo inicial. Dentro de uma mesma modalidade ela se mantém, mas não se transfere de uma modalidade para outra."
+    },
+    {
+      "question": "Na fórmula ΔE = C · E, a que corresponde o termo E?",
+      "options": [
+        "À intensidade do estímulo inicial, aquele que já está presente",
+        "À intensidade do estímulo final, obtida depois do acréscimo",
+        "À energia gasta pelo receptor sensorial durante a detecção",
+        "Ao erro de estimativa cometido pelo sujeito na comparação"
+      ],
+      "correctIndex": 0,
+      "explanation": "E é a intensidade do estímulo inicial, o valor de partida sobre o qual o acréscimo será somado. É justamente por ΔE depender de E que o mesmo acréscimo físico é notado num estímulo fraco e passa despercebido num estímulo forte."
+    },
+    {
+      "question": "Com constante de 0,025 para peso, qual é o menor acréscimo perceptível numa mala de 40 kg?",
+      "options": [
+        "1,0 kg",
+        "0,4 kg",
+        "2,5 kg",
+        "4,0 kg"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aplicando ΔE = C · E, temos ΔE = 0,025 × 40 = 1 kg. Só a partir de 1 kg somado aos 40 kg iniciais a pessoa nota que a mala ficou mais pesada. Abaixo disso o acréscimo existe fisicamente, mas não gera diferença de sensação."
+    },
+    {
+      "question": "Mantida a constante de 0,025 para peso, qual acréscimo mínimo é notado numa carga de 80 kg?",
+      "options": [
+        "2,0 kg",
+        "0,8 kg",
+        "1,0 kg",
+        "5,0 kg"
+      ],
+      "correctIndex": 0,
+      "explanation": "ΔE = 0,025 × 80 = 2 kg. Dobrar o estímulo inicial dobra o acréscimo necessário: 40 kg exigem 1 kg e 80 kg exigem 2 kg. É a expressão direta de que o limiar diferencial é uma proporção fixa do valor de partida."
+    },
+    {
+      "question": "Com a mesma constante de 0,025, qual acréscimo é preciso para notar mudança num objeto de 200 g?",
+      "options": [
+        "5,0 g",
+        "0,5 g",
+        "2,5 g",
+        "8,0 g"
+      ],
+      "correctIndex": 0,
+      "explanation": "ΔE = 0,025 × 200 = 5 g. A constante de 0,025 equivale a 2,5% do estímulo inicial, e 2,5% de 200 g são 5 g. A fórmula funciona na mesma proporção em qualquer unidade de peso."
+    },
+    {
+      "question": "Se uma pessoa nota o acréscimo a partir de 0,5 kg, qual era o peso inicial que ela segurava?",
+      "options": [
+        "20 kg",
+        "12 kg",
+        "40 kg",
+        "50 kg"
+      ],
+      "correctIndex": 0,
+      "explanation": "Invertendo ΔE = C · E, temos E = ΔE ÷ C = 0,5 ÷ 0,025 = 20 kg. Como o limiar diferencial é 2,5% do valor inicial, um limiar de 0,5 kg só aparece quando o peso de partida é 20 kg."
+    },
+    {
+      "question": "Um mesmo acréscimo de 1 kg é colocado numa mala de 5 kg e numa de 50 kg. O que se espera?",
+      "options": [
+        "Ele é percebido na mala de 5 kg e pode passar despercebido na de 50 kg",
+        "Ele é percebido nas duas malas, já que o acréscimo tem o mesmo valor",
+        "Ele passa despercebido nas duas malas, porque 1 kg é um valor baixo",
+        "Ele é percebido na mala de 50 kg, que estimula mais receptores de peso"
+      ],
+      "correctIndex": 0,
+      "explanation": "Com constante de 0,025, a mala de 5 kg exige apenas 0,125 kg para que a mudança seja notada, e 1 kg está muito acima disso. Já a de 50 kg exige 1,25 kg, de modo que 1 kg fica abaixo do limiar. Sentir a mudança depende do estímulo inicial, não do acréscimo isolado."
+    },
+    {
+      "question": "Dois pares de quadros mostram 10 e 20 pontos e 110 e 120 pontos. O que se observa neles?",
+      "options": [
+        "A diferença é notada entre 10 e 20, mas não entre 110 e 120 pontos",
+        "A diferença é notada entre 110 e 120, mas não entre 10 e 20 pontos",
+        "A diferença é notada com a mesma facilidade nos dois pares de quadros",
+        "A diferença não chega a ser notada em nenhum dos dois pares mostrados"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nos dois pares o acréscimo físico é idêntico: 10 pontos. Mas de 10 para 20 esse acréscimo é enorme em relação ao valor inicial, enquanto de 110 para 120 ele é pequeno demais para ultrapassar o limiar diferencial. A demonstração torna visível a proporcionalidade descrita por Weber.",
+      "image": "pg09",
+      "imageCaption": "Quadros com 10, 20, 110 e 120 pontos: o mesmo acréscimo de 10"
+    },
+    {
+      "question": "Nos pares de 10 para 20 e de 110 para 120 pontos, o acréscimo de 10 pontos equivale a:",
+      "options": [
+        "100% do valor inicial no primeiro par e cerca de 9% no segundo par",
+        "100% do valor inicial no primeiro par e cerca de 50% no segundo par",
+        "cerca de 9% do valor inicial no primeiro par e a 100% no segundo par",
+        "cerca de 10% do valor inicial em ambos os pares de quadros mostrados"
+      ],
+      "correctIndex": 0,
+      "explanation": "De 10 para 20, o acréscimo de 10 representa 10/10 = 100% do valor inicial. De 110 para 120, os mesmos 10 pontos representam 10/110, cerca de 9%. É essa razão entre acréscimo e valor inicial, e não o acréscimo bruto, que determina se a mudança será notada."
+    },
+    {
+      "question": "A Diferença Apenas Perceptível (D.A.P.) é outro nome para qual conceito?",
+      "options": [
+        "Limiar de diferença, o menor acréscimo de estímulo que é detectado",
+        "Limiar absoluto, a menor intensidade capaz de gerar uma sensação",
+        "Limiar terminal, a maior intensidade que o receptor ainda tolera",
+        "Limiar de dor, a intensidade em que a sensação vira desconforto"
+      ],
+      "correctIndex": 0,
+      "explanation": "D.A.P. e limiar de diferença nomeiam a mesma coisa: o menor acréscimo de estímulo necessário para que a mudança seja notada, calculado por ΔE = C · E. Não se confunde com o limiar absoluto, que é a quantidade mínima para que exista qualquer sensação."
+    },
+    {
+      "question": "Como se define o limiar absoluto de um estímulo?",
+      "options": [
+        "É a quantidade mínima de estímulo necessária para que haja percepção",
+        "É a diferença mínima entre dois estímulos para se notar a mudança",
+        "É a intensidade máxima de estímulo que o sujeito consegue tolerar",
+        "É a intensidade em que a sensação para de crescer com o estímulo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O limiar absoluto é a quantidade mínima de estímulo para que ele seja perceptível. É um ponto de corte na escala física: acima dele há percepção consciente, abaixo dele não. A diferença mínima entre dois estímulos já presentes é o limiar diferencial, que é outro conceito."
+    },
+    {
+      "question": "O que acontece com os estímulos cuja intensidade fica abaixo do limiar absoluto?",
+      "options": [
+        "Não chegam à consciência, permanecendo como estimulações inconscientes",
+        "Não atingem o receptor, sendo bloqueados antes de qualquer transdução",
+        "São percebidos com atraso, mas ainda assim alcançam a consciência",
+        "São percebidos somente quando repetidos várias vezes em sequência"
+      ],
+      "correctIndex": 0,
+      "explanation": "Abaixo do limiar absoluto a estimulação existe fisicamente, mas não é perceptível: trata-se de estimulação inconsciente. O limiar delimita justamente a fronteira entre o que entra na experiência consciente e o que fica fora dela."
+    },
+    {
+      "question": "A conclusão de Fechner sobre estimulação física e percepção sensorial afirma que:",
+      "options": [
+        "a estimulação física cresce em progressão geométrica e a sensação, em aritmética",
+        "a estimulação física cresce em progressão aritmética e a sensação, em geométrica",
+        "a estimulação física e a sensação crescem juntas em progressão aritmética",
+        "a estimulação física e a sensação crescem juntas em progressão geométrica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fechner concluiu que a estimulação física aumenta em progressão geométrica enquanto a percepção sensorial correspondente aumenta em progressão aritmética. Enquanto o estímulo é multiplicado, a sensação apenas soma unidades, que é exatamente a forma de uma relação logarítmica."
+    },
+    {
+      "question": "Qual é a consequência prática da relação logarítmica entre estímulo e sensação?",
+      "options": [
+        "São precisos aumentos cada vez maiores de estímulo para elevar a sensação",
+        "São precisos aumentos cada vez menores de estímulo para elevar a sensação",
+        "A sensação cresce mais rápido que o estímulo em toda a faixa de valores",
+        "A sensação cresce na mesma proporção do estímulo em qualquer intensidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Como o estímulo precisa ser multiplicado para que a sensação some uma unidade, cada novo passo de sensação custa um acréscimo físico maior que o anterior. É por isso que subir o volume de um som já alto exige um aumento muito maior de potência do que subir um som baixo."
+    },
+    {
+      "question": "Na segunda versão da lei de Weber-Fechner, S = k · log E, o que representa o termo S?",
+      "options": [
+        "A sensação, o resultado psicológico da estimulação recebida",
+        "A soma dos estímulos aplicados ao longo de toda a medição",
+        "A sensibilidade máxima do receptor sensorial que foi testado",
+        "O sinal elétrico gerado pelo receptor após fazer a transdução"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em S = k · log E, S é a sensação, isto é, a magnitude da experiência psicológica produzida pelo estímulo. A fórmula diz que essa sensação é proporcional ao logaritmo da intensidade do estímulo, e não à intensidade em si.",
+      "image": "pg15",
+      "imageCaption": "Segunda versão: S = k · log E e o significado dos termos"
+    },
+    {
+      "question": "Ainda em S = k · log E, o que é o termo k?",
+      "options": [
+        "A constante de Weber, específica para cada tipo de estímulo",
+        "A constante de Fechner, com valor igual para todo estímulo",
+        "O número de repetições feitas no procedimento de medição",
+        "O valor do limiar absoluto medido naquele sujeito avaliado"
+      ],
+      "correctIndex": 0,
+      "explanation": "O k de S = k · log E é a constante de Weber, a mesma ideia de constante que aparece na primeira versão: um fator próprio de cada modalidade de estímulo. E log E é o logaritmo da intensidade do estímulo, o que torna a relação logarítmica."
+    },
+    {
+      "question": "As duas versões da lei de Weber-Fechner são expressas, respectivamente, por:",
+      "options": [
+        "ΔE = C · E na primeira versão e S = k · log E na segunda versão",
+        "S = k · log E na primeira versão e ΔE = C · E na segunda versão",
+        "ΔE = C · E na primeira versão e S = k · E elevado ao quadrado",
+        "S = C · E na primeira versão e ΔE = k · log E na segunda versão"
+      ],
+      "correctIndex": 0,
+      "explanation": "A primeira versão, ΔE = C · E, trata do limiar de diferença: quanto de estímulo é preciso somar para notar a mudança. A segunda, S = k · log E, trata da magnitude da sensação em função da intensidade do estímulo. Uma descreve o passo mínimo, a outra a escala inteira.",
+      "image": "pg06",
+      "imageCaption": "As duas versões da lei de Weber-Fechner"
+    },
+    {
+      "question": "A formulação matemática do limiar de diferença, ΔE = C · E, foi proposta por quem?",
+      "options": [
+        "Fechner, que formalizou as observações feitas antes por Weber",
+        "Weber, que formalizou as observações feitas antes por Fechner",
+        "Fechner, no mesmo trabalho em que descreveu o limiar absoluto",
+        "Weber, no mesmo trabalho em que propôs a versão logarítmica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weber chegou por observação à conclusão de que a menor diferença perceptível é proporção constante do estímulo inicial. Coube a Fechner dar a essa conclusão a forma matemática ΔE = C · E e, depois, propor a versão logarítmica S = k · log E."
+    },
+    {
+      "question": "Num gráfico de unidades de sensação contra intensidade do estímulo, a curva obtida:",
+      "options": [
+        "sobe rápido no início e vai se achatando conforme a intensidade cresce",
+        "sobe devagar no início e fica cada vez mais íngreme quando ela cresce",
+        "sobe em linha reta, mantendo a mesma inclinação em toda a extensão",
+        "desce de forma contínua à medida que a intensidade do estímulo sobe"
+      ],
+      "correctIndex": 0,
+      "explanation": "A função logarítmica é côncava: nas intensidades baixas um pequeno acréscimo já produz muita sensação, e nas altas a curva se achata, pois é preciso muito mais estímulo para ganhar a mesma unidade de sensação. Esse é o desenho gráfico de S = k · log E.",
+      "image": "pg16",
+      "imageCaption": "Unidades de sensação (DAP) em função da intensidade do estímulo"
+    },
+    {
+      "question": "Nessa curva, o intervalo de intensidade que separa duas unidades sucessivas de sensação:",
+      "options": [
+        "aumenta progressivamente à medida que a intensidade do estímulo sobe",
+        "diminui progressivamente à medida que a intensidade do estímulo sobe",
+        "permanece exatamente igual em toda a faixa de intensidade estudada",
+        "varia de modo aleatório entre uma unidade de sensação e a seguinte"
+      ],
+      "correctIndex": 0,
+      "explanation": "As distâncias entre as intensidades sucessivas se alargam à medida que o eixo horizontal avança: os primeiros degraus são estreitos e os últimos, muito largos. Cada nova unidade de sensação custa um acréscimo de estímulo maior que o anterior, que é a leitura gráfica da progressão geométrica.",
+      "image": "pg16",
+      "imageCaption": "Degraus de intensidade que separam unidades sucessivas de sensação"
+    },
+    {
+      "question": "Ao subir o volume de um aparelho que já está muito alto, um mesmo passo no controle:",
+      "options": [
+        "tende a ser menos notado do que quando o volume estava baixo",
+        "tende a ser mais notado do que quando o volume estava baixo",
+        "é notado exatamente do mesmo modo em qualquer nível de volume",
+        "deixa de ser notado por completo em todos os níveis de volume"
+      ],
+      "correctIndex": 0,
+      "explanation": "O limiar diferencial é proporcional ao estímulo inicial, então quanto mais alto já está o som, maior precisa ser o acréscimo para que a mudança seja notada. Um passo do controle que era claramente audível no volume baixo pode ficar abaixo do limiar no volume alto.",
+      "image": "pg10",
+      "imageCaption": "A dependência do estímulo inicial no dia a dia"
+    },
+    {
+      "question": "Sobre a estabilidade dos limiares diferenciais, é correto afirmar que eles:",
+      "options": [
+        "variam de pessoa para pessoa e também dentro de um mesmo sujeito",
+        "são idênticos entre pessoas, mas variam dentro de um mesmo sujeito",
+        "variam entre pessoas, mas ficam estáveis dentro de um mesmo sujeito",
+        "são constantes universais, iguais em qualquer pessoa e situação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uma das limitações reconhecidas da psicofísica clássica é que as unidades de sensação, ou limiares diferenciais, variam de pessoa para pessoa e também dentro de um mesmo indivíduo em momentos diferentes. As constantes, portanto, são médias, não valores rígidos."
+    },
+    {
+      "question": "Qual afirmação descreve corretamente o efeito do estado do sujeito sobre os limiares?",
+      "options": [
+        "O cansaço e o efeito de substâncias podem deslocar o limiar absoluto",
+        "O limiar absoluto permanece imune ao cansaço e ao uso de substâncias",
+        "Apenas doenças neurológicas graves conseguem deslocar esses limiares",
+        "O limiar absoluto se altera unicamente com a idade do sujeito testado"
+      ],
+      "correctIndex": 0,
+      "explanation": "As unidades de sensação e o limiar absoluto variam conforme o estado do sujeito: estar saudável, cansado ou sob efeito de substâncias muda o quanto de estímulo é preciso para perceber. Por isso a medida psicofísica exige controlar as condições do participante."
+    },
+    {
+      "question": "Em que faixa de estimulação a lei de Weber-Fechner deixa de descrever bem a sensação?",
+      "options": [
+        "Nas intensidades altíssimas e nas intensidades pequenas demais",
+        "Nas intensidades que ficam na faixa média de estimulação usual",
+        "Nas situações em que o sujeito testado está bem descansado",
+        "Nas modalidades sensoriais da visão e da audição em conjunto"
+      ],
+      "correctIndex": 0,
+      "explanation": "A relação logarítmica se sustenta bem na faixa intermediária de intensidades, mas falha nos extremos: perto do limiar absoluto e nas estimulações altíssimas a previsão da fórmula se afasta do que as pessoas relatam sentir. É um dos limites reconhecidos da psicofísica clássica."
+    }
+  ]
+}

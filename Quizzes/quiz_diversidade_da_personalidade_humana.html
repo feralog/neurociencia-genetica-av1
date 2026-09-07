@@ -1,0 +1,1154 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Diversidade da Personalidade Humana</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;450;500;600&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{background:#f5f3ef;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  button{font:inherit;color:inherit;font-family:'IBM Plex Sans',system-ui,sans-serif}
+  a{color:#2b57cc;text-decoration:none}
+  a:hover{color:#1e3f9c;text-decoration:underline}
+  @keyframes qFade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  @keyframes qDrawer{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:none}}
+
+  /* hovers — no canvas eram style-hover, aqui viram CSS de verdade */
+  .h-dark:hover{background:#2b57cc!important;transform:translateY(-1px)}
+  .h-darkflat:hover{background:#2b57cc!important}
+  .h-line:hover{border-color:#121a2b!important}
+  .h-ink:hover{color:#121a2b!important}
+  .h-opt:not(.locked):hover{border-color:var(--hbd)!important;transform:translateY(-1px)}
+  .h-card:hover{border-color:#121a2b!important;transform:translateY(-2px)}
+
+  /* tipografia do resumo */
+  .rsm{font-size:16.5px;line-height:1.72;color:#2a3141;max-width:64ch}
+  .rsm h2{font-family:'Newsreader',Georgia,serif;font-size:27px;font-weight:500;letter-spacing:-.02em;line-height:1.2;margin:42px 0 14px;padding-top:20px;border-top:1px solid #e4e0d8;text-wrap:pretty}
+  .rsm h2:first-child{margin-top:0;padding-top:0;border-top:0}
+  .rsm h3{font-family:'Newsreader',Georgia,serif;font-size:20px;font-weight:600;letter-spacing:-.01em;margin:28px 0 10px;text-wrap:pretty}
+  .rsm h4{font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#2b57cc;margin:24px 0 8px}
+  .rsm p{margin:0 0 15px;text-wrap:pretty}
+  .rsm ul,.rsm ol{margin:0 0 15px;padding-left:22px}
+  .rsm li{margin-bottom:7px;text-wrap:pretty}
+  .rsm li>ul,.rsm li>ol{margin:7px 0 0}
+  .rsm strong{font-weight:600;color:#121a2b}
+  .rsm em{font-style:italic}
+  .rsm code{font-family:'IBM Plex Mono',monospace;font-size:.88em;background:#efece5;border:1px solid #e4e0d8;border-radius:5px;padding:1px 5px}
+  .rsm hr{border:0;border-top:1px solid #e4e0d8;margin:32px 0}
+  .rsm blockquote{margin:0 0 18px;padding:15px 18px;background:#f7f6f2;border-left:2.5px solid #2b57cc;border-radius:0 12px 12px 0;font-size:15px;line-height:1.65;color:#39404f}
+  .rsm blockquote p:last-child{margin-bottom:0}
+  .rsm .tbl{overflow-x:auto;margin:0 0 20px;border:1px solid #e4e0d8;border-radius:12px;background:#fff}
+  .rsm table{border-collapse:collapse;width:100%;font-size:14px;line-height:1.5}
+  .rsm th{text-align:left;font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:#8a8578;font-weight:600;padding:11px 14px;background:#faf9f6;border-bottom:1px solid #e4e0d8;white-space:nowrap}
+  .rsm td{padding:11px 14px;border-bottom:1px solid #efece5;vertical-align:top;text-wrap:pretty}
+  .rsm tr:last-child td{border-bottom:0}
+  .rsm .key{background:#f2f6fb;border:1px solid #d6e2f4;border-radius:12px;padding:16px 18px;margin:0 0 18px}
+  .rsm .key>*:last-child{margin-bottom:0}
+
+  /* figuras — no resumo e na questao */
+  .fig{margin:0 0 20px;background:#fff;border:1px solid #e4e0d8;border-radius:14px;overflow:hidden}
+  .fig img{display:block;width:100%;height:auto;cursor:zoom-in}
+  .fig figcaption{font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.06em;color:#8a8578;padding:9px 13px;border-top:1px solid #efece5;background:#faf9f6;text-wrap:pretty}
+  .qfig{margin:0 0 20px}
+
+  /* lightbox */
+  #lb{position:fixed;inset:0;z-index:90;background:rgba(18,26,43,.86);display:none;align-items:center;justify-content:center;padding:24px;cursor:zoom-out}
+  #lb.on{display:flex;animation:qFade .16s ease}
+  #lb img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 24px 60px rgba(0,0,0,.5)}
+
+  @media(max-width:560px){
+    .rsm{font-size:16px}
+    .rsm h2{font-size:24px}
+    .home-grid{grid-template-columns:1fr!important}
+  }
+</style>
+</head>
+<body>
+
+<div style="min-height:100vh;background:#f5f3ef;color:#121a2b;font-family:'IBM Plex Sans',system-ui,sans-serif">
+  <header style="position:sticky;top:0;z-index:30;background:rgba(245,243,239,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid #e4e0d8">
+    <div style="max-width:720px;margin:0 auto;padding:12px 16px 10px" id="hdr"></div>
+  </header>
+  <main style="max-width:720px;margin:0 auto;padding:0 16px 80px" id="stage"></main>
+</div>
+<div id="lb"><img alt=""></div>
+
+<script type="text/html" id="resumoSrc"><h2>1. Da máscara ao construto científico</h2>
+<p>A palavra que nomeia todo o campo nasce no palco. <strong>Persona</strong>, no latim (e <em>prosopon</em>, no grego), designava a máscara de teatro que os atores do mundo clássico vestiam. A máscara tinha duas funções ao mesmo tempo: <strong>ocultava a face real</strong> do ator e, pelo formato de sua boca, <strong>amplificava a voz</strong> para que o anfiteatro inteiro ouvisse. Guarde essa dupla função — ocultar e projetar — porque ela retorna intacta, séculos depois, no arquétipo junguiano da Persona.</p>
+<p>Ao longo dos séculos o sentido migra: o termo deixa de nomear <em>a máscara que se usa</em> e passa a nomear <em>o sujeito que a veste</em>. Nasce a "pessoa" como portadora de direitos, deveres e de uma interioridade psicológica própria.</p>
+<p>A virada científica tem data e autor. Em <strong>1937, Gordon Allport</strong> publica a obra que funda o campo moderno da personalidade na psicologia, definindo-a como:</p>
+<blockquote><p>"Organização dinâmica, dentro do indivíduo, dos sistemas psicofísicos que determinam seu comportamento e pensamento característicos."</p></blockquote>
+<p>Duas palavras dessa definição fazem todo o trabalho. <em>Organização</em> indica que há estrutura, e não amontoado. <em>Dinâmica</em> indica que essa estrutura se move. A personalidade deixa então de ser alma abstrata ou traço moral — o velho "caráter forte" — e passa a ser um <strong>construto científico</strong>: uma estrutura <em>inferida</em> a partir do comportamento observável, dotada de <strong>estabilidade temporal</strong> e <strong>consistência situacional</strong>, mas <strong>aberta à transformação</strong>.</p>
+<blockquote><p>Construto não é coisa. Ninguém vê a personalidade; vê-se comportamento, e a partir dele se infere a organização que o produz. Por isso toda teoria da personalidade é uma lente, nunca uma fotografia.</p></blockquote>
+<hr>
+<h2>2. O paradigma biopsicossocial: temperamento e caráter</h2>
+<p>Para explicar por que as personalidades são tão diversas, o modelo contemporâneo recusa os dois extremos — o <strong>reducionismo biológico</strong> ("é tudo genética") e o <strong>determinismo cultural</strong> ("é tudo ambiente") — e adota o <strong>paradigma biopsicossocial</strong>, organizado em dois eixos.</p>
+<div class="tbl"><table><thead><tr><th></th><th><strong>Temperamento</strong></th><th><strong>Caráter</strong></th></tr></thead><tbody><tr><td>Natureza</td><td>Dimensão constitucional, biológica</td><td>Dimensão adquirida, cultural e social</td></tr><tr><td>Conteúdo</td><td>Tendências herdadas; aspectos <em>formais</em> do comportamento: nível de atividade, reatividade emocional, ritmo biológico, limiar de estimulação</td><td>Valores, crenças, hábitos e autoconceito internalizados</td></tr><tr><td>Origem</td><td>Forte determinação genética; sistema límbico e neurotransmissores</td><td>Socialização, cultura, ambiente familiar</td></tr><tr><td>Quando aparece</td><td>Desde os primeiros meses (bebês calmos × bebês reativos)</td><td>Ao longo de toda a vida, por aprendizado e reflexão</td></tr><tr><td>Função</td><td>É a <strong>matéria-prima biológica</strong></td><td><strong>Modula</strong> o temperamento; introduz moral, ética e adaptação</td></tr></tbody></table></div>
+<h4>A interação indissociável</h4>
+<p>Os dois eixos não são camadas empilhadas: eles se determinam mutuamente pela <strong>epigenética</strong> — o ambiente e a cultura modificam a expressão dos genes. É por isso que a mesma base temperamental pode produzir desfechos opostos:</p>
+<ul><li>Temperamento muito reativo ao medo <strong>+ ambiente hostil</strong> → caráter ansioso e isolado.</li><li>O mesmo temperamento <strong>+ ambiente acolhedor e estimulante</strong> → caráter prudente e analítico.</li></ul>
+<blockquote><p>Não existe traço biológico com destino fixo. O gene propõe; a história de vida dispõe. Confundir temperamento com caráter é o erro clássico — o primeiro é <em>forma</em>, o segundo é <em>conteúdo valorativo</em>.</p></blockquote>
+<hr>
+<h2>3. Nomotético × idiográfico: como investigar a diversidade</h2>
+<p>A diversidade impõe um problema de método: para conhecer o humano, olha-se o que ele tem em comum com os outros, ou o que ele tem de único? Duas matrizes científicas se confrontam.</p>
+<div class="tbl"><table><thead><tr><th></th><th><strong>Nomotético</strong></th><th><strong>Idiográfico</strong></th></tr></thead><tbody><tr><td>Foca em</td><td>Semelhanças entre as pessoas</td><td>Diferenças e unicidade do indivíduo</td></tr><tr><td>Busca</td><td>Traços e estruturas universais</td><td>Um sistema único e irrepetível</td></tr><tr><td>Ferramentas</td><td>Métodos quantitativos, psicometria, análise fatorial (ex.: <strong>Big Five</strong>)</td><td>Métodos qualitativos, estudo de caso, análise de narrativas, fenomenologia</td></tr><tr><td>Vantagem</td><td>Comparação entre indivíduos, diagnóstico padronizado, previsão estatística</td><td>Captura a riqueza da subjetividade e a complexidade da diversidade</td></tr><tr><td>Limite</td><td>Risco de desumanizar, reduzindo o sujeito a uma pontuação num gráfico</td><td>Extrema dificuldade em gerar generalizações e predições populacionais</td></tr></tbody></table></div>
+<h4>A síntese na prática</h4>
+<p>O psicólogo contemporâneo — clínico, organizacional ou social — não escolhe um lado. Ele usa o conhecimento <strong>nomotético como mapa geral</strong> da mente humana e aplica uma <strong>escuta idiográfica</strong> para acolher a forma única como <em>aquele</em> paciente habita o mapa.</p>
+<blockquote><p>Frase-síntese para prova: o nomotético dá o mapa, o idiográfico dá o território vivido. Teste padronizado sem escuta singular vira rótulo; escuta singular sem referência populacional vira impressionismo.</p></blockquote>
+<hr>
+<h2>4. O que valida uma teoria da personalidade</h2>
+<p>Uma teoria não é verdade absoluta — é lente. Para ser científica e útil à clínica, precisa cumprir <strong>três critérios</strong>:</p>
+<ol><li><strong>Utilidade prática</strong> — fornecer ferramentas concretas para organizar informações, compreender o sofrimento e planejar intervenções eficazes. Se não guia a clínica, é especulação abstrata.</li><li><strong>Falseabilidade (Karl Popper)</strong> — formular hipóteses testáveis e passíveis de serem provadas falsas. Uma teoria que explica <em>absolutamente tudo</em> e nunca pode ser questionada por dados empíricos perde o caráter de ciência rigorosa.</li><li><strong>Capacidade heurística</strong> — estimular novas pesquisas e gerar novas perguntas. Boa teoria não encerra o debate; expande.</li></ol>
+<blockquote><p>A falseabilidade é o critério mais cobrado, e o mais contraintuitivo: o poder explicativo total é um <em>defeito</em>, não uma virtude. Popper é o nome a fixar.</p></blockquote>
+<hr>
+<h2>5. Ética da diversidade: viés W.E.I.R.D., decolonialidade e neurodiversidade</h2>
+<h3>O viés eurocêntrico e a amostra W.E.I.R.D.</h3>
+<p>A maior parte das teorias clássicas da personalidade — da psicodinâmica aos modelos de traços — foi produzida no século XX por teóricos europeus e norte-americanos. Estudos contemporâneos apontam o problema amostral com um acrônimo:</p>
+<h4>W.E.I.R.D.</h4>
+<p><strong>W</strong>estern · <strong>E</strong>ducated · <strong>I</strong>ndustrialized · <strong>R</strong>ich · <strong>D</strong>emocratic — ocidentais, instruídas, industrializadas, ricas e democráticas.</p>
+<p><strong>Menos de 12% da população mundial</strong> se encaixa nessa descrição. Ainda assim, a psicologia tentou aplicar conclusões extraídas desse recorte como se fossem <strong>leis universais</strong> para toda a humanidade.</p>
+<h4>O olhar decolonial</h4>
+<p>O psicólogo no Brasil não atende o sujeito idealizado das teorias europeias. Atende sujeitos atravessados por vulnerabilidade social, racismo estrutural, desigualdade e violência de gênero. A <strong>escuta decolonial</strong> implica reconhecer que traços classificados por testes padronizados internacionais como "passividade", "agressividade" ou "desadaptação" podem ser, na verdade, <strong>estratégias subjetivas de sobrevivência</strong> ou modos de vida legítimos de povos indígenas, quilombolas ou periféricos.</p>
+<blockquote><p>A decolonialidade exige que a cultura local não seja vista como desvio, mas como <strong>o solo de onde a personalidade brota</strong>. O rigor científico só se sustenta aliado à ética do respeito à dignidade humana; a pesquisa deve expandir o entendimento do humano, nunca produzir camisas de força que patologizem diferenças culturais e minorias.</p></blockquote>
+<h3>Neurodiversidade e o limite da psicopatologia</h3>
+<p><strong>Neurodiversidade</strong>: variações no funcionamento neurológico e na personalidade — como o Transtorno do Espectro Autista (TEA) e o TDAH — são <strong>variações naturais e saudáveis do genoma humano</strong>, e não doenças a serem extirpadas. O foco da intervenção se desloca de <em>"consertar o defeito"</em> para <em>"promover acessibilidade e respeito"</em> a outra forma de vivenciar o mundo.</p>
+<p>Onde, então, começa a psicopatologia? O critério contemporâneo repousa em <strong>dois eixos</strong>, e nenhum deles é o desvio estatístico:</p>
+<ol><li><strong>Sofrimento subjetivo</strong> — esse modo de funcionar causa à própria pessoa um sofrimento íntimo, profundo e paralisante?</li><li><strong>Prejuízo funcional rígido</strong> — impede o sujeito de realizar seus planos, trabalhar, amar ou manter laços sociais mínimos, aprisionando-o na rigidez?</li></ol>
+<div class="tbl"><table><thead><tr><th>Situação</th><th>Leitura clínica</th></tr></thead><tbody><tr><td>Difere da média, mas é <strong>flexível</strong>, está bem e mantém laços</td><td><strong>Diversidade</strong></td></tr><tr><td><strong>Rigidez extrema</strong> com sofrimento destrutivo e prejuízo funcional</td><td><strong>Psicopatologia</strong></td></tr></tbody></table></div>
+<blockquote><p>Ser diferente da média não é adoecer. Os marcadores são <strong>sofrimento</strong> e <strong>rigidez</strong> — não raridade, não estranheza, não reprovação social do grupo.</p></blockquote>
+<hr>
+<h2>6. Freud: as duas tópicas e a economia do ego</h2>
+<p>Para a psicanálise, a personalidade não é superfície plana: é o resultado dinâmico de forças em conflito permanente. Freud a mapeia em dois momentos <strong>complementares</strong> (a segunda tópica não revoga a primeira).</p>
+<h4>Primeira tópica — modelo topográfico (1900)</h4>
+<ul><li><strong>Consciente</strong> — camada superficial: pensamentos, percepções e sentimentos acessíveis agora.</li><li><strong>Pré-consciente</strong> — território de transição: memórias e conhecimentos evocáveis com um esforço de atenção.</li><li><strong>Inconsciente</strong> — a maior e mais profunda parte: reservatório vivo de desejos censurados, traumas, impulsos e instintos recalcados. Tem lógica própria (<strong>processo primário</strong>) e governa a maior parte do comportamento sem que percebamos.</li></ul>
+<h4>Segunda tópica — modelo estrutural (1923)</h4>
+<div class="tbl"><table><thead><tr><th>Instância</th><th>Consciência</th><th>Princípio</th><th>Função</th></tr></thead><tbody><tr><td><strong>Id</strong></td><td>Totalmente inconsciente</td><td><strong>Prazer</strong></td><td>Matriz original da personalidade; exige satisfação imediata dos impulsos biológicos e sexuais (libido). Não conhece moralidade nem lógica</td></tr><tr><td><strong>Ego</strong></td><td>Em grande parte consciente e pré-consciente</td><td><strong>Realidade</strong></td><td>Mediador; satisfaz os desejos do id de forma segura e socialmente aceitável</td></tr><tr><td><strong>Superego</strong></td><td>Parcialmente inconsciente</td><td>Moral</td><td>Juiz interno, formado pela internalização das normas parentais e culturais no Complexo de Édipo; contém o <strong>ideal do ego</strong> e a <strong>consciência moral</strong>; pune o ego com <strong>culpa</strong></td></tr></tbody></table></div>
+<h4>Mecanismos de defesa</h4>
+<p>O ego vive pressionado por três lados: os impulsos cegos do id, as exigências morais do superego e os limites da realidade externa. Quando falha em mediar, surge a <strong>angústia</strong>. Para evitar o colapso, o ego aciona <strong>inconscientemente</strong> defesas que distorcem a realidade:</p>
+<div class="tbl"><table><thead><tr><th>Mecanismo</th><th>Operação</th><th>Exemplo</th></tr></thead><tbody><tr><td><strong>Recalque</strong></td><td>Afasta da consciência o desejo insuportável, empurrando-o ao inconsciente</td><td>O motivo do sintoma "some" da lembrança</td></tr><tr><td><strong>Projeção</strong></td><td>Atribui ao outro o afeto inaceitável do próprio sujeito</td><td>"Ele me odeia", em vez de "eu o odeio"</td></tr><tr><td><strong>Sublimação</strong></td><td>Desvia a energia pulsional para fins socialmente valorizados</td><td>Agressividade vira arte ou esporte</td></tr><tr><td><strong>Formação reativa</strong></td><td>Adota o comportamento <strong>oposto</strong> ao desejo reprimido</td><td>Carinho excessivo por quem secretamente se detesta</td></tr></tbody></table></div>
+<blockquote><p>Não confunda: <strong>sublimação</strong> transforma o destino da pulsão em algo valorizado; <strong>formação reativa</strong> inverte o sinal do afeto. Sublimar é canalizar; reagir formativamente é fingir o contrário — inclusive para si mesmo.</p></blockquote>
+<h4>Determinismo psíquico e as fases da libido</h4>
+<p>O <strong>determinismo psíquico</strong> afirma que nada na mente acontece por acaso: cada escolha, sintoma, esquecimento ou traço atual é determinado por eventos e conflitos da infância. A personalidade se desenvolve conforme a libido se concentra em diferentes zonas erógenas:</p>
+<div class="tbl"><table><thead><tr><th>Fase</th><th>Idade</th><th>Foco</th><th>Traços que molda</th></tr></thead><tbody><tr><td><strong>Oral</strong></td><td>0–1 ano</td><td>Boca, amamentação</td><td>Dependência, otimismo, sarcasmo (conforme o desmame)</td></tr><tr><td><strong>Anal</strong></td><td>1–3 anos</td><td>Controle dos esfíncteres</td><td>Organização, teimosia, avareza ou generosidade</td></tr><tr><td><strong>Fálica</strong></td><td>3–6 anos</td><td>Órgãos genitais; <strong>Complexo de Édipo</strong></td><td>Resolução bem-sucedida dota o sujeito de <strong>superego funcional</strong> e identidade de gênero</td></tr><tr><td><strong>Latência</strong></td><td>6–7 anos em diante</td><td>Aquietamento pulsional</td><td>Socialização e aprendizado intelectual</td></tr><tr><td><strong>Genital</strong></td><td>Puberdade em diante</td><td>Parceiros externos</td><td>Personalidade madura e maturidade psicossocial</td></tr></tbody></table></div>
+<p>Para a psicanálise, a "personalidade normal" é, na verdade, <strong>um arranjo defensivo estável</strong>. O clínico usa esse mapa não para rotular, mas para localizar a raiz infantil dos conflitos atuais e ajudar o paciente a flexibilizar suas defesas.</p>
+<hr>
+<h2>7. Jung: inconsciente coletivo, arquétipos e individuação</h2>
+<p>A psicologia analítica de Carl Gustav Jung desloca a questão. A psique não apenas <em>media conflitos</em>: ela <strong>caminha ativamente</strong> rumo ao desenvolvimento de todo o potencial humano, ligando a história do sujeito à história da espécie.</p>
+<h4>Três níveis de profundidade</h4>
+<ul><li><strong>Ego (consciência)</strong> — centro da mente consciente; responde pelo senso de identidade, continuidade, memória e percepção da realidade imediata.</li><li><strong>Inconsciente pessoal</strong> — camada contígua ao ego: o esquecido, o reprimido, o percebido de forma subliminar. É onde se formam os <strong>complexos</strong> (grupos de ideias e memórias carregados de forte valor emocional).</li><li><strong>Inconsciente coletivo</strong> — a maior inovação de Jung. Camada mais profunda, que <strong>não depende da experiência pessoal</strong>: herança filogenética, estrutura universal compartilhada por todos os humanos, independente de época e cultura. Seu conteúdo são os <strong>arquétipos</strong> — moldes e imagens primordiais que determinam como reagimos e damos sentido às grandes experiências (nascimento, morte, perigo, amor).</li></ul>
+<h4>Os quatro arquétipos centrais</h4>
+<div class="tbl"><table><thead><tr><th>Arquétipo</th><th>O que é</th><th>Risco / dinâmica</th></tr></thead><tbody><tr><td><strong>Persona</strong></td><td>A face apresentada ao mundo para se adaptar socialmente, exercer a profissão e cumprir papéis</td><td>Identificar-se <em>totalmente</em> com ela e esquecer a identidade por trás do papel</td></tr><tr><td><strong>Sombra</strong></td><td>O oposto da persona: traços, desejos e impulsos vistos como inferiores ou incompatíveis com a autoimagem idealizada</td><td>É <strong>projetada nos outros</strong>, gerando preconceito e intolerância, até ser integrada</td></tr><tr><td><strong>Anima / Animus</strong></td><td>A psique é intrinsecamente bissexual. <strong>Anima</strong>: contraparte feminina inconsciente no homem (intuição, afeto, conexão). <strong>Animus</strong>: contraparte masculina inconsciente na mulher (lógica, ação, afirmação)</td><td>Integrar as polaridades equilibra sensibilidade e razão</td></tr><tr><td><strong>Self (Si-Mesmo)</strong></td><td>Arquétipo da ordem, da totalidade e da unificação; <strong>verdadeiro centro da personalidade</strong></td><td>Equilibra mente consciente e inconsciente</td></tr></tbody></table></div>
+<blockquote><p>Cuidado com a pegadinha: o <strong>ego</strong> é o centro da <em>consciência</em>; o <strong>Self</strong> é o centro da <em>personalidade total</em>. Não são sinônimos.</p></blockquote>
+<h4>Individuação</h4>
+<p>É o conceito central da clínica junguiana: jornada contínua de amadurecimento pela qual o sujeito se torna aquilo que verdadeiramente foi destinado a ser. Exige um diálogo corajoso entre ego e inconsciente:</p>
+<ol><li>Reconhecer os papéis sociais da Persona <strong>sem ser engolido</strong> por eles.</li><li>Encarar a própria <strong>Sombra</strong>, retirando as projeções feitas nos outros e aceitando os próprios defeitos.</li><li>Integrar <strong>Anima/Animus</strong>, equilibrando sensibilidade e razão.</li></ol>
+<p>A individuação <strong>não busca perfeição nem normalidade estatística — busca completude</strong>. O sentido da vida, para Jung, está em fazer as pazes com as forças opostas que habitam o interior. Na clínica, sintomas como a depressão ou a ansiedade na metade da vida não são apenas disfunções: sinalizam que o processo de individuação <strong>empacou</strong>.</p>
+<hr>
+<h2>8. Relações objetais: Klein, Winnicott e o mundo interno</h2>
+<p>A Escola das Relações Objetais opera a grande revolução pós-freudiana. Aqui a personalidade <strong>não se estrutura apenas no conflito entre impulsos internos</strong> (id × ego), mas no modo como o bebê <strong>internaliza suas primeiras relações afetivas</strong> com os cuidadores primários — os "objetos".</p>
+<h4>Melanie Klein — o mundo interno primitivo</h4>
+<p>O bebê nasce com um ego primitivo, porém ativo, que precisa lidar de imediato com a <strong>angústia de aniquilamento</strong>. A personalidade se estrutura no trânsito contínuo entre duas <strong>posições</strong> (modos de organizar a experiência e os vínculos):</p>
+<div class="tbl"><table><thead><tr><th></th><th><strong>Posição esquizoparanoide</strong></th><th><strong>Posição depressiva</strong></th></tr></thead><tbody><tr><td>Quando</td><td>Primeiros meses de vida</td><td>Meados do primeiro ano</td></tr><tr><td>Operação central</td><td><strong>Cisão (esquizo)</strong>: o seio materno é dividido em <strong>seio bom</strong> (alimenta, acolhe, é amado) e <strong>seio mau</strong> (frustra, demora, é odiado)</td><td><strong>Integração</strong>: o bebê percebe que seio bom e seio mau pertencem à <strong>mesma</strong> pessoa, a mãe</td></tr><tr><td>Angústia</td><td><strong>Persecutória</strong>: projeta a agressividade inata no seio mau e teme ser atacado e destruído por ele</td><td><strong>Depressiva</strong>: teme ter <strong>destruído a mãe boa</strong> com seus ataques de fúria</td></tr><tr><td>Afeto dominante</td><td>Medo; mundo do "tudo ou nada"</td><td><strong>Culpa</strong> e <strong>ambivalência</strong> (amar e odiar a mesma pessoa)</td></tr><tr><td>Saída madura</td><td>—</td><td><strong>Reparação</strong>: desejo de reparar o dano imaginado, gerando <strong>empatia, sublimação</strong> e relacionamentos realistas</td></tr></tbody></table></div>
+<blockquote><p>Posição não é etapa vencida e abandonada — é modo de funcionamento ao qual se retorna. Sob estresse intenso, o adulto pode recair na cisão do mundo em "todo bom" e "todo mau".</p></blockquote>
+<h4>Donald Winnicott — o ambiente facilitador</h4>
+<p>Enquanto Klein foca nas <strong>fantasias inconscientes internas</strong> do bebê, Winnicott — pediatra de formação — desloca o olhar para a <strong>relação real</strong> da dupla mãe-bebê. Daí sua frase célebre:</p>
+<blockquote><p>"Não existe essa coisa chamada bebê… o que existe é um bebê e alguém."</p></blockquote>
+<ul><li><strong>Preocupação materna primária</strong> — estado mental de sensibilidade extrema nos últimos meses de gestação e primeiras semanas pós-parto, que permite à mãe identificar e satisfazer as necessidades sutis do recém-nascido.</li><li><strong>Mãe suficientemente boa</strong> — <strong>não</strong> é a mãe perfeita (a perfeição gera rigidez). É a que se adapta totalmente no início, dando ao bebê a <strong>ilusão de onipotência</strong> (criar o mundo), e depois introduz <strong>frustrações graduais e toleráveis</strong>. Essa falha gradual e amorosa é o que empurra a criança a reconhecer a realidade externa.</li><li><strong>Ambiente facilitador</strong> — oferece <strong>holding</strong> (sustentação física e emocional), <strong>handling</strong> (manejo corporal correto) e a <strong>apresentação adequada dos objetos</strong>. Se falha gravemente, o desenvolvimento é interrompido por invasões da realidade que o bebê não consegue processar.</li></ul>
+<h4>Verdadeiro-self × falso-self</h4>
+<p>A qualidade do ambiente determina o padrão estrutural da personalidade.</p>
+<div class="tbl"><table><thead><tr><th></th><th><strong>Verdadeiro-self</strong></th><th><strong>Falso-self</strong></th></tr></thead><tbody><tr><td>Ambiente de origem</td><td>Seguro; valida os gestos espontâneos e as necessidades reais</td><td>Falha repetidamente; exige que o bebê se adapte às necessidades e humores da mãe</td></tr><tr><td>Aprendizado do bebê</td><td>Pode existir a partir de si</td><td>Aprende a "adivinhar" o que a mãe quer, para não ser abandonado</td></tr><tr><td>Resultado adulto</td><td>Criatividade, sentimento de estar genuinamente vivo, autenticidade nas relações</td><td>Máscara de submissão, polidez e adequação social perfeita — o "bebê bonzinho" que nunca chora</td></tr><tr><td>Vivência íntima</td><td>Espontaneidade</td><td><strong>Vazio crônico, falsidade e tédio existencial</strong></td></tr></tbody></table></div>
+<p>Na clínica, o psicólogo atua como <strong>novo ambiente facilitador</strong>: pelo holding da escuta terapêutica, permite que o paciente deponha as defesas rígidas do falso-self e se reconecte com a espontaneidade do verdadeiro-self.</p>
+<hr>
+<h2>9. Comparativo final das matrizes</h2>
+<div class="tbl"><table><thead><tr><th>Matriz</th><th>Autor</th><th>O que estrutura a personalidade</th><th>Conceitos-chave</th></tr></thead><tbody><tr><td><strong>Traços / nomotética</strong></td><td>Gordon Allport</td><td>Organização dinâmica de sistemas psicofísicos, inferida do comportamento</td><td>Construto científico, estabilidade e consistência, Big Five</td></tr><tr><td><strong>Psicanálise clássica</strong></td><td>Sigmund Freud</td><td>Conflito entre instâncias e destino da libido na infância</td><td>Tópicas, id-ego-superego, defesas, determinismo psíquico, fases</td></tr><tr><td><strong>Psicologia analítica</strong></td><td>Carl Gustav Jung</td><td>Diálogo entre ego e inconsciente, rumo à totalidade</td><td>Inconsciente coletivo, arquétipos, individuação, Self</td></tr><tr><td><strong>Relações objetais</strong></td><td>Melanie Klein</td><td>Fantasias inconscientes e internalização do objeto</td><td>Posições esquizoparanoide e depressiva, cisão, reparação</td></tr><tr><td><strong>Relações objetais</strong></td><td>Donald Winnicott</td><td>Qualidade real do ambiente de cuidado</td><td>Holding, mãe suficientemente boa, verdadeiro e falso-self</td></tr></tbody></table></div>
+<blockquote><p>Três distinções que mais confundem em prova: <strong>temperamento × caráter</strong> (herdado × adquirido); <strong>inconsciente pessoal × coletivo</strong> (biográfico × filogenético); <strong>Klein × Winnicott</strong> (fantasia interna × relação real com o ambiente).</p></blockquote></script>
+<!-- Tutor local: define window.DEEPSEEK_KEY. O arquivo NAO vai para o repositorio,
+     entao online ele da 404 e o chat simplesmente nao aparece. -->
+<script src="../deepseek_key.js"></script>
+<script>
+/* ─────────────────────────────────────────────────────────────────────────────
+   CONTRATO DE DADOS — para adaptar a outro tema, troque apenas QUIZ e o resumo.
+   Cada item: { question, options[2..6], correctIndex, explanation }
+   ──────────────────────────────────────────────────────────────────────────── */
+var TITLE      = "Diversidade da Personalidade Humana";
+var EYEBROW    = "Psicologia · Personalidade";
+var DISCIPLINA = "Personalidade";   // pasta de origem (PED, GO...) — usada pelo índice
+var SUBTITLE = "Da máscara grega às teorias psicodinâmicas da personalidade";
+var INTRO    = "Cobre a construção epistemológica do conceito de personalidade — persona, temperamento e caráter, nomotético e idiográfico, crítica W.E.I.R.D. e neurodiversidade — e as matrizes psicodinâmicas: as tópicas de Freud, os arquétipos de Jung e as relações objetais de Klein e Winnicott.";
+
+var QUIZ = [
+  {
+    "question": "O termo personalidade deriva do latim persona (grego prosopon). No mundo clássico, o que essa palavra designava originalmente?",
+    "options": [
+      "Máscara teatral usada pelos atores no mundo greco-romano",
+      "Retrato pintado que os nobres exibiam nos salões romanos",
+      "Registro civil que atestava a cidadania no império romano",
+      "Assinatura ritual que os oradores gravavam em suas togas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Persona era a máscara de teatro dos atores clássicos. Com os séculos, o sentido se desloca da máscara que se usa para o sujeito que a veste — a pessoa como portadora de direitos, deveres e de uma interioridade psicológica."
+  },
+  {
+    "question": "A definição de personalidade como organização dinâmica, dentro do indivíduo, dos sistemas psicofísicos que determinam seu comportamento e pensamento característicos foi publicada em 1937 e funda o campo moderno. Quem a formulou?",
+    "options": [
+      "Gordon Allport",
+      "Carl Gustav Jung",
+      "Melanie Klein",
+      "Donald Winnicott"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gordon Allport publica em 1937 a obra que funda o estudo moderno da personalidade na psicologia. A partir dela, a personalidade deixa de ser alma abstrata ou traço moral e passa a ser um construto científico, inferido do comportamento observável."
+  },
+  {
+    "question": "Qual dimensão da personalidade corresponde às tendências herdadas, ao nível de atividade, à reatividade emocional e ao limiar de estimulação, manifestando-se já nos primeiros meses de vida?",
+    "options": [
+      "O temperamento, base constitucional e biológica",
+      "O caráter, base valorativa adquirida na cultura",
+      "A persona, interface social construída no papel",
+      "O superego, instância moral herdada dos pais"
+    ],
+    "correctIndex": 0,
+    "explanation": "O temperamento é a dimensão constitucional: aspectos formais do comportamento com forte determinação genética, ligados ao sistema límbico e aos neurotransmissores. É a matéria-prima biológica sobre a qual o caráter vai depois trabalhar."
+  },
+  {
+    "question": "O conjunto de valores, crenças, hábitos e autoconceito internalizados a partir da socialização, da cultura e do ambiente familiar recebe qual nome no modelo biopsicossocial?",
+    "options": [
+      "Caráter, a dimensão adquirida da personalidade",
+      "Temperamento, a dimensão herdada constitucional",
+      "Arquétipo, a imagem primordial herdada da espécie",
+      "Complexo, o núcleo afetivo do inconsciente pessoal"
+    ],
+    "correctIndex": 0,
+    "explanation": "O caráter é a inscrição cultural e social da personalidade: modula as tendências do temperamento e introduz o julgamento moral, a ética e a adaptação social. Desenvolve-se ao longo da vida pelo aprendizado e pela reflexão subjetiva."
+  },
+  {
+    "question": "Um temperamento muito reativo ao medo pode gerar um caráter ansioso e isolado num ambiente hostil, ou um caráter prudente e analítico num ambiente acolhedor. Que princípio explica essa diferença de desfecho?",
+    "options": [
+      "A epigenética: o ambiente modula a expressão dos genes",
+      "O inatismo: o gene fixa o desfecho seja qual for o meio",
+      "O behaviorismo puro: só o reforço externo produz traços",
+      "O determinismo psíquico: a infância decide tudo na mente"
+    ],
+    "correctIndex": 0,
+    "explanation": "O paradigma biopsicossocial rejeita tanto o reducionismo biológico quanto o determinismo cultural. A personalidade resulta da epigenética: ambiente e cultura modificam a expressão dos genes, de modo que a mesma base temperamental pode desembocar em caracteres opostos."
+  },
+  {
+    "question": "A matriz metodológica que foca nas semelhanças entre as pessoas, busca traços universais e se apoia em psicometria e análise fatorial — como no modelo dos Cinco Grandes Fatores — é a:",
+    "options": [
+      "Abordagem nomotética",
+      "Abordagem idiográfica",
+      "Abordagem hermenêutica",
+      "Abordagem narrativista"
+    ],
+    "correctIndex": 0,
+    "explanation": "O modelo nomotético busca leis universais da personalidade por métodos quantitativos. Permite comparação entre indivíduos, diagnósticos padronizados e previsibilidade estatística, mas corre o risco de reduzir o sujeito a uma pontuação num gráfico."
+  },
+  {
+    "question": "O critério que exige que as hipóteses de uma teoria possam ser testadas e eventualmente provadas falsas foi formulado por Karl Popper e se chama:",
+    "options": [
+      "Falseabilidade da teoria",
+      "Capacidade heurística",
+      "Utilidade prática clínica",
+      "Consistência situacional"
+    ],
+    "correctIndex": 0,
+    "explanation": "A falseabilidade de Popper é um dos três critérios que validam uma teoria da personalidade, ao lado da utilidade prática e da capacidade heurística. Uma teoria que explica absolutamente tudo e nunca pode ser refutada por dados perde o caráter de ciência rigorosa."
+  },
+  {
+    "question": "A sigla W.E.I.R.D., usada na crítica ao viés amostral da psicologia, designa populações:",
+    "options": [
+      "Ocidentais, instruídas, industrializadas, ricas e democráticas",
+      "Ocidentais, endógamas, individualistas, rurais e distantes",
+      "Orientais, escolarizadas, integradas, religiosas e diversas",
+      "Ocidentais, elitizadas, isoladas, resilientes e dominantes"
+    ],
+    "correctIndex": 0,
+    "explanation": "W.E.I.R.D. é o acrônimo de Western, Educated, Industrialized, Rich and Democratic. A maior parte das teorias clássicas foi construída sobre amostras desse perfil e depois aplicada como se fossem leis universais para toda a humanidade."
+  },
+  {
+    "question": "Traços avaliados como passividade, agressividade ou desadaptação por testes padronizados internacionais podem ser lidos, pela escuta decolonial, como:",
+    "options": [
+      "Estratégias de sobrevivência e modos de vida legítimos",
+      "Sinais precoces de transtorno de personalidade grave",
+      "Erros de preenchimento que invalidam todo o protocolo",
+      "Traços universais que confirmam a validade do teste"
+    ],
+    "correctIndex": 0,
+    "explanation": "A decolonialidade exige que a cultura local não seja vista como desvio, e sim como o solo de onde a personalidade brota. Modos de vida de povos indígenas, quilombolas ou periféricos podem ser patologizados por instrumentos construídos em outro contexto."
+  },
+  {
+    "question": "O conceito de neurodiversidade entende condições como o Transtorno do Espectro Autista e o TDAH como:",
+    "options": [
+      "Variações naturais e saudáveis do genoma humano",
+      "Doenças degenerativas que exigem cura definitiva",
+      "Desvios morais produzidos por falhas de criação",
+      "Quadros transitórios que remitem na vida adulta"
+    ],
+    "correctIndex": 0,
+    "explanation": "A neurodiversidade trata variações do funcionamento neurológico como parte natural da diversidade humana, e não como defeito. O foco da intervenção desloca-se de consertar o defeito para promover acessibilidade e respeito a outra forma de vivenciar o mundo."
+  },
+  {
+    "question": "Quais são os dois eixos contemporâneos que permitem diferenciar uma variação individual saudável de um transtorno mental que exige tratamento?",
+    "options": [
+      "Sofrimento subjetivo intenso e prejuízo funcional rígido",
+      "Desvio estatístico da média e raridade do comportamento",
+      "Reprovação social do grupo e queixa trazida pela família",
+      "Duração acima de seis meses e presença de sintoma físico"
+    ],
+    "correctIndex": 0,
+    "explanation": "O critério não é o desvio da média, e sim se o modo de funcionar causa sofrimento íntimo paralisante e se impede o sujeito de trabalhar, amar e manter laços. Quem difere da média mas é flexível, está bem e mantém vínculos está no campo da diversidade."
+  },
+  {
+    "question": "O modelo topográfico formulado por Freud em 1900, a primeira tópica, divide o aparelho psíquico em:",
+    "options": [
+      "Consciente, pré-consciente e inconsciente",
+      "Id, ego e superego, em conflito dinâmico",
+      "Ego, inconsciente pessoal e coletivo",
+      "Persona, sombra e Self, como arquétipos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A primeira tópica descreve três camadas: o consciente, de acesso direto; o pré-consciente, de memórias evocáveis com esforço de atenção; e o inconsciente, reservatório de desejos censurados e impulsos recalcados, regido pelo processo primário."
+  },
+  {
+    "question": "O modelo estrutural de 1923, a segunda tópica freudiana, apresenta a personalidade como a dinâmica de forças entre quais instâncias?",
+    "options": [
+      "Id, ego e superego, em tensão permanente",
+      "Consciente, pré-consciente e inconsciente",
+      "Persona, sombra, anima e Self integrados",
+      "Seio bom, seio mau e objeto já integrado"
+    ],
+    "correctIndex": 0,
+    "explanation": "A segunda tópica não substitui a primeira: as duas são complementares. Nela, a personalidade é o resultado da tensão entre o id, o ego e o superego, cada um operando sob uma lógica própria."
+  },
+  {
+    "question": "Qual instância psíquica é totalmente inconsciente, movida pelo princípio do prazer, e não conhece moralidade nem lógica?",
+    "options": [
+      "O id, matriz original da personalidade",
+      "O ego, mediador com a realidade externa",
+      "O superego, juiz interno e moral",
+      "O pré-consciente, arquivo evocável"
+    ],
+    "correctIndex": 0,
+    "explanation": "O id é a matriz original da personalidade e exige satisfação imediata dos impulsos biológicos e sexuais (libido). É o ego, e não o id, que opera sob o princípio da realidade, buscando satisfazer esses desejos de modo seguro e socialmente aceitável."
+  },
+  {
+    "question": "O superego se forma pela internalização das normas parentais e culturais no desfecho do Complexo de Édipo. O que ele contém e como age sobre o ego?",
+    "options": [
+      "Ideal do ego e consciência moral; pune o ego com culpa",
+      "Princípio do prazer e libido bruta; exige gozo imediato",
+      "Processo primário e recalque; devolve o desejo à cena",
+      "Inconsciente coletivo e arquétipos; herda toda a espécie"
+    ],
+    "correctIndex": 0,
+    "explanation": "O superego é o juiz interno: abriga o ideal do ego e a consciência moral, e pune o ego com culpa quando as regras são violadas. É por isso que o ego vive pressionado por três frentes — id, superego e realidade externa."
+  },
+  {
+    "question": "Sentir com convicção que ele me odeia quando o sentimento inaceitável de ódio é do próprio sujeito exemplifica qual mecanismo de defesa?",
+    "options": [
+      "Projeção, que atribui ao outro o próprio afeto",
+      "Sublimação, que desvia a pulsão para a arte",
+      "Recalque, que empurra o desejo ao inconsciente",
+      "Formação reativa, que inverte o desejo real"
+    ],
+    "correctIndex": 0,
+    "explanation": "A projeção atribui a outro indivíduo sentimentos ou desejos inaceitáveis do próprio sujeito. Como todo mecanismo de defesa, é acionada de forma inconsciente pelo ego e distorce a realidade para reduzir a angústia."
+  },
+  {
+    "question": "Transformar a agressividade em prática esportiva ou em produção artística corresponde a qual mecanismo de defesa do ego?",
+    "options": [
+      "Sublimação, desvio da pulsão para fins valorizados",
+      "Projeção, atribuição do próprio afeto a outra pessoa",
+      "Recalque, expulsão do desejo para o inconsciente",
+      "Formação reativa, adoção do comportamento oposto"
+    ],
+    "correctIndex": 0,
+    "explanation": "A sublimação desvia a energia pulsional para fins socialmente valorizados. Difere da formação reativa, em que o sujeito adota o comportamento contrário ao desejo reprimido — como demonstrar carinho excessivo por quem secretamente detesta."
+  },
+  {
+    "question": "Traços de organização, teimosia, avareza ou generosidade são associados por Freud ao desfecho de qual fase do desenvolvimento psicossexual?",
+    "options": [
+      "Fase anal, do controle dos esfíncteres",
+      "Fase oral, da amamentação e do desmame",
+      "Fase fálica, do Complexo de Édipo",
+      "Fase genital, da escolha de parceiros"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na fase anal, entre 1 e 3 anos, a libido se concentra no controle dos esfíncteres, e o modo como o treino de higiene ocorre molda esses traços. A fase oral, dos 0 ao 1 ano, é a que molda dependência, otimismo ou sarcasmo pelo desmame."
+  },
+  {
+    "question": "A resolução bem-sucedida da fase fálica, palco do Complexo de Édipo entre os 3 e os 6 anos, dota o sujeito de:",
+    "options": [
+      "Um superego funcional e uma identidade de gênero",
+      "Um ego auxiliar e uma libido inteiramente oral",
+      "Um id pacificado e uma consciência ampliada",
+      "Um falso-self robusto e uma persona ajustada"
+    ],
+    "correctIndex": 0,
+    "explanation": "É na fase fálica que a internalização das normas parentais constitui o superego e se firma a identidade de gênero. Depois dela vem a latência, com aquietamento das pulsões e foco na socialização e no aprendizado intelectual."
+  },
+  {
+    "question": "A camada mais profunda da psique descrita por Jung, que não depende da experiência pessoal e constitui herança filogenética compartilhada por todos os humanos, é:",
+    "options": [
+      "O inconsciente coletivo, repositório dos arquétipos",
+      "O inconsciente pessoal, onde nascem os complexos",
+      "O pré-consciente, arquivo de memórias evocáveis",
+      "O ego consciente, centro do senso de identidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "O inconsciente coletivo é a maior inovação teórica de Jung: estrutura universal independente de época e cultura, que abriga os arquétipos — moldes e imagens primordiais que orientam a reação humana ao nascimento, à morte, ao perigo e ao amor."
+  },
+  {
+    "question": "Os traços, desejos e impulsos que o sujeito considera inferiores ou incompatíveis com sua autoimagem idealizada — e que costuma projetar nos outros, gerando preconceitos — formam qual arquétipo?",
+    "options": [
+      "A sombra, oposta à persona social",
+      "A persona, interface de adaptação",
+      "O animus, contraparte masculina",
+      "O Self, arquétipo da totalidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "A sombra é o oposto da persona e concentra o que o sujeito recusa em si. Enquanto não é integrada, tende a ser projetada em outras pessoas, o que alimenta preconceitos e intolerâncias."
+  },
+  {
+    "question": "Qual arquétipo é descrito como o centro regulador da personalidade, responsável pela ordem, pela totalidade e pelo equilíbrio entre consciente e inconsciente?",
+    "options": [
+      "O Self, ou Si-Mesmo, arquétipo da totalidade",
+      "A persona, arquétipo da adaptação social",
+      "A sombra, arquétipo do que é recusado",
+      "O animus, arquétipo da lógica e da ação"
+    ],
+    "correctIndex": 0,
+    "explanation": "O Self é o arquétipo da ordem e da unificação da psique e atua como verdadeiro centro da personalidade — não o ego, que é apenas o centro da consciência. É em torno do Self que a individuação se organiza."
+  },
+  {
+    "question": "O processo de individuação, eixo central da clínica junguiana, tem como meta:",
+    "options": [
+      "A completude, integrando as forças opostas da psique",
+      "A perfeição moral, eliminando a sombra do sujeito",
+      "A normalidade estatística, ajustando-se ao padrão",
+      "A adaptação social plena, reforçando a persona"
+    ],
+    "correctIndex": 0,
+    "explanation": "A individuação exige reconhecer a persona sem ser engolido por ela, encarar a própria sombra retirando as projeções e integrar anima e animus. Não busca perfeição nem normalidade estatística, mas completude: fazer as pazes com as forças opostas internas."
+  },
+  {
+    "question": "Na posição esquizoparanoide descrita por Melanie Klein, como o ego primitivo do bebê se defende da angústia de aniquilamento?",
+    "options": [
+      "Cinde o seio em bom e mau, com medo persecutório",
+      "Integra o objeto materno, com culpa e ambivalência",
+      "Repara o dano causado, com empatia e sublimação",
+      "Aceita o holding do ambiente, com onipotência"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nos primeiros meses, o bebê ainda não concebe que a mesma pessoa possa ser boa e má, então cinde o seio materno em seio bom e seio mau. Ao projetar sua agressividade inata no seio mau, passa a temer ser atacado por ele — o medo persecutório do tudo ou nada."
+  },
+  {
+    "question": "O que caracteriza a passagem para a posição depressiva descrita por Melanie Klein?",
+    "options": [
+      "O bebê integra o objeto e teme ter destruído a mãe boa",
+      "O bebê cinde o objeto e teme ser destruído por ele",
+      "O bebê perde o ego primitivo e regride à cisão total",
+      "O bebê adota o falso-self para agradar a cuidadora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Por volta de meados do primeiro ano, o bebê percebe que seio bom e seio mau pertencem à mesma mãe. O medo de ser destruído cede lugar ao medo de ter destruído a mãe boa, surgindo a culpa e a ambivalência — amar e odiar a mesma pessoa."
+  },
+  {
+    "question": "A frase não existe essa coisa chamada bebê, o que existe é um bebê e alguém sintetiza a posição teórica de qual autor?",
+    "options": [
+      "Donald Winnicott",
+      "Carl Gustav Jung",
+      "Gordon Allport",
+      "Melanie Klein"
+    ],
+    "correctIndex": 0,
+    "explanation": "Winnicott, pediatra de formação, desloca o olhar das fantasias internas do bebê para a relação real da dupla mãe-bebê. Para ele, o bebê só existe dentro de um ambiente de cuidado, nunca isoladamente."
+  },
+  {
+    "question": "O que define a mãe suficientemente boa na teoria de Winnicott?",
+    "options": [
+      "Adapta-se ao bebê e depois falha em doses toleráveis",
+      "Adapta-se perfeitamente ao bebê e nunca o frustra",
+      "Frustra o bebê desde o início para ensinar limites",
+      "Delega o cuidado para preservar a espontaneidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Não é a mãe perfeita — a perfeição gera rigidez. É a que se adapta totalmente no início, dando ao bebê a ilusão de onipotência, e depois introduz frustrações graduais e toleráveis. Essa falha amorosa é o que empurra a criança a reconhecer a realidade externa."
+  },
+  {
+    "question": "A personalidade organizada em torno do falso-self, segundo Winnicott, resulta de qual condição ambiental?",
+    "options": [
+      "Ambiente que exige do bebê adaptação às vontades da mãe",
+      "Ambiente seguro que valida os gestos espontâneos do bebê",
+      "Herança genética de um temperamento pouco reativo ao medo",
+      "Fixação na fase anal por treino de higiene muito rígido"
+    ],
+    "correctIndex": 0,
+    "explanation": "Quando o ambiente falha repetidamente e exige que o bebê se adapte aos humores da mãe, ele aprende a adivinhar o que ela quer para não ser abandonado. Forma-se então uma máscara de submissão e adequação social perfeita — o bebê bonzinho que nunca chora."
+  },
+  {
+    "question": "Qual diferença de foco separa Melanie Klein de Donald Winnicott dentro da escola das relações objetais?",
+    "options": [
+      "Klein enfatiza a fantasia interna; Winnicott, a relação real",
+      "Winnicott enfatiza a pulsão de morte; Klein, o meio externo",
+      "Klein estuda o adulto neurótico; Winnicott, o adulto psicótico",
+      "Winnicott descreve as posições; Klein descreve o holding"
+    ],
+    "correctIndex": 0,
+    "explanation": "Klein se concentra nas fantasias inconscientes do bebê e nas posições esquizoparanoide e depressiva. Winnicott desloca o olhar para a relação concreta da dupla mãe-bebê e para a qualidade do ambiente facilitador que sustenta o desenvolvimento."
+  },
+  {
+    "question": "Qual é a principal inovação de Jung em relação ao modelo freudiano do inconsciente?",
+    "options": [
+      "Postular um inconsciente coletivo, herdado por toda a espécie",
+      "Postular que o inconsciente guarda apenas o que foi recalcado",
+      "Negar a existência de qualquer camada inconsciente na psique",
+      "Reduzir o psiquismo às fases da libido e às zonas erógenas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Além do inconsciente pessoal, comparável ao território freudiano do recalcado, Jung postula uma camada coletiva de herança filogenética. Com isso a psique deixa de apenas mediar conflitos e passa a caminhar ativamente rumo ao desenvolvimento do potencial humano."
+  }
+];
+
+var LETTERS = ['A','B','C','D','E','F'];
+var SHUFFLE = true, LOCK = true;
+
+var S = { view:'home', started:false, finished:false, i:0, order:[], answers:[], open:{}, filter:'all', warn:false, chat:{} };
+
+function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function pad(n){ return String(n).padStart(2,'0'); }
+
+function build(){
+  var qs = QUIZ.map(function(q,id){ return { question:q.question, options:q.options.slice(), correctIndex:q.correctIndex, explanation:q.explanation, image:q.image, imageCaption:q.imageCaption, id:id }; });
+  if (!SHUFFLE) return qs;
+  for (var i=qs.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=qs[i]; qs[i]=qs[j]; qs[j]=t; }
+  return qs.map(function(q){
+    var correct = q.options[q.correctIndex], o = q.options.slice();
+    for (var i=o.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=o[i]; o[i]=o[j]; o[j]=t; }
+    q.options = o; q.correctIndex = o.indexOf(correct); return q;
+  });
+}
+
+/* ── ações ─────────────────────────────────────────────────────────────────── */
+var A = {
+  home:      function(){ S.view='home'; S.started=false; S.finished=false; up(0); },
+  resumo:    function(){ S.view='resumo'; up(0); },
+  start:     function(){ var o=build(); S.view='quiz'; S.started=true; S.finished=false; S.i=0; S.order=o;
+                         S.answers=new Array(o.length).fill(null); S.open={}; S.filter='all'; S.warn=false; up(0); },
+  restart:   function(){ A.start(); },
+  sair:      function(){ S.view='home'; S.started=false; up(0); },   // guarda as respostas
+  retomar:   function(){ S.view='quiz'; S.started=true; S.finished=false; S.warn=false; up(0); },
+  go:        function(n){ if(n<0||n>S.order.length-1) return; S.i=n; S.warn=false; render(); },
+  jump:      function(n){ if(S.finished){ S.finished=false; S.i=n; S.warn=false; } else { if(n<0||n>S.order.length-1) return; S.i=n; S.warn=false; } up(0,'smooth'); },
+  pick:      function(n){ if(LOCK && S.answers[S.i]!==null) return; S.answers[S.i]=n; render(); },
+  prev:      function(){ A.go(S.i-1); },
+  next:      function(){ if(S.i<S.order.length-1) A.go(S.i+1); else A.finish(); },
+  finish:    function(){ var b=S.answers.filter(function(a){return a===null}).length;
+                         if(b>0 && !S.warn){ S.warn=true; render(); return; } S.finished=true; S.warn=false; up(0); },
+  force:     function(){ S.finished=true; S.warn=false; up(0); },
+  gotoBlank: function(){ var n=S.answers.findIndex(function(a){return a===null}); if(n>=0) A.go(n); },
+  back:      function(){ S.finished=false; S.warn=false; up(0); },
+  filter:    function(k){ S.filter=k; render(); },
+  toggle:    function(n){ S.open[n]=!S.open[n]; render(); },
+  toggleAll: function(){ var r=reviewList(), all=r.length>0 && r.every(function(x){return S.open[x.idx]});
+                         S.open={}; if(!all) r.forEach(function(x){ S.open[x.idx]=true; }); render(); }
+};
+function up(top, beh){ render(); window.scrollTo({ top: top||0, behavior: beh||'auto' }); }
+
+/* Aberto por duplo clique (file://) volta para o indice local; servido pela web,
+   volta para o publicado. Os dois listam os mesmos materiais. */
+function idxHref(){
+  var local = (typeof location !== 'undefined' && location.protocol === 'file:');
+  return local ? '../index_local.html' : '../index.html';
+}
+function emAndamento(){
+  return S.order.length > 0 && !S.finished &&
+         S.answers.some(function(a){ return a !== null; });
+}
+
+/* ── header ────────────────────────────────────────────────────────────────── */
+function renderHeader(){
+  var mono = "font-family:'IBM Plex Mono',monospace";
+  var left =
+    '<div style="min-width:0">' +
+      '<div style="display:flex;align-items:center;gap:8px;'+mono+';font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:#8a8578">' +
+        '<a href="'+idxHref()+'" class="h-ink" style="color:#2b57cc;text-decoration:none;white-space:nowrap">\u2190 Materiais</a>' +
+        '<span style="color:#d3cec4">/</span>' +
+        '<span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+esc(EYEBROW)+'</span>' +
+      '</div>' +
+      '<h1 style="margin:1px 0 0;font-family:\'Newsreader\',Georgia,serif;font-size:20px;font-weight:500;letter-spacing:-.01em;line-height:1.15">'+esc(TITLE)+'</h1>' +
+    '</div>';
+
+  var right = '';
+  if (S.view === 'quiz' && S.started) {
+    var hit = counts().hit;
+    right = '<div style="display:flex;align-items:center;gap:10px;flex-shrink:0">' +
+              '<button type="button" data-act="sair" class="h-line" style="background:none;border:1px solid #ddd8ce;border-radius:9px;padding:6px 11px;'+mono+';font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:#5b6478;cursor:pointer;transition:border-color .15s ease">Sair</button>' +
+              '<div style="display:flex;align-items:center;gap:6px">' +
+                '<span style="'+mono+';font-size:15px;font-weight:600;letter-spacing:-.02em">'+hit+'</span>' +
+                '<span style="'+mono+';font-size:11px;color:#8a8578">/ '+S.order.length+'</span>' +
+              '</div></div>';
+  } else if (S.view !== 'home') {
+    right = '<button type="button" data-act="home" class="h-line" style="flex-shrink:0;background:none;border:1px solid #ddd8ce;border-radius:9px;padding:7px 13px;'+mono+';font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#5b6478;cursor:pointer;transition:border-color .15s ease">← Início</button>';
+  }
+
+  var html = '<div style="display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:'+(S.view==='quiz'&&S.started?'10px':'2px')+'">'+left+right+'</div>';
+
+  if (S.view === 'quiz' && S.started) {
+    var c = counts();
+    var rail = S.order.map(function(q,n){
+      var a = S.answers[n], cur = n===S.i && !S.finished, bg = '#d3cec4';
+      if (a!==null) bg = (a===q.correctIndex) ? '#2e7d55' : '#c04437';
+      if (cur && a===null) bg = '#121a2b';
+      var st = a===null ? 'em branco' : (a===q.correctIndex ? 'correta' : 'incorreta');
+      return '<button type="button" data-act="jump" data-n="'+n+'" title="Questão '+(n+1)+' — '+st+'" aria-label="Questão '+(n+1)+' — '+st+'" style="flex:1 1 0;min-width:0;background:none;border:0;padding:13px 0;margin:0;cursor:pointer;display:flex;align-items:center;justify-content:center">' +
+             '<span style="display:block;width:100%;border-radius:99px;transition:height .18s ease,background .18s ease,box-shadow .18s ease;height:'+(cur?'17px':'9px')+';background:'+bg+';box-shadow:'+(cur?'0 0 0 3px rgba(18,26,43,.13)':'none')+'"></span></button>';
+    }).join('');
+    html += '<div><div style="display:flex;align-items:center;gap:3px">'+rail+'</div>' +
+            '<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:-2px">' +
+              '<div style="'+mono+';font-size:11px;letter-spacing:.04em;color:#5b6478">Questão '+pad(S.i+1)+' / '+S.order.length+'</div>' +
+              '<div style="display:flex;align-items:center;gap:12px;'+mono+';font-size:10.5px;color:#8a8578">' +
+                dot('#2e7d55',c.hit)+dot('#c04437',c.miss)+dot('#d3cec4',c.blank) +
+              '</div></div></div>';
+  }
+  document.getElementById('hdr').innerHTML = html;
+}
+function dot(color,n){ return '<span style="display:flex;align-items:center;gap:5px"><span style="width:7px;height:7px;border-radius:99px;background:'+color+';display:block"></span>'+n+'</span>'; }
+
+function counts(){
+  var hit=0, miss=0, blank=0;
+  S.answers.forEach(function(a,n){
+    if (a===null) blank++;
+    else if (S.order[n] && a===S.order[n].correctIndex) hit++;
+    else miss++;
+  });
+  return { hit:hit, miss:miss, blank:blank, total:S.order.length };
+}
+
+/* ── tela inicial ──────────────────────────────────────────────────────────── */
+function renderHome(){
+  var mono = "font-family:'IBM Plex Mono',monospace";
+  var secoes = (document.getElementById('resumoSrc').textContent.match(/<h2/g)||[]).length;
+  var cell = function(v,l){
+    return '<div style="background:#faf9f6;padding:16px 14px">' +
+      '<div style="'+mono+';font-size:22px;font-weight:500;letter-spacing:-.03em">'+v+'</div>' +
+      '<div style="'+mono+';font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:#8a8578;margin-top:3px">'+l+'</div></div>';
+  };
+  var card = function(act,tag,titulo,desc,cta){
+    return '<button type="button" data-act="'+act+'" class="h-card" style="display:flex;flex-direction:column;align-items:flex-start;gap:0;text-align:left;background:#fff;border:1px solid #e4e0d8;border-radius:18px;padding:24px 22px;cursor:pointer;transition:border-color .16s ease,transform .14s ease;box-shadow:0 1px 2px rgba(18,26,43,.04),0 12px 28px -20px rgba(18,26,43,.18)">' +
+      '<div style="'+mono+';font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:12px">'+tag+'</div>' +
+      '<div style="font-family:\'Newsreader\',Georgia,serif;font-size:26px;font-weight:500;letter-spacing:-.02em;line-height:1.15;margin-bottom:8px">'+titulo+'</div>' +
+      '<div style="font-size:14px;line-height:1.6;color:#5b6478;margin-bottom:18px;text-wrap:pretty">'+desc+'</div>' +
+      '<div style="'+mono+';font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#121a2b">'+cta+'</div></button>';
+  };
+
+  document.getElementById('stage').innerHTML =
+    '<section style="padding:56px 0 0;animation:qFade .3s ease">' +
+      '<div style="'+mono+';font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:16px">Material de revisão</div>' +
+      '<h2 style="font-family:\'Newsreader\',Georgia,serif;font-size:40px;line-height:1.08;font-weight:400;letter-spacing:-.025em;margin:0 0 18px;text-wrap:pretty">'+esc(SUBTITLE)+'</h2>' +
+      '<p style="font-size:15.5px;line-height:1.65;color:#5b6478;margin:0 0 30px;max-width:52ch;text-wrap:pretty">'+esc(INTRO)+'</p>' +
+      '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(108px,1fr));gap:1px;background:#e4e0d8;border:1px solid #e4e0d8;border-radius:14px;overflow:hidden;margin-bottom:32px">' +
+        cell(QUIZ.length,'Questões') + cell(secoes,'Seções') + cell('~'+Math.round(QUIZ.length*0.75),'Minutos') +
+      '</div>' +
+      '<div class="home-grid" style="display:grid;grid-template-columns:1fr 1fr;gap:12px">' +
+        (emAndamento()
+          ? card('retomar','Em andamento','Quiz',
+                 'Você parou na questão '+pad(S.i+1)+' de '+S.order.length+', com '+
+                 (S.order.length-counts().blank)+' respondida'+((S.order.length-counts().blank)===1?'':'s')+
+                 '. Suas respostas continuam guardadas.','Retomar →')
+          : card('start','Praticar','Quiz', QUIZ.length+' questões de múltipla escolha, com explicação assim que você responde e gabarito comentado no fim.','Começar →')) +
+        card('resumo','Estudar','Resumo','O conteúdo da aula em texto corrido, organizado em '+secoes+' seções para leitura antes da prova.','Ler →') +
+      '</div>' +
+      '<div style="margin-top:26px;display:flex;flex-wrap:wrap;align-items:center;gap:8px 18px;'+mono+';font-size:11px;color:#8a8578">' +
+        '<span>← →&nbsp; navegar</span><span>1–'+maxOpts()+'&nbsp; responder</span><span>Enter&nbsp; avançar</span>' +
+        (emAndamento() ? '<button type="button" data-act="start" class="h-ink" style="background:none;border:0;padding:0;'+mono+';font-size:11px;color:#8a8578;cursor:pointer;text-decoration:underline;text-underline-offset:3px">recomeçar do zero</button>' : '') +
+        '</div>' +
+    '</section>';
+}
+function maxOpts(){ return QUIZ.reduce(function(m,q){ return Math.max(m,q.options.length); },0); }
+
+/* ── resumo ────────────────────────────────────────────────────────────────── */
+function renderResumo(){
+  document.getElementById('stage').innerHTML =
+    '<section style="padding:34px 0 0;animation:qFade .3s ease">' +
+      '<div style="font-family:\'IBM Plex Mono\',monospace;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:14px">Resumo</div>' +
+      '<div class="rsm">' + document.getElementById('resumoSrc').textContent + '</div>' +
+      '<div style="display:flex;flex-wrap:wrap;gap:9px;margin-top:38px;padding-top:24px;border-top:1px solid #e4e0d8">' +
+        '<button type="button" data-act="start" class="h-darkflat" style="background:#121a2b;color:#f5f3ef;border:0;border-radius:11px;padding:13px 24px;font-size:14px;font-weight:500;cursor:pointer;transition:background .16s ease">Fazer o quiz →</button>' +
+        '<button type="button" data-act="home" class="h-line" style="background:none;border:1px solid #ddd8ce;border-radius:11px;padding:13px 22px;font-size:14px;cursor:pointer;transition:border-color .15s ease">Voltar ao início</button>' +
+      '</div></section>';
+}
+
+/* imagem da questao — data URI ja resolvida pelo montar_quiz.py */
+function figura(q, cls){
+  if (!q.image) return '';
+  return '<figure class="fig'+(cls?' '+cls:'')+'"><img src="'+q.image+'" alt="'+esc(q.imageCaption||'Imagem da questão')+'">' +
+         (q.imageCaption ? '<figcaption>'+esc(q.imageCaption)+'</figcaption>' : '') + '</figure>';
+}
+
+/* ── questão ───────────────────────────────────────────────────────────────── */
+function renderQuestion(){
+  var mono = "font-family:'IBM Plex Mono',monospace";
+  var q = S.order[S.i], ans = S.answers[S.i], reveal = ans !== null;
+
+  var status = 'Não respondida', sColor = '#8a8578';
+  if (reveal) { var ok = ans===q.correctIndex; status = ok?'Você acertou':'Você errou'; sColor = ok?'#2e7d55':'#c04437'; }
+
+  var opts = q.options.map(function(text,n){
+    var isC = n===q.correctIndex, isMine = n===ans;
+    var bd='#e4e0d8', bg='#fff', fg='#121a2b', bBg='#f2efe9', bFg='#8a8578', mark='', mColor='', op='1', hbd='#2b57cc';
+    if (reveal) {
+      op = (isC||isMine) ? '1' : '.62';
+      if (isC)               { bd='#8fc7a7'; bg='#eef7f1'; fg='#1f5c3e'; bBg='#2e7d55'; bFg='#fff'; mark='✓'; mColor='#2e7d55'; }
+      if (isMine && !isC)    { bd='#e0a49a'; bg='#fdf0ee'; fg='#8f2f25'; bBg='#c04437'; bFg='#fff'; mark='✕'; mColor='#c04437'; }
+    } else if (isMine)       { bd='#121a2b'; bg='#f7f6f2'; bBg='#121a2b'; bFg='#f5f3ef'; }
+    var locked = reveal && LOCK;
+    return '<button type="button" data-act="pick" data-n="'+n+'" class="h-opt'+(locked?' locked':'')+'" style="--hbd:'+hbd+';display:flex;gap:13px;align-items:flex-start;width:100%;text-align:left;padding:14px 15px;border-radius:13px;font-size:15px;line-height:1.5;transition:border-color .15s ease,background .15s ease,transform .12s ease;border:1.5px solid '+bd+';background:'+bg+';color:'+fg+';cursor:'+(locked?'default':'pointer')+';opacity:'+op+'">' +
+      '<span style="flex-shrink:0;width:24px;height:24px;border-radius:7px;display:flex;align-items:center;justify-content:center;'+mono+';font-size:11.5px;font-weight:600;margin-top:1px;background:'+bBg+';color:'+bFg+'">'+LETTERS[n]+'</span>' +
+      '<span style="flex:1;min-width:0;text-wrap:pretty">'+esc(text)+'</span>' +
+      (mark ? '<span style="flex-shrink:0;'+mono+';font-size:14px;font-weight:600;margin-top:1px;color:'+mColor+'">'+mark+'</span>' : '') +
+      '</button>';
+  }).join('');
+
+  var expl = reveal ? '<div style="margin-top:20px;padding:16px 18px;background:#f7f6f2;border-left:2.5px solid #2b57cc;border-radius:0 12px 12px 0;animation:qFade .26s ease">' +
+      '<div style="'+mono+';font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:8px">Por quê</div>' +
+      '<p style="margin:0;font-size:14.5px;line-height:1.68;color:#39404f;text-wrap:pretty">'+esc(q.explanation)+'</p></div>' : '';
+
+  var blank = counts().blank;
+  var warn = S.warn ? '<div style="margin-top:14px;padding:15px 17px;background:#fdf7e9;border:1px solid #e8d5a3;border-radius:14px;animation:qFade .22s ease">' +
+      '<p style="margin:0 0 12px;font-size:14px;line-height:1.55;color:#6b5620">'+blank+(blank===1?' questão ainda está em branco.':' questões ainda estão em branco.')+' Você pode voltar nelas ou finalizar assim mesmo.</p>' +
+      '<div style="display:flex;flex-wrap:wrap;gap:8px">' +
+        '<button type="button" data-act="gotoBlank" style="background:#121a2b;color:#f5f3ef;border:0;border-radius:9px;padding:9px 16px;font-size:13px;font-weight:500;cursor:pointer">Ir para a 1ª em branco</button>' +
+        '<button type="button" data-act="force" style="background:none;color:#6b5620;border:1px solid #e8d5a3;border-radius:9px;padding:9px 16px;font-size:13px;cursor:pointer">Finalizar assim mesmo</button>' +
+      '</div></div>' : '';
+
+  var last = S.i === S.order.length-1;
+  var early = !last && (S.order.length - blank) > 0;
+
+  document.getElementById('stage').innerHTML =
+    '<section style="padding:26px 0 0">' +
+      '<article style="background:#fff;border:1px solid #e4e0d8;border-radius:18px;padding:26px 22px 24px;box-shadow:0 1px 2px rgba(18,26,43,.04),0 12px 28px -18px rgba(18,26,43,.18)">' +
+        '<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:14px">' +
+          '<div style="'+mono+';font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc">Questão '+pad(S.i+1)+'</div>' +
+          '<div style="'+mono+';font-size:10.5px;letter-spacing:.06em;color:'+sColor+'">'+status+'</div>' +
+        '</div>' +
+        '<h2 style="font-family:\'Newsreader\',Georgia,serif;font-size:22px;line-height:1.42;font-weight:400;letter-spacing:-.012em;margin:0 0 22px;text-wrap:pretty">'+esc(q.question)+'</h2>' +
+        figura(q, 'qfig') +
+        '<div style="display:flex;flex-direction:column;gap:9px">'+opts+'</div>' + expl +
+        (reveal ? chatBox(q, ans===q.correctIndex) : '') +
+      '</article>' + warn +
+      '<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:18px">' +
+        '<button type="button" data-act="prev" class="h-line" style="background:none;border:1px solid #ddd8ce;border-radius:11px;padding:12px 18px;font-size:14px;cursor:pointer;transition:border-color .15s ease,color .15s ease;color:'+(S.i===0?'#c4bfb4':'#121a2b')+';pointer-events:'+(S.i===0?'none':'auto')+'">← Anterior</button>' +
+        '<div style="display:flex;align-items:center;gap:8px">' +
+          (early ? '<button type="button" data-act="finish" class="h-ink" style="background:none;border:0;padding:12px 6px;'+mono+';font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:#8a8578;cursor:pointer;text-decoration:underline;text-underline-offset:3px">Finalizar</button>' : '') +
+          '<button type="button" data-act="next" class="h-darkflat" style="background:#121a2b;color:#f5f3ef;border:0;border-radius:11px;padding:12px 22px;font-size:14px;font-weight:500;cursor:pointer;transition:background .16s ease">'+(last?'Finalizar':'Próxima →')+'</button>' +
+        '</div></div></section>';
+}
+
+/* ── resultado + gabarito comentado ────────────────────────────────────────── */
+function reviewList(){
+  return S.order.map(function(q,n){
+    var a = S.answers[n], ok = a!==null && a===q.correctIndex;
+    return { idx:n, ok:ok, blank:a===null, q:q, a:a };
+  }).filter(function(r){
+    return S.filter==='all' || (S.filter==='wrong'&&!r.ok&&!r.blank) || (S.filter==='right'&&r.ok) || (S.filter==='blank'&&r.blank);
+  });
+}
+
+function renderResult(){
+  var mono = "font-family:'IBM Plex Mono',monospace";
+  var c = counts(), pct = c.total ? Math.round(c.hit/c.total*100) : 0;
+
+  var title='Precisa revisar', msg='Releia o material com atenção e refaça o quiz — as explicações abaixo cobrem cada erro.';
+  if (pct>=90)      { title='Domínio sólido';   msg='Desempenho excelente. Confira as explicações das que escaparam e siga em frente.'; }
+  else if (pct>=70) { title='Bom desempenho';   msg='Base consistente. Revise os pontos errados abaixo para fechar as lacunas.'; }
+  else if (pct>=50) { title='Meio do caminho';  msg='Você acertou o essencial, mas há lacunas. Comece pelo filtro de erradas.'; }
+
+  var stat = function(v,l,color){
+    return '<div style="background:#faf9f6;padding:14px 10px">' +
+      '<div style="'+mono+';font-size:19px;font-weight:500;color:'+color+'">'+v+'</div>' +
+      '<div style="'+mono+';font-size:9.5px;letter-spacing:.09em;text-transform:uppercase;color:#8a8578;margin-top:2px">'+l+'</div></div>';
+  };
+
+  var fdefs = [['all','Todas',c.total],['wrong','Erradas',c.miss],['right','Certas',c.hit],['blank','Em branco',c.blank]];
+  var filters = fdefs.map(function(f){
+    var on = S.filter===f[0];
+    return '<button type="button" data-act="filter" data-k="'+f[0]+'" class="h-line" style="border-radius:99px;padding:8px 14px;font-size:13px;cursor:pointer;transition:all .15s ease;border:1px solid '+(on?'#121a2b':'#ddd8ce')+';background:'+(on?'#121a2b':'transparent')+';color:'+(on?'#f5f3ef':'#5b6478')+'">'+f[1]+' '+f[2]+'</button>';
+  }).join('');
+
+  var list = reviewList();
+  var allOpen = list.length>0 && list.every(function(r){ return S.open[r.idx]; });
+
+  var cards = list.map(function(r){
+    var numBg='#f0ede7', numFg='#8a8578';
+    if (!r.blank) { if (r.ok) { numBg='#e3f0e8'; numFg='#1f5c3e'; } else { numBg='#fbe6e2'; numFg='#8f2f25'; } }
+    var open = !!S.open[r.idx];
+    var body = '';
+    if (open) {
+      var opts = r.q.options.map(function(text,n){
+        var isC = n===r.q.correctIndex, isMine = n===r.a;
+        var bd='#eeebe4', bg='#fbfaf8', fg='#5b6478', bBg='#f0ede7', bFg='#8a8578', tag='', tBg='', tFg='';
+        if (isC)            { bd='#bcdcc9'; bg='#eef7f1'; fg='#1f5c3e'; bBg='#2e7d55'; bFg='#fff'; tag='Correta'; tBg='#d9ede1'; tFg='#1f5c3e'; }
+        if (isMine && !isC) { bd='#eec4bd'; bg='#fdf0ee'; fg='#8f2f25'; bBg='#c04437'; bFg='#fff'; tag='Sua resposta'; tBg='#f7ddd8'; tFg='#8f2f25'; }
+        if (isMine && isC)  { tag='Sua resposta ✓'; }
+        return '<div style="display:flex;gap:11px;align-items:flex-start;padding:11px 13px;border-radius:11px;font-size:14px;line-height:1.5;border:1px solid '+bd+';background:'+bg+';color:'+fg+'">' +
+          '<span style="flex-shrink:0;width:21px;height:21px;border-radius:6px;display:flex;align-items:center;justify-content:center;'+mono+';font-size:10.5px;font-weight:600;background:'+bBg+';color:'+bFg+'">'+LETTERS[n]+'</span>' +
+          '<span style="flex:1;min-width:0;text-wrap:pretty">'+esc(text)+'</span>' +
+          (tag ? '<span style="flex-shrink:0;'+mono+';font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;padding:3px 7px;border-radius:6px;margin-top:1px;background:'+tBg+';color:'+tFg+'">'+tag+'</span>' : '') +
+          '</div>';
+      }).join('');
+      body = '<div style="padding:2px 15px 18px;animation:qDrawer .2s ease">' +
+        '<div style="height:1px;background:#eeebe4;margin:0 0 16px"></div>' +
+        '<p style="font-family:\'Newsreader\',Georgia,serif;font-size:18px;line-height:1.5;margin:0 0 16px;text-wrap:pretty">'+esc(r.q.question)+'</p>' +
+        figura(r.q) +
+        '<div style="display:flex;flex-direction:column;gap:7px">'+opts+'</div>' +
+        '<div style="margin-top:16px;padding:14px 16px;background:#f7f6f2;border-left:2.5px solid #2b57cc;border-radius:0 11px 11px 0">' +
+          '<div style="'+mono+';font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:7px">Por quê</div>' +
+          '<p style="margin:0;font-size:14px;line-height:1.65;color:#39404f;text-wrap:pretty">'+esc(r.q.explanation)+'</p></div>' +
+        '<button type="button" data-act="jump" data-n="'+r.idx+'" style="margin-top:14px;background:none;border:0;padding:0;'+mono+';font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#2b57cc;cursor:pointer;text-decoration:underline;text-underline-offset:3px">Abrir no quiz →</button></div>';
+    }
+    return '<div style="background:#fff;border:1px solid '+(open?'#c9c3b6':'#e4e0d8')+';border-radius:14px;overflow:hidden;transition:border-color .15s ease">' +
+      '<button type="button" data-act="toggle" data-n="'+r.idx+'" style="display:flex;align-items:center;gap:12px;width:100%;text-align:left;background:none;border:0;padding:14px 15px;cursor:pointer">' +
+        '<span style="flex-shrink:0;width:28px;height:28px;border-radius:8px;display:flex;align-items:center;justify-content:center;'+mono+';font-size:12px;font-weight:600;background:'+numBg+';color:'+numFg+'">'+pad(r.idx+1)+'</span>' +
+        '<span style="flex:1;min-width:0;font-size:14px;line-height:1.45;color:#39404f;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical">'+esc(r.q.question)+'</span>' +
+        '<span style="flex-shrink:0;'+mono+';font-size:16px;color:#8a8578;width:16px;text-align:center">'+(open?'−':'+')+'</span>' +
+      '</button>' + body + '</div>';
+  }).join('');
+
+  document.getElementById('stage').innerHTML =
+    '<section style="padding:34px 0 0;animation:qFade .3s ease">' +
+      '<div style="'+mono+';font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:14px">Resultado</div>' +
+      '<h2 style="font-family:\'Newsreader\',Georgia,serif;font-size:36px;line-height:1.12;font-weight:400;letter-spacing:-.025em;margin:0 0 8px">'+title+'</h2>' +
+      '<p style="font-size:15px;line-height:1.6;color:#5b6478;margin:0 0 24px;max-width:48ch;text-wrap:pretty">'+msg+'</p>' +
+      '<div style="height:8px;border-radius:99px;background:#e4e0d8;overflow:hidden;margin-bottom:10px">' +
+        '<div style="height:100%;border-radius:99px;background:#121a2b;transition:width .7s cubic-bezier(.22,1,.36,1);width:'+pct+'%"></div></div>' +
+      '<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:#e4e0d8;border:1px solid #e4e0d8;border-radius:14px;overflow:hidden;margin-bottom:34px">' +
+        stat(c.hit,'Certas','#2e7d55')+stat(c.miss,'Erradas','#c04437')+stat(c.blank,'Branco','#8a8578')+stat(pct+'%','Aproveit.','#2b57cc') +
+      '</div>' +
+      '<div style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:14px">' +
+        '<h3 style="font-family:\'Newsreader\',Georgia,serif;font-size:22px;font-weight:500;letter-spacing:-.015em;margin:0">Gabarito comentado</h3>' +
+        '<button type="button" data-act="toggleAll" class="h-ink" style="background:none;border:0;padding:6px 0;'+mono+';font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#5b6478;cursor:pointer;text-decoration:underline;text-underline-offset:3px">'+(allOpen?'Recolher tudo':'Expandir tudo')+'</button>' +
+      '</div>' +
+      '<div style="display:flex;gap:7px;flex-wrap:wrap;margin-bottom:16px">'+filters+'</div>' +
+      '<div style="display:flex;flex-direction:column;gap:8px">'+cards+'</div>' +
+      (list.length===0 ? '<div style="padding:38px 16px;text-align:center;color:#8a8578;font-size:14px;border:1px dashed #ddd8ce;border-radius:14px">Nenhuma questão neste filtro.</div>' : '') +
+      '<div style="display:flex;flex-wrap:wrap;gap:9px;margin-top:28px;padding-top:24px;border-top:1px solid #e4e0d8">' +
+        '<button type="button" data-act="restart" class="h-darkflat" style="background:#121a2b;color:#f5f3ef;border:0;border-radius:11px;padding:13px 24px;font-size:14px;font-weight:500;cursor:pointer;transition:background .16s ease">Refazer o quiz</button>' +
+        '<button type="button" data-act="back" class="h-line" style="background:none;border:1px solid #ddd8ce;border-radius:11px;padding:13px 22px;font-size:14px;cursor:pointer;transition:border-color .15s ease">Voltar às questões</button>' +
+        '<button type="button" data-act="resumo" class="h-line" style="background:none;border:1px solid #ddd8ce;border-radius:11px;padding:13px 22px;font-size:14px;cursor:pointer;transition:border-color .15s ease">Ler o resumo</button>' +
+      '</div></section>';
+}
+
+/* ── render + eventos ──────────────────────────────────────────────────────── */
+
+/* ─── Tutor DeepSeek — só local, só quando a questão foi errada ──────────────
+   A chave vem de ../deepseek_key.js, que não existe na versão publicada: online
+   o arquivo dá 404, dsOn() vira false e o chat simplesmente não é renderizado.
+   O histórico fica em S.chat[idDaQuestao] e sobrevive ao re-render do stage. */
+var DS_MODEL = 'deepseek-v4-flash';
+var DS_URL   = 'https://api.deepseek.com/chat/completions';
+var NLJS     = String.fromCharCode(10);
+var DS_MONO  = "font-family:'IBM Plex Mono',monospace";
+var DS_SANS  = "font-family:'IBM Plex Sans',system-ui,sans-serif";
+
+function dsOn(){ return typeof window.DEEPSEEK_KEY === 'string' && window.DEEPSEEK_KEY.length > 10; }
+
+
+/* ─── markdown do chat ───────────────────────────────────────────────────────
+   O modelo responde em markdown (**negrito**, listas, `codigo`, tabelas). O texto
+   vem de fora, entao a ordem importa: ESCAPA TUDO primeiro com esc() e so depois
+   aplica formatacao — assim nenhuma tag vinda da resposta vira HTML de verdade.
+   Como esc() ja trocou > por &gt;, a citacao casa com &gt; e nao com >.
+   Trechos de codigo saem de cena por um marcador NUL, que nao pode existir
+   no texto escapado, e voltam no fim — assim ` ` protege o que esta dentro. */
+function mdIn(t){
+  var Z = String.fromCharCode(0), codes = [];
+  t = t.replace(/`([^`]+)`/g, function(_, c){
+    codes.push(c);
+    return Z + 'c' + (codes.length - 1) + Z;
+  });
+  t = t.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  t = t.replace(/__([^_]+)__/g, '<strong>$1</strong>');
+  t = t.replace(/(^|[\s(])\*([^*\n]+)\*/g, '$1<em>$2</em>');
+  t = t.replace(/(^|[\s(])_([^_\n]+)_/g, '$1<em>$2</em>');
+  t = t.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g,
+    '<a href="$2" target="_blank" rel="noopener" style="color:#2b57cc">$1</a>');
+  return t.replace(new RegExp(Z + 'c([0-9]+)' + Z, 'g'), function(_, i){
+    return '<code style="' + DS_MONO + ';font-size:12px;background:#f2efe9;' +
+           'border-radius:4px;padding:1px 5px">' + codes[i] + '</code>';
+  });
+}
+
+function mdChat(txt){
+  var Z = String.fromCharCode(0);
+  var t = esc(String(txt == null ? '' : txt));
+  var blocos = [];
+  t = t.replace(/```[a-zA-Z]*\n?([\s\S]*?)```/g, function(_, c){
+    blocos.push(c.replace(/\n+$/, ''));
+    return Z + 'b' + (blocos.length - 1) + Z;
+  });
+
+  var linhas = t.split('\n'), out = [], lista = null, par = [];
+  function fechaLista(){ if (lista) { out.push('</' + lista + '>'); lista = null; } }
+  function fechaPar(){
+    if (par.length) { out.push('<p style="margin:0 0 9px">' + mdIn(par.join(' ')) + '</p>'); par = []; }
+  }
+  function fecha(){ fechaPar(); fechaLista(); }
+
+  for (var i = 0; i < linhas.length; i++){
+    var l = linhas[i], t2 = l.trim();
+    if (!t2) { fecha(); continue; }
+
+    var bl = t2.match(new RegExp('^' + Z + 'b([0-9]+)' + Z + '$'));
+    if (bl) {
+      fecha();
+      out.push('<pre style="margin:0 0 9px;padding:9px 11px;background:#f7f6f2;border-radius:9px;' +
+               'overflow-x:auto;' + DS_MONO + ';font-size:12px;line-height:1.5">' + blocos[bl[1]] + '</pre>');
+      continue;
+    }
+
+    // tabela: linha com | ... | seguida da separadora | --- | --- |
+    if (t2.charAt(0) === '|' && i + 1 < linhas.length && /^\|[\s:|-]+\|$/.test(linhas[i+1].trim())) {
+      fecha();
+      var celulas = function(linha){
+        return linha.trim().replace(/^\||\|$/g, '').split('|').map(function(c){ return mdIn(c.trim()); });
+      };
+      var cab = celulas(t2), corpo = [];
+      i += 2;
+      while (i < linhas.length && linhas[i].trim().charAt(0) === '|') { corpo.push(celulas(linhas[i].trim())); i++; }
+      i--;
+      var cel = 'padding:5px 9px;border-bottom:1px solid #eae6de;text-align:left;vertical-align:top';
+      out.push('<div style="overflow-x:auto;margin:0 0 9px">' +
+        '<table style="border-collapse:collapse;font-size:12.5px;width:100%">' +
+        '<thead><tr>' + cab.map(function(c){ return '<th style="' + cel + ';font-weight:600">' + c + '</th>'; }).join('') + '</tr></thead>' +
+        '<tbody>' + corpo.map(function(r){
+          return '<tr>' + r.map(function(c){ return '<td style="' + cel + '">' + c + '</td>'; }).join('') + '</tr>';
+        }).join('') + '</tbody></table></div>');
+      continue;
+    }
+
+    var h = t2.match(/^#{1,6}\s+(.*)$/);
+    if (h) {
+      fecha();
+      out.push('<div style="font-weight:600;color:#121a2b;margin:11px 0 5px">' + mdIn(h[1]) + '</div>');
+      continue;
+    }
+
+    if (/^(---+|\*\*\*+)$/.test(t2)) {
+      fecha();
+      out.push('<hr style="border:0;border-top:1px solid #eae6de;margin:11px 0">');
+      continue;
+    }
+
+    var cit = t2.match(/^&gt;\s?(.*)$/);
+    if (cit) {
+      fecha();
+      out.push('<div style="margin:0 0 9px;padding:7px 11px;border-left:2.5px solid #c9d6f7;' +
+               'background:#f7f9fe;border-radius:0 7px 7px 0">' + mdIn(cit[1]) + '</div>');
+      continue;
+    }
+
+    var mUl = t2.match(/^[-*•]\s+(.*)$/);
+    var mOl = t2.match(/^\d+[.)]\s+(.*)$/);
+    if (mUl || mOl) {
+      var tipo = mUl ? 'ul' : 'ol';
+      fechaPar();
+      if (lista !== tipo) {
+        fechaLista();
+        out.push('<' + tipo + ' style="margin:0 0 9px;padding-left:19px">');
+        lista = tipo;
+      }
+      out.push('<li style="margin:3px 0">' + mdIn((mUl || mOl)[1]) + '</li>');
+      continue;
+    }
+
+    fechaLista();
+    par.push(t2);
+  }
+  fecha();
+  return out.join('');
+}
+
+function msgHTML(m){
+  if (m.role === 'user')
+    return '<div style="margin:0 0 10px;text-align:right">' +
+      '<span style="display:inline-block;max-width:88%;text-align:left;background:#f2efe9;' +
+      'border-radius:12px 12px 3px 12px;padding:9px 12px;font-size:13.5px;line-height:1.6;' +
+      'color:#39404f;text-wrap:pretty">' + esc(m.content) + '</span></div>';
+  return '<div style="margin:0 0 12px">' +
+    '<div style="' + DS_MONO + ';font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;' +
+    'color:#2b57cc;margin-bottom:4px">DeepSeek</div>' +
+    '<div style="font-size:13.5px;line-height:1.65;color:#39404f;text-wrap:pretty">' +
+    mdChat(m.content) + '</div></div>';
+}
+
+function chatBox(q, acertou){
+  if (!dsOn()) return '';
+  var chamada = acertou ? 'Quer ir mais fundo?' : 'Ainda com dúvida?';
+  var dica = acertou ? 'Por que as outras estão erradas?' : 'Por que a que eu marquei está errada?';
+  var hist = (S.chat[q.id] || []).map(msgHTML).join('');
+  return '<div id="ds" data-qid="' + q.id + '" style="margin-top:14px;border:1px solid #e4e0d8;' +
+      'border-radius:14px;background:#fff;overflow:hidden;animation:qFade .26s ease">' +
+      '<div style="display:flex;align-items:center;gap:8px;padding:11px 15px;' +
+        'border-bottom:1px solid #f0ede6;background:#faf9f6">' +
+        '<span style="' + DS_MONO + ';font-size:10px;letter-spacing:.16em;text-transform:uppercase;' +
+        'color:#2b57cc">' + chamada + '</span>' +
+        '<span style="font-size:12px;color:#8a8578">pergunte ao DeepSeek</span></div>' +
+      '<div id="dsLog" style="max-height:280px;overflow-y:auto;padding:' + (hist ? '12px 15px' : '0') + '">' +
+        hist + '</div>' +
+      '<div style="display:flex;gap:8px;padding:11px 12px;border-top:1px solid #f0ede6">' +
+        '<input id="dsIn" type="text" autocomplete="off" ' +
+          'placeholder="' + dica + '" ' +
+          'style="flex:1;min-width:0;border:1px solid #e4e0d8;border-radius:10px;padding:10px 12px;' +
+          'font-size:13.5px;' + DS_SANS + ';color:#121a2b;background:#fff;outline:none">' +
+        '<button type="button" data-act="dsSend" class="h-darkflat" style="flex-shrink:0;' +
+          'background:#121a2b;color:#f5f3ef;border:0;border-radius:10px;padding:10px 16px;' +
+          'font-size:13px;font-weight:500;cursor:pointer;transition:background .16s ease">Enviar</button>' +
+      '</div></div>';
+}
+
+function dsContexto(q, ans){
+  var alts = q.options.map(function(o, n){ return LETTERS[n] + ') ' + o; }).join(NLJS);
+  return 'Questao: ' + q.question + NLJS + alts + NLJS +
+    'Resposta correta: ' + LETTERS[q.correctIndex] + ') ' + q.options[q.correctIndex] + NLJS +
+    'O estudante marcou: ' + (ans === null ? 'nada' : LETTERS[ans] + ') ' + q.options[ans]) + NLJS +
+    'Explicacao que ele ja tem: ' + q.explanation;
+}
+
+A.dsSend = function(){
+  var box = document.getElementById('ds');
+  if (!box || !dsOn() || box.getAttribute('data-busy')) return;
+  var input = document.getElementById('dsIn'), log = document.getElementById('dsLog');
+  var texto = (input.value || '').trim();
+  if (!texto) return;
+
+  var qid = parseInt(box.getAttribute('data-qid'), 10), q = null, ans = null;
+  for (var i = 0; i < S.order.length; i++)
+    if (S.order[i].id === qid) { q = S.order[i]; ans = S.answers[i]; }
+  if (!q) return;
+
+  S.chat[qid] = S.chat[qid] || [];
+  S.chat[qid].push({ role:'user', content:texto });
+  input.value = '';
+  log.style.padding = '12px 15px';
+  log.insertAdjacentHTML('beforeend', msgHTML({ role:'user', content:texto }));
+  log.insertAdjacentHTML('beforeend',
+    '<div><div style="' + DS_MONO + ';font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;' +
+    'color:#2b57cc;margin-bottom:4px">DeepSeek</div>' +
+    '<div id="dsTxt" style="font-size:13.5px;line-height:1.65;color:#8a8578;' +
+    'text-wrap:pretty">pensando…</div></div>');
+  log.scrollTop = log.scrollHeight;
+  box.setAttribute('data-busy', '1');
+
+  var acertou = (ans === q.correctIndex);
+  var situacao = acertou
+    ? 'Voce e um tutor de medicina. O estudante do 7o semestre ACERTOU esta questao, mas ficou com uma duvida. '
+    : 'Voce e um tutor de medicina. O estudante do 7o semestre ERROU esta questao. ';
+  var msgs = [
+    { role:'system', content: situacao +
+      'Responda em portugues do Brasil, direto ao ponto, no maximo 150 palavras. ' +
+      'Traga o dado concreto (valor, criterio, mecanismo) em vez de generalidade. ' +
+      'Nao repita a explicacao que ele ja tem; foque na duvida que ele trouxe.' },
+    { role:'user', content: dsContexto(q, ans) }
+  ];
+  var h = S.chat[qid];
+  for (var j = 0; j < h.length; j++) msgs.push({ role:h[j].role, content:h[j].content });
+
+  dsStream(msgs, function(txt, fim, erro){
+    var el = document.getElementById('dsTxt');
+    if (!el) { box.removeAttribute('data-busy'); return; }
+    if (erro) { el.style.color = '#c04437'; el.textContent = erro; box.removeAttribute('data-busy'); return; }
+    el.style.color = '#39404f';
+    el.innerHTML = mdChat(txt);
+    var lg = document.getElementById('dsLog'); if (lg) lg.scrollTop = lg.scrollHeight;
+    if (fim) { el.removeAttribute('id'); S.chat[qid].push({ role:'assistant', content:txt }); box.removeAttribute('data-busy'); }
+  });
+};
+
+function dsStream(messages, cb){
+  var acc = '';
+  fetch(DS_URL, {
+    method: 'POST',
+    headers: { 'Content-Type':'application/json', 'Authorization':'Bearer ' + window.DEEPSEEK_KEY },
+    body: JSON.stringify({ model:DS_MODEL, messages:messages, stream:true, max_tokens:1200, temperature:0.3 })
+  }).then(function(r){
+    if (!r.ok) return r.text().then(function(t){
+      throw new Error(
+        r.status === 401 ? 'Chave recusada (401). Confira o deepseek_key.js.' :
+        r.status === 402 ? 'Sem saldo na conta DeepSeek (402).' :
+        r.status === 429 ? 'Limite de uso atingido (429). Tente daqui a pouco.' :
+        'Erro ' + r.status + ': ' + String(t).slice(0, 120));
+    });
+    var reader = r.body.getReader(), dec = new TextDecoder(), buf = '';
+    (function pump(){
+      return reader.read().then(function(res){
+        if (res.done) { cb(acc || '(resposta vazia)', true); return; }
+        buf += dec.decode(res.value, { stream:true });
+        var linhas = buf.split(NLJS);
+        buf = linhas.pop();
+        for (var i = 0; i < linhas.length; i++){
+          var l = linhas[i].trim();
+          if (l.indexOf('data:') !== 0) continue;
+          var carga = l.slice(5).trim();
+          if (carga === '[DONE]') continue;
+          try {
+            var d = JSON.parse(carga).choices[0].delta;
+            if (d && d.content) { acc += d.content; cb(acc, false); }
+          } catch (_){}
+        }
+        return pump();
+      });
+    })();
+  }).catch(function(e){
+    cb('', true, 'Nao consegui falar com o DeepSeek: ' + (e && e.message ? e.message : e));
+  });
+}
+
+function render(){
+  renderHeader();
+  if (S.view === 'home')        renderHome();
+  else if (S.view === 'resumo') renderResumo();
+  else if (S.finished)          renderResult();
+  else                          renderQuestion();
+}
+
+/* lightbox: clique em qualquer figura amplia */
+document.addEventListener('click', function(e){
+  var lb = document.getElementById('lb');
+  if (e.target.closest('#lb')) { lb.className = ''; return; }
+  var img = e.target.closest('.fig img');
+  if (img) { lb.firstElementChild.src = img.src; lb.className = 'on'; }
+});
+window.addEventListener('keydown', function(e){
+  if (e.key === 'Escape') document.getElementById('lb').className = '';
+});
+
+document.addEventListener('click', function(e){
+  var b = e.target.closest('[data-act]'); if (!b) return;
+  var act = b.getAttribute('data-act'), n = parseInt(b.getAttribute('data-n'),10), k = b.getAttribute('data-k');
+  if (act==='pick'||act==='jump'||act==='toggle') A[act](n);
+  else if (act==='filter') A.filter(k);
+  else if (A[act]) A[act]();
+});
+
+window.addEventListener('keydown', function(e){
+  if (S.view!=='quiz' || !S.started || S.finished) return;
+  var t = e.target, tag = t && t.tagName;
+  if (tag==='INPUT' || tag==='TEXTAREA' || (t && t.isContentEditable)) return;
+  if (e.metaKey||e.ctrlKey||e.altKey) return;
+  if (e.key==='ArrowRight')     { e.preventDefault(); A.go(S.i+1); }
+  else if (e.key==='ArrowLeft') { e.preventDefault(); A.go(S.i-1); }
+  else if (e.key==='Enter')     { e.preventDefault(); A.next(); }
+  else if (/^[1-6]$/.test(e.key)) {
+    var n = parseInt(e.key,10)-1;
+    if (n < S.order[S.i].options.length) A.pick(n);
+  }
+});
+
+render();
+</script>
+</body>
+</html>

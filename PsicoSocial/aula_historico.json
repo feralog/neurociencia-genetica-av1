@@ -1,0 +1,432 @@
+{
+  "titulo": "Histórico da Psicologia Social",
+  "eyebrow": "Psicologia Social · História e Epistemologia",
+  "subtitulo": "Das multidões do século XIX à Psicologia da Libertação",
+  "intro": "Percurso da Psicologia Social desde os fenômenos de massa do século XIX até a virada crítica dos anos 1960-70. Cobre o marco de 1908, a dicotomia indivíduo-sociedade, as vertentes psicológica e sociológica, a crise da disciplina e as alternativas construídas na Europa, no Brasil e na América Latina.",
+  "questoes": [
+    {
+      "question": "A Psicologia Social não surgiu como um desdobramento da Psicologia Geral. Qual é a sua origem institucional?",
+      "options": [
+        "Nasceu como disciplina independente e depois foi incorporada",
+        "Nasceu como especialidade da Psicologia Geral desde o início",
+        "Nasceu como ramo aplicado da Sociologia e assim permaneceu",
+        "Nasceu como área da Antropologia e depois se autonomizou"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Psicologia Social se constituiu como disciplina própria e só foi incorporada à Psicologia quando esta já tinha consistência de ciência autônoma. Por isso não é um braço da Psicologia Geral, mas um campo com história e problemas de origem distintos. Freud, na abertura de A psicologia das massas e a análise do eu, e Silvia Lane, de um ponto de partida oposto, chegavam à mesma fórmula: toda psicologia é social."
+    },
+    {
+      "question": "Os fenômenos de massa que se seguiram à Revolução Francesa e, sobretudo, a Comuna de Paris de 1871 exigiam uma interpretação que os explicasse. Qual obra de 1895 respondeu a essa demanda?",
+      "options": [
+        "Psicologia das multidões, de Gustave Le Bon",
+        "Psicologia dos Povos, de Wilhelm Wundt",
+        "Psicologia Social, de Edward Alsworth Ross",
+        "Psicologia das massas, de Sigmund Freud"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gustave Le Bon (1841-1931) publicou Psicologia das multidões em 1895, tentando explicar o comportamento coletivo que inquietava a Europa pós-revolucionária. É uma das obras que inauguram o interesse sistemático pelos fenômenos de massa. Wundt, Ross e Freud publicaram em outros anos e sobre outros objetos."
+    },
+    {
+      "question": "A Völkerpsychologie, ou Psicologia dos Povos, buscava reconhecer um ente coletivo da cultura capaz de unir os povos para além das divisões políticas criadas pelo Estado-Nação. Quem a escreveu?",
+      "options": [
+        "Wilhelm Wundt, alemão, considerado o pai da Psicologia",
+        "Gustave Le Bon, francês, autor da Psicologia das multidões",
+        "Émile Durkheim, francês, considerado o pai da Sociologia",
+        "William McDougall, inglês, organicista radicado nos EUA"
+      ],
+      "correctIndex": 0,
+      "explanation": "Wilhelm Wundt (1832-1920), o mesmo que fundou o laboratório que dá início à Psicologia como ciência, escreveu a Völkerpsychologie. A obra responde ao contexto da segunda metade do século XIX, quando se configuram o Estado-Nação e as ideias de nacionalidade e identidade nacional."
+    },
+    {
+      "question": "O ano de 1908 é tomado como marco inaugural da Psicologia Social. A figura indica o que ocorreu nesse ano. O que foi?",
+      "options": [
+        "McDougall e Ross publicaram, no mesmo ano, dois livros de Psicologia Social",
+        "Wundt e Le Bon publicaram, no mesmo ano, dois livros de Psicologia Social",
+        "Mead e Dewey publicaram, no mesmo ano, dois livros de Psicologia Social",
+        "Lewin e Allport publicaram, no mesmo ano, dois livros de Psicologia Social"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em 1908, o médico inglês William McDougall (1871-1938) lançou Uma introdução à psicologia social, e o sociólogo norte-americano Edward Alsworth Ross (1866-1951) publicou Psicologia Social. Foram os dois primeiros a empregar o termo de modo sistemático para nomear o estudo dos fenômenos presentes na relação indivíduo-sociedade.",
+      "image": "pg04",
+      "imageCaption": "1908: os dois livros que fundam o campo"
+    },
+    {
+      "question": "Entre os primeiros teóricos do campo, McDougall sustentava uma explicação que John Dewey, William James e George Mead rejeitavam. Qual era a divergência?",
+      "options": [
+        "McDougall via instintos inatos; os outros, comportamentos aprendidos",
+        "McDougall via papéis sociais; os outros, instintos herdados da espécie",
+        "McDougall via representações sociais; os outros, condutas instintivas",
+        "McDougall via atitudes adquiridas; os outros, reflexos inatos do corpo"
+      ],
+      "correctIndex": 0,
+      "explanation": "McDougall estava entre os organicistas, que postulavam instintos e comportamentos inatos como explicação da conduta dos indivíduos em sociedade. Dewey, James e, mais tarde, Mead sustentavam o oposto: os comportamentos são adquiridos e aprendidos na vida social. Essa oposição atravessa toda a história inicial da disciplina."
+    },
+    {
+      "question": "Que fenômeno social consolidou a Psicologia Social como disciplina e a incluiu definitivamente no campo da Psicologia ao longo do século XX?",
+      "options": [
+        "O desenvolvimento do capitalismo nos Estados Unidos",
+        "A reconstrução dos Estados nacionais europeus",
+        "A expansão das universidades francesas do período",
+        "A difusão do marxismo nas ciências sociais latinas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O enriquecimento dos Estados Unidos exigiu novos saberes sobre produção e consumo, sobre o controle de trabalhadores do parque industrial e sobre a dinâmica dos grupos. Somado à imigração de pensadores alemães fugidos das duas guerras, isso produziu o movimento conhecido como Psicologia Social Cognitiva."
+    },
+    {
+      "question": "Kurt Lewin, alemão que imigrou para os Estados Unidos em 1933, formulou a teoria que encerrou o período especulativo dos estudos das massas. Qual é ela?",
+      "options": [
+        "A teoria dos pequenos grupos",
+        "A teoria dos papéis sociais",
+        "A teoria da mente coletiva",
+        "A teoria das minorias ativas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kurt Lewin (1890-1947) elaborou a teoria dos pequenos grupos, e o recorte não foi arbitrário: era assim que os grupos apareciam nas organizações de trabalho e era esse tamanho que permitia controle experimental em laboratório. Com ela, o estudo especulativo das massas cede lugar à pesquisa controlada."
+    },
+    {
+      "question": "A quem se atribuem as bases da teoria das atitudes, um dos temas centrais da Psicologia Social norte-americana?",
+      "options": [
+        "Floyd Allport, que trabalhou nos Estados Unidos",
+        "Robert Farr, historiador inglês da disciplina",
+        "Talcott Parsons, funcionalista norte-americano",
+        "Serge Moscovici, psicólogo social francês"
+      ],
+      "correctIndex": 0,
+      "explanation": "Floyd Allport (1890-1979) lançou as bases da teoria das atitudes no mesmo período em que Kurt Lewin elaborava a teoria dos pequenos grupos. Farr foi o historiador que classificou a disciplina em duas matrizes, Parsons formulou os papéis sociais e Moscovici, décadas depois, as representações sociais."
+    },
+    {
+      "question": "O Cognitivismo que dominou a Psicologia Social norte-americana resultou da fusão de duas heranças intelectuais. Quais?",
+      "options": [
+        "Aportes comportamentais dos EUA e a Gestalt trazida por alemães",
+        "Aportes psicanalíticos vienenses e o marxismo trazido por russos",
+        "Aportes funcionalistas ingleses e o positivismo de autores franceses",
+        "Aportes fenomenológicos alemães e o pragmatismo de autores ingleses"
+      ],
+      "correctIndex": 0,
+      "explanation": "O termo cognitivo vem do latim cognoscere, conhecer, e nomeia o conhecimento que o sujeito tem da realidade. A corrente combinou o método comportamental dos pesquisadores estadunidenses com a Psicologia da Gestalt, de inspiração fenomenológica, trazida pelos alemães refugiados do nazismo e centrada na consciência e no discernimento dos sujeitos."
+    },
+    {
+      "question": "A matriz científica preferencial da Psicologia Social norte-americana tinha o Positivismo como base e adotava a molecularização do fenômeno. O que essa estratégia supunha?",
+      "options": [
+        "Quanto menor a parte estudada, melhor o controle científico",
+        "Quanto maior o grupo estudado, melhor a validade estatística",
+        "Quanto mais longo o estudo, melhor a descrição do fenômeno",
+        "Quanto mais teórico o estudo, melhor a explicação do social"
+      ],
+      "correctIndex": 0,
+      "explanation": "A molecularização funcionava bem na Física, na Química e na Biologia, e foi a alternativa encontrada por uma ciência nova que precisava ganhar respeito acadêmico. O problema é que o fenômeno humano não se deixa segmentar com a facilidade que se supunha, e essa será uma das críticas centrais na crise dos anos 1960."
+    },
+    {
+      "question": "George Herbert Mead lecionava na Universidade de Chicago e se apresentava como behaviorista social. Contra quem ele dirigia essa qualificação?",
+      "options": [
+        "Contra John Watson, o pai do Behaviorismo",
+        "Contra Wilhelm Wundt, o pai da Psicologia",
+        "Contra Émile Durkheim, o pai da Sociologia",
+        "Contra Kurt Lewin, o pai da dinâmica grupal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mead (1863-1931) adotava o rótulo de behaviorista social justamente para se opor ao behaviorismo de Watson. Para ele, a constituição do sujeito se dá pela vertente social e a linguagem é o instrumento central da socialização, o que o afastava de qualquer redução da conduta ao par estímulo-resposta."
+    },
+    {
+      "question": "Publicado apenas após a morte de seu autor, o livro Mente, eu e a sociedade tornou-se referência para a criação de qual escola da Psicologia Social?",
+      "options": [
+        "Interacionismo Simbólico",
+        "Construcionismo Social",
+        "Funcionalismo Sociológico",
+        "Psicologia da Libertação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mind, self and society, de George Herbert Mead, saiu em 1934, depois de sua morte, e fundou o Interacionismo Simbólico. A escola compreende a sociedade a partir das interações cotidianas: as pessoas atribuem significados às situações, esses significados orientam a ação e podem ser modificados pela própria interação."
+    },
+    {
+      "question": "No Interacionismo Simbólico, o self divide-se em duas instâncias complementares. O que representa o 'mim'?",
+      "options": [
+        "A norma social internalizada, que avalia e controla a ação",
+        "O impulso espontâneo, que dá início e energia à ação",
+        "A imagem corporal, que organiza a percepção de si mesmo",
+        "O papel prescrito, que a plateia atribui ao ator social"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Mead, o 'eu' produz o impulso para a ação e o 'mim' representa a norma social, controlando e avaliando as condições dessa ação. O 'mim' se forma na relação com o outro até a construção do outro generalizado, que é a introjeção das normas sociais no interior do próprio sujeito."
+    },
+    {
+      "question": "Robert Farr, historiador inglês da Psicologia Social, classificou a produção da área em duas grandes matrizes. Quais são elas?",
+      "options": [
+        "A de cunho psicológico e a de cunho sociológico",
+        "A de cunho positivista e a de cunho dialético",
+        "A de cunho experimental e a de cunho clínico",
+        "A de cunho individual e a de cunho institucional"
+      ],
+      "correctIndex": 0,
+      "explanation": "Farr chamou de matriz de cunho psicológico a Psicologia Social Cognitivista, que centra a análise dos fenômenos coletivos no indivíduo, em suas crenças, valores e atitudes; e de matriz de cunho sociológico o Interacionismo Simbólico e seus desdobramentos, que tomam o indivíduo como construído pelo meio. Dessa classificação nasce a dicotomia indivíduo-sociedade."
+    },
+    {
+      "question": "O pesquisador espanhol Amalio Blanco, da Universidade Autônoma de Madri, propôs uma classificação alternativa à de Robert Farr. Qual foi?",
+      "options": [
+        "Cinco tradições, entre elas a lewiniana e a histórico-dialética",
+        "Duas matrizes, a de cunho psicológico e a de cunho sociológico",
+        "Três âmbitos, o individual, o social e o do mundo material",
+        "Quatro críticas, entre elas a do método puramente descritivo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em Cinco tradiciones en la Psicología Social, Blanco agrupou os autores em cinco tradições: grupal, individualista, institucional, lewiniana e histórico-dialética. O problema prático é que muitos autores caem em mais de uma tradição, o que fez o esquema mais econômico de Farr continuar sendo o mais usado."
+    },
+    {
+      "question": "A visão sociológica afirma o domínio da exterioridade sobre o indivíduo, influenciada por Émile Durkheim. Em qual teoria essa visão encontra sua versão mais completa?",
+      "options": [
+        "Na teoria dos Sistemas Sociais, de Talcott Parsons",
+        "Na teoria das Representações Sociais, de Moscovici",
+        "Na teoria do Construcionismo Social, de Gergen",
+        "Na teoria da Psicologia das Multidões, de Le Bon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Émile Durkheim (1858-1917) é o principal inspirador da vertente que afirma a primazia do exterior sobre o indivíduo, e é na teoria dos Sistemas Sociais de Talcott Parsons (1902-1979) que ela ganha sua forma mais acabada. É desse quadro que emerge o conceito de papéis sociais."
+    },
+    {
+      "question": "Quem formulou o conceito de papéis sociais, estudando como os indivíduos se adequam às normas e valores prescritos, sendo também o criador do Funcionalismo na Sociologia?",
+      "options": [
+        "Talcott Parsons, sociólogo norte-americano",
+        "Erving Goffman, cientista social canadense",
+        "Émile Durkheim, sociólogo francês clássico",
+        "Robert Farr, psicólogo social britânico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Talcott Parsons criou o Funcionalismo na Sociologia e, com o conceito de papel social, descreveu como o campo social prescreve condutas ao indivíduo, com maior ou menor margem de manobra. A prescrição do papel de um cirurgião, por exemplo, é bem mais controlada socialmente que a de um músico famoso."
+    },
+    {
+      "question": "Erving Goffman publicou em 1959 A representação do eu na vida cotidiana. Que recurso ele usou para fazer avançar a Teoria dos Papéis?",
+      "options": [
+        "A linguagem teatral, com palco, bastidores e plateia",
+        "A linguagem estatística, com amostras e correlações",
+        "A linguagem clínica, com sintoma, queixa e diagnóstico",
+        "A linguagem econômica, com custo, troca e benefício"
+      ],
+      "correctIndex": 0,
+      "explanation": "Goffman (1922-1982) descreveu a interação social como encenação: no palco desempenhamos papéis para uma plateia nem sempre receptiva; nos bastidores — a família, os amigos íntimos e, no limite, a própria consciência — a intimidade é resguardada. O objetivo do ator social é produzir e depois manter uma impressão no interlocutor."
+    },
+    {
+      "question": "Depois de 1959, Goffman publicou uma análise das instituições totais e, dois anos mais tarde, um estudo sobre a manipulação das identidades deterioradas. Quais são esses livros?",
+      "options": [
+        "Manicômios, prisões e conventos, e depois Estigma",
+        "A construção social da realidade, e depois O eu saturado",
+        "Psicologia das multidões, e depois Psicologia dos Povos",
+        "Mente, eu e a sociedade, e depois Minorias ativas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Manicômios, prisões e conventos (1961) analisou as instituições totais, aquelas que abarcam toda a vida de uma pessoa, e alimentou a crítica a prisões e hospitais psiquiátricos. Estigma (1963) descreveu o processo de estigmatização como manipulação das identidades deterioradas."
+    },
+    {
+      "question": "Goffman deu forma e nome ao controle social, mas a crítica posterior aponta um limite em sua obra. Qual é ele?",
+      "options": [
+        "Ele naturaliza a pressão social sobre o indivíduo",
+        "Ele descarta a existência de normas e prescrições",
+        "Ele reduz a interação a instintos herdados da espécie",
+        "Ele nega qualquer margem de manobra ao ator social"
+      ],
+      "correctIndex": 0,
+      "explanation": "Goffman não escapou da dicotomia: de um lado o sujeito, de outro uma sociedade com regras e modelos de conduta. A subjetividade fica submetida à exterioridade de forma mecânica, e tanto a pressão social quanto a tarefa de controlar as impressões aparecem como fatos naturais, e não como produções históricas."
+    },
+    {
+      "question": "A figura resume o processo que permite formar uma impressão sobre a pessoa percebida. Qual é a sequência representada?",
+      "options": [
+        "Experiência de vida, repertório cognitivo, categorização",
+        "Estímulo sensorial, resposta motora, reforço da conduta",
+        "Norma social, papel prescrito, desempenho observável",
+        "Informação, afeto positivo, predisposição para a ação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os contatos com o mundo vão sendo organizados em um repertório cognitivo, isto é, o conhecimento disponível no nível da consciência, e é esse repertório que permite compreender e categorizar um fato novo. A percepção é o processo que vai da recepção do estímulo pelos órgãos do sentido até a atribuição de significado a ele.",
+      "image": "pg28",
+      "imageCaption": "O processo da percepção social"
+    },
+    {
+      "question": "Uma pessoa muda de opinião sobre um sabor de sorvete com facilidade, mas dificilmente muda seu apoio a um time ou a uma crença política. O que distingue atitude de opinião?",
+      "options": [
+        "A atitude é duradoura e envolve afeto; a opinião, não",
+        "A opinião é duradoura e envolve afeto; a atitude, não",
+        "A atitude é verbalizada e consciente; a opinião, não",
+        "A opinião é herdada e involuntária; a atitude, não"
+      ],
+      "correctIndex": 0,
+      "explanation": "A atitude é uma forma estável e duradoura de organização do conhecimento, composta por informação, afeto e predisposição para a ação. A opinião não é necessariamente duradoura e em geral não envolve afeto: confrontada com informação dissonante, tende a mudar, enquanto a atitude tende a se manter."
+    },
+    {
+      "question": "A figura mostra a relação esperada entre atitude e comportamento. Que princípio ela expressa?",
+      "options": [
+        "Os componentes da atitude tendem a ser congruentes entre si",
+        "Os componentes da atitude tendem a se anular reciprocamente",
+        "A atitude negativa tende a produzir uma ação favorável",
+        "A ação favorável tende a preceder a formação da atitude"
+      ],
+      "correctIndex": 0,
+      "explanation": "Informação, afeto e predisposição para a ação tendem à consonância: informação positiva conduz a afeto positivo, e ambos a um comportamento favorável em relação ao objeto. Por isso as atitudes dão certa regularidade à relação com o meio, ainda que a situação concreta possa alterar o comportamento previsto.",
+      "image": "pg32",
+      "imageCaption": "Atitude positiva e ação favorável"
+    },
+    {
+      "question": "A tensão que surge quando alguém é obrigado a se comportar em desacordo com a própria atitude recebeu um nome em 1957. Qual é ele, e de quem?",
+      "options": [
+        "Dissonância cognitiva, formulada por Leon Festinger",
+        "Representação social, formulada por Serge Moscovici",
+        "Humilhação social, formulada por Gonçalves Filho",
+        "Sofrimento ético-político, formulado por Bader Sawaia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Leon Festinger (1919-1989) apresentou a teoria da dissonância cognitiva em 1957, e ela causou grande impacto no período experimental da disciplina. A dissonância é a tensão que empurra o sujeito a mudar de atitude para evitar o conflito, como ao passar a descobrir qualidades em vizinhos de quem antes não gostava."
+    },
+    {
+      "question": "A quem se deve a distinção entre socialização primária e secundária, e o que caracteriza a segunda?",
+      "options": [
+        "Berger e Luckmann; é a escolha autônoma permitida pela cultura",
+        "Berger e Luckmann; é a aprendizagem das normas básicas na família",
+        "Parsons e Goffman; é a escolha autônoma permitida pela cultura",
+        "Parsons e Goffman; é a aprendizagem das normas na primeira infância"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Berger e Luckmann, a socialização primária — a mais importante — é realizada pela família e pelas instituições tradicionais como escola e igreja, e nela se fixam valores como os de gênero. A socialização secundária é a escolha autônoma que o sujeito faz dentro do que sua cultura franqueia, como a escolha profissional."
+    },
+    {
+      "question": "A crise da Psicologia Social se instala no fim dos anos 1960 e início dos 1970. Qual conjuntura histórica a precipitou?",
+      "options": [
+        "A contracultura, a Guerra Fria e o Maio de 1968 em Paris",
+        "A Primeira Guerra, a crise de 1929 e a ascensão nazista",
+        "A Comuna de Paris, a unificação alemã e o Estado-Nação",
+        "A Revolução Russa, a Guerra Civil Espanhola e o exílio"
+      ],
+      "correctIndex": 0,
+      "explanation": "O movimento hippie e a contracultura questionaram a família tradicional e seus costumes; a tentativa de invasão da Baía dos Porcos, em 1961, reacendeu o temor de uma guerra atômica e reforçou o apoio norte-americano às ditaduras latino-americanas; em 1968, estudantes e operários levantaram barricadas em Paris. Uma disciplina que estuda o indivíduo em sociedade não passaria incólume."
+    },
+    {
+      "question": "Que filósofo alemão influenciava com seus livros críticos a juventude que, no início dos anos 1970, atacava o individualismo da Psicologia Social psicológica?",
+      "options": [
+        "Herbert Marcuse, expoente da Escola de Frankfurt",
+        "Jean-Paul Sartre, expoente do existencialismo",
+        "Kenneth Gergen, expoente do Construcionismo",
+        "Norbert Elias, expoente do processo civilizador"
+      ],
+      "correctIndex": 0,
+      "explanation": "Herbert Marcuse, expoente da Escola de Frankfurt, tinha forte influência sobre a juventude norte-americana no calor das disputas por mentes e corações. Sartre, francês, aderiu ao Maio de 1968; Gergen é psicólogo social estadunidense; Elias é sociólogo e cunhou a noção de processo civilizador."
+    },
+    {
+      "question": "O movimento institucionalista europeu, crítico das formas de tratamento nos hospitais psiquiátricos, lançou as bases da Análise Institucional. Que nomes assinaram a publicação coletiva de 1962?",
+      "options": [
+        "Edgar Morin, Georges Lapassade e Serge Moscovici",
+        "Talcott Parsons, Erving Goffman e Robert Farr",
+        "Kurt Lewin, Floyd Allport e Leon Festinger",
+        "Silvia Lane, Bader Sawaia e Wanderley Codo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A obra coletiva de 1962, traduzida para o espanhol como Psicologia Social e compromisso político, reuniu Edgar Morin, Georges Lapassade, Robert e Max Pagès e Serge Moscovici, entre outros. O movimento nasceu antes mesmo da crise dos anos 1960, com influências da Psicanálise e do marxismo, criticando o conservadorismo das instituições."
+    },
+    {
+      "question": "Em 1973 um psicólogo social estadunidense lançou as bases do Construcionismo Social, chamando de velhas correntes as matrizes psicológica e sociológica. Quem foi?",
+      "options": [
+        "Kenneth Gergen, autor de O eu saturado",
+        "Serge Moscovici, autor de Minorias ativas",
+        "Erving Goffman, autor do livro Estigma",
+        "Robert Farr, autor de As raízes modernas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Kenneth Gergen formulou o Construcionismo Social em solo norte-americano, o que tornou seu impacto especialmente forte sobre a Psicologia Social experimental. Em 1991 publicou O eu saturado, sobre o efeito das novas tecnologias e do ritmo de vida na constituição do eu, criticando a fragmentação do sujeito em atitudes, atribuições e preconceitos."
+    },
+    {
+      "question": "A teoria das Representações Sociais partiu de noções elaboradas por Émile Durkheim. Quais foram elas?",
+      "options": [
+        "Representação coletiva e consciência coletiva",
+        "Fato social total e solidariedade orgânica",
+        "Papel social prescrito e sistema de ação",
+        "Consciência de classe e ideologia dominante"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em 1961, a partir da pesquisa sobre a representação social da Psicanálise na França, Serge Moscovici (1925-2014) retomou as noções durkheimianas de representação coletiva e consciência coletiva. Propôs assim uma nova interpretação de como as pessoas, coletivamente, constroem sua percepção do mundo e elaboram teorias sobre a realidade vivida."
+    },
+    {
+      "question": "Quem deu continuidade ao campo das representações sociais após a morte de Moscovici, dirigindo o laboratório que ele criara em Paris?",
+      "options": [
+        "Denise Jodelet, que publicou em 2015 um livro sobre o tema",
+        "Bader Sawaia, que publicou em 2011 um livro sobre o tema",
+        "Maritza Montero, que publicou na Venezuela sobre o tema",
+        "Mary Jane Spink, que publicou no Brasil sobre o tema"
+      ],
+      "correctIndex": 0,
+      "explanation": "Denise Jodelet assumiu o laboratório criado por Moscovici e publicou, em 2015, Représentations sociales et mondes de vie. Sua definição trata as representações no plano individual e no coletivo ao mesmo tempo, buscando justamente acabar com a separação entre o sociológico e o psicológico."
+    },
+    {
+      "question": "Entre as críticas dirigidas à Psicologia Social tradicional está a de partir de uma noção estreita do social. Em que consiste essa estreiteza?",
+      "options": [
+        "O social é reduzido à interação entre as pessoas",
+        "O social é reduzido às leis do Estado e do direito",
+        "O social é reduzido à economia e à luta de classes",
+        "O social é reduzido à cultura e à herança simbólica"
+      ],
+      "correctIndex": 0,
+      "explanation": "A crítica sustenta que o social não é apenas a relação entre pessoas, mas o conjunto de produções humanas que, ao construir a realidade social, constroem também o indivíduo. Somam-se a ela as críticas ao método puramente descritivo, ao compromisso com os objetivos do pós-guerra norte-americano e à dicotomia indivíduo-sociedade."
+    },
+    {
+      "question": "Qual é o objeto da nova Psicologia Social que se constrói a partir da crise, na formulação de Gonçalves e Bock?",
+      "options": [
+        "A dimensão subjetiva dos fenômenos sociais",
+        "A dimensão objetiva dos processos econômicos",
+        "A dimensão biológica dos comportamentos grupais",
+        "A dimensão normativa das instituições totais"
+      ],
+      "correctIndex": 0,
+      "explanation": "A nova Psicologia Social mantém a relação indivíduo-sociedade como questão básica, mas toma por objeto a dimensão subjetiva dos fenômenos coletivos. Interessa saber como violência, preconceito, exclusão e desigualdade são sentidos, significados e por vezes naturalizados pelos sujeitos e pelos coletivos a que pertencem."
+    },
+    {
+      "question": "Quem renovou a Psicologia Social no Brasil a partir do primeiro programa de pós-graduação da área, criado na PUC-SP em 1972?",
+      "options": [
+        "Silvia Lane, apoiada em Vigotski, Leontiev e Luria",
+        "Bader Sawaia, apoiada em Espinosa e em Vigotski",
+        "Ana Bock, apoiada em Durkheim e em Moscovici",
+        "Maria Gonçalves, apoiada em Gergen e em Jodelet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Silvia Lane (1933-2006) construiu a Psicologia Social sócio-histórica a partir das categorias atividade, consciência e identidade, apoiada nos estudos soviéticos sobre linguagem. Com Wanderley Codo organizou Psicologia Social: o homem em movimento, marco da crítica à Psicologia Social tradicional no país."
+    },
+    {
+      "question": "Quem formulou a teoria que concebe a identidade como metamorfose, um processo contínuo de estar sendo no mundo?",
+      "options": [
+        "Antônio da Costa Ciampa, colaborador de Silvia Lane",
+        "Wanderley Codo, coorganizador de O homem em movimento",
+        "José Moura Gonçalves Filho, professor do Instituto da USP",
+        "Bader Sawaia, autora de As artimanhas da exclusão"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Antônio da Costa Ciampa, colaborador de Silvia Lane, a identidade deixa de ser algo estático e acabado e passa a ser um processo contínuo de representações do estar sendo no mundo. A categoria supera a leitura do ser humano como soma de papéis, valores e atitudes, buscando captar sua singularidade."
+    },
+    {
+      "question": "O conceito de sofrimento ético-político, elaborado com base em autores como Espinosa e Vigotski, designa o quê?",
+      "options": [
+        "A dor de ser tratado como inferior e sem valor social",
+        "A culpa de não corresponder às normas do grupo social",
+        "O medo de perder a posição social já conquistada",
+        "A vergonha de pertencer a um grupo minoritário"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bader Sawaia formulou o sofrimento ético-político para nomear a vivência cotidiana da desigualdade: a dor que surge de ser tratado como inferior, subalterno, apêndice inútil da sociedade. Para ela, esse sofrimento retira potência das pessoas e cabe ao psicólogo analisá-lo e denunciá-lo."
+    },
+    {
+      "question": "Quem criou a corrente conhecida como Psicologia da Libertação, com inspiração declarada na Teologia da Libertação?",
+      "options": [
+        "Ignácio Martín-Baró, jesuíta radicado em El Salvador",
+        "Rolando Díaz-Loving, psicólogo social do México",
+        "Maritza Montero, psicóloga social da Venezuela",
+        "Fernando González-Rey, psicólogo social de Cuba"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ignácio Martín-Baró (1942-1989), padre jesuíta espanhol radicado em El Salvador e vice-reitor da Universidade Centro-Americana, foi assassinado por forças paramilitares de direita durante o conflito civil. A partir de um estudo minucioso da matriz estadunidense, construiu um paradigma voltado ao modo de vida latino-americano."
+    },
+    {
+      "question": "A visão crítica de Martín-Baró desmontou um mito consagrado sobre a população salvadorenha. Qual, e como ele a reinterpretou?",
+      "options": [
+        "O mito do pobre alegre e preguiçoso; reconheceu-o como dominado",
+        "O mito do pobre violento e revoltado; reconheceu-o como vítima",
+        "O mito do pobre religioso e passivo; reconheceu-o como crente",
+        "O mito do pobre nômade e desenraizado; reconheceu-o como livre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Martín-Baró desmontou o mito do salvadorenho pobre, alegre e preguiçoso e o reconheceu como dominado, generalizando cuidadosamente a análise para toda a população latino-americana. Ele apontava como influências o educador brasileiro Paulo Freire (1921-1997) e o sociólogo colombiano Orlando Fals-Borda (1925-2008)."
+    }
+  ]
+}

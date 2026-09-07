@@ -25,6 +25,10 @@ CHAVE = RAIZ / "deepseek_key.js"
 
 NOMES = {
     "Genetica": "Neurociência e Genética",
+    "Personalidade": "Diversidade da Personalidade Humana",
+    "ProcessosPsi": "Processos Psicológicos Contemporâneos",
+    "PsicoSocial": "Psicologia Social",
+    "PsicoSocialCultural": "Psicologia Social e Dinâmicas Culturais",
     "PED": "Pediatria",
     "GO": "Ginecologia e Obstetrícia",
     "Geriatria": "Geriatria",
@@ -65,7 +69,7 @@ PAGINA = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Neurociência e Genética</title>
+<title>Material de estudo — Psicologia</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;450;500;600&display=swap" rel="stylesheet">
@@ -105,8 +109,8 @@ PAGINA = """<!DOCTYPE html>
 </head>
 <body>
 <div class="wrap">
-  <div class="eyebrow">Neurociência e Genética</div>
-  <h1>Estudo para a AV1</h1>
+  <div class="eyebrow">Psicologia</div>
+  <h1>Material de estudo</h1>
   <p class="sub">__SUB__</p>
 __TUTOR__
   <div class="stats">__STATS__</div>

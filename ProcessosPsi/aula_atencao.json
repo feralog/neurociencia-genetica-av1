@@ -1,0 +1,352 @@
+{
+  "titulo": "Tipologias da Atenção",
+  "eyebrow": "Processos Psicológicos · Atenção",
+  "subtitulo": "Os quatro pilares atencionais, seus mecanismos e sua avaliação",
+  "intro": "Percorre a definição clássica de atenção e as quatro tipologias — seletiva, sustentada, dividida e alternada —, com os mecanismos neurais de cada uma, os instrumentos neuropsicológicos correspondentes e a repercussão clínica em TDAH, TCE e esquizofrenia.",
+  "questoes": [
+    {
+      "question": "Definir a atenção apenas como 'estar acordado' é insuficiente. Do ponto de vista cognitivo, qual é a função central desse mecanismo?",
+      "options": [
+        "Gerenciar recursos cognitivos limitados diante dos estímulos",
+        "Manter o organismo em estado de vigília e de consciência",
+        "Armazenar a informação sensorial por tempo prolongado",
+        "Ampliar a capacidade total de processamento do cérebro"
+      ],
+      "correctIndex": 0,
+      "explanation": "A atenção é o mecanismo central que gerencia recursos cognitivos limitados diante de uma infinidade de estímulos. Ela não amplia a capacidade do sistema: distribui uma capacidade que já é finita. Estar acordado é uma condição de alerta, não o mecanismo de gerenciamento em si."
+    },
+    {
+      "question": "A definição clássica de 1890 descreve a atenção como 'a tomada de posse pela mente, de forma clara e vívida, de um entre o que parecem ser vários objetos ou linhas de pensamento simultaneamente possíveis'. A quem se atribui essa formulação?",
+      "options": [
+        "William James",
+        "Donald Broadbent",
+        "Anne Treisman",
+        "Michael Posner"
+      ],
+      "correctIndex": 0,
+      "explanation": "A formulação é de William James, publicada em 1890 nos Principles of Psychology. Ela já antecipa dois traços centrais do conceito moderno: a seleção de um objeto entre vários possíveis e a clareza com que esse objeto é apreendido."
+    },
+    {
+      "question": "Quais são as quatro tipologias que organizam o estudo da atenção?",
+      "options": [
+        "Seletiva, sustentada, dividida e alternada",
+        "Seletiva, focalizada, imediata e residual",
+        "Vigilante, dividida, sensorial e reflexa",
+        "Automática, alternada, difusa e periférica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os quatro pilares atencionais são a atenção seletiva, a sustentada, a dividida e a alternada. Cada uma tem mecanismo próprio: inibição de distratores, manutenção prolongada, alocação simultânea de recursos e flexibilidade para mudar de foco."
+    },
+    {
+      "question": "Qual descrição corresponde à atenção seletiva?",
+      "options": [
+        "Focar um estímulo-alvo inibindo distratores irrelevantes",
+        "Manter o foco durante um período contínuo e prolongado",
+        "Distribuir recursos entre duas tarefas simultâneas",
+        "Mudar o foco entre tarefas de demandas diferentes"
+      ],
+      "correctIndex": 0,
+      "explanation": "A atenção seletiva é a capacidade de focar em um estímulo-alvo enquanto se inibe ativamente os distratores irrelevantes do ambiente. A inibição é a parte decisiva da definição: não basta focar, é preciso suprimir o que compete pelo foco. As demais descrições correspondem à sustentada, à dividida e à alternada."
+    },
+    {
+      "question": "Numa festa barulhenta, alguém consegue ignorar a música alta e as conversas paralelas para acompanhar exclusivamente o que o amigo está dizendo. Esse fenômeno recebe o nome de:",
+      "options": [
+        "Efeito coquetel (cocktail party)",
+        "Efeito de vigilância prolongada",
+        "Gargalo de capacidade central",
+        "Alternância rápida de tarefas"
+      ],
+      "correctIndex": 0,
+      "explanation": "É o efeito cocktail party, exemplo canônico de atenção seletiva auditiva. O sistema privilegia uma fonte sonora entre várias concorrentes e suprime as demais. O gargalo de capacidade central diz respeito à atenção dividida, e a alternância rápida, à alternada.",
+      "image": "pg05",
+      "imageCaption": "Atenção seletiva e o efeito cocktail party"
+    },
+    {
+      "question": "Um ruído súbito e alto captura o foco de quem estava lendo, sem qualquer intenção prévia. Esse tipo de filtragem, orientada pelas propriedades do próprio estímulo, é chamada de:",
+      "options": [
+        "Bottom-up",
+        "Top-down",
+        "Executiva",
+        "Alternada"
+      ],
+      "correctIndex": 0,
+      "explanation": "A filtragem bottom-up é orientada pelo estímulo: características salientes do ambiente capturam o foco sem intenção do sujeito. A filtragem top-down é o oposto, guiada por objetivos cognitivos internos. O cérebro opera nos dois modos ao selecionar informação."
+    },
+    {
+      "question": "Um estudante percorre deliberadamente uma lista à procura de um nome específico que já tem em mente. O controle atencional em jogo é:",
+      "options": [
+        "Top-down, orientado por objetivos cognitivos",
+        "Bottom-up, orientado pelo próprio estímulo",
+        "Reflexo, orientado por respostas motoras",
+        "Difuso, orientado por estados emocionais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quando a meta é interna e anterior à busca, o controle é top-down, orientado por objetivos cognitivos. O modo bottom-up seria acionado se um elemento saliente da lista capturasse o olhar sem intenção prévia. A distinção entre os dois modos organiza o estudo da atenção seletiva."
+    },
+    {
+      "question": "Quais regiões corticais estão mais diretamente envolvidas na atenção seletiva?",
+      "options": [
+        "Córtex parietal posterior e córtex pré-frontal",
+        "Córtex occipital primário e giro fusiforme",
+        "Hipocampo e complexo amigdaloide bilateral",
+        "Cerebelo e núcleos da base do mesencéfalo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A atenção seletiva envolve o córtex parietal posterior, ligado à orientação espacial do foco, e o córtex pré-frontal, ligado ao controle voluntário e à inibição de distratores. O córtex occipital primário processa a informação visual, mas não faz a seleção atencional."
+    },
+    {
+      "question": "Manter uma resposta comportamental consistente durante uma atividade contínua, sem interrupção, caracteriza a atenção:",
+      "options": [
+        "Sustentada",
+        "Alternada",
+        "Dividida",
+        "Seletiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "A atenção sustentada é o desafio do tempo: manter o foco e o estado de alerta ao longo de um período contínuo e prolongado. A dividida trata de tarefas simultâneas e a alternada, de mudança de foco entre tarefas — nas duas o problema não é a duração."
+    },
+    {
+      "question": "O subtipo da atenção sustentada em que a pessoa precisa permanecer pronta para detectar estímulos infrequentes, como no trabalho de um controlador de tráfego aéreo, chama-se:",
+      "options": [
+        "Vigilância",
+        "Comutação",
+        "Focalização",
+        "Habituação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vigilância é o subtipo da atenção sustentada voltado à detecção de estímulos raros ao longo do tempo. O controlador de tráfego aéreo é o exemplo clássico: o evento crítico é infrequente, mas a prontidão precisa ser contínua. Ler um texto acadêmico longo mobiliza a mesma capacidade."
+    },
+    {
+      "question": "É fisiologicamente impossível manter a atenção sustentada em 100% do tempo. Após quanto tempo de vigilância contínua ocorre tipicamente o declínio do desempenho?",
+      "options": [
+        "Entre 20 e 30 minutos",
+        "Entre 3 e 5 minutos",
+        "Entre 90 e 120 minutos",
+        "Entre 180 e 240 minutos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O declínio natural da vigilância ocorre tipicamente após 20 a 30 minutos de atividade contínua. É um limite fisiológico, não falta de disciplina. Por isso pausas curtas e programadas são recomendadas para recuperar o desempenho."
+    },
+    {
+      "question": "A rede neural da atenção sustentada está fortemente associada ao hemisfério direito e às projeções noradrenérgicas de qual estrutura?",
+      "options": [
+        "Locus coeruleus",
+        "Núcleo accumbens",
+        "Substância negra",
+        "Núcleo caudado"
+      ],
+      "correctIndex": 0,
+      "explanation": "O locus coeruleus é a principal fonte de noradrenalina do encéfalo, e suas projeções sustentam o estado de alerta ao longo do tempo. A lateralização à direita é uma característica marcante dessa rede. O núcleo accumbens e a substância negra são estruturas dopaminérgicas, ligadas a recompensa e motricidade."
+    },
+    {
+      "question": "Uma pessoa dirige pelo trânsito enquanto acompanha a programação do rádio. A tipologia atencional predominante nessa situação é a:",
+      "options": [
+        "Dividida",
+        "Seletiva",
+        "Alternada",
+        "Sustentada"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dirigir ouvindo rádio é o exemplo cotidiano típico da atenção dividida, que aloca recursos para duas tarefas ao mesmo tempo. Funciona porque a condução, em quem já dirige há anos, está amplamente automatizada. Não é alternada porque não há desengajamento de uma tarefa para assumir a outra."
+    },
+    {
+      "question": "O cérebro humano não processa tarefas complexas em paralelo real. Aquilo que se costuma chamar de multitarefa é, na maior parte das vezes:",
+      "options": [
+        "Alternância rápida da atenção entre os estímulos",
+        "Processamento paralelo de todos os estímulos",
+        "Ampliação temporária da capacidade cognitiva",
+        "Inibição completa de um dos dois estímulos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O chamado mito da multitarefa: o que parece simultaneidade costuma ser alternância rápida do foco entre os estímulos. Cada troca custa tempo e recursos, o que explica a queda de desempenho. A capacidade cognitiva não se amplia por demanda.",
+      "image": "pg07",
+      "imageCaption": "O mito da multitarefa e o gargalo cognitivo"
+    },
+    {
+      "question": "A atenção dividida só ocorre de forma realmente eficaz quando uma das duas tarefas é:",
+      "options": [
+        "Altamente automatizada, como caminhar e conversar",
+        "Emocionalmente intensa, como discutir um conflito",
+        "Totalmente nova, como aprender um instrumento",
+        "Controlada e verbal, como redigir uma carta"
+      ],
+      "correctIndex": 0,
+      "explanation": "A atenção dividida funciona quando uma das tarefas é altamente automatizada e não exige recursos atencionais controlados — caminhar e conversar é o exemplo clássico. Tarefas novas ou controladas competem pelos mesmos recursos limitados e derrubam o desempenho de ambas."
+    },
+    {
+      "question": "A proposta de que existe um 'pool' limitado de recursos, e que duas tarefas simultâneas que excedam esse limite provocam queda drástica de desempenho, corresponde à:",
+      "options": [
+        "Teoria da capacidade central",
+        "Teoria do filtro periférico",
+        "Teoria da vigilância motora",
+        "Teoria do traço sensorial"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Teoria da Capacidade Central explica o gargalo cognitivo: há um conjunto finito de recursos e, ultrapassado o limite, uma ou ambas as tarefas se deterioram. Dirigir em trânsito pesado usando o celular é a ilustração concreta desse estouro de capacidade."
+    },
+    {
+      "question": "Desengajar o foco de uma tarefa, mudar para outra de requisitos cognitivos diferentes e reengajar sem perder o raciocínio descreve a atenção:",
+      "options": [
+        "Alternada",
+        "Dividida",
+        "Seletiva",
+        "Sustentada"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sequência desengajar, mudar e reengajar é a assinatura da atenção alternada, apoiada na flexibilidade cognitiva. A diferença para a dividida é decisiva: aqui as tarefas são atendidas em sequência, não ao mesmo tempo, e o raciocínio precisa ser retomado do ponto em que parou."
+    },
+    {
+      "question": "Ler uma receita complexa, parar para picar os ingredientes, checar as panelas no fogo e voltar à leitura exatamente de onde parou exige principalmente a atenção:",
+      "options": [
+        "Alternada, apoiada na flexibilidade cognitiva",
+        "Dividida, com processamento simultâneo real",
+        "Seletiva, com inibição de todos os distratores",
+        "Sustentada, com vigilância contínua prolongada"
+      ],
+      "correctIndex": 0,
+      "explanation": "O exemplo da receita é o caso típico da atenção alternada: as tarefas têm demandas cognitivas distintas e são atendidas em sequência, com retomada exata do ponto anterior. Não é atenção dividida porque as ações não acontecem ao mesmo tempo.",
+      "image": "pg08",
+      "imageCaption": "Atenção alternada e flexibilidade cognitiva"
+    },
+    {
+      "question": "A atenção alternada depende fortemente das funções executivas alojadas em qual região cerebral?",
+      "options": [
+        "Lobo frontal",
+        "Lobo occipital",
+        "Lobo temporal",
+        "Lobo parietal"
+      ],
+      "correctIndex": 0,
+      "explanation": "As funções executivas do lobo frontal sustentam a atenção alternada, pois são elas que permitem desengajar, mudar de conjunto mental e reengajar. O lobo occipital é visual e o temporal, auditivo e mnêmico — nenhum dos dois comanda a troca de foco."
+    },
+    {
+      "question": "Qual instrumento é classicamente empregado para avaliar a atenção seletiva e a inibição de distratores?",
+      "options": [
+        "Teste de Stroop de cores e palavras",
+        "Teste de classificação de cartas WCST",
+        "Teste de desempenho contínuo (CPT)",
+        "Teste de trilhas parte B (TMT-B)"
+      ],
+      "correctIndex": 0,
+      "explanation": "O teste de Stroop avalia a atenção seletiva porque exige inibir a leitura automática da palavra para nomear a cor da tinta. O teste d2 cumpre função semelhante. O CPT mede atenção sustentada, o TMT-B a dividida e o WCST a alternada."
+    },
+    {
+      "question": "O Continuous Performance Test (CPT) é o instrumento tipicamente indicado para avaliar qual tipologia atencional?",
+      "options": [
+        "Sustentada",
+        "Alternada",
+        "Dividida",
+        "Seletiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "O CPT apresenta uma sequência longa e monótona de estímulos com alvos infrequentes, o que mede exatamente a manutenção prolongada do desempenho. É por isso o instrumento de referência para a atenção sustentada e a vigilância."
+    },
+    {
+      "question": "Qual par instrumento e tipologia atencional está corretamente associado?",
+      "options": [
+        "TMT-B avalia a atenção dividida",
+        "Stroop avalia a atenção dividida",
+        "CPT avalia a atenção alternada",
+        "WCST avalia a atenção seletiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "O Trail Making Test parte B exige acompanhar duas sequências ao mesmo tempo, sendo associado à alocação simultânea de recursos da atenção dividida. Stroop mede a seletiva, o CPT a sustentada e o WCST a alternada, por meio da mudança de critério de classificação.",
+      "image": "pg09",
+      "imageCaption": "Tipologias, mecanismos e instrumentos de avaliação"
+    },
+    {
+      "question": "Qual situação cotidiana ilustra de modo mais direto a atenção sustentada?",
+      "options": [
+        "Assistir a uma aula teórica de duas horas",
+        "Procurar um amigo em meio a uma multidão",
+        "Copiar um texto da lousa para o caderno",
+        "Dirigir o carro com o rádio ligado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Acompanhar uma exposição teórica de duas horas exige manter o foco de forma contínua e prolongada, o que define a atenção sustentada. Procurar alguém na multidão é seletiva, copiar da lousa é alternada e dirigir ouvindo rádio é dividida."
+    },
+    {
+      "question": "Procurar o rosto de um amigo em meio a uma multidão mobiliza principalmente a atenção:",
+      "options": [
+        "Seletiva",
+        "Dividida",
+        "Alternada",
+        "Sustentada"
+      ],
+      "correctIndex": 0,
+      "explanation": "A busca de um alvo específico em meio a muitos concorrentes exige inibir os rostos irrelevantes, mecanismo próprio da atenção seletiva. Não há duas tarefas simultâneas nem troca de conjunto mental, o que afasta a dividida e a alternada."
+    },
+    {
+      "question": "Entre os quatro pilares atencionais, qual é definido como a distribuição de recursos cognitivos para processar duas ou mais tarefas simultaneamente?",
+      "options": [
+        "Dividida",
+        "Alternada",
+        "Seletiva",
+        "Sustentada"
+      ],
+      "correctIndex": 0,
+      "explanation": "A atenção dividida é definida pela distribuição de recursos cognitivos entre duas ou mais tarefas simultâneas. A alternada trata de mudança de foco em sequência, a seletiva de inibição de distratores e a sustentada de manutenção prolongada do alerta.",
+      "image": "pg04",
+      "imageCaption": "Os quatro pilares atencionais"
+    },
+    {
+      "question": "No TDAH, o comprometimento atencional central recai principalmente sobre quais duas tipologias?",
+      "options": [
+        "Atenção seletiva e atenção sustentada",
+        "Atenção dividida e atenção alternada",
+        "Atenção alternada e atenção seletiva",
+        "Atenção sustentada e atenção dividida"
+      ],
+      "correctIndex": 0,
+      "explanation": "No TDAH, a dificuldade central está na atenção seletiva, que se manifesta como distração fácil diante de estímulos irrelevantes, e na atenção sustentada, que dificulta concluir tarefas longas. Esse par explica boa parte do prejuízo escolar e ocupacional do quadro."
+    },
+    {
+      "question": "Pacientes com traumatismo cranioencefálico frequentemente falham ao gerenciar múltiplas informações simultâneas. Quais tipologias costumam estar mais prejudicadas nesse quadro?",
+      "options": [
+        "Alternada e dividida",
+        "Seletiva e sustentada",
+        "Sustentada e dividida",
+        "Seletiva e alternada"
+      ],
+      "correctIndex": 0,
+      "explanation": "O TCE compromete tipicamente a atenção alternada e a dividida, ambas dependentes de funções executivas frontais frequentemente lesadas no trauma. O resultado prático é a falha em gerenciar várias informações ao mesmo tempo ou em trocar de tarefa sem perder o fio."
+    },
+    {
+      "question": "Na esquizofrenia, os déficits acentuados na filtragem de estímulos comprometem a atenção seletiva e produzem clinicamente:",
+      "options": [
+        "Sobrecarga sensorial",
+        "Negligência espacial",
+        "Amnésia anterógrada",
+        "Apraxia construtiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "A falha em filtrar estímulos irrelevantes faz com que informação demais alcance o processamento consciente, gerando sobrecarga sensorial. Negligência espacial, amnésia anterógrada e apraxia construtiva decorrem de lesões parietais, hipocampais e práxicas, não do déficit de filtragem."
+    },
+    {
+      "question": "A curva de desempenho ao longo de uma hora de vigilância contínua cai de forma acentuada nos primeiros 30 minutos. O recurso indicado para recuperar o rendimento é:",
+      "options": [
+        "Fazer pausas curtas para resetar o sistema",
+        "Aumentar o tempo total de tarefa contínua",
+        "Trocar a tarefa por outra mais complexa",
+        "Reduzir a iluminação do ambiente físico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Como o declínio da vigilância é fisiológico e começa por volta dos 20 a 30 minutos, pausas curtas são a estratégia eficaz para resetar o sistema e recuperar o desempenho. Prolongar a tarefa contínua apenas aprofunda a queda da curva.",
+      "image": "pg10",
+      "imageCaption": "Curva de declínio da vigilância ao longo de uma hora"
+    },
+    {
+      "question": "Identificar qual tipo exato de atenção está comprometido em um paciente é apontado como o primeiro passo para:",
+      "options": [
+        "Planejar a reabilitação neuropsicológica eficaz",
+        "Confirmar o diagnóstico de lesão estrutural",
+        "Definir a dosagem do tratamento farmacológico",
+        "Estabelecer o prognóstico funcional definitivo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A utilidade prática da tipologia é orientar a intervenção: só depois de saber se o déficit é de atenção seletiva, sustentada, dividida ou alternada é possível montar um plano de reabilitação neuropsicológica dirigido ao problema real. Diagnóstico estrutural e prognóstico dependem de outros dados.",
+      "image": "pg11",
+      "imageCaption": "Relevância clínica das tipologias atencionais"
+    }
+  ]
+}

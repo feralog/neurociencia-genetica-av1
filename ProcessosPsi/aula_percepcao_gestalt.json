@@ -1,0 +1,376 @@
+{
+  "titulo": "Percepção e Gestalt",
+  "eyebrow": "Processos Psicológicos · Percepção",
+  "subtitulo": "Do estímulo bruto à hipótese: como o cérebro constrói o que vemos",
+  "intro": "Percepção como síntese de dois fluxos — o ascendente, que sobe do receptor ao córtex, e o descendente, que desce da memória e das expectativas. Em seguida, as leis de organização da Gestalt e o que as ilusões visuais revelam sobre um cérebro que percebe prevendo.",
+  "questoes": [
+    {
+      "question": "Qual é a distinção entre sensação e percepção?",
+      "options": [
+        "Sensação capta energia; percepção interpreta",
+        "Sensação interpreta; percepção capta energia",
+        "Sensação é cognitiva; percepção é sensorial",
+        "Ambas apenas transduzem energia em impulsos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sensação é o processo fisiológico de captação de energia física pelos órgãos dos sentidos e sua transdução em impulsos elétricos, sem atribuição de significado. Percepção é o processo cognitivo em que o sistema nervoso central seleciona, organiza e interpreta essas sensações, transformando padrões brutos em experiências conscientes com sentido."
+    },
+    {
+      "question": "A figura contrasta dois processos. Qual deles corresponde à captação inicial de energia física pela retina, pela cóclea e pelos receptores táteis?",
+      "options": [
+        "Sensação, processo fisiológico de transdução",
+        "Percepção, processo cognitivo de organização",
+        "Atenção, processo seletivo de filtragem",
+        "Memória, processo de retenção da informação"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sensação é definida como processo fisiológico: a energia ambiental é captada por retina, cóclea e receptores táteis e transduzida em impulsos elétricos neurais brutos, ainda sem contextualização. A percepção vem depois, como processo cognitivo de seleção, organização e interpretação dessas sensações.",
+      "image": "pg03",
+      "imageCaption": "Sensação (fisiológica) × Percepção (cognitiva)"
+    },
+    {
+      "question": "Quais operações a percepção, como processo cognitivo, realiza sobre as sensações?",
+      "options": [
+        "Seleção, organização e interpretação ativa",
+        "Transdução, condução e amplificação neural",
+        "Codificação, retenção e evocação do traço",
+        "Detecção de limiar absoluto e diferencial"
+      ],
+      "correctIndex": 0,
+      "explanation": "A percepção é a seleção, organização e interpretação ativa das sensações pelo sistema nervoso central. É esse trabalho que converte padrões brutos de energia em objetos, pessoas, sons e eventos identificáveis. Transdução pertence à sensação, e codificação e evocação pertencem à memória."
+    },
+    {
+      "question": "O que caracteriza o processamento ascendente, ou bottom-up?",
+      "options": [
+        "Parte do estímulo bruto captado pelos sentidos",
+        "Parte das expectativas guardadas na memória",
+        "Parte de hipóteses formuladas pelo córtex frontal",
+        "Parte do contexto emocional atribuído à cena"
+      ],
+      "correctIndex": 0,
+      "explanation": "O processamento ascendente inicia-se na recepção dos estímulos brutos pelos órgãos sensoriais e progride hierarquicamente até o cérebro. A percepção é construída estritamente a partir das características do objeto — bordas, cores, frequências — sem interferência prévia de expectativas ou de conhecimento armazenado."
+    },
+    {
+      "question": "O que caracteriza o processamento descendente, ou top-down?",
+      "options": [
+        "É guiado por conhecimento prévio e expectativas",
+        "É guiado apenas por bordas, cores e frequências",
+        "É guiado pela transdução nos órgãos dos sentidos",
+        "É guiado por reflexos medulares automáticos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O processamento descendente é conceitualmente dirigido: conhecimento prévio, expectativas, contexto e motivação orientam a leitura da cena. O cérebro formula hipóteses ativas sobre o que está vendo, o que permite reconhecer padrões incompletos com rapidez adaptativa."
+    },
+    {
+      "question": "A tabela compara os dois modelos de percepção. Qual autor está associado ao modelo ascendente?",
+      "options": [
+        "James J. Gibson, da percepção direta",
+        "Richard Gregory, da percepção construtivista",
+        "Max Wertheimer, da psicologia da Gestalt",
+        "Karl Friston, da codificação preditiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "James J. Gibson é o autor de referência do modelo ascendente, com a tese da percepção direta: a informação já está no estímulo ambiental e não precisa ser completada por inferência. Richard Gregory ocupa o polo oposto, o do modelo descendente e da percepção construtivista.",
+      "image": "pg07",
+      "imageCaption": "Comparação bottom-up × top-down"
+    },
+    {
+      "question": "A percepção construtivista de Richard Gregory sustenta que a percepção é o quê?",
+      "options": [
+        "Uma hipótese construída sobre o estímulo",
+        "A leitura direta da informação do ambiente",
+        "A soma linear de sensações elementares",
+        "Um processo independente da experiência"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Gregory, perceber é formular e testar hipóteses: o cérebro completa o dado sensorial incompleto com conhecimento prévio, e o que chega à consciência é a melhor hipótese disponível. A leitura direta do ambiente, sem inferência, é a posição oposta, defendida por Gibson."
+    },
+    {
+      "question": "Qual é a direção do fluxo de dados no modelo ascendente?",
+      "options": [
+        "Sensorial → córtex primário → áreas superiores",
+        "Córtex associativo → interpretação do sensorial",
+        "Córtex frontal → memória → órgãos dos sentidos",
+        "Áreas superiores → tálamo → receptor periférico"
+      ],
+      "correctIndex": 0,
+      "explanation": "No modelo ascendente o dado sobe: do órgão sensorial ao córtex primário e daí às áreas de associação superiores. O caminho inverso, do córtex associativo para a interpretação do material sensorial, define o modelo descendente."
+    },
+    {
+      "question": "Quanto à velocidade e ao esforço, como se comportam os dois modelos?",
+      "options": [
+        "Ascendente é lento e minucioso; descendente, rápido",
+        "Ascendente é rápido e heurístico; descendente, lento",
+        "Ambos operam na mesma velocidade e com igual esforço",
+        "Ascendente é heurístico; descendente, ponto a ponto"
+      ],
+      "correctIndex": 0,
+      "explanation": "O processamento ascendente é mais lento e minucioso porque analisa o dado sensorial elemento por elemento. O descendente é rápido e opera por atalhos heurísticos, aproveitando expectativas e contexto para chegar logo a uma interpretação provável."
+    },
+    {
+      "question": "A figura mostra o estímulo doloroso subindo do dedo até o córtex por neurônios de primeira, segunda e terceira ordem. Que tipo de processamento esse trajeto ilustra?",
+      "options": [
+        "Ascendente, do receptor periférico ao córtex",
+        "Descendente, do córtex ao receptor periférico",
+        "Lateral, entre áreas corticais do mesmo nível",
+        "Circular, sem hierarquia entre as estações"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cadeia de neurônios de primeira, segunda e terceira ordem, do receptor cutâneo à medula e daí ao córtex, é a arquitetura hierárquica típica do processamento ascendente. O dado sobe do periférico ao central, sem que expectativas interfiram nessa subida.",
+      "image": "pg05",
+      "imageCaption": "Via ascendente: receptor → medula → córtex"
+    },
+    {
+      "question": "Na integração dinâmica dos dois fluxos, qual é a função do filtro contextual?",
+      "options": [
+        "Direcionar a atenção e preencher lacunas sensoriais",
+        "Transduzir a energia física em impulsos elétricos",
+        "Fornecer a ancoragem bruta com a realidade física",
+        "Armazenar a experiência consciente já integrada"
+      ],
+      "correctIndex": 0,
+      "explanation": "O filtro contextual é a etapa em que o conhecimento prévio direciona a atenção, preenche lacunas sensoriais e corrige ruídos ambientais de forma instantânea. Ele fica entre a entrada sensorial, que dá o substrato, e a síntese perceptiva, que é o resultado consciente da integração."
+    },
+    {
+      "question": "Qual desequilíbrio entre os dois fluxos é usado para explicar as alucinações?",
+      "options": [
+        "Viés excessivo das expectativas sobre o estímulo",
+        "Perda completa da entrada sensorial periférica",
+        "Excesso de detalhamento das bordas e contornos",
+        "Falha na transdução dentro dos órgãos sensoriais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Alucinações são atribuídas a um viés forte do processamento descendente: a expectativa pesa mais que o dado sensorial e o cérebro percebe aquilo que prevê, mesmo sem estímulo correspondente. É o desequilíbrio oposto ao das agnosias visuais, ligadas a falha ascendente."
+    },
+    {
+      "question": "A agnosia visual corresponde a falha em qual via de processamento?",
+      "options": [
+        "Na via ascendente, de análise das características",
+        "Na via descendente, do uso do conhecimento prévio",
+        "Na via motora, de execução do gesto de apontar",
+        "Na via límbica, de atribuição de valor afetivo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nas agnosias visuais a falha está no processamento ascendente: a análise das características elementares do objeto não se completa, e o reconhecimento não se sustenta mesmo com visão preservada. O par clínico é a alucinação, ligada ao excesso de peso descendente."
+    },
+    {
+      "question": "Ler corretamente uma palavra com letras trocadas dentro de uma frase depende de quê?",
+      "options": [
+        "Do processamento top-down guiado pelo contexto",
+        "Do processamento bottom-up letra por letra",
+        "Da acuidade visual acima da média na leitura",
+        "Da transdução mais rápida na retina periférica"
+      ],
+      "correctIndex": 0,
+      "explanation": "O reconhecimento de palavras com letras trocadas mostra a dominância do processamento descendente na leitura: o contexto textual gera a hipótese e o cérebro a confirma sem inspecionar cada letra. Uma leitura estritamente ascendente travaria na primeira inversão."
+    },
+    {
+      "question": "Como a psicoterapia cognitiva atua sobre o modo como o paciente percebe eventos neutros?",
+      "options": [
+        "Reestruturando esquemas que guiam o top-down",
+        "Ampliando a sensibilidade dos receptores da retina",
+        "Bloqueando a chegada de estímulos ambientais novos",
+        "Treinando a análise bottom-up de cada detalhe"
+      ],
+      "correctIndex": 0,
+      "explanation": "A reestruturação de esquemas mentais ajusta justamente o processamento descendente: mudando as crenças e expectativas que filtram a cena, muda a interpretação dada a eventos neutros. A intervenção não age sobre os receptores nem sobre o dado sensorial em si."
+    },
+    {
+      "question": "Qual é a premissa central da psicologia da Gestalt?",
+      "options": [
+        "O todo é apreendido antes das partes isoladas",
+        "O todo é a soma aritmética das partes isoladas",
+        "As partes só existem depois de nomeadas na fala",
+        "As sensações elementares bastam para perceber"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Gestalt afirma que a percepção humana não ocorre pela adição de elementos sensoriais isolados, mas pela apreensão imediata de estruturas holísticas e organizadas. O todo tem primazia perceptiva sobre as partes, que só se destacam depois, por análise."
+    },
+    {
+      "question": "Como a Gestalt caracteriza as tendências organizacionais do cérebro?",
+      "options": [
+        "Inatas, garantindo economia de processamento",
+        "Aprendidas ao longo da escolarização formal",
+        "Resultado exclusivo do condicionamento operante",
+        "Voluntárias e controladas de modo consciente"
+      ],
+      "correctIndex": 0,
+      "explanation": "As tendências organizacionais são descritas como estruturantes e inatas: o cérebro configura automaticamente os estímulos visuais segundo leis naturais de organização. O ganho é duplo — estabilidade perceptiva e economia de processamento, já que a cena não precisa ser recalculada a cada olhar."
+    },
+    {
+      "question": "As logomarcas e o painel de bolas de bilhar da figura formam conjuntos e figuras reconhecíveis. Quais leis de organização estão em jogo?",
+      "options": [
+        "Proximidade e semelhança",
+        "Pregnância e continuidade",
+        "Fechamento e figura-fundo",
+        "Constância e movimento comum"
+      ],
+      "correctIndex": 0,
+      "explanation": "As bolas de bilhar viram uma figura única porque estão espacialmente próximas — lei da proximidade — e porque as claras se separam das alaranjadas pela cor partilhada, que é a lei da semelhança. As duas leis operam juntas para recortar o conjunto do resto do campo.",
+      "image": "f2_pg03",
+      "imageCaption": "Proximidade e semelhança"
+    },
+    {
+      "question": "O que agrupa elementos pela lei da proximidade?",
+      "options": [
+        "A distância espacial curta entre os elementos",
+        "A partilha de cor, formato ou orientação",
+        "A tendência a completar contornos ausentes",
+        "O trajeto mais suave seguido pelas linhas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pela lei da proximidade, elementos espacialmente próximos uns dos outros tendem a ser agrupados perceptivamente como uma única unidade ou padrão coerente. O critério é puramente espacial: partilha de atributos visuais é semelhança, e completar contornos é fechamento."
+    },
+    {
+      "question": "Que características fazem a lei da semelhança agrupar objetos num mesmo conjunto?",
+      "options": [
+        "Cor, formato, tamanho ou orientação partilhados",
+        "Proximidade espacial entre elementos vizinhos",
+        "Contornos incompletos que a mente fecha sozinha",
+        "Trajetória contínua e sem mudanças bruscas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Objetos que compartilham características visuais — cor, formato, tamanho ou orientação — são automaticamente integrados no mesmo conjunto funcional. A semelhança pode inclusive vencer a proximidade: elementos distantes, mas iguais, agrupam-se contra elementos vizinhos diferentes."
+    },
+    {
+      "question": "Na figura, o logotipo da Apple, com a mordida recortada no contorno, exemplifica qual princípio?",
+      "options": [
+        "Pregnância, a lei da simplicidade da forma",
+        "Fechamento, o preenchimento de lacunas visuais",
+        "Continuidade, o trajeto mais suave das linhas",
+        "Figura-fundo, a segregação do campo visual"
+      ],
+      "correctIndex": 0,
+      "explanation": "A silhueta da maçã é lida como uma forma única, simples, regular e estável — é a lei da pregnância, ou lei da simplicidade, que faz a organização perceptiva escolher a interpretação mais econômica entre as viáveis. Na mesma figura, o Johnnie Walker ilustra fechamento e o logotipo da Pepsi, continuidade.",
+      "image": "f2_pg04",
+      "imageCaption": "Fechamento, pregnância e continuidade"
+    },
+    {
+      "question": "O que descreve a lei do fechamento?",
+      "options": [
+        "A mente completa contornos ausentes na figura",
+        "A mente prefere sempre a forma mais simples",
+        "A mente segue o trajeto mais suave das linhas",
+        "A mente separa o objeto focal do seu entorno"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pelo fechamento, a mente preenche lacunas visuais para formar uma figura completa e delimitada, mesmo quando faltam contornos reais no estímulo. É o princípio que permite reconhecer uma silhueta interrompida como um objeto único e íntegro."
+    },
+    {
+      "question": "O triângulo de Kanizsa, em que uma figura branca é vista sobre três discos recortados, demonstra o quê?",
+      "options": [
+        "Fechamento, com contornos ilusórios subjetivos",
+        "Semelhança, com agrupamento por cor idêntica",
+        "Proximidade, com agrupamento por distância",
+        "Constância de tamanho apesar da distância"
+      ],
+      "correctIndex": 0,
+      "explanation": "No triângulo de Kanizsa não existe contorno físico algum: os três discos recortados apenas sugerem vértices, e a mente fecha a figura, produzindo bordas subjetivas e um triângulo que parece até mais claro que o fundo. É a demonstração clássica da lei do fechamento."
+    },
+    {
+      "question": "A lei da pregnância determina que a organização perceptiva priorize qual interpretação da cena?",
+      "options": [
+        "A mais simples, regular, simétrica e estável",
+        "A mais complexa, detalhada e rica em nuances",
+        "A mais recente entre as já experimentadas",
+        "A mais rara entre as alternativas possíveis"
+      ],
+      "correctIndex": 0,
+      "explanation": "A lei da simplicidade, ou pregnância, estabelece que entre todas as interpretações viáveis de uma cena a percepção adota a forma mais simples, regular, simétrica e estável. É o princípio que dá economia e estabilidade ao sistema perceptivo."
+    },
+    {
+      "question": "Pela lei da continuidade, linhas e padrões tendem a ser percebidos de que maneira?",
+      "options": [
+        "Seguindo o trajeto mais suave e contínuo",
+        "Quebrados nos pontos de cruzamento visível",
+        "Agrupados pela cor partilhada entre eles",
+        "Fechados mesmo sem qualquer contorno real"
+      ],
+      "correctIndex": 0,
+      "explanation": "A continuidade faz linhas e padrões serem percebidos como se seguissem o trajeto mais suave possível, evitando mudanças bruscas de direção. Onde duas linhas se cruzam, a percepção prefere lê-las como dois traçados contínuos, e não como quatro segmentos que terminam no cruzamento."
+    },
+    {
+      "question": "A figura pode ser vista ora como um vaso, ora como dois perfis frente a frente. Que princípio perceptivo ela demonstra?",
+      "options": [
+        "Figura-fundo, com alternância do contorno",
+        "Semelhança, com agrupamento por cor igual",
+        "Proximidade, com agrupamento por distância",
+        "Continuidade, com trajeto suave das linhas"
+      ],
+      "correctIndex": 0,
+      "explanation": "É o vaso de Rubin, exemplo clássico da segregação figura-fundo. A imagem é ambígua porque a mesma borda pode ser atribuída ao vaso ou aos perfis, e a percepção alterna entre as duas leituras sem conseguir sustentar as duas ao mesmo tempo.",
+      "image": "f2_pg05",
+      "imageCaption": "Vaso de Rubin: figura e fundo alternando"
+    },
+    {
+      "question": "Na segregação figura-fundo, o que acontece com o campo visual?",
+      "options": [
+        "Divide-se em objeto de foco e entorno ignorado",
+        "Divide-se em partes de igual peso perceptivo",
+        "Permanece indiferenciado até a nomeação verbal",
+        "Organiza-se apenas por semelhança entre cores"
+      ],
+      "correctIndex": 0,
+      "explanation": "A mente organiza espontaneamente qualquer campo visual em uma figura, que é o objeto de foco e recebe a borda, e um fundo, que é o ambiente circundante temporariamente ignorado. É por isso que a borda pertence sempre à figura, nunca ao fundo."
+    },
+    {
+      "question": "A figura destaca um intervalo de 100 milissegundos. A que corresponde esse valor?",
+      "options": [
+        "Ao atraso entre a luz e a percepção consciente",
+        "À duração média de uma fixação ocular na leitura",
+        "Ao tempo de transdução dentro da própria retina",
+        "Ao intervalo mínimo entre dois estímulos táteis"
+      ],
+      "correctIndex": 0,
+      "explanation": "A luz leva cerca de 100 milissegundos para se converter em percepção consciente. É essa defasagem de processamento neural que obriga o cérebro a antecipar: para reagir ao mundo em tempo real ele precisa prever onde as coisas estarão, não apenas registrar onde estavam.",
+      "image": "f2_pg06",
+      "imageCaption": "100 ms de atraso do processamento neural"
+    },
+    {
+      "question": "Por que as ilusões visuais não são consideradas falhas do sistema perceptivo?",
+      "options": [
+        "São hipóteses probabilísticas otimizadas do cérebro",
+        "São erros de transdução nos receptores da retina",
+        "São artefatos criados apenas dentro do laboratório",
+        "São falhas de atenção sustentada sobre a cena"
+      ],
+      "correctIndex": 0,
+      "explanation": "As ilusões são o subproduto visível de um sistema que funciona bem: hipóteses probabilísticas otimizadas, geradas para antecipar a realidade físico-contextual apesar do atraso de cerca de 100 ms. Elas expõem a regra de inferência do cérebro, e não um defeito do aparelho sensorial."
+    },
+    {
+      "question": "A figura traz a equação da codificação preditiva. Como se obtém o erro de previsão?",
+      "options": [
+        "Entrada sensorial menos predição prioritária",
+        "Entrada sensorial mais predição prioritária",
+        "Predição prioritária dividida pela entrada",
+        "Predição prioritária multiplicada pelo ruído"
+      ],
+      "correctIndex": 0,
+      "explanation": "O erro de previsão é a diferença entre a entrada sensorial recebida e a predição prioritária que o cérebro já havia gerado. Quando esse resíduo é grande, o modelo interno é atualizado; quando é próximo de zero, a hipótese descendente se confirma e a percepção se estabiliza.",
+      "image": "f2_pg07",
+      "imageCaption": "Erro de previsão = entrada sensorial − predição"
+    },
+    {
+      "question": "A quem se atribui a teoria da codificação preditiva?",
+      "options": [
+        "Karl Friston e Andy Clark, na neurociência",
+        "James Gibson e Richard Gregory, na percepção",
+        "Max Wertheimer e Kurt Koffka, na Gestalt",
+        "Donald Broadbent e Anne Treisman, na atenção"
+      ],
+      "correctIndex": 0,
+      "explanation": "A codificação preditiva é associada a Karl Friston e Andy Clark: o cérebro gera continuamente modelos descendentes para prever as entradas sensoriais ascendentes, e a percepção final reflete a hipótese mais provável dada a experiência prévia. Gibson e Gregory pertencem ao debate anterior sobre percepção direta e construtivista."
+    },
+    {
+      "question": "O que ocorre quando a predição do cérebro diverge do estímulo sensorial real?",
+      "options": [
+        "Gera-se erro de previsão que atualiza o modelo",
+        "A predição é mantida e o estímulo é descartado",
+        "A entrada sensorial é amplificada na periferia",
+        "O processamento perceptivo é interrompido logo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A divergência entre predição e estímulo real gera um erro de previsão, e é esse sinal que atualiza o modelo interno. O exemplo cotidiano é reler uma frase e descobrir que a palavra era outra: a hipótese inicial não resistiu ao dado sensorial e foi corrigida."
+    }
+  ]
+}

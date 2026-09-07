@@ -1,0 +1,362 @@
+{
+  "titulo": "Transdução Sensorial",
+  "eyebrow": "Processos Psicológicos · Sensação",
+  "subtitulo": "Como energia física do ambiente vira sinal elétrico no cérebro",
+  "intro": "Receptores e estímulos adequados, potencial receptor versus potencial de ação, codificação de intensidade, qualidade e localização, adaptação fásica e tônica, limiar absoluto e a ponte entre sensação e percepção.",
+  "questoes": [
+    {
+      "question": "A transdução sensorial é o processo biológico que faz o quê com o estímulo do ambiente?",
+      "options": [
+        "Converte energia física do ambiente em sinal elétrico",
+        "Interpreta o significado mental do estímulo captado",
+        "Conduz o impulso elétrico do nervo até o córtex",
+        "Compara dois estímulos para julgar qual é mais forte"
+      ],
+      "correctIndex": 0,
+      "explanation": "Transdução é a tradução biológica: o receptor recebe fóton, onda de pressão, molécula ou calor e devolve variação de potencial elétrico de membrana. A interpretação do significado é percepção, e o transporte do sinal até o encéfalo é condução — etapas posteriores.",
+      "image": "pg03",
+      "imageCaption": "Do mundo físico ao cérebro: o tradutor biológico"
+    },
+    {
+      "question": "Por que o encéfalo depende de um tradutor biológico para conhecer o mundo?",
+      "options": [
+        "O sistema nervoso só processa sinais eletroquímicos",
+        "O sistema nervoso capta fótons de luz diretamente",
+        "O sistema nervoso analisa ondas sonoras sem receptor",
+        "O sistema nervoso mede a temperatura do ar no crânio"
+      ],
+      "correctIndex": 0,
+      "explanation": "O encéfalo está isolado dentro do crânio e opera apenas com alterações de potencial de membrana e liberação de neurotransmissores. Como não enxerga a luz nem escuta a vibração diretamente, precisa de células que convertam essas energias em linguagem eletroquímica.",
+      "image": "pg02",
+      "imageCaption": "O idioma eletroquímico do sistema nervoso"
+    },
+    {
+      "question": "Qual formulação distingue corretamente sensação de percepção?",
+      "options": [
+        "Sensação é captação física; percepção é significado mental",
+        "Sensação é significado mental; percepção é captação física",
+        "Sensação e percepção são etapas idênticas do mesmo processo",
+        "Sensação ocorre no córtex; percepção ocorre no receptor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sensação é a captação das energias físicas e químicas pelos receptores periféricos. Percepção é a construção de significado que a mente faz sobre esse material, já nas áreas corticais primárias e secundárias. São etapas encadeadas, não sinônimos.",
+      "image": "pg12",
+      "imageCaption": "A ponte entre fisiologia e psicologia"
+    },
+    {
+      "question": "Que classe de receptor detecta deformação mecânica e sustenta tato, pressão e audição?",
+      "options": [
+        "Mecanorreceptores, sensíveis à deformação física",
+        "Quimiorreceptores, sensíveis a moléculas dissolvidas",
+        "Fotorreceptores, sensíveis à energia luminosa",
+        "Termorreceptores, sensíveis à variação térmica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mecanorreceptores respondem quando a membrana é fisicamente deformada ou estirada, o que abrange toque, pressão na pele e também a audição, já que as células ciliadas da cóclea são mecanorreceptores. Cada uma das outras classes tem estímulo adequado diferente.",
+      "image": "pg04",
+      "imageCaption": "As classes de receptor e suas modalidades"
+    },
+    {
+      "question": "Cones e bastonetes da retina pertencem a qual classe de receptor sensorial?",
+      "options": [
+        "Fotorreceptores, que respondem a fótons de luz",
+        "Quimiorreceptores, que respondem a moléculas",
+        "Mecanorreceptores, que respondem à pressão",
+        "Termorreceptores, que respondem ao calor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cones e bastonetes são fotorreceptores da retina, especializados em captar energia luminosa e traduzir cor e luminosidade em sinal elétrico. Nenhuma outra classe de receptor responde a fótons como estímulo adequado."
+    },
+    {
+      "question": "O olfato, o paladar e o monitoramento do pH sanguíneo dependem de que receptores?",
+      "options": [
+        "Quimiorreceptores, ativados por moléculas químicas",
+        "Mecanorreceptores, ativados por deformação física",
+        "Fotorreceptores, ativados por energia luminosa",
+        "Nociceptores, ativados por estímulos lesivos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quimiorreceptores respondem a moléculas dissolvidas no ar, nos alimentos ou no próprio sangue. Por isso a mesma classe cobre cheiro, gosto e o controle interno de pH, que não é uma sensação consciente mas usa o mesmo tipo de tradutor."
+    },
+    {
+      "question": "Estímulos potencialmente lesivos que produzem dor são captados por que receptores?",
+      "options": [
+        "Nociceptores, dedicados a estímulos dolorosos",
+        "Termorreceptores, dedicados à variação térmica",
+        "Fotorreceptores, dedicados a captar fótons",
+        "Quimiorreceptores, dedicados a moléculas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nociceptores são terminações especializadas em sinalizar dano ou ameaça de dano ao tecido, gerando a experiência de dor. Termorreceptores, que ficam próximos deles na pele, sinalizam variação de temperatura sem necessariamente indicar lesão."
+    },
+    {
+      "question": "Um esquema mostra tato, dor, olfação, gustação, audição e visão, cada modalidade ligada ao sistema nervoso central por uma via própria e separada. Que princípio de codificação esse arranjo ilustra?",
+      "options": [
+        "Linha rotulada, com via dedicada por modalidade",
+        "Frequência de disparo, que codifica a intensidade",
+        "Campo receptivo, que codifica a localização",
+        "Adaptação fásica, que reduz o sinal constante"
+      ],
+      "correctIndex": 0,
+      "explanation": "O princípio da linha rotulada explica a qualidade do estímulo: cada tipo de receptor projeta por uma via anatômica própria que termina numa área cortical dedicada. É por isso que o encéfalo distingue luz de som mesmo recebendo potenciais de ação idênticos em ambos os casos.",
+      "image": "pg04",
+      "imageCaption": "Seis modalidades, seis vias até o SNC"
+    },
+    {
+      "question": "Qual é a característica elétrica definidora do potencial receptor?",
+      "options": [
+        "Resposta graduada, com amplitude proporcional ao estímulo",
+        "Resposta fixa, idêntica para qualquer intensidade aplicada",
+        "Resposta lenta, que independe da abertura de canais",
+        "Resposta tardia, que só surge após o disparo axonal"
+      ],
+      "correctIndex": 0,
+      "explanation": "O potencial receptor é uma resposta graduada e local: estímulo fraco produz variação elétrica pequena, estímulo forte produz variação grande. Essa proporcionalidade é exatamente o que o diferencia do potencial de ação, que tem tamanho fixo."
+    },
+    {
+      "question": "O que caracteriza o potencial de ação disparado no neurônio aferente?",
+      "options": [
+        "Obedece à lei do tudo ou nada, com amplitude fixa",
+        "Varia de amplitude conforme a força do estímulo",
+        "Surge no receptor antes do potencial graduado",
+        "Perde amplitude ao percorrer o axônio aferente"
+      ],
+      "correctIndex": 0,
+      "explanation": "O potencial de ação só ocorre se o limiar for atingido, e quando ocorre tem sempre o mesmo tamanho — é a lei do tudo ou nada. Ele se propaga sem decremento ao longo do axônio, ao contrário do potencial receptor, que é local e graduado."
+    },
+    {
+      "question": "Uma figura mostra canais iônicos da membrana de um neurônio sensorial se abrindo e permitindo a entrada de sódio. Que evento elétrico esse fluxo produz?",
+      "options": [
+        "Um potencial receptor despolarizante e local",
+        "Um potencial de ação propagado pelo axônio",
+        "Uma hiperpolarização que bloqueia o disparo",
+        "Uma liberação direta de neurotransmissor"
+      ],
+      "correctIndex": 0,
+      "explanation": "A entrada de sódio torna o interior da membrana menos negativo, ou seja, despolariza a região do receptor. Essa variação local e graduada é o potencial receptor; o potencial de ação só aparece depois, se a despolarização alcançar a zona de gatilho.",
+      "image": "pg05",
+      "imageCaption": "Abertura de canais de sódio e despolarização"
+    },
+    {
+      "question": "Numa figura de neurônio sensorial mielinizado, uma seta aponta para o início do axônio e indica onde começam os potenciais de ação. Como se chama essa região?",
+      "options": [
+        "Zona de gatilho do neurônio aferente",
+        "Terminal sináptico do neurônio aferente",
+        "Corpo celular do neurônio aferente",
+        "Dendrito distal do neurônio aferente"
+      ],
+      "correctIndex": 0,
+      "explanation": "A zona de gatilho é o ponto do neurônio aferente onde a despolarização graduada é convertida em potenciais de ação, desde que atinja o limiar elétrico. Antes dela existe apenas potencial receptor; depois dela, trens de impulsos que viajam até o sistema nervoso central.",
+      "image": "pg06",
+      "imageCaption": "Onde o potencial graduado vira potencial de ação"
+    },
+    {
+      "question": "Como um estímulo mais intenso é representado ao longo do nervo aferente?",
+      "options": [
+        "Por maior frequência de potenciais de ação por segundo",
+        "Por maior amplitude de cada potencial de ação isolado",
+        "Por maior velocidade de condução em cada axônio único",
+        "Por maior duração de cada potencial de ação isolado"
+      ],
+      "correctIndex": 0,
+      "explanation": "A intensidade é codificada por frequência de disparo: quanto mais forte o estímulo, maior o número de impulsos por segundo que chegam ao sistema nervoso central. O tamanho de cada impulso permanece constante, então a amplitude não carrega essa informação."
+    },
+    {
+      "question": "Por que a intensidade do estímulo não pode ser codificada pela amplitude do potencial de ação?",
+      "options": [
+        "Porque o potencial de ação tem tamanho fixo",
+        "Porque o potencial de ação é sempre graduado",
+        "Porque o potencial de ação não chega ao córtex",
+        "Porque o potencial de ação nasce no dendrito"
+      ],
+      "correctIndex": 0,
+      "explanation": "Como o potencial de ação segue a lei do tudo ou nada, seu tamanho é sempre o mesmo, independentemente de o estímulo ser fraco ou forte. Sobra ao sistema nervoso usar a variável temporal: quantos impulsos ocorrem por segundo."
+    },
+    {
+      "question": "Que relação existe entre a amplitude do potencial receptor e o disparo do neurônio aferente?",
+      "options": [
+        "Quanto maior a amplitude, mais potenciais de ação disparam",
+        "Quanto maior a amplitude, menos potenciais de ação disparam",
+        "A amplitude define o tamanho do potencial de ação gerado",
+        "A amplitude não interfere no disparo do neurônio aferente"
+      ],
+      "correctIndex": 0,
+      "explanation": "O potencial receptor graduado é convertido em quantidade de potenciais de ação: quanto maior a despolarização, maior o número de impulsos disparados. O encéfalo lê o mundo justamente por essa contagem de impulsos que chegam."
+    },
+    {
+      "question": "O princípio da linha rotulada, também chamado lei das energias nervosas específicas, sustenta que a qualidade do estímulo é dada por quê?",
+      "options": [
+        "Cada receptor liga-se a uma via que chega a um córtex próprio",
+        "Cada receptor gera um potencial de ação de formato próprio",
+        "Cada receptor envia o sinal a uma única área cortical geral",
+        "Cada receptor codifica a modalidade pela velocidade do sinal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Todos os impulsos são eletricamente equivalentes, então a diferença entre ver e ouvir não está no sinal, e sim no endereço: cada classe de receptor tem via aferente própria terminando em área cortical dedicada. Existe um tipo de receptor ajustado para cada tipo de energia."
+    },
+    {
+      "question": "O que é o campo receptivo de um neurônio sensorial?",
+      "options": [
+        "Região do espaço em que o estímulo altera o disparo do neurônio",
+        "Região do córtex em que o estímulo é finalmente interpretado",
+        "Região da membrana em que os canais iônicos se concentram",
+        "Região do axônio em que o potencial de ação é disparado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Campo receptivo é a porção do espaço corporal ou sensorial cuja estimulação modifica a taxa de disparo daquele neurônio. É o parâmetro que codifica localização: saber qual neurônio disparou equivale a saber onde o estímulo caiu."
+    },
+    {
+      "question": "Por que a ponta dos dedos discrimina dois pontos próximos com mais precisão que a pele das costas?",
+      "options": [
+        "Tem campos receptivos menores e mais sobrepostos",
+        "Tem campos receptivos maiores e mais espaçados",
+        "Tem potenciais de ação de amplitude mais alta",
+        "Tem receptores de adaptação mais lenta e tônica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quanto menores e mais sobrepostos os campos receptivos de uma região, maior a densidade de receptores e melhor a resolução espacial. Regiões com poucos receptores e campos amplos, como o dorso, confundem pontos vizinhos num mesmo sinal."
+    },
+    {
+      "question": "Um gráfico compara a queda de sinal de dois grupos de receptores diante de estímulo constante: um reduz cerca de 90% e o outro cerca de 25%. Que grupos são esses?",
+      "options": [
+        "Redução de 90% nos fásicos e de 25% nos tônicos",
+        "Redução de 90% nos tônicos e de 25% nos fásicos",
+        "Redução de 90% nos térmicos e de 25% nos fásicos",
+        "Redução de 90% nos tônicos e de 25% nos térmicos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Receptores fásicos têm adaptação rápida e praticamente silenciam diante de estímulo mantido, como o toque da roupa. Receptores tônicos têm adaptação lenta e caem pouco, mantendo o organismo informado sobre dor e postura.",
+      "image": "pg11",
+      "imageCaption": "Queda de sinal em receptores fásicos e tônicos"
+    },
+    {
+      "question": "Deixar de sentir o toque da roupa no corpo poucos minutos depois de vesti-la depende de quê?",
+      "options": [
+        "Receptores fásicos, de adaptação rápida",
+        "Receptores tônicos, de adaptação lenta",
+        "Receptores nociceptivos, de limiar alto",
+        "Receptores térmicos, de resposta contínua"
+      ],
+      "correctIndex": 0,
+      "explanation": "Receptores fásicos reduzem drasticamente a sinalização quando o estímulo permanece constante, o que faz o toque da roupa e o cheiro do ambiente desaparecerem da consciência. Esse silenciamento é adaptação sensorial, não perda de receptor."
+    },
+    {
+      "question": "Dor e posição corporal são monitoradas por receptores que quase não reduzem o disparo ao longo do tempo. Que grupo é esse e para que serve essa persistência?",
+      "options": [
+        "Tônicos, mantendo o alerta para ameaças físicas",
+        "Fásicos, poupando processamento e energia neural",
+        "Tônicos, poupando processamento e energia neural",
+        "Fásicos, mantendo o alerta para ameaças físicas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Receptores tônicos têm adaptação lenta, então continuam disparando enquanto o estímulo durar. Isso custa mais energia, mas garante que dor e postura sigam sendo priorizadas — justamente as informações em que parar de sinalizar seria perigoso."
+    },
+    {
+      "question": "Qual é o ganho biológico da adaptação rápida característica dos receptores fásicos?",
+      "options": [
+        "Economiza processamento e reduz o gasto energético",
+        "Aumenta o gasto energético para priorizar o sinal",
+        "Amplifica a amplitude dos potenciais de ação gerados",
+        "Reduz o limiar absoluto de percepção do estímulo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Estímulo constante é informação redundante: continuar sinalizando gastaria energia e capacidade de processamento sem acrescentar nada. Ao silenciar rápido, os receptores fásicos liberam o sistema para detectar mudanças, que é o que interessa."
+    },
+    {
+      "question": "Uma figura sobre limiares sensoriais destaca a taxa de detecção de 50%. A que definição psicofísica esse número corresponde?",
+      "options": [
+        "Limiar absoluto: menor energia detectada em 50% das tentativas",
+        "Limiar diferencial: menor variação percebida em 50% dos casos",
+        "Limiar elétrico: voltagem mínima da zona de gatilho neuronal",
+        "Limiar de dor: energia mínima que ativa os nociceptores"
+      ],
+      "correctIndex": 0,
+      "explanation": "O limiar absoluto é a menor quantidade de energia física que o indivíduo percebe em metade das apresentações. O critério de 50% existe porque a detecção é probabilística: perto do limiar a mesma intensidade às vezes é notada e às vezes não.",
+      "image": "pg07",
+      "imageCaption": "Limiar absoluto e a taxa de detecção de 50%"
+    },
+    {
+      "question": "Nem todo potencial receptor gera experiência consciente. O que precisa acontecer para o sinal seguir adiante?",
+      "options": [
+        "A despolarização deve atingir o limiar da zona de gatilho",
+        "A despolarização deve durar mais que um segundo inteiro",
+        "O receptor deve produzir potencial de ação graduado",
+        "O receptor deve enviar o sinal por via eferente ao córtex"
+      ],
+      "correctIndex": 0,
+      "explanation": "Abaixo do limiar elétrico da zona de gatilho o potencial receptor se dissipa localmente e nada é transmitido. Só quando a despolarização alcança esse valor surgem potenciais de ação, que trafegam por vias aferentes até o sistema nervoso central."
+    },
+    {
+      "question": "Uma linha do tempo organiza o percurso da informação sensorial em quatro etapas encadeadas. Qual é a ordem correta?",
+      "options": [
+        "Estímulo, transdução, condução e percepção",
+        "Estímulo, condução, transdução e percepção",
+        "Transdução, estímulo, percepção e condução",
+        "Condução, transdução, estímulo e percepção"
+      ],
+      "correctIndex": 0,
+      "explanation": "A energia do meio atinge a periferia (estímulo), o receptor a converte em potencial graduado (transdução), o neurônio aferente dispara impulsos até o sistema nervoso central (condução) e as áreas corticais constroem a experiência (percepção).",
+      "image": "pg08",
+      "imageCaption": "As quatro etapas da jornada sensorial"
+    },
+    {
+      "question": "Como a luz gera sinal elétrico nos fotorreceptores da retina?",
+      "options": [
+        "Altera o GMPc e fecha canais de sódio da membrana",
+        "Altera o GMPc e abre canais de sódio da membrana",
+        "Curva estereocílios e abre canais de potássio",
+        "Deforma a membrana e abre canais de estiramento"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nos cones e bastonetes a luz modifica a concentração de GMPc e provoca o fechamento de canais de sódio, gerando o sinal óptico. É um caso incomum: o estímulo reduz a corrente de entrada em vez de aumentá-la."
+    },
+    {
+      "question": "Que evento converte a onda sonora em sinal neural dentro da cóclea?",
+      "options": [
+        "A endolinfa curva estereocílios e abre canais de K+",
+        "A endolinfa altera o GMPc e fecha canais de sódio",
+        "A perilinfa aquece a cóclea e ativa termorreceptores",
+        "A membrana timpânica libera neurotransmissor direto"
+      ],
+      "correctIndex": 0,
+      "explanation": "O som movimenta a endolinfa da cóclea, que encurva os estereocílios das células ciliadas e abre canais mecânicos de potássio. É transdução mecânica pura: a deformação física do cílio é o que abre o canal.",
+      "image": "pg09",
+      "imageCaption": "Visão, audição e tato: três mecanismos de transdução"
+    },
+    {
+      "question": "Corpúsculos de Pacini e de Meissner geram o sinal tátil por qual mecanismo?",
+      "options": [
+        "Deformação da pele abre canais de estiramento",
+        "Deformação da pele fecha canais de sódio lentos",
+        "Moléculas na pele ativam canais quimiossensíveis",
+        "Variação térmica na pele abre canais de cálcio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Esses corpúsculos são mecanorreceptores encapsulados: a deformação mecânica da pele estira a membrana e abre canais sensíveis ao estiramento, disparando o sinal tátil. O estímulo adequado é físico, não químico nem térmico."
+    },
+    {
+      "question": "Num esquema de codificação neural, três princípios são associados a três atributos do estímulo. Qual associação está correta?",
+      "options": [
+        "Frequência de disparo codifica a intensidade do estímulo",
+        "Frequência de disparo codifica a qualidade do estímulo",
+        "Campo receptivo codifica a intensidade do estímulo",
+        "Linha rotulada codifica a localização do estímulo"
+      ],
+      "correctIndex": 0,
+      "explanation": "São três parâmetros distintos: frequência de disparo para intensidade, linha rotulada para qualidade e campo receptivo para localização. Trocar um pelo outro é o erro clássico, porque os três operam ao mesmo tempo no mesmo nervo.",
+      "image": "pg10",
+      "imageCaption": "Intensidade, qualidade e localização"
+    },
+    {
+      "question": "Que implicação para a psicologia decorre do fato de todo acesso ao mundo passar pela transdução?",
+      "options": [
+        "O contato com o mundo é mediado biologicamente",
+        "O contato com o mundo é direto e sem mediação",
+        "O contato com o mundo depende só da atenção",
+        "O contato com o mundo independe dos receptores"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nada chega à mente sem antes ser convertido por um receptor e recodificado em impulsos. Esse acesso indireto e mediado ajuda a entender ilusões perceptivas, transtornos do processamento sensorial e quadros de dor crônica disfuncional."
+    }
+  ]
+}

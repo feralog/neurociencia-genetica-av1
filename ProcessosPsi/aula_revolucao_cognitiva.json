@@ -1,0 +1,344 @@
+{
+  "titulo": "Revolução Cognitiva e Metáfora Computacional",
+  "eyebrow": "Processos Psicológicos · História e Epistemologia",
+  "subtitulo": "Da caixa preta behaviorista à mente como programa",
+  "intro": "Como a psicologia cognitiva nasceu contra o behaviorismo, o que a metáfora mente-computador afirma e onde ela falha, e por que a chamada segunda revolução cognitiva é contestada como revolução.",
+  "questoes": [
+    {
+      "question": "O que caracteriza um processo psicológico?",
+      "options": [
+        "Atividade mental sequenciada que adapta o indivíduo ao meio",
+        "Resposta motora automática desencadeada por um estímulo",
+        "Estado subjetivo estável, independente do meio físico",
+        "Conteúdo inconsciente que emerge só em situação de conflito"
+      ],
+      "correctIndex": 0,
+      "explanation": "Processo psicológico é atividade mental sequenciada com função adaptativa ao meio físico e social. A própria palavra processo remete a ação contínua, com etapas voltadas a um objetivo: percepção, sensação, atenção, aprendizado, memória, raciocínio e linguagem são exemplos."
+    },
+    {
+      "question": "O behaviorismo, como filosofia da psicologia, define o objeto de estudo da psicologia como:",
+      "options": [
+        "o comportamento, e não os construtos psicológicos internos",
+        "a consciência, acessada pelo relato introspectivo treinado",
+        "a estrutura da mente, descrita por modelos formais de regras",
+        "o significado cultural construído nas práticas discursivas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O behaviorismo desloca o objeto da psicologia para o comportamento e recusa os construtos psicológicos como ponto de partida, movido pela busca de legitimidade científica. Foi a abordagem dominante na psicologia acadêmica norte-americana até meados do século XX."
+    },
+    {
+      "question": "Comparadas as duas vertentes do behaviorismo, o behaviorismo radical se distingue por sustentar que:",
+      "options": [
+        "processos psicológicos também são comportamentos, porém encobertos",
+        "processos psicológicos não são área legítima de estudo científico",
+        "processos psicológicos são causas mentais externas ao comportamento",
+        "processos psicológicos existem, mas só a introspecção os alcança"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para o behaviorismo radical a psicologia estuda o comportamento, e os processos psicológicos são eles próprios comportamentos, só que encobertos. É a vertente que segue viva na prática de muitos psicólogos, e que explica fobia e depressão pelos princípios do condicionamento clássico e operante.",
+      "image": "pg10",
+      "imageCaption": "Behaviorismo metodológico e behaviorismo radical"
+    },
+    {
+      "question": "A vertente behaviorista que restringe a psicologia ao comportamento publicamente mensurável, negando estatuto legítimo aos processos psicológicos, é o:",
+      "options": [
+        "behaviorismo metodológico, hoje tido como abordagem defasada",
+        "behaviorismo radical, hoje adotado por muitos psicólogos",
+        "behaviorismo teleológico, centrado na função final do ato",
+        "neobehaviorismo mediacional, centrado em variáveis internas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O behaviorismo metodológico limita a psicologia ao mensurável publicamente e exclui os processos psicológicos do campo científico; é a vertente considerada defasada. O radical, ao contrário, admite esses processos como comportamentos encobertos e permanece atual."
+    },
+    {
+      "question": "Um erro frequente cometido por quem critica o behaviorismo consiste em:",
+      "options": [
+        "tratar as duas vertentes behavioristas como se fossem uma só",
+        "atribuir a Skinner a defesa explícita do método introspectivo",
+        "supor que Pavlov trabalhou com o condicionamento operante",
+        "negar que o behaviorismo buscasse legitimidade científica"
+      ],
+      "correctIndex": 0,
+      "explanation": "A confusão entre behaviorismo metodológico e radical é o equívoco mais comum na crítica. A imagem da mente como caixa preta inacessível cabe ao metodológico; o radical não nega os eventos privados, apenas os trata como comportamentos encobertos regidos pelas mesmas leis."
+    },
+    {
+      "question": "Ivan Pavlov, John B. Watson e B. F. Skinner são citados como representantes de qual filosofia da psicologia?",
+      "options": [
+        "Behaviorismo, que toma o comportamento como objeto da psicologia",
+        "Psicologia cognitiva, que estuda o processamento da informação",
+        "Psicologia discursiva, que estuda o discurso público e privado",
+        "Psicologia cultural, que estuda a construção de significados"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pavlov, Watson e Skinner formam a tríade clássica do behaviorismo. Pavlov deu a base do condicionamento clássico, Watson formulou o programa comportamentalista e Skinner desenvolveu o condicionamento operante e o behaviorismo radical."
+    },
+    {
+      "question": "O labirinto de Tolman e os estudos de aprendizagem vicariante de Bandura funcionam, na história da psicologia, como:",
+      "options": [
+        "críticas graduais ao modelo behaviorista, antes da revolução cognitiva",
+        "demonstrações definitivas da suficiência do condicionamento operante",
+        "experimentos fundadores da psicologia discursiva de Harré e Gillett",
+        "primeiras aplicações da metáfora computacional à pesquisa com animais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Edward Tolman, com os ratos em labirinto, e Albert Bandura, com a aprendizagem por observação, são apresentados como críticas graduais ao modelo behaviorista. Ambos apontam para algo entre o estímulo e a resposta que o esquema comportamental estrito não acomodava.",
+      "image": "pg14",
+      "imageCaption": "Labirinto de Tolman e aprendizagem vicariante"
+    },
+    {
+      "question": "Entre os nomes centrais da revolução cognitiva, coube a Jerome Bruner sustentar que:",
+      "options": [
+        "a aprendizagem é um processo ativo de quem aprende",
+        "a linguagem é uma estrutura inata e universal",
+        "a memória imediata comporta cerca de sete itens",
+        "a mente é composta por módulos especializados"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bruner concebeu a aprendizagem como processo ativo, e não como registro passivo de estímulos. Em 1956 publicou, com Goodnow e Austin, A Study of Thinking, uma das obras que compõem o marco inicial da revolução cognitiva."
+    },
+    {
+      "question": "A tese de que a linguagem é uma estrutura inata, desenvolvida intuitivamente, e a crítica frontal ao Comportamento Verbal de Skinner pertencem a:",
+      "options": [
+        "Noam Chomsky",
+        "George Miller",
+        "Jerome Bruner",
+        "Edward Tolman"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chomsky mostrou que o desenvolvimento da linguagem não se explica apenas pelos estímulos recebidos, tese sustentada já em Syntactic Structures (1957). Sua oposição ao Comportamento Verbal de Skinner é um dos episódios mais citados da ruptura com o behaviorismo."
+    },
+    {
+      "question": "A pesquisa de George Miller que reforçou a legitimidade do estudo experimental da mente tratou de:",
+      "options": [
+        "limites da memória imediata, o número sete mais ou menos dois",
+        "regras gramaticais inatas comuns a todas as línguas humanas",
+        "mapas cognitivos formados por ratos em labirintos complexos",
+        "modelos de simulação de teoremas em máquinas de calcular"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em 1956 Miller publicou The Magical Number Seven, Plus or Minus Two, quantificando os limites da capacidade humana de processar informação. Além do dado experimental, fez a defesa explícita de uma psicologia cognitiva, sustentada em pesquisa com memória de trabalho."
+    },
+    {
+      "question": "O encontro de setembro de 1956 que reuniu Chomsky, Miller, Newell e Simon, e é tomado como marco da revolução cognitiva, foi um simpósio sobre:",
+      "options": [
+        "teoria da informação, no Instituto de Tecnologia de Massachusetts",
+        "análise experimental do comportamento, na Universidade de Harvard",
+        "psicologia discursiva e narrativa, na Universidade de Oxford",
+        "neurofisiologia dos reflexos, no Instituto Pavlov de Leningrado"
+      ],
+      "correctIndex": 0,
+      "explanation": "O simpósio sobre teoria da informação ocorreu no MIT em setembro de 1956, com Noam Chomsky, George Miller, Allen Newell e Herbert Simon. Discutiram-se os limites da memória humana, o inatismo dos mecanismos de linguagem e a execução de teoremas por máquinas."
+    },
+    {
+      "question": "George Miller chegou a datar o início da revolução cognitiva com precisão de dia. Que data ele indicou?",
+      "options": [
+        "11 de setembro de 1956",
+        "13 de março de 1943",
+        "9 de outubro de 1948",
+        "21 de agosto de 1960"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miller, citado por Gardner (2003), fixou o início da revolução cognitiva em 11 de setembro de 1956, durante o simpósio do MIT. Historiadores ponderam, porém, que eventos dessa magnitude não admitem interpretação consensual sobre seu verdadeiro começo."
+    },
+    {
+      "question": "Que conjunto de obras foi publicado em 1956, ano tomado como marco inicial da revolução cognitiva?",
+      "options": [
+        "A Study of Thinking, Three Models for the Description of Language",
+        "Syntactic Structures, Verbal Behavior, Science and Human Behavior",
+        "Discursive Psychology, Atos de Significação, A Mente Discursiva",
+        "A Nova Ciência da Mente, Como a Mente Funciona, História e Verdade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em 1956 saíram A Study of Thinking (Bruner, Goodnow e Austin), Three Models for the Description of Language (Chomsky), The Magical Number Seven (Miller), The Logic Theory Machine (Newell e Simon) e Language, Thought and Reality (Whorf). Essa convergência editorial é o que torna 1956 quase consensual como ano inaugural."
+    },
+    {
+      "question": "O trabalho de Allen Newell e Herbert Simon, na década de 1950, evidenciou:",
+      "options": [
+        "as regras que estão por trás da capacidade humana de inferência",
+        "os limites da memória imediata para itens isolados de informação",
+        "o caráter inato dos mecanismos de produção da linguagem humana",
+        "a formação de mapas cognitivos na aprendizagem espacial de ratos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Newell e Simon evidenciaram as regras subjacentes à inferência humana, trabalho materializado em The Logic Theory Machine (1956). Marvin Minsky, na mesma frente, buscou replicar em máquina inúmeros aspectos da cognição humana."
+    },
+    {
+      "question": "Na formulação da metáfora computacional, a correspondência proposta é a de que:",
+      "options": [
+        "a mente equivale ao software e o cérebro equivale ao hardware",
+        "o cérebro equivale ao software e a mente equivale ao hardware",
+        "mente e cérebro equivalem, ambos, ao hardware de uma máquina",
+        "a cultura equivale ao software e a mente equivale ao hardware"
+      ],
+      "correctIndex": 0,
+      "explanation": "A metáfora computacional trata o cérebro como hardware e a mente como software: um conjunto de regras que traduz, representa e computa informação, gerando uma função. A mente representaria de forma regrada as mudanças do cérebro."
+    },
+    {
+      "question": "Segundo a metáfora computacional, a psicologia pode ser uma ciência objetiva porque:",
+      "options": [
+        "as regras de funcionamento da mente seriam elas próprias objetivas",
+        "a introspecção treinada garantiria relatos mentais confiáveis",
+        "só o comportamento observável entraria no escopo da ciência",
+        "os significados culturais seriam mensuráveis com precisão"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se a mente opera por regras, e regras são objetivas, então os processos mentais podem ser descritos e testados sem recair no subjetivismo da antiga introspecção. Foi esse argumento que permitiu levar ao laboratório conceitos como atenção seletiva, memória de curto prazo e resolução de problemas."
+    },
+    {
+      "question": "Dois esquemas representam paradigmas rivais: um liga estímulo diretamente a comportamento, o outro insere uma etapa intermediária. Essa etapa intermediária corresponde a:",
+      "options": [
+        "processamento com regras, núcleo do paradigma cognitivo",
+        "reforço contingente, núcleo do paradigma comportamental",
+        "negociação discursiva, núcleo da psicologia cultural",
+        "resposta condicionada, núcleo do paradigma pavloviano"
+      ],
+      "correctIndex": 0,
+      "explanation": "O esquema estímulo → comportamento resume o paradigma comportamental; o esquema estímulo → processamento com regras → comportamento resume o cognitivo. A diferença entre os dois é exatamente a caixa do meio, que o cognitivismo abre e descreve.",
+      "image": "pg19",
+      "imageCaption": "Estímulo e comportamento, com e sem processamento"
+    },
+    {
+      "question": "Uma implicação ontológica da metáfora computacional é a de que:",
+      "options": [
+        "a realidade dos fenômenos mentais não se reduz ao físico do cérebro",
+        "os fenômenos mentais se explicam integralmente pela neuroquímica",
+        "os fenômenos mentais só existem enquanto práticas discursivas",
+        "os fenômenos mentais são epifenômenos sem qualquer eficácia causal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se a mente é um programa rodando num hardware específico, sua realidade não se reduz às propriedades físicas do cérebro. Dupuy (1996) sublinha que a ciência cognitiva concebeu assim uma ontologia ao mesmo tempo não reducionista e não substancialista dos fenômenos mentais."
+    },
+    {
+      "question": "Ao caracterizar a nova ciência da mente, Gardner (2003) defende a validade de falar em representação interna, isto é, em um nível situado:",
+      "options": [
+        "entre as células nervosas e as normas comportamentais da cultura",
+        "acima da cultura e independente de qualquer suporte biológico",
+        "abaixo da fisiologia, na química dos neurotransmissores",
+        "fora do organismo, nas práticas discursivas compartilhadas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Gardner (2003), a ciência cognitiva se apoia no pressuposto de que é válido falar em representação interna, um nível separado entre as células nervosas da fisiologia e as normas comportamentais de uma cultura. É a ênfase no caráter representacional da cognição que marca a ruptura."
+    },
+    {
+      "question": "A proposta de que a mente é estruturada em módulos distintos, cada um com funções específicas, é atribuída a:",
+      "options": [
+        "Jerry Fodor, com a teoria modular da mente",
+        "Noam Chomsky, com a gramática generativa",
+        "George Miller, com a memória de trabalho",
+        "Jerome Bruner, com a psicologia cultural"
+      ],
+      "correctIndex": 0,
+      "explanation": "A teoria modular de Fodor é um dos modelos cognitivos computacionais clássicos: a mente se organiza em módulos com funções próprias. Ao lado dela costumam ser citadas a gramática generativa de Chomsky e os modelos de memória de trabalho."
+    },
+    {
+      "question": "A gramática generativa sustenta que os seres humanos possuem:",
+      "options": [
+        "regras gramaticais inatas e universais, comuns a todas as línguas",
+        "um repertório verbal moldado inteiramente por reforço diferencial",
+        "módulos mentais independentes para cada função cognitiva isolada",
+        "um estoque de significados culturais transmitido pela narrativa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na gramática generativa de Chomsky, regras gramaticais inatas e universais dão a todas as línguas humanas uma estrutura comum. É um modelo cognitivo computacional típico: a competência linguística é descrita como sistema de regras, não como repertório aprendido por reforço."
+    },
+    {
+      "question": "Entre as críticas dirigidas à metáfora computacional está a de que ela:",
+      "options": [
+        "considera pouco emoções, cultura e história de vida do indivíduo",
+        "impede qualquer pesquisa experimental sobre funções cognitivas",
+        "dispensa a distinção entre estruturas cerebrais e função mental",
+        "nega que existam regras objetivas no funcionamento psicológico"
+      ],
+      "correctIndex": 0,
+      "explanation": "A crítica mais recorrente é a de redução: ao modelar o psiquismo como computação, deixa-se de fora emoções, cultura e história de vida. Somam-se a isso evidências de desgaste dos modelos computacionais para explicar certas funções psicológicas."
+    },
+    {
+      "question": "Filósofos criticam a metáfora computacional por considerá-la insuficiente para explicar:",
+      "options": [
+        "o fenômeno da subjetividade humana",
+        "a velocidade do processamento mental",
+        "o tempo de reação a estímulos visuais",
+        "a estrutura formal da sintaxe verbal"
+      ],
+      "correctIndex": 0,
+      "explanation": "A objeção filosófica clássica é que a descrição da mente como computação não dá conta do fenômeno da subjetividade humana. Velocidade de processamento, tempo de reação e estrutura sintática, ao contrário, são justamente o que a abordagem computacional mede bem."
+    },
+    {
+      "question": "Miller (2003) caracteriza a revolução cognitiva como uma contra-revolução porque ela:",
+      "options": [
+        "reagiu à revolução anterior que fizera da psicologia uma ciência do comportamento",
+        "retomou a introspecção como método central de investigação em psicologia",
+        "restaurou a filosofia da mente no lugar da pesquisa experimental rigorosa",
+        "reverteu o avanço da neurociência em favor de modelos apenas culturais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miller (2003) chama a revolução cognitiva de contra-revolução porque, no campo da psicologia experimental, uma revolução anterior — influenciada por Pavlov e outros — já havia redefinido a psicologia como ciência do comportamento. O cognitivismo se ergue contra esse arranjo já estabelecido."
+    },
+    {
+      "question": "Em sua origem, o behaviorismo se constitui como negação de qual método de investigação?",
+      "options": [
+        "A introspecção, tida como imprópria para uma ciência psicológica",
+        "A experimentação de laboratório com sujeitos humanos e animais",
+        "A observação sistemática do comportamento em ambiente natural",
+        "A modelagem matemática do desempenho em tarefas cognitivas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O behaviorismo surge como negação profunda da introspecção como método adequado a uma ciência psicológica. O behaviorismo radical vai além, assume o pragmatismo filosófico e sustenta a inoperância dos estudos sobre a mente feitos até então (Baum, 1999)."
+    },
+    {
+      "question": "A psicologia discursiva de Harré e Gillett (1999), invocada como base da segunda revolução cognitiva, sustenta que:",
+      "options": [
+        "fenômenos psicológicos podem ser lidos como propriedades do discurso",
+        "fenômenos psicológicos são algoritmos executados por regras fixas",
+        "fenômenos psicológicos se reduzem a padrões de disparo neuronal",
+        "fenômenos psicológicos derivam de estruturas gramaticais inatas"
+      ],
+      "correctIndex": 0,
+      "explanation": "A psicologia discursiva assenta em três pressupostos: fenômenos psicológicos como propriedades do discurso privado (pensamento) e público (comportamento); uso privado dos sistemas simbólicos vinculado a processos interpessoais; e produção de emoções, decisões e atitudes envolvendo o posicionamento dos atores. Nela, a mente é investigável pelas próprias práticas discursivas."
+    },
+    {
+      "question": "Sobre a participação de Jerome Bruner nos dois movimentos cognitivos, é correto afirmar que ele:",
+      "options": [
+        "atuou nos dois: no processamento de informação e nos significados culturais",
+        "atuou apenas no primeiro, abandonando a pesquisa depois dos anos sessenta",
+        "atuou apenas no segundo, tendo criticado o cognitivismo desde o começo",
+        "manteve-se à margem dos dois, dedicado à psicometria experimental"
+      ],
+      "correctIndex": 0,
+      "explanation": "Correia (2003) observa que Bruner esteve tão atuante na segunda revolução cognitiva quanto na primeira. No primeiro movimento fortaleceu a pesquisa baseada em processamento de informação; no segundo, sua Psicologia Cultural voltou-se à produção de significados, que ele considera indiferentes às regras e não replicáveis por modelos sintáticos."
+    },
+    {
+      "question": "Mahoney (1998) prefere situar o conjunto recente de mudanças nas ciências cognitivas sob o rótulo de:",
+      "options": [
+        "revolução construtivista, com efeitos diretos na terapia cognitiva",
+        "segunda revolução cognitiva, com ruptura ontológica completa",
+        "contra-revolução behaviorista, com retorno ao dado observável",
+        "revolução conexionista, com abandono de toda representação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mahoney reconhece os pressupostos de Harré, mas opta por chamar o processo de revolução construtivista. A consequência é clínica: o foco da terapia cognitiva passa a recair mais sobre a organização das experiências e menos sobre a reestruturação das cognições do paciente."
+    },
+    {
+      "question": "Pinker (1999) avalia a relação entre o conexionismo e a teoria computacional da mente afirmando que o conexionismo é:",
+      "options": [
+        "uma variação dessa teoria, e não a sua refutação",
+        "a refutação definitiva dessa teoria já clássica",
+        "um campo sem qualquer relação com essa teoria",
+        "a versão discursiva e cultural dessa mesma teoria"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Pinker (1999), o conexionismo não refuta a teoria computacional da mente: é uma variação dela. Reforça o argumento o fato de as arquiteturas híbridas atuais incorporarem pressupostos conexionistas sem abandonar a noção de que o funcionamento mental envolve algoritmos (Frawley, 2000)."
+    },
+    {
+      "question": "Qual é a tese defendida por Vasconcellos e Vasconcellos (2007) a respeito da segunda revolução cognitiva?",
+      "options": [
+        "Trouxe mudanças reais, mas o termo revolução é inapropriado",
+        "Superou de vez os limites deixados pela primeira revolução",
+        "Nunca produziu qualquer contribuição às ciências cognitivas",
+        "Antecedeu historicamente o advento das próprias ciências cognitivas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os autores não contestam a importância dos enfoques discursivos e construtivistas, mas negam que constituam uma segunda revolução. Faltam-lhes a ruptura metodológica, a convergência interdisciplinar e a nova analogia ontológica mente-cérebro que caracterizaram o fim dos anos cinquenta; seriam reformulações dentro de uma mesma unidade de análise."
+    }
+  ]
+}
