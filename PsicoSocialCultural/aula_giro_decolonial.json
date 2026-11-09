@@ -1,0 +1,330 @@
+{
+  "titulo": "Giro Decolonial e Epistemologias do Sul",
+  "eyebrow": "Dinâmicas Culturais · Decolonialidade",
+  "subtitulo": "Colonialidade do poder, do saber, do ser e de gênero",
+  "intro": "Diferença entre colonialismo e colonialidade, as quatro dimensões da colonialidade (poder, saber, ser e gênero), o racismo epistêmico e o giro decolonial. Fecha com as implicações desses conceitos para a escuta psicológica e os processos de subjetivação.",
+  "questoes": [
+    {
+      "question": "Qual alternativa descreve corretamente a diferença entre colonialismo e colonialidade?",
+      "options": [
+        "O colonialismo é a dominação territorial e política; a colonialidade é a permanência de padrões de poder após o fim formal dele",
+        "O colonialismo é a permanência de padrões de poder; a colonialidade é a dominação territorial e política sobre outro povo",
+        "O colonialismo e a colonialidade são sinônimos que designam a mesma dominação territorial exercida por metrópoles europeias",
+        "O colonialismo é a exploração econômica direta; a colonialidade é a independência política que encerra essas relações"
+      ],
+      "correctIndex": 0,
+      "explanation": "Colonialismo nomeia a dominação territorial, política e econômica, com imposição de instituições. Colonialidade nomeia o que sobrevive a ele: padrões de poder e hierarquização que permanecem mesmo após o fim formal do colonialismo, influenciando conhecimentos, relações sociais e formas de compreender o sujeito.",
+      "image": "pg06",
+      "imageCaption": "Colonialismo × colonialidade"
+    },
+    {
+      "question": "Diante da pergunta \"o colonialismo terminou; então a colonialidade também terminou?\", a resposta coerente com o pensamento decolonial é:",
+      "options": [
+        "Não, porque padrões de poder, saber e subjetivação criados no período colonial permanecem",
+        "Sim, porque a independência política encerrou todas as hierarquias criadas pela colonização",
+        "Sim, porque a colonialidade dizia respeito apenas à ocupação militar dos territórios dominados",
+        "Não, porque os territórios colonizados continuam até hoje sob administração formal europeia"
+      ],
+      "correctIndex": 0,
+      "explanation": "O ponto do conceito é justamente separar as duas coisas: a dominação política e territorial acabou formalmente, mas a colonialidade, definida como permanência de padrões de poder, conhecimento e subjetivação, continua operando. A última alternativa erra ao afirmar que a administração colonial formal persiste."
+    },
+    {
+      "question": "Entre as características abaixo, qual pertence ao colonialismo, e não à colonialidade?",
+      "options": [
+        "Imposição de instituições e de formas de organização sobre o território dominado",
+        "Influência duradoura sobre conhecimentos e sobre as formas de compreender o sujeito",
+        "Permanência de hierarquias sociais mesmo depois do fim formal da dominação colonial",
+        "Continuidade de padrões de poder nas relações sociais das sociedades independentes"
+      ],
+      "correctIndex": 0,
+      "explanation": "O colonialismo reúne dominação territorial e política, exploração econômica e imposição de instituições e formas de organização. As outras três alternativas descrevem a colonialidade: aquilo que continua depois que o colonialismo formal termina."
+    },
+    {
+      "question": "Uma universidade usa autores europeus como referências principais, quase não cita autores indígenas e africanos e trata conhecimentos tradicionais como \"crenças\". Essa situação ilustra:",
+      "options": [
+        "a colonialidade, como permanência de padrões de poder e conhecimento",
+        "o colonialismo, como dominação territorial e política sobre um povo",
+        "o relativismo cultural, como valorização igual de todos os saberes",
+        "a alteridade, como reconhecimento do outro em sua própria lógica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Não há ocupação territorial no exemplo, portanto não é colonialismo. O que aparece é a colonialidade: a hierarquia entre saberes permanece e determinadas formas de produzir conhecimento são tratadas como naturalmente superiores, enquanto saberes tradicionais são rebaixados a crença.",
+      "image": "pg12",
+      "imageCaption": "Colonialidade: conceito e exemplo da universidade"
+    },
+    {
+      "question": "A colonialidade do poder diz respeito à:",
+      "options": [
+        "permanência de relações hierárquicas e padrões de dominação construídos no processo colonial",
+        "hierarquização dos modos de produzir conhecimento, que eleva certos saberes a universais",
+        "experiência subjetiva de inferiorização vivida por quem ocupa posições subalternizadas",
+        "imposição de um modelo binário de gênero tido como universal e natural às sociedades"
+      ],
+      "correctIndex": 0,
+      "explanation": "A colonialidade do poder é a permanência de relações hierárquicas e padrões de dominação construídos historicamente no processo colonial. As demais alternativas descrevem, respectivamente, a colonialidade do saber, a do ser e a de gênero."
+    },
+    {
+      "question": "Na colonialidade do poder, qual elemento aparece como estruturante das relações de poder?",
+      "options": [
+        "A raça dos grupos",
+        "A idade dos grupos",
+        "O credo dos grupos",
+        "A língua dos grupos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A colonialidade do poder envolve relações históricas de dominação, hierarquização social, distribuição desigual de poder, recursos e oportunidades e, de modo central, a raça como elemento estruturante das relações de poder."
+    },
+    {
+      "question": "Qual conjunto de perguntas corresponde à análise da colonialidade do poder?",
+      "options": [
+        "Quem decide, quem ocupa certos espaços, quem é ouvido e quem é tido como legítimo",
+        "Quem pode produzir conhecimento e quais saberes são aceitos como científicos",
+        "Quem é reconhecido como sujeito e como as hierarquias afetam a identidade",
+        "Quais corpos são normais e o que se espera de homens e de mulheres"
+      ],
+      "correctIndex": 0,
+      "explanation": "As perguntas da colonialidade do poder giram em torno de posição e legitimidade: quem possui poder, quem ocupa determinados espaços, quem decide, quem é ouvido e quem é considerado legítimo. As outras alternativas pertencem ao saber, ao ser e ao gênero."
+    },
+    {
+      "question": "Em uma instituição com 20 cargos de liderança, a maioria é ocupada por pessoas de um mesmo grupo social, enquanto outros grupos se concentram em posições subalternas. Na leitura da colonialidade do poder, essa distribuição:",
+      "options": [
+        "não se explica só por escolhas individuais, pois reflete hierarquias históricas",
+        "se explica pelas escolhas individuais e pelo mérito de cada um dos ocupantes",
+        "reflete apenas diferenças naturais de aptidão para cargos de liderança",
+        "é um fenômeno isolado da instituição, sem relação com a história social"
+      ],
+      "correctIndex": 0,
+      "explanation": "A situação-problema pergunta justamente se a distribuição pode ser explicada apenas pelas escolhas individuais. A colonialidade do poder responde que não: há uma distribuição desigual de poder, recursos e oportunidades herdada de relações históricas de dominação."
+    },
+    {
+      "question": "A colonialidade do saber é definida como:",
+      "options": [
+        "a hierarquização dos modos de produção do conhecimento",
+        "a ocupação de territórios para explorar seus recursos",
+        "a internalização de estigmas pelos grupos dominados",
+        "a imposição de normas binárias de gênero e de corpo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Colonialidade do saber é a hierarquização dos modos de produção do conhecimento: determinados conhecimentos são considerados universais, e outros (de povos indígenas, africanos e outros) são desvalorizados. Dessa hierarquização surge o racismo epistêmico.",
+      "image": "pg17",
+      "imageCaption": "Colonialidade do saber"
+    },
+    {
+      "question": "Qual alternativa reúne apenas características da colonialidade do saber?",
+      "options": [
+        "Eurocentrismo, racismo epistêmico e silenciamento de saberes subalternizados",
+        "Raça estruturante, hierarquia social e distribuição desigual de recursos",
+        "Desvalorização de identidades, internalização de hierarquias e desumanização",
+        "Binarismo, normas de gênero e intersecção entre raça e gênero"
+      ],
+      "correctIndex": 0,
+      "explanation": "A colonialidade do saber reúne hierarquização dos conhecimentos, eurocentrismo, racismo epistêmico e silenciamento de saberes indígenas, africanos e de outros grupos historicamente subalternizados. A segunda alternativa descreve o poder; a terceira, o ser; a quarta, o gênero.",
+      "image": "pg08",
+      "imageCaption": "Colonialidades do poder, do saber e do ser"
+    },
+    {
+      "question": "O racismo epistêmico consiste na:",
+      "options": [
+        "inferiorização de conhecimentos e modos de conhecer associados a grupos racializados",
+        "exclusão de grupos racializados de cargos de liderança e de posições de decisão",
+        "recusa de qualquer conhecimento produzido pela ciência moderna e pela universidade",
+        "valorização de saberes tradicionais em detrimento do conhecimento acadêmico ocidental"
+      ],
+      "correctIndex": 0,
+      "explanation": "Racismo epistêmico é a desvalorização ou inferiorização de conhecimentos e de formas de produzir conhecimento associadas a determinados grupos racializados. Ele nasce da colonialidade do saber, que eleva certos conhecimentos a universais e rebaixa outros."
+    },
+    {
+      "question": "Um pesquisador europeu descreve uma comunidade indígena; seu relato é tratado como \"científico\", enquanto os conhecimentos da comunidade sobre território, natureza e saúde são ignorados. A pergunta central que esse caso levanta é:",
+      "options": [
+        "Quem está sendo reconhecido como sujeito do conhecimento?",
+        "Quem ocupa a maioria dos cargos de liderança na sociedade?",
+        "Quais modelos de gênero são tratados como universais ali?",
+        "Quais territórios foram ocupados pela potência colonial?"
+      ],
+      "correctIndex": 0,
+      "explanation": "O caso ilustra o racismo epistêmico: o pesquisador é sujeito do conhecimento e a comunidade aparece apenas como objeto de pesquisa. A pergunta que o caso levanta é quem está sendo reconhecido como sujeito do conhecimento."
+    },
+    {
+      "question": "A pergunta \"por que determinados autores são considerados produtores de conhecimento e outros apenas objetos de estudo?\" aponta diretamente para:",
+      "options": [
+        "o racismo epistêmico",
+        "o colonialismo formal",
+        "a colonialidade do ser",
+        "o relativismo cultural"
+      ],
+      "correctIndex": 0,
+      "explanation": "A distinção entre quem produz conhecimento e quem é apenas estudado é o núcleo do racismo epistêmico, que decorre da colonialidade do saber: certos grupos são reconhecidos como sujeitos do conhecimento, outros são reduzidos a objeto."
+    },
+    {
+      "question": "A colonialidade do ser relaciona-se:",
+      "options": [
+        "aos efeitos das hierarquias coloniais sobre a própria experiência de ser sujeito",
+        "à distribuição desigual de poder, recursos e oportunidades entre os grupos sociais",
+        "à hierarquia entre saberes científicos ocidentais e saberes tradicionais e locais",
+        "ao controle político e territorial exercido por metrópoles sobre suas colônias"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se o poder organiza hierarquias e o saber define quais conhecimentos são legítimos, a colonialidade do ser trata do que acontece com a pessoa colocada constantemente em posição de inferioridade: os efeitos dessas hierarquias sobre a própria experiência de ser sujeito."
+    },
+    {
+      "question": "Qual alternativa lista efeitos que a colonialidade do ser pode envolver?",
+      "options": [
+        "Inferiorização, apagamento de identidade e internalização de estigmas",
+        "Eurocentrismo, racismo epistêmico e silenciamento de saberes locais",
+        "Ocupação territorial, exploração econômica e imposição institucional",
+        "Binarismo de gênero, normas corporais e modelos tidos por universais"
+      ],
+      "correctIndex": 0,
+      "explanation": "A colonialidade do ser pode envolver inferiorização, desumanização, apagamento de identidade, internalização de estigmas, desvalorização cultural e sofrimento decorrente das relações de dominação. As outras alternativas pertencem ao saber, ao colonialismo e ao gênero.",
+      "image": "pg20",
+      "imageCaption": "O que a colonialidade do ser pode envolver"
+    },
+    {
+      "question": "Qual dos itens abaixo NÃO aparece entre os efeitos associados à colonialidade do ser?",
+      "options": [
+        "Silenciamento de saberes indígenas e africanos",
+        "Internalização de hierarquias e de estigmas",
+        "Desvalorização de identidades e da cultura",
+        "Experiências de inferiorização e desumanização"
+      ],
+      "correctIndex": 0,
+      "explanation": "O silenciamento de saberes indígenas, africanos e de outros grupos subalternizados é característica da colonialidade do saber. As demais alternativas (internalização de hierarquias, desvalorização de identidades, inferiorização e desumanização) descrevem a colonialidade do ser."
+    },
+    {
+      "question": "A pergunta \"como uma pessoa pode construir sua identidade quando a sociedade comunica que sua cultura, aparência, história ou conhecimento valem menos?\" conecta a colonialidade do ser à Psicologia porque:",
+      "options": [
+        "trata a cultura como matriz de subjetivação e os efeitos das hierarquias na identidade",
+        "reduz a construção da identidade a escolhas individuais livres de qualquer contexto",
+        "mostra que a identidade depende apenas de fatores biológicos e herdados do grupo",
+        "indica que a cultura influencia o conhecimento, mas não a experiência subjetiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "A relação com a Psicologia está em compreender a cultura como matriz de subjetivação e analisar criticamente os processos de subjetivação: hierarquias coloniais que desvalorizam cultura, aparência e história afetam a construção da identidade."
+    },
+    {
+      "question": "A colonialidade de gênero pode ser sintetizada como:",
+      "options": [
+        "imposição do binarismo e de formas hegemônicas de racionalidade",
+        "hierarquização dos saberes acadêmicos em relação aos tradicionais",
+        "distribuição desigual de cargos e de recursos entre grupos raciais",
+        "dominação territorial e econômica exercida sobre as populações"
+      ],
+      "correctIndex": 0,
+      "explanation": "A colonialidade de gênero é a imposição do binarismo e de formas hegemônicas de racionalidade, com modelos de gênero apresentados como universais e naturais. Ela articula colonialidade, gênero e poder."
+    },
+    {
+      "question": "Qual elemento faz parte da colonialidade de gênero?",
+      "options": [
+        "A intersecção entre raça, gênero e outras relações de poder",
+        "A hierarquização dos cargos de liderança em uma instituição",
+        "A classificação de saberes tradicionais como simples crenças",
+        "A exploração econômica direta dos territórios colonizados"
+      ],
+      "correctIndex": 0,
+      "explanation": "A colonialidade de gênero envolve a relação entre colonialidade, gênero e poder, a imposição de modelos considerados universais, o binarismo e as normas de gênero e a intersecção entre raça, gênero e outras relações de poder."
+    },
+    {
+      "question": "A perspectiva decolonial, aplicada ao gênero, permite questionar principalmente:",
+      "options": [
+        "a ideia de que certos modelos de gênero são universais e naturais",
+        "a existência de qualquer diferença entre homens e mulheres no mundo",
+        "a validade de toda pesquisa científica produzida sobre o tema do gênero",
+        "a relação entre raça e gênero, que passa a ser tratada como irrelevante"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pergunta de partida é se as formas de compreender homem, mulher, masculinidade e feminilidade são iguais em todas as sociedades. A perspectiva decolonial questiona a ideia de que determinados modelos de gênero são universais e naturais, e pergunta como raça e gênero se cruzam na produção de desigualdades."
+    },
+    {
+      "question": "No giro decolonial, cada dimensão da colonialidade corresponde a uma pergunta. Qual associação está correta?",
+      "options": [
+        "Saber: quem pode produzir conhecimento?",
+        "Poder: quem pode ser reconhecido e valorizado?",
+        "Ser: quais existências são tidas como legítimas?",
+        "Gênero: quem decide e quem ocupa posições?"
+      ],
+      "correctIndex": 0,
+      "explanation": "No giro decolonial: Poder — quem decide?; Saber — quem pode produzir conhecimento?; Ser — quem pode ser reconhecido e valorizado?; Gênero — quais formas de existência são consideradas legítimas? As alternativas incorretas trocam as perguntas entre as dimensões.",
+      "image": "pg27",
+      "imageCaption": "Giro decolonial: poder, saber, ser e gênero"
+    },
+    {
+      "question": "Segundo a formulação do giro decolonial, \"descolonizar o olhar\" significa:",
+      "options": [
+        "perguntar quem produziu o conhecimento, quais vozes foram silenciadas e o que foi tido como universal",
+        "rejeitar todo conhecimento produzido pela ciência e substituí-lo pelos saberes tradicionais locais",
+        "aceitar a ciência europeia como único critério de verdade, mas incluir exemplos de outros povos",
+        "abandonar a pesquisa acadêmica e restringir o estudo da subjetividade à experiência individual"
+      ],
+      "correctIndex": 0,
+      "explanation": "Descolonizar o olhar não significa rejeitar todo conhecimento produzido pela ciência. Significa perguntar quem produziu esse conhecimento, quais vozes foram historicamente silenciadas e quais conhecimentos foram considerados universais."
+    },
+    {
+      "question": "Na síntese da colonialidade, a pergunta \"quais formas de existência são consideradas normais?\" corresponde à dimensão:",
+      "options": [
+        "a dimensão do gênero",
+        "a dimensão do poder",
+        "a dimensão do saber",
+        "a dimensão do ser"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na síntese: Poder — quem ocupa posições de poder?; Saber — quem pode produzir conhecimento?; Ser — quem é reconhecido como sujeito legítimo?; Gênero — quais formas de existência são consideradas normais?",
+      "image": "pg28",
+      "imageCaption": "Síntese das dimensões da colonialidade"
+    },
+    {
+      "question": "Para a Psicologia, a síntese da colonialidade propõe que, além de perguntar \"o que acontece com esse sujeito?\", é preciso perguntar:",
+      "options": [
+        "em que relações históricas, sociais, culturais e de poder esse sujeito está sendo constituído",
+        "qual diagnóstico individual explica o sofrimento desse sujeito, independentemente do contexto",
+        "quais traços inatos de personalidade tornam esse sujeito mais vulnerável ao sofrimento",
+        "como adaptar esse sujeito às normas dominantes do grupo social em que ele está inserido"
+      ],
+      "correctIndex": 0,
+      "explanation": "A proposta é deslocar a pergunta do indivíduo isolado para as condições de sua constituição: em que relações históricas, sociais, culturais e de poder esse sujeito está sendo constituído."
+    },
+    {
+      "question": "Na escuta psicológica, os conceitos de colonialidade levam a compreender os processos de subjetivação como:",
+      "options": [
+        "produtos contingentes e mutáveis da cultura, evitando posturas etnocêntricas e patologizantes",
+        "estruturas fixas e universais, iguais em qualquer cultura e independentes da história social",
+        "efeitos diretos de fatores biológicos, que dispensam a análise do contexto cultural do sujeito",
+        "expressões de déficits individuais, a serem corrigidos segundo a norma do grupo dominante"
+      ],
+      "correctIndex": 0,
+      "explanation": "É necessário compreender os processos de subjetivação como produtos contingentes e mutáveis da cultura, evitando posturas etnocêntricas e patologizantes na escuta psicológica."
+    },
+    {
+      "question": "Uma pesquisa sobre saúde em uma comunidade indígena aplica instrumentos ocidentais e exclui dos resultados as explicações dos moradores sobre saúde, doença, espiritualidade e cuidado, classificando-as como \"crenças culturais\". Isso exemplifica:",
+      "options": [
+        "colonialidade do saber e racismo epistêmico",
+        "colonialismo territorial e exploração econômica",
+        "colonialidade de gênero e imposição do binarismo",
+        "relativismo cultural e valorização da alteridade"
+      ],
+      "correctIndex": 0,
+      "explanation": "No caso \"a pesquisa que não escuta\", os saberes da comunidade são desqualificados como \"crenças\" por não terem \"comprovação científica\", e só os pesquisadores aparecem como produtores de conhecimento: hierarquização de saberes (colonialidade do saber) e inferiorização de conhecimentos de um grupo racializado (racismo epistêmico)."
+    },
+    {
+      "question": "No mesmo caso da pesquisa em saúde, o relatório final apresenta os pesquisadores como produtores do conhecimento e os moradores apenas como participantes. Uma perspectiva decolonial modificaria a pesquisa ao:",
+      "options": [
+        "reconhecer os moradores como sujeitos de conhecimento e incluir suas formas de compreender saúde",
+        "descartar os instrumentos acadêmicos e publicar apenas os relatos da comunidade, sem análise",
+        "manter o desenho original, pois a comprovação científica é o único critério legítimo de saber",
+        "ampliar a amostra de moradores, mantendo seus relatos fora dos resultados por falta de prova"
+      ],
+      "correctIndex": 0,
+      "explanation": "Descolonizar não é rejeitar a ciência, e sim perguntar quem é reconhecido como sujeito do conhecimento e quais vozes foram silenciadas. A mudança decolonial está em reconhecer os moradores como produtores de conhecimento e incluir suas formas próprias de compreender saúde, doença e cuidado."
+    },
+    {
+      "question": "A pergunta \"quem decide qual conhecimento é verdadeiro?\" e a questão \"por que alguns conhecimentos são chamados de ciência e outros de crença?\" se relacionam diretamente com:",
+      "options": [
+        "a relação entre conhecimento e poder",
+        "a dominação territorial das colônias",
+        "a distribuição de renda entre classes",
+        "a determinação biológica da identidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Essas perguntas mostram que a legitimidade de um conhecimento não é neutra: depende de quem historicamente teve o direito de produzir conhecimento. É a relação entre conhecimento, poder e subjetividade que atravessa a colonialidade do saber e o racismo epistêmico."
+    }
+  ]
+}

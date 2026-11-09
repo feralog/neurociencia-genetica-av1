@@ -1,0 +1,339 @@
+{
+  "titulo": "Racismo Científico e Mito da Democracia Racial",
+  "eyebrow": "Dinâmicas Culturais · Raça e Ciência",
+  "subtitulo": "Como a ciência já serviu para hierarquizar grupos humanos",
+  "intro": "Racismo científico, determinismo biológico e higienismo; Nina Rodrigues e a patologização da população negra; Gilberto Freyre e a crítica ao mito da democracia racial; Lélia Gonzalez e a amefricanidade. Inclui a revisão dos conceitos centrais das unidades I e II.",
+  "questoes": [
+    {
+      "question": "O racismo científico corresponde à utilização de argumentos apresentados como científicos para:",
+      "options": [
+        "classificar, hierarquizar e explicar diferenças entre grupos humanos",
+        "descrever a diversidade cultural sem atribuir valor a nenhum grupo",
+        "compreender cada cultura a partir dos significados de seus membros",
+        "denunciar as desigualdades produzidas pela história colonial no país"
+      ],
+      "correctIndex": 0,
+      "explanation": "O racismo científico usa o prestígio da ciência para classificar grupos humanos, ordená-los numa hierarquia e explicar as diferenças entre eles como se fossem dados da natureza. Descrever sem hierarquizar ou compreender pelo significado são, ao contrário, posturas que a crítica a essas teorias defende."
+    },
+    {
+      "question": "Observe o esquema sobre racismo científico e determinismo biológico. Qual é a sequência de operações que ele descreve?",
+      "options": [
+        "diferença, classificação, hierarquização e naturalização da desigualdade",
+        "diferença, alteridade, relativização e valorização da diversidade cultural",
+        "contexto, interpretação, compreensão e descrição densa da prática cultural",
+        "colonialismo, colonialidade, racismo epistêmico e libertação subjetiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "O esquema mostra o caminho do determinismo biológico: parte-se de uma diferença observada, classificam-se os grupos, os grupos são hierarquizados e, ao final, a desigualdade passa a parecer natural. É essa última etapa — a naturalização — que retira da análise as causas sociais e históricas.",
+      "image": "pg04",
+      "imageCaption": "Racismo científico e determinismo biológico"
+    },
+    {
+      "question": "Diante de duas pessoas com características biológicas diferentes, o determinismo biológico conclui que elas:",
+      "options": [
+        "terão necessariamente capacidades intelectuais ou morais diferentes",
+        "podem desenvolver capacidades distintas conforme o contexto social",
+        "compartilham o mesmo potencial, moldado depois pela cultura vivida",
+        "só podem ser comparadas a partir dos significados que dão à vida"
+      ],
+      "correctIndex": 0,
+      "explanation": "O determinismo biológico supõe que a diferença biológica determina necessariamente diferenças de capacidade intelectual ou moral. A pergunta crítica é justamente se essa passagem se sustenta: ter características físicas diferentes não implica, por si, capacidades diferentes."
+    },
+    {
+      "question": "O higienismo é a corrente de pensamento que:",
+      "options": [
+        "associou saúde, higiene e organização social a projetos de controle da população",
+        "defendeu a valorização dos saberes de povos negros e indígenas na América Latina",
+        "interpretou a miscigenação como base de uma convivência racial harmoniosa no país",
+        "propôs uma Psicologia comprometida com a realidade social e política dos sujeitos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O higienismo ligou questões de saúde e higiene à organização social e as converteu em projetos de intervenção e controle sobre a população. O problema central é quem define quais comportamentos são saudáveis, normais ou inadequados — e com base em quais interesses."
+    },
+    {
+      "question": "Qual é a pergunta crítica central dirigida ao higienismo?",
+      "options": [
+        "Quem define quais comportamentos são saudáveis, normais ou inadequados?",
+        "Quais doenças eram mais frequentes nas cidades no início do século XX?",
+        "Como melhorar as condições sanitárias sem aumentar os gastos públicos?",
+        "Que hábitos de higiene devem ser ensinados primeiro às novas gerações?"
+      ],
+      "correctIndex": 0,
+      "explanation": "A crítica ao higienismo não discute a higiene em si, mas o poder de definir o normal e o inadequado. Quando uma autoridade decide o que é comportamento saudável, essa definição pode servir para controlar e patologizar determinados grupos."
+    },
+    {
+      "question": "Na relação do higienismo com a Psicologia, quais pares de conceitos aparecem implicados?",
+      "options": [
+        "normalidade e desvio; doença e comportamento; controle social e patologização",
+        "símbolo e linguagem; contexto e significado; alteridade e relativismo cultural",
+        "raça e gênero; classe e território; experiência negra e experiência indígena",
+        "colonialismo e colonialidade; racismo epistêmico e epistemologias do Sul"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Psicologia se aproxima do higienismo quando opera com as noções de normalidade e desvio, de doença e comportamento, e quando participa do controle social e da patologização. São justamente os conceitos que permitem transformar um modo de vida em problema a ser corrigido."
+    },
+    {
+      "question": "Observe a sequência de discussão. Uma população é descrita por autoridades como \"problemática\" ou \"sem hábitos adequados\" e, em vez de investigar as condições sociais que produzem sua vulnerabilidade, apresentam-se as características do próprio grupo como causa. Esse raciocínio é um exemplo de:",
+      "options": [
+        "naturalização da desigualdade, e não de explicação social do problema",
+        "explicação social do problema, e não de naturalização da desigualdade",
+        "relativismo cultural, que respeita os hábitos próprios daquele grupo",
+        "descrição densa, que interpreta o comportamento dentro de seu contexto"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quando as características do grupo são tratadas como causa do problema, deixa-se de investigar as condições sociais e históricas que produzem a vulnerabilidade. É a naturalização da desigualdade: algo produzido socialmente passa a parecer próprio do grupo.",
+      "image": "pg08",
+      "imageCaption": "Discussão: da descrição do grupo à causa do problema"
+    },
+    {
+      "question": "O que ocorre quando uma diferença social é apresentada como uma diferença biológica?",
+      "options": [
+        "a desigualdade passa a parecer natural e suas causas históricas somem",
+        "a desigualdade passa a ser investigada a partir das condições sociais",
+        "a diferença passa a ser respeitada como expressão cultural legítima",
+        "a diferença passa a ser compreendida pelos significados do próprio grupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Converter uma diferença social em diferença biológica naturaliza a desigualdade: ela deixa de ser vista como resultado de relações históricas de poder e passa a parecer inevitável. Por isso a pergunta sobre a neutralidade da ciência — quem a produz e em qual contexto — é central."
+    },
+    {
+      "question": "A ideia de que um conhecimento é necessariamente neutro por ser apresentado como científico é questionada porque:",
+      "options": [
+        "a ciência é produzida por sujeitos situados e pode justificar relações de poder",
+        "a ciência só produz conhecimento válido quando segue padrões europeus de método",
+        "a ciência perde validade sempre que estuda características biológicas humanas",
+        "a ciência não tem relação com o contexto histórico em que é desenvolvida"
+      ],
+      "correctIndex": 0,
+      "explanation": "As perguntas críticas são: quem produz ciência, em qual contexto histórico, e se ela pode ser usada para justificar relações de poder. Uma ideia apresentada como científica não é, por isso, automaticamente neutra — o racismo científico é o exemplo histórico disso."
+    },
+    {
+      "question": "Qual é a questão central para compreender o racismo científico no Brasil a partir de Nina Rodrigues?",
+      "options": [
+        "como teorias raciais de um contexto histórico foram usadas para interpretar a população brasileira",
+        "como a miscigenação teria produzido no país uma convivência harmoniosa entre diferentes grupos",
+        "como povos negros e indígenas contribuíram para a formação cultural de toda a América Latina",
+        "como o racismo afeta a identidade, a percepção de si e a experiência subjetiva do sujeito"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nina Rodrigues aplicou teorias raciais produzidas num contexto histórico determinado à interpretação da população brasileira, operando com raça, determinismo, criminalidade, classificação dos grupos e hierarquização. A harmonia pela miscigenação é tema de Freyre; a valorização afro-indígena, de Lélia Gonzalez."
+    },
+    {
+      "question": "Entre os eixos da obra de Nina Rodrigues, estudada criticamente, estão:",
+      "options": [
+        "raça, determinismo, criminalidade, classificação dos grupos e hierarquização",
+        "raça, gênero, classe e território como dimensões articuladas do sujeito",
+        "miscigenação, convivência entre grupos e ideia de harmonia racial no país",
+        "símbolos, relativismo cultural, descrição densa e colonialidade do saber"
+      ],
+      "correctIndex": 0,
+      "explanation": "A obra de Nina Rodrigues articula raça, determinismo e criminalidade, classificando e hierarquizando grupos. A crítica contemporânea a essas teses é fundamental porque elas contribuíram historicamente para a patologização e a inferiorização da população negra."
+    },
+    {
+      "question": "Se determinado comportamento é atribuído à raça de uma pessoa, o que se perde na análise?",
+      "options": [
+        "a responsabilidade individual e a análise do contexto social do comportamento",
+        "a possibilidade de classificar o comportamento segundo critérios biológicos",
+        "a comparação do comportamento com padrões tidos como universais e neutros",
+        "a explicação do comportamento a partir de características herdadas do grupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Atribuir um comportamento à raça desloca tanto a responsabilidade individual quanto o exame das condições sociais: tudo passa a ser explicado por uma suposta natureza do grupo. Esse foi o mecanismo pelo qual teorias como a de Nina Rodrigues associaram raça e criminalidade."
+    },
+    {
+      "question": "O esquema reúne racismo científico, higienismo, determinismo e patologização da população negra em torno de um mesmo nome. A que se refere essa associação, e qual a postura proposta diante dela?",
+      "options": [
+        "à Escola de Nina Rodrigues, cujas teses devem ser objeto de desconstrução",
+        "à Escola de Nina Rodrigues, cujas teses devem ser aplicadas à Psicologia",
+        "à obra de Gilberto Freyre, cujas teses devem ser objeto de desconstrução",
+        "à obra de Lélia Gonzalez, cujas teses devem ser aplicadas à Psicologia"
+      ],
+      "correctIndex": 0,
+      "explanation": "A patologização da população negra é associada à Escola de Nina Rodrigues, que reuniu racismo científico, higienismo e determinismo de cunho patológico. A postura proposta é a desconstrução: estudar essas teses como teoria racista historicamente datada, não como conhecimento válido.",
+      "image": "pg13",
+      "imageCaption": "Patologização da população negra e a Escola de Nina Rodrigues"
+    },
+    {
+      "question": "Por que a crítica contemporânea às teorias de Nina Rodrigues é considerada fundamental?",
+      "options": [
+        "porque elas contribuíram para a patologização e inferiorização da população negra",
+        "porque elas foram as primeiras a valorizar as heranças africanas na cultura do país",
+        "porque elas mostraram que a miscigenação eliminou os conflitos raciais no Brasil",
+        "porque elas comprovaram diferenças intelectuais entre grupos humanos distintos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Essas teorias contribuíram historicamente para patologizar e inferiorizar a população negra; por isso, estudá-las criticamente é condição para entender como esse legado ainda pode operar. Elas não comprovaram nada sobre capacidades de grupos — essa é justamente a pretensão que a crítica desmonta."
+    },
+    {
+      "question": "Quais temas centrais se associam à obra de Gilberto Freyre?",
+      "options": [
+        "miscigenação, interpretação da formação cultural brasileira e ideia de harmonia racial",
+        "raça, criminalidade, determinismo e patologização da população negra no Brasil",
+        "raça, gênero, classe e território na experiência de sujeitos latino-americanos",
+        "colonialidade do poder, do ser e do saber na produção do conhecimento científico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Freyre interpretou a formação cultural brasileira a partir da miscigenação, das relações e da convivência entre grupos raciais, o que alimentou a ideia de harmonia racial. Criminalidade e patologização pertencem ao eixo de Nina Rodrigues; a articulação raça-gênero-classe-território, a Lélia Gonzalez."
+    },
+    {
+      "question": "O que se entende por mito da democracia racial?",
+      "options": [
+        "a ideia de que a miscigenação teria produzido uma sociedade racialmente harmoniosa",
+        "a ideia de que a biologia determina as capacidades intelectuais de cada grupo",
+        "a ideia de que a saúde e a higiene devem orientar o controle da população",
+        "a ideia de que só referências europeias explicam a formação da sociedade"
+      ],
+      "correctIndex": 0,
+      "explanation": "O mito da democracia racial é a crença de que a miscigenação teria gerado uma sociedade racialmente harmoniosa, sem conflitos raciais. É chamado de mito porque essa imagem não corresponde às desigualdades e aos conflitos existentes."
+    },
+    {
+      "question": "Segundo o esquema sobre o mito da democracia racial, qual é o efeito principal dessa ideia?",
+      "options": [
+        "invisibilizar as desigualdades e os conflitos raciais existentes no Brasil",
+        "evidenciar as desigualdades e os conflitos raciais existentes no Brasil",
+        "eliminar as desigualdades raciais por meio da convivência entre grupos",
+        "explicar as desigualdades raciais por diferenças biológicas entre grupos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A imagem de uma sociedade harmoniosa pela miscigenação pode contribuir para invisibilizar as desigualdades e os conflitos raciais existentes. Se não há conflito reconhecido, também não há o que enfrentar — esse é o efeito político do mito.",
+      "image": "pg16",
+      "imageCaption": "Mito da democracia racial"
+    },
+    {
+      "question": "Diante da pergunta \"o Brasil é um país sem conflitos raciais porque sua população é miscigenada?\", a crítica ao mito da democracia racial responde que:",
+      "options": [
+        "não, pois a miscigenação não impede desigualdades e conflitos raciais",
+        "sim, pois a miscigenação dissolveu as fronteiras entre grupos raciais",
+        "sim, pois os conflitos existentes são de classe e não têm relação com raça",
+        "não, pois a miscigenação é que produziu as desigualdades raciais no país"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para a crítica, a miscigenação não produziu ausência de conflito: desigualdades e conflitos raciais persistem e são invisibilizados pela narrativa da harmonia. A crítica não atribui à mistura a origem da desigualdade — ela recusa que a mistura a tenha resolvido."
+    },
+    {
+      "question": "O conceito de amefricanidade, proposto por Lélia Gonzalez, busca:",
+      "options": [
+        "valorizar as contribuições de povos negros e indígenas na formação da América Latina",
+        "demonstrar que a miscigenação produziu uma sociedade racialmente harmoniosa no país",
+        "aplicar ao Brasil as teorias raciais europeias sobre classificação dos grupos humanos",
+        "explicar as diferenças culturais por estágios de evolução comuns a todos os povos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A amefricanidade valoriza as experiências e contribuições dos povos negros e indígenas na formação cultural da América Latina, questionando interpretações exclusivamente eurocentradas. Parte da pergunta: precisamos usar apenas referências europeias para compreender a formação da sociedade brasileira?"
+    },
+    {
+      "question": "Observe o esquema sobre Lélia Gonzalez. Quais dimensões precisam ser articuladas para compreender a experiência de um sujeito?",
+      "options": [
+        "raça, gênero, classe e território",
+        "raça, criminalidade e determinismo",
+        "saúde, higiene e organização social",
+        "símbolos, linguagem e significados"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Lélia Gonzalez, compreender a experiência de um sujeito exige articular raça, gênero, classe e território — analisar uma única dimensão isoladamente não basta. É por isso que uma mulher negra, um homem negro, uma mulher indígena e um homem branco não vivem a sociedade brasileira da mesma maneira.",
+      "image": "pg17",
+      "imageCaption": "Lélia Gonzalez e a amefricanidade"
+    },
+    {
+      "question": "Uma mulher negra, um homem negro, uma mulher indígena e um homem branco vivem a sociedade brasileira da mesma maneira? A perspectiva de Lélia Gonzalez responde que:",
+      "options": [
+        "não, porque raça, gênero, classe e território se combinam de modos distintos",
+        "sim, porque todos compartilham a mesma cultura nacional formada pela mistura",
+        "não, porque a biologia de cada grupo determina sua posição na sociedade",
+        "sim, porque as diferenças entre eles são apenas individuais, não estruturais"
+      ],
+      "correctIndex": 0,
+      "explanation": "A experiência de cada sujeito resulta da combinação de raça, gênero, classe e território; mudando a combinação, muda a forma de viver a sociedade. A resposta recusa tanto a homogeneidade da cultura nacional quanto a explicação biológica."
+    },
+    {
+      "question": "Qual é a conclusão sobre por que estudar a história do racismo científico?",
+      "options": [
+        "para reconhecer quando antigas hierarquias reaparecem com novas linguagens",
+        "para preservar teorias superadas como referência para a prática profissional",
+        "para conhecer um episódio do passado sem ligação com a Psicologia atual",
+        "para demonstrar que a ciência contemporânea está livre de qualquer viés"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conhecer a história do racismo científico não é estudar apenas o passado: é aprender a reconhecer quando antigas hierarquias reaparecem com novas linguagens. Se a cultura participa da construção da subjetividade, é preciso perguntar quais ideias sobre raça, gênero, normalidade e diferença foram ensinadas e naturalizadas."
+    },
+    {
+      "question": "Observe o encadeamento conceitual. Qual sequência ele propõe?",
+      "options": [
+        "colonialismo → colonialidade → racismo científico → racismo epistêmico → subjetividade",
+        "racismo científico → colonialismo → subjetividade → colonialidade → racismo epistêmico",
+        "subjetividade → racismo epistêmico → colonialidade → colonialismo → racismo científico",
+        "colonialidade → colonialismo → racismo epistêmico → racismo científico → subjetividade"
+      ],
+      "correctIndex": 0,
+      "explanation": "O encadeamento parte do colonialismo (dominação histórica), passa pela colonialidade (sua permanência nas relações de poder e saber), pelo racismo científico e pelo racismo epistêmico, e chega à subjetividade — onde esses processos se inscrevem na identidade das pessoas.",
+      "image": "pg28",
+      "imageCaption": "Revisão: perguntas e encadeamento conceitual"
+    },
+    {
+      "question": "O que significa dizer que o ser humano é um animal simbólico, na formulação associada a Ernst Cassirer?",
+      "options": [
+        "que ele produz e compartilha significados por meio de símbolos, linguagem e cultura",
+        "que ele age somente por instintos herdados e comuns a todos os membros da espécie",
+        "que ele é julgado a partir dos próprios padrões culturais de quem o observa",
+        "que ele tem capacidades determinadas pelas características biológicas do grupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ser animal simbólico é produzir e compartilhar significados por meio de símbolos, linguagem e cultura. Daí a ideia de que o ser humano nasce com potencial biológico, mas torna-se humano através da cultura."
+    },
+    {
+      "question": "O que diferencia natureza e cultura?",
+      "options": [
+        "o ser humano tem dimensão biológica, mas desenvolve modos de viver e significar pela cultura",
+        "a natureza define as capacidades humanas, e a cultura apenas registra essas diferenças",
+        "a cultura é herdada biologicamente, e a natureza é aprendida no convívio social",
+        "a natureza explica os costumes de cada povo, e a cultura explica suas doenças"
+      ],
+      "correctIndex": 0,
+      "explanation": "O ser humano possui dimensão biológica, mas desenvolve formas de viver e de significar o mundo através da cultura. Essa distinção é a base para recusar o determinismo biológico, que reduz o humano à natureza."
+    },
+    {
+      "question": "Etnocentrismo e alteridade são, respectivamente:",
+      "options": [
+        "julgar outra cultura pelos próprios padrões; reconhecer o outro em sua diferença",
+        "reconhecer o outro em sua diferença; julgar outra cultura pelos próprios padrões",
+        "interpretar práticas pelo contexto; classificar grupos numa escala evolutiva",
+        "classificar grupos numa escala evolutiva; interpretar práticas pelo contexto"
+      ],
+      "correctIndex": 0,
+      "explanation": "Etnocentrismo é julgar outra cultura usando os próprios padrões culturais como referência; alteridade é reconhecer o outro em sua diferença. Interpretar práticas pelo contexto corresponde à descrição densa, de Geertz."
+    },
+    {
+      "question": "A descrição densa, de Clifford Geertz, consiste em:",
+      "options": [
+        "compreender comportamentos considerando seu contexto e seu significado",
+        "registrar comportamentos observáveis com o máximo de precisão possível",
+        "comparar comportamentos de diferentes povos numa escala de progresso",
+        "explicar comportamentos pelas características biológicas de cada grupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A descrição densa busca compreender o comportamento considerando o contexto e o significado que ele tem para quem o pratica. Para Geertz, a cultura é construída nas relações e não se reduz ao comportamento visível."
+    },
+    {
+      "question": "Colonialidade do saber e racismo epistêmico referem-se, respectivamente, a:",
+      "options": [
+        "hierarquização dos conhecimentos; silenciamento de saberes de grupos racializados",
+        "silenciamento de saberes de grupos racializados; hierarquização dos conhecimentos",
+        "valorização de saberes subalternizados; crítica à hegemonia epistemológica",
+        "julgamento de outras culturas pelos próprios padrões; reconhecimento do outro"
+      ],
+      "correctIndex": 0,
+      "explanation": "A colonialidade do saber (Quijano e Mignolo) é a hierarquização dos conhecimentos, valorizando certos saberes em detrimento de outros. O racismo epistêmico é a desvalorização ou o silenciamento de conhecimentos associados a grupos racializados."
+    },
+    {
+      "question": "Qual alternativa associa corretamente Epistemologias do Sul, Psicologia da Libertação e Frantz Fanon às suas contribuições?",
+      "options": [
+        "valorizar saberes subalternizados; Psicologia comprometida com a realidade social; racismo afeta a identidade",
+        "aplicar teorias raciais ao Brasil; Psicologia voltada ao controle social; racismo é questão só biológica",
+        "defender a harmonia racial; Psicologia neutra diante da política; racismo não alcança a subjetividade",
+        "valorizar referências europeias; Psicologia centrada no indivíduo isolado; racismo é só uma ideia antiga"
+      ],
+      "correctIndex": 0,
+      "explanation": "As Epistemologias do Sul questionam a hegemonia epistemológica e valorizam conhecimentos historicamente subalternizados; a Psicologia da Libertação propõe uma Psicologia comprometida com a realidade social, histórica e política dos sujeitos; Fanon mostra que o racismo pode afetar a identidade, a percepção de si e a experiência subjetiva."
+    }
+  ]
+}

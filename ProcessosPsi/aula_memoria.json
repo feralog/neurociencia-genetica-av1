@@ -1,0 +1,352 @@
+{
+  "titulo": "Sistemas de Memória",
+  "eyebrow": "Processos Psicológicos · Memória",
+  "subtitulo": "Dos três armazéns à memória de trabalho e ao esquecimento",
+  "intro": "Percorre o modelo multiarmazém de Atkinson e Shiffrin, a memória de trabalho de Baddeley e Hitch, os sistemas explícito e implícito e as dinâmicas do esquecimento: curva de Ebbinghaus, interferência, falsas memórias e os sete pecados de Schacter.",
+  "questoes": [
+    {
+      "question": "No modelo multiarmazém de Atkinson e Shiffrin (1968), qual é a sequência do fluxo da informação?",
+      "options": [
+        "Memória sensorial, memória de curto prazo e memória de longo prazo",
+        "Memória de curto prazo, memória sensorial e memória de longo prazo",
+        "Memória sensorial, memória de longo prazo e memória de curto prazo",
+        "Memória de longo prazo, memória sensorial e memória de curto prazo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O fluxo vai do registro imediato dos estímulos (memória sensorial), passa pela manutenção consciente temporária (MCP) e chega ao armazenamento permanente e estruturado (MLP). O filtro de atenção leva da sensorial à MCP, o ensaio sustenta a MCP e a recuperação traz a informação de volta da MLP.",
+      "image": "pg02",
+      "imageCaption": "Fluxo de processamento da informação no modelo multiarmazém"
+    },
+    {
+      "question": "Quais são as características da memória sensorial no modelo multiarmazém?",
+      "options": [
+        "Capacidade muito alta e duração de 250 milissegundos a 4 segundos",
+        "Capacidade de 7 ± 2 itens e duração de 15 a 30 segundos",
+        "Capacidade ilimitada e duração de dias até a vida inteira",
+        "Capacidade de 3 a 4 itens e duração de cerca de 2 segundos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A memória sensorial é a porta de entrada: capta de forma bruta muitos estímulos simultâneos (alta capacidade), mas retém por um tempo ultracurto, estimado entre 250 ms e 4 s. O esquecimento ali se dá por decaimento rápido."
+    },
+    {
+      "question": "Sem repetição contínua, por quanto tempo aproximadamente a informação permanece na memória de curto prazo?",
+      "options": [
+        "Cerca de 15 a 30 segundos",
+        "Cerca de 250 ms a 4 segundos",
+        "Cerca de 1 a 2 minutos",
+        "Cerca de 5 a 10 minutos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A MCP contém a informação sobre a qual se está pensando ativamente, e sua permanência sem repetição é de cerca de 15 a 30 segundos. O intervalo de 250 ms a 4 s pertence à memória sensorial."
+    },
+    {
+      "question": "Qual é o código de armazenamento predominante na memória de curto prazo?",
+      "options": [
+        "Acústico e verbal, como uma fala interna",
+        "Semântico, organizado por significados",
+        "Sensorial bruto, como uma cópia do estímulo",
+        "Motor, organizado em rotinas automáticas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na MCP a codificação é predominantemente acústica e verbal — a informação é mantida como fala interna. A codificação semântica é típica da MLP, e a sensorial bruta, da memória sensorial."
+    },
+    {
+      "question": "O 'número mágico' de Miller (1956) descreve a capacidade da memória de curto prazo. Que intervalo ele indica?",
+      "options": [
+        "Entre 5 e 9 unidades independentes de informação",
+        "Entre 3 e 4 unidades independentes de informação",
+        "Entre 10 e 12 unidades independentes de informação",
+        "Entre 1 e 2 unidades independentes de informação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Miller propôs 7 ± 2 itens: a mente humana retém simultaneamente entre 5 e 9 unidades independentes na memória imediata. O limite é de unidades, não de dígitos ou letras — daí a importância do agrupamento."
+    },
+    {
+      "question": "Memorizar um telefone como 'DDD + número' em vez de 11 dígitos soltos é exemplo de qual estratégia?",
+      "options": [
+        "Agrupamento (chunking) em unidades significativas maiores",
+        "Ensaio de manutenção por recitação contínua do estímulo",
+        "Interferência proativa de uma informação antiga sobre a nova",
+        "Priming por exposição prévia ao mesmo conjunto de dígitos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chunking é a reorganização dos dados em unidades significativas maiores. Como o limite da MCP é de 7 ± 2 unidades, juntar 11 dígitos em poucos blocos cabe com folga no armazém."
+    },
+    {
+      "question": "Um estudante repete em voz baixa, várias vezes, um termo técnico até a prova, sem pensar em seu significado. Segundo o modelo multiarmazém, qual o efeito provável?",
+      "options": [
+        "Mantém o termo ativo na MCP, com pouca transferência para a MLP",
+        "Consolida o termo de forma permanente na MLP por análise profunda",
+        "Transfere o termo direto da memória sensorial para a MLP",
+        "Elimina o termo da MCP por deslocamento de informação nova"
+      ],
+      "correctIndex": 0,
+      "explanation": "É ensaio de manutenção: repetição passiva que mantém o dado ativo apenas na MCP e gera baixa transferência para a MLP. A fixação duradoura vem do ensaio elaborativo, que conecta o conteúdo a saberes prévios."
+    },
+    {
+      "question": "O que caracteriza o ensaio elaborativo, em contraste com o ensaio de manutenção?",
+      "options": [
+        "Associação a saberes prévios, com análise de significado e consolidação forte",
+        "Recitação contínua do estímulo, com alcance curto e pouca retenção duradoura",
+        "Registro bruto de vários estímulos, com retenção de até quatro segundos",
+        "Reorganização de dígitos em blocos, sem nenhuma relação com significado"
+      ],
+      "correctIndex": 0,
+      "explanation": "O ensaio elaborativo faz conexão semântica com o que já se sabe, implica processamento profundo e leva à consolidação forte na MLP. A recitação contínua é o ensaio de manutenção, que só sustenta o dado na MCP."
+    },
+    {
+      "question": "Quais são as três características atribuídas à memória de longo prazo no modelo multiarmazém?",
+      "options": [
+        "Capacidade ilimitada, duração permanente e organização semântica",
+        "Capacidade de 7 ± 2 itens, duração breve e codificação acústica",
+        "Capacidade muito alta, duração ultracurta e codificação bruta",
+        "Capacidade ilimitada, duração breve e codificação acústica"
+      ],
+      "correctIndex": 0,
+      "explanation": "A MLP não tem restrição física conhecida de volume, retém por dias, anos ou a vida toda e se organiza por significados, conceitos e esquemas. O esquecimento ali é atribuído principalmente a falha de recuperação."
+    },
+    {
+      "question": "No quadro comparativo dos três armazéns, qual é a causa do esquecimento atribuída a cada um, na ordem sensorial, MCP e MLP?",
+      "options": [
+        "Decaimento rápido; deslocamento/interferência; falha de recuperação",
+        "Falha de recuperação; decaimento rápido; deslocamento/interferência",
+        "Deslocamento/interferência; falha de recuperação; decaimento rápido",
+        "Decaimento rápido; falha de recuperação; deslocamento/interferência"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na memória sensorial o traço simplesmente decai em frações de segundo; na MCP, informação nova desloca ou interfere na antiga, já que a capacidade é limitada; na MLP a informação está lá, mas falha o acesso a ela.",
+      "image": "pg08",
+      "imageCaption": "Quadro comparativo dos três armazéns"
+    },
+    {
+      "question": "Em que a memória de trabalho de Baddeley e Hitch (1974) difere da MCP clássica de 1968?",
+      "options": [
+        "É multicomponente e manipula ativamente a informação",
+        "É unitária e retém a informação apenas por repetição",
+        "É ilimitada e armazena a informação de forma permanente",
+        "É sensorial e registra os estímulos sem nenhuma seleção"
+      ],
+      "correctIndex": 0,
+      "explanation": "A MCP clássica era um recipiente único, passivo e com bloqueio total sob sobrecarga. A memória de trabalho é formada por subsistemas especializados e coordenados, manipula a informação (raciocínio, cálculo, compreensão) e divide recursos entre modalidades."
+    },
+    {
+      "question": "Qual componente da memória de trabalho exerce controle atencional e coordena os demais, sem reserva de armazenamento própria?",
+      "options": [
+        "O executivo central",
+        "A alça fonológica",
+        "O buffer episódico",
+        "O esboço visuoespacial"
+      ],
+      "correctIndex": 0,
+      "explanation": "O executivo central é amodal: faz controle atencional e tomada de decisão e coordena os subsistemas, mas não guarda conteúdo próprio. Os outros três componentes é que retêm informação."
+    },
+    {
+      "question": "Qual componente da memória de trabalho retém e ensaia material verbal, com capacidade de cerca de 2 segundos de fala?",
+      "options": [
+        "A alça fonológica",
+        "O executivo central",
+        "O buffer episódico",
+        "O esboço visuoespacial"
+      ],
+      "correctIndex": 0,
+      "explanation": "A alça fonológica processa material verbal e auditivo e mantém a informação por ensaio, com capacidade de aproximadamente 2 segundos de fala. É o componente que herda a codificação acústica atribuída à MCP clássica."
+    },
+    {
+      "question": "Segundo a matriz dos subcomponentes da memória de trabalho, qual é a capacidade do rascunho (ou esboço) visuoespacial?",
+      "options": [
+        "Cerca de 3 a 4 objetos ou imagens",
+        "Cerca de 2 segundos de fala interna",
+        "Cerca de 7 ± 2 itens independentes",
+        "Cerca de 4 episódios integrados"
+      ],
+      "correctIndex": 0,
+      "explanation": "O rascunho visuoespacial manipula informação visual e espacial — imagens, formas e posições — e comporta 3 a 4 objetos ou imagens. Os 2 segundos de fala são da alça fonológica e os 4 episódios, do buffer episódico.",
+      "image": "f2_pg05",
+      "imageCaption": "Matriz comparativa dos subcomponentes da memória de trabalho"
+    },
+    {
+      "question": "No diagrama do modelo de memória de trabalho, qual componente faz a ponte com a MLP episódica, integrando informação de várias modalidades?",
+      "options": [
+        "O buffer episódico",
+        "A alça fonológica",
+        "O executivo central",
+        "O esboço visuoespacial"
+      ],
+      "correctIndex": 0,
+      "explanation": "O buffer episódico, acrescentado ao modelo, é a integração multimodal temporária e a ponte com a MLP: no diagrama ele se liga à MLP episódica, enquanto o esboço visuoespacial se liga à semântica visual e a alça fonológica, à linguagem. Sua capacidade é de cerca de 4 episódios integrados.",
+      "image": "f2_pg04",
+      "imageCaption": "Modelo multicomponente da memória de trabalho"
+    },
+    {
+      "question": "Na correspondência neuroanatômica dos componentes da memória de trabalho, qual associação está correta?",
+      "options": [
+        "Executivo central – córtex pré-frontal; alça fonológica – áreas de Broca e Wernicke",
+        "Executivo central – lobo occipital; alça fonológica – córtex pré-frontal",
+        "Buffer episódico – áreas de Broca e Wernicke; rascunho visuoespacial – lobo parietal",
+        "Rascunho visuoespacial – córtex pré-frontal; buffer episódico – lobo occipital"
+      ],
+      "correctIndex": 0,
+      "explanation": "No mapa cerebral, o executivo central fica no córtex pré-frontal (com o cingulado anterior como controlador da atenção), a alça fonológica nas áreas de Broca e Wernicke, o buffer episódico no lobo parietal e o rascunho visuoespacial no lobo occipital.",
+      "image": "f3_pg02",
+      "imageCaption": "Componentes da memória de trabalho e regiões cerebrais"
+    },
+    {
+      "question": "Quais são, em ordem, as três etapas do processamento mnêmico?",
+      "options": [
+        "Codificação, armazenamento e recuperação",
+        "Armazenamento, codificação e recuperação",
+        "Recuperação, codificação e armazenamento",
+        "Codificação, recuperação e armazenamento"
+      ],
+      "correctIndex": 0,
+      "explanation": "Primeiro os estímulos sensoriais são convertidos em traços neurais (codificação); depois as representações são consolidadas e mantidas na rede neural (armazenamento); por fim o conteúdo é acessado, de forma consciente ou automática (recuperação)."
+    },
+    {
+      "question": "Lembrar-se da festa do próprio aniversário de 15 anos, com o lugar e as pessoas presentes, envolve qual tipo de memória?",
+      "options": [
+        "Memória episódica, de vivências situadas no tempo e no espaço",
+        "Memória semântica, de fatos e conceitos gerais sobre o mundo",
+        "Memória procedural, de habilidades motoras e hábitos automáticos",
+        "Priming, de facilitação produzida por exposição prévia"
+      ],
+      "correctIndex": 0,
+      "explanation": "A memória episódica guarda lembranças de vivências pessoais vinculadas a tempo e espaço, com recuperação consciente do contexto. Saber que Brasília é a capital do país, sem lembrar quando aprendeu, seria memória semântica."
+    },
+    {
+      "question": "Qual é o substrato neural da memória explícita (declarativa)?",
+      "options": [
+        "Hipocampo, lobo temporal medial e córtex pré-frontal",
+        "Cerebelo, núcleos da base (estriado) e amígdala",
+        "Lobo occipital, cerebelo e núcleos da base",
+        "Amígdala, tronco encefálico e lobo occipital"
+      ],
+      "correctIndex": 0,
+      "explanation": "A memória declarativa — episódica e semântica — depende do hipocampo, do lobo temporal medial e do córtex pré-frontal. Cerebelo, estriado e amígdala são o substrato da memória implícita."
+    },
+    {
+      "question": "Andar de bicicleta anos depois de ter aprendido, sem pensar nos movimentos, depende principalmente de quais estruturas?",
+      "options": [
+        "Cerebelo e núcleos da base, substrato da memória procedural",
+        "Hipocampo e lobo temporal medial, substrato da memória episódica",
+        "Córtex pré-frontal e hipocampo, substrato da memória semântica",
+        "Lobo occipital e parietal, substrato do buffer episódico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Andar de bicicleta é memória procedural — habilidade motora executada automaticamente —, parte do sistema implícito, cujo substrato é o cerebelo, os núcleos da base (estriado) e a amígdala."
+    },
+    {
+      "question": "Uma pessoa que leu a palavra 'laranja' há pouco completa mais rápido o fragmento 'LAR___' com essa palavra, sem perceber a influência. Que fenômeno é esse?",
+      "options": [
+        "Priming, uma forma de memória implícita",
+        "Ensaio elaborativo, uma forma de memória explícita",
+        "Interferência, uma forma de esquecimento",
+        "Memória episódica, uma forma de memória explícita"
+      ],
+      "correctIndex": 0,
+      "explanation": "No priming (efeito de facilitação), a exposição prévia altera o processamento subsequente sem recordação consciente. Por isso pertence ao sistema não declarativo, ao lado da memória procedural e do condicionamento clássico."
+    },
+    {
+      "question": "Na curva do esquecimento de Ebbinghaus, quanto do material ainda é retido cerca de 1 hora após a aprendizagem?",
+      "options": [
+        "Cerca de 44%",
+        "Cerca de 58%",
+        "Cerca de 33%",
+        "Cerca de 21%"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os pontos da curva são: 100% imediatamente, 58% após 20 minutos, 44% após 1 hora, 33% após 24 horas e 21% após 31 dias. O declínio é acentuado nas primeiras horas e depois o traço residual se estabiliza.",
+      "image": "f3_pg06",
+      "imageCaption": "Curva do esquecimento de Ebbinghaus"
+    },
+    {
+      "question": "Ao cadastrar uma nova senha, a pessoa digita repetidamente a senha antiga. Que tipo de interferência é esse?",
+      "options": [
+        "Proativa: o aprendizado antigo atrapalha o novo",
+        "Retroativa: o aprendizado novo atrapalha o antigo",
+        "Proativa: o aprendizado novo atrapalha o antigo",
+        "Retroativa: o aprendizado antigo atrapalha o novo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na interferência proativa o passado interfere no presente: a informação antiga dificulta o acesso e a retenção do material recém-aprendido. Na retroativa ocorre o inverso — esquecer o telefone antigo depois de memorizar o atual."
+    },
+    {
+      "question": "Depois de decorar o número de telefone atual, alguém já não consegue lembrar o número antigo. Como a teoria da interferência classifica esse caso?",
+      "options": [
+        "Interferência retroativa",
+        "Interferência proativa",
+        "Decaimento sensorial",
+        "Deslocamento na MCP"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na interferência retroativa o presente se sobrepõe ao passado: o aprendizado novo prejudica a evocação de informações consolidadas antes. É o exemplo canônico do telefone antigo esquecido após memorizar o atual.",
+      "image": "f3_pg07",
+      "imageCaption": "Interferência proativa e retroativa"
+    },
+    {
+      "question": "Qual concepção de memória sustenta o estudo das falsas memórias?",
+      "options": [
+        "A memória é uma reconstrução ativa, e não uma gravação fiel",
+        "A memória é uma gravação fiel, que só se apaga com o tempo",
+        "A memória é uma cópia sensorial, que se perde por decaimento",
+        "A memória é um registro fixo, que só falha por lesão cerebral"
+      ],
+      "correctIndex": 0,
+      "explanation": "A memória não funciona como gravação de vídeo, mas como reconstrução ativa. Por isso lembranças detalhadas e vívidas podem ser completamente fabricadas, sem que o indivíduo tenha consciência disso."
+    },
+    {
+      "question": "No paradigma de Elizabeth Loftus sobre o efeito de desinformação, o que altera a recordação original de um fato testemunhado?",
+      "options": [
+        "Informações recebidas depois do evento",
+        "A repetição em voz alta do próprio relato",
+        "O decaimento sensorial nos primeiros segundos",
+        "A falta de atenção no momento da codificação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Loftus mostrou que informações pós-evento — uma pergunta sugestiva, um relato de outra pessoa — alteram a lembrança original. É um princípio central da psicologia do testemunho."
+    },
+    {
+      "question": "Na teoria do traço difuso de Brainerd e Reyna, qual traço é a base para o surgimento de falsas memórias?",
+      "options": [
+        "Traço gist, que preserva o significado geral do evento",
+        "Traço verbatim, que preserva os detalhes literais do evento",
+        "Traço sensorial, que preserva a cópia bruta do evento",
+        "Traço procedural, que preserva a rotina motora do evento"
+      ],
+      "correctIndex": 0,
+      "explanation": "O traço verbatim (literal) guarda detalhes superficiais e perceptivos exatos, mas se decompõe rápido. O traço gist (essência) preserva o significado semântico geral e é o que sustenta a falsa lembrança: algo coerente com a essência pode ser 'lembrado' sem ter ocorrido."
+    },
+    {
+      "question": "Em entrevistas cognitivas com testemunhas e em depoimentos especiais, qual cuidado decorre diretamente do estudo das falsas memórias?",
+      "options": [
+        "Evitar perguntas indutoras que sugiram o conteúdo da resposta",
+        "Repetir a mesma pergunta até que o relato fique mais detalhado",
+        "Apresentar à testemunha a versão dos fatos já dada por outros",
+        "Priorizar os relatos mais vívidos como sendo os mais confiáveis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Como informação pós-evento altera a lembrança e relatos vívidos podem ser fabricados, a entrevista deve evitar perguntas indutoras. Na clínica, o equivalente é o cuidado ético ao explorar relatos traumáticos diante da sugestionabilidade do paciente."
+    },
+    {
+      "question": "Entre os sete pecados da memória de Daniel Schacter, qual corresponde à confusão sobre a fonte de uma informação?",
+      "options": [
+        "Atribuição errada",
+        "Sugestionabilidade",
+        "Transitoriedade",
+        "Bloqueio de acesso"
+      ],
+      "correctIndex": 0,
+      "explanation": "Atribuição errada é confundir a fonte da informação — lembrar o conteúdo mas atribuí-lo à origem errada. Sugestionabilidade são distorções por influência externa; transitoriedade, a deterioração temporal do traço; bloqueio, a incapacidade temporária de acesso."
+    },
+    {
+      "question": "Uma pessoa não lembra onde deixou as chaves porque, ao guardá-las, estava pensando em outra coisa. Qual pecado da memória de Schacter descreve essa falha?",
+      "options": [
+        "Desatenção, falha na codificação inicial",
+        "Bloqueio, falha temporária de acesso",
+        "Transitoriedade, deterioração com o tempo",
+        "Persistência, recordação intrusiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na desatenção a informação nem chegou a ser bem codificada. Difere do bloqueio, em que o conteúdo foi armazenado mas fica temporariamente inacessível, e da transitoriedade, em que o traço se deteriora com o tempo."
+    }
+  ]
+}

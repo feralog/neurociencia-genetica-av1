@@ -1,0 +1,348 @@
+{
+  "titulo": "Histórico da Psicologia Social II",
+  "eyebrow": "Psicologia Social · Psicologia Social Brasileira",
+  "subtitulo": "Dos primeiros cursos de 1935 à ruptura crítica e à ABRAPSO",
+  "intro": "Como a Psicologia Social se constituiu no Brasil: os cursos pioneiros de Briquet e Ramos, o desenvolvimentismo dos anos 1950, a crise do modelo experimental, a ruptura sócio-histórica de Lane e a ABRAPSO, o debate entre as duas vertentes, o retrato atual da área e o conceito de fenômeno social.",
+  "questoes": [
+    {
+      "question": "Quem ministrou, em 1935, o curso considerado pioneiro de Psicologia Social no Brasil, na Escola Livre de Sociologia e Política de São Paulo?",
+      "options": [
+        "Raul Briquet",
+        "Arthur Ramos",
+        "Donald Pierson",
+        "Carolina Bori"
+      ],
+      "correctIndex": 0,
+      "explanation": "Raul Carlos Briquet, médico paulista nascido em 1887, ocupou a cadeira de Psicologia Social na Escola Livre de Sociologia e Política de São Paulo e é reconhecido pelo pioneirismo docente na área. Do curso resultou o primeiro livro acadêmico de Psicologia Social do país, editado em 1935. Arthur Ramos deu o segundo curso; Pierson, o terceiro, nos anos 1940."
+    },
+    {
+      "question": "No livro que resultou do curso de Briquet, a análise dos fatores psíquicos do comportamento social inclui três formas de identidade social. Quais são elas?",
+      "options": [
+        "Sugestão, imitação e simpatia",
+        "Instinto, hábito e inteligência",
+        "Atitude, opinião e crença",
+        "Percepção, memória e atenção"
+      ],
+      "correctIndex": 0,
+      "explanation": "O livro tinha duas partes: uma sobre as contribuições da Sociologia, da Biologia e da Psicologia, e uma parte especial com temas próprios da Psicologia Social. Nesta, Briquet tratou o instinto, o hábito, a inteligência e a vida social, e descreveu sugestão, imitação e simpatia como as três formas de identidade social."
+    },
+    {
+      "question": "O curso de Arthur Ramos, que gerou o livro Introdução à Psychologia Social (1936), aproximou a Psicologia Social de que outra disciplina?",
+      "options": [
+        "Antropologia social, numa visão culturalista e comparada",
+        "Sociologia funcionalista, numa visão sistêmica e normativa",
+        "Biologia evolucionista, numa visão linear e hereditária",
+        "Economia política, numa visão marxista e de classe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Apoiado em Malinowski, Franz Boas e Lévy-Bruhl, Ramos propôs uma psicologia social comparada, de perspectiva culturalista. Com esse ponto de vista ele questionava o critério evolucionista linear, explicando a evolução psicológica dentro de cada cultura. Essa articulação com a antropologia social é apontada como a contribuição própria de seu curso."
+    },
+    {
+      "question": "Para Arthur Ramos, a Psicologia Social ocupava uma posição ainda pouco delimitada. Como ele a definia?",
+      "options": [
+        "Disciplina entre a Psicologia e a Sociologia, sem métodos claros",
+        "Ramo da Psicologia Geral, com métodos já bem estabelecidos",
+        "Ramo da Sociologia, com objeto definido pelas instituições",
+        "Disciplina da Medicina, com métodos clínicos e fisiológicos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ramos via a Psicologia Social como disciplina de importância crescente situada entre a Psicologia e a Sociologia, mas cujos métodos e objetivos ainda não estavam claros. A imprecisão do objeto aparecia até no nome: interpsicologia, psicologia coletiva, psicologia das massas, dos povos, das raças. Ele próprio chamava o profissional ora de psicossociólogo, ora de sociopsicólogo."
+    },
+    {
+      "question": "A visão panorâmica da Psicologia Social presente nos cursos de Briquet e Ramos foi contrastada, na década de 1940, por um terceiro curso. Qual foi o enfoque dele?",
+      "options": [
+        "Sociologia e ecologia humana, com Donald Pierson",
+        "Psicanálise e cultura brasileira, com Arthur Ramos",
+        "Teoria de campo e motivação, com Carolina Bori",
+        "Análise experimental da conduta, com Aroldo Rodrigues"
+      ],
+      "correctIndex": 0,
+      "explanation": "Donald Pierson ministrou o terceiro curso na Escola Livre de Sociologia e Política, registrado no livro Teoria e Pesquisa em Sociologia (1945), uma coletânea de artigos de sociologia e ecologia humana. Ele rompeu com a abordagem abrangente, que tratava em conjunto behaviorismo, psicanálise e gestalt, e temas como sugestão, imitação, opinião pública e propaganda."
+    },
+    {
+      "question": "Sampson situa a Psicologia Social num contínuo bipolar de paradigmas do conhecimento. Como se chamam os dois polos?",
+      "options": [
+        "Individualismo Autocontido e Individualismo Abrangente",
+        "Psicologia Social Psicológica e Sociológica",
+        "Individualismo e Coletivismo Metodológicos",
+        "Psicologia das Massas e Psicologia dos Povos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sampson (1985) distingue o Individualismo Autocontido do Individualismo Abrangente por três critérios: o limite entre o self e o outro, a crença sobre quanto o ambiente controla o comportamento e a visão excludente ou includente do self. Psicologia social psicológica versus sociológica é a distinção de Camino, outro eixo do debate."
+    },
+    {
+      "question": "Segundo Bomfim, três fatores compõem o contexto de evolução da Psicologia Social no Brasil. Qual alternativa os reúne?",
+      "options": [
+        "Avanços de áreas afins, progresso no exterior e condições históricas nacionais",
+        "Criação do CNPq, fundação da ABRAPSO e regulamentação da profissão",
+        "Influência da psicanálise, do behaviorismo e da gestalt nos cursos",
+        "Industrialização, urbanização e expansão do ensino superior privado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os três fatores são: os avanços de áreas afins (Sociologia, Antropologia, Educação, História Social e a própria Psicologia); o progresso da Psicologia Social na Europa, nos Estados Unidos e na América Latina; e as condições históricas e econômicas, sobretudo as nacionais, com demandas de comunidades, grupos e movimentos sociais que deram rumo à teoria e à pesquisa."
+    },
+    {
+      "question": "O desenvolvimentismo dos anos 1950 criou órgãos como o CNPq (1951) e abriu espaço para as primeiras teses de doutorado da área. Qual delas tratou da obra de Kurt Lewin?",
+      "options": [
+        "A de Carolina Bori, sobre interrupção de tarefas e motivação",
+        "A de Dante Moreira Leite, sobre o caráter nacional do brasileiro",
+        "A de Silvia Lane, sobre consciência e luta de classes no país",
+        "A de Aroldo Rodrigues, sobre atitudes e dissonância cognitiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "Carolina Bori defendeu tese sobre a Análise dos Experimentos de Interrupção de Tarefas e a Teoria da Motivação na obra de Kurt Lewin. Dante Moreira Leite escreveu Caráter Nacional do Brasileiro (1954), analisando como obras do pensamento social brasileiro retratavam o brasileiro e apontando nelas traços conservadores ou progressistas."
+    },
+    {
+      "question": "Krüger caracteriza a teorização da Psicologia Social que entrou em crise nos anos 1960. Por que ela é chamada de etnocêntrica?",
+      "options": [
+        "Tomava como universal o modelo de indivíduo da cultura norte-americana",
+        "Estudava apenas grupos étnicos minoritários em contexto de laboratório",
+        "Comparava culturas diferentes para hierarquizá-las em estágios evolutivos",
+        "Recusava qualquer dado vindo de pesquisas feitas fora da Europa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Krüger aponta seis traços: cognitivismo, experimentalismo, individualismo, etnocentrismo, uso de microteorias e perspectiva a-histórica. O etnocentrismo está em adotar como padrão o indivíduo da cultura norte-americana. A a-historicidade é o traço vizinho: o homem estudado seria o mesmo em todos os tempos e lugares."
+    },
+    {
+      "question": "A crise teórica da Psicologia Social, de caráter internacional, residiu principalmente em dúvidas sobre o método experimental. Qual era o argumento central?",
+      "options": [
+        "As regras do comportamento humano mudam com a cultura e a história",
+        "Os experimentos eram caros demais para países em desenvolvimento",
+        "As amostras de laboratório eram pequenas demais para generalizar",
+        "Os comitês de ética passaram a proibir experimentos com pessoas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ao contrário das ciências naturais, as regras do comportamento humano não podem ser fixadas de forma definitiva, porque se alteram conforme as circunstâncias culturais e históricas. Por isso se duvidava de que o experimento desse conta da complexidade do objeto. Muitos consideravam ainda que a Psicologia não tinha base sólida na realidade social e na vida cotidiana."
+    },
+    {
+      "question": "No fim dos anos 1970, psicólogos sociais latino-americanos passaram a defender uma ruptura radical com a Psicologia Social tradicional. O que estimulou esse movimento?",
+      "options": [
+        "A arbitrariedade dos regimes militares e a grande desigualdade social",
+        "A chegada dos primeiros manuais norte-americanos traduzidos ao espanhol",
+        "O fim da Segunda Guerra e a reconstrução das economias da região",
+        "A criação de conselhos profissionais que regulamentaram a pesquisa"
+      ],
+      "correctIndex": 0,
+      "explanation": "O movimento se opunha à psicologia social psicológica norte-americana, experimental e centrada no indivíduo, e buscava uma disciplina voltada aos problemas políticos e sociais da região. O estímulo veio da arbitrariedade dos regimes militares e da enorme desigualdade social do continente (Spink e Spink, 2005)."
+    },
+    {
+      "question": "A tendência chamada psicologia social crítica, ou histórico-crítica, não é uma teoria única. Que posturas teóricas ela aglutina?",
+      "options": [
+        "Socioconstrucionismo, análise do discurso e psicologia marxista",
+        "Behaviorismo, gestalt e teoria de campo de Kurt Lewin",
+        "Cognição social, atribuição de causalidade e dissonância",
+        "Funcionalismo, teoria dos papéis e interacionismo simbólico"
+      ],
+      "correctIndex": 0,
+      "explanation": "A psicologia social crítica reúne posturas diversas, entre elas o socioconstrucionismo (Gergen), a análise do discurso (Potter e Wetherell) e a psicologia marxista. Martín-Baró, padre jesuíta espanhol radicado em El Salvador, é tomado como representante dessa perspectiva, defendendo uma teoria contextualizada na história e nos conflitos do povo latino-americano."
+    },
+    {
+      "question": "Até os anos 1970, que vertente dominou a Psicologia Social ensinada no Brasil, e que livro de 1972 expressa essa tendência?",
+      "options": [
+        "A psicológica norte-americana; Psicologia social, de Aroldo Rodrigues",
+        "A sócio-histórica; Psicologia Social: o homem em movimento, de Lane",
+        "A culturalista; Introdução à Psychologia Social, de Arthur Ramos",
+        "A sociológica; Teoria e Pesquisa em Sociologia, de Donald Pierson"
+      ],
+      "correctIndex": 0,
+      "explanation": "Como no restante da América Latina, a psicologia social psicológica norte-americana foi dominante no Brasil até os anos 1970. O manual Psicologia social, de Aroldo Rodrigues (1972), foi muito adotado nos cursos, e o autor publicou numerosas pesquisas dessa linha em periódicos nacionais e estrangeiros entre 1970 e 1980."
+    },
+    {
+      "question": "A obra Psicología Social de las Américas (2002) ocupa uma posição particular no debate latino-americano. Qual é ela?",
+      "options": [
+        "Une a psicologia social psicológica e a crítica sob outro enfoque",
+        "Rejeita integralmente a psicologia social de origem norte-americana",
+        "Restringe a disciplina ao método experimental de laboratório",
+        "Funda a psicologia da libertação como alternativa ao marxismo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Enquanto no Brasil predominava a linha psicológica norte-americana, surgiu no restante da América Latina a obra de Kimble e colaboradores, Psicología Social de las Américas, que reúne a psicologia social psicológica e a psicologia social crítica ou histórico-crítica sob um enfoque diferente, sem escolher um único polo."
+    },
+    {
+      "question": "O movimento de ruptura com a Psicologia Social tradicional se tornou forte no Brasil com um livro de 1984, que serviu de modelo para outros manuais. Qual?",
+      "options": [
+        "Psicologia Social: o homem em movimento, de Lane e Codo",
+        "Psicologia social, de Aroldo Rodrigues e Dela Coleta",
+        "Relações Humanas, de Agostinho Minicucci e Andrade",
+        "Caráter Nacional do Brasileiro, de Dante Moreira Leite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Organizado por Silvia Lane e Wanderley Codo, Psicologia Social: o homem em movimento (1984) consolidou a ruptura e inspirou outros manuais brasileiros de mesmo enfoque, como os de Campos e Guareschi, Jacques e colaboradores, e Lane e Sawaia. Lane formou seguidores e iniciou uma linha de psicólogos sociais sócio-históricos."
+    },
+    {
+      "question": "Para Lane e Codo, que compromisso a Psicologia deve assumir?",
+      "options": [
+        "Criar consciência entre os atores sociais, no contexto da luta de classes",
+        "Medir atitudes com neutralidade, no contexto do laboratório experimental",
+        "Adaptar o indivíduo às normas, no contexto das organizações produtivas",
+        "Tratar desajustes da personalidade, no contexto da clínica individual"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lane e Codo defendiam que a Psicologia assumisse um compromisso com a criação da consciência entre os atores sociais, levando em conta principalmente a luta de classes. Seus seguidores produziram artigos críticos ao Estado e ao modo neoliberal de produção, entendido como fator de forte impacto na construção das subjetividades."
+    },
+    {
+      "question": "A Associação Brasileira de Psicologia Social (ABRAPSO) foi fundada em julho de 1980. Qual concepção orientava o referencial que ela buscava construir?",
+      "options": [
+        "O ser humano como produto histórico-social, com indivíduo e sociedade implicados",
+        "O ser humano como organismo universal, com processos estudados em laboratório",
+        "O ser humano como portador de instintos, com a sociedade como freio externo",
+        "O ser humano como ocupante de papéis, com normas prescritas pela estrutura"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ABRAPSO nasceu para redefinir o campo e construir um referencial em que o ser humano é produto histórico-social e indivíduo e sociedade se implicam mutuamente (Jacques et al., 1998). Ligada à vinculação científica de pesquisas na perspectiva crítica, ela contribuiu para consolidar o movimento e sistematizar o debate em eventos científicos."
+    },
+    {
+      "question": "A Psicologia Social brasileira foi marcada por duas tendências em oposição. Qual alternativa associa corretamente os autores a cada uma?",
+      "options": [
+        "Rodrigues e Dela Coleta, empiristas; Lane, marxista e sócio-histórica",
+        "Lane e Dela Coleta, empiristas; Rodrigues, marxista e sócio-histórico",
+        "Rodrigues e Lane, empiristas; Dela Coleta, marxista e sócio-histórico",
+        "Ramos e Briquet, empiristas; Pierson, marxista e sócio-histórico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Aroldo Rodrigues e José Augusto Dela Coleta representam a linha empirista, de abordagem experimental-cognitiva, voltada aos processos individuais em relação com o contexto social. Silvia Lane representa a linha marxista e sócio-histórica. As divergências teóricas e metodológicas deram visibilidade aos autores que encarnavam essa rivalidade."
+    },
+    {
+      "question": "Uma das críticas à psicologia social de base experimental liga sua origem a um contexto histórico específico. Qual?",
+      "options": [
+        "Os objetivos da sociedade norte-americana do pós-guerra, em busca de produtividade",
+        "As demandas dos movimentos sociais latino-americanos, em busca de emancipação",
+        "As necessidades da psiquiatria europeia do pré-guerra, em busca de diagnóstico",
+        "Os interesses das ditaduras militares do continente, em busca de controle"
+      ],
+      "correctIndex": 0,
+      "explanation": "A crítica sustenta que essa psicologia se desenvolveu comprometida com os objetivos dos Estados Unidos do pós-guerra, que precisavam de instrumentos para intervir na realidade com resultados imediatos, recuperar a nação e aumentar a produtividade econômica. Por isso os temas se centraram no indivíduo e deixaram de lado o que é próprio da relação interpessoal e social."
+    },
+    {
+      "question": "As críticas também atingem a psicologia social crítica. Qual destas é dirigida a ela?",
+      "options": [
+        "Tende ao maniqueísmo e a teorias de pouco respaldo empírico",
+        "Tende à neutralidade e a medidas de excessivo rigor estatístico",
+        "Tende ao laboratório e a amostras de estudantes universitários",
+        "Tende ao biologismo e a explicações de base apenas instintiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ao vincular o debate a tomadas de posição política, a vertente crítica produziu uma psicologia engajada nas lutas sociais, mas considerada maniqueísta e dicotomizada, sobretudo no método. Critica-se também a teorização metateórica, apoiada em visões ideológicas, difícil de converter em problema científico e por vezes reduzida à repetição de discursos; e as pesquisas qualitativas são acusadas de frouxidão metodológica."
+    },
+    {
+      "question": "Camino distingue duas concepções de Psicologia Social. Em uma, 'social' é adjetivo; na outra, é substantivo. Qual correspondência está certa?",
+      "options": [
+        "Adjetivo na psicologia social psicológica; substantivo na sociológica",
+        "Adjetivo na psicologia social sociológica; substantivo na psicológica",
+        "Adjetivo na psicologia social crítica; substantivo na experimental",
+        "Adjetivo na psicologia social cultural; substantivo na cognitiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "A psicologia social psicológica parte do indivíduo e de seus processos intrapsíquicos para explicar os fenômenos sociais e se coloca como ramo da Psicologia Geral: o social qualifica a psicologia, é adjetivo. A psicologia social sociológica vem do pensamento psicossocial da Sociologia e toma o próprio social como objeto: aí ele é o substantivo."
+    },
+    {
+      "question": "Para Camino, no cerne da disputa entre as vertentes está o tipo de explicação adequado ao comportamento humano. Que forma esse debate assume?",
+      "options": [
+        "Dualismos em que escolher um polo implica negar o valor do outro",
+        "Consensos em que cada polo cobre uma parte complementar do objeto",
+        "Gradações em que os polos se alternam conforme o tema estudado",
+        "Hierarquias em que um polo é admitido como etapa prévia do outro"
+      ],
+      "correctIndex": 0,
+      "explanation": "O debate se organiza em pares como subjetividade-objetividade, natureza-cultura, explicação-compreensão, individual-social e quantitativo-qualitativo. Nessa lógica, escolher um polo significa negar a relevância ou o poder heurístico do outro. A saída apontada é ver o campo como articulação de níveis de análise, do cognitivo ao cultural."
+    },
+    {
+      "question": "A pesquisa de Neiva e Corradi (2008) mapeou as redes de pesquisadores da pós-graduação em Psicologia. O que caracteriza a rede de Psicologia Social?",
+      "options": [
+        "É a maior das subáreas: 403 atores, distância média de 2,3 contatos",
+        "É a menor das subáreas: 76 atores, distância média de 9 contatos",
+        "É a mais densa das subáreas: 1.344 atores, com 35% de vínculos",
+        "É a mais isolada das subáreas: 307 atores, sem vínculos externos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Com 403 atores e 522 indicações de relacionamento, é a rede com mais atores entre as subáreas da Psicologia. A densidade é de 0,4% e a coesão de cerca de 0,8%; cada pesquisador precisa em média de 2,3 intermediários para chegar a qualquer outro, e o diâmetro é de 9. Para seu tamanho, é considerada satisfatoriamente conectada."
+    },
+    {
+      "question": "Na rede de pesquisadores de Psicologia Social, que tipo de conteúdo é mais trocado entre os atores?",
+      "options": [
+        "Participação em bancas e em simpósios e mesas de congresso",
+        "Realização de pesquisas conjuntas e publicações em coautoria",
+        "Orientação compartilhada de alunos e cotutela internacional",
+        "Financiamento conjunto de projetos e cessão de laboratórios"
+      ],
+      "correctIndex": 0,
+      "explanation": "Como nas demais subáreas, predominam a participação em bancas de dissertações e teses e em simpósios e mesas-redondas. A tendência a pesquisas conjuntas e coautoria é pequena. A rede tem 35 cliques, subgrupos de relações recíprocas, número relativamente baixo que sugere menor endogenia; 19% dos atores são estrangeiros."
+    },
+    {
+      "question": "O que é, para a Psicologia Social, um fenômeno social?",
+      "options": [
+        "Algo coletivo, formado por indivíduos, que surge das relações em sociedade",
+        "Algo individual, formado por traços, que surge da história de cada pessoa",
+        "Algo natural, formado por instintos, que surge da herança da espécie",
+        "Algo institucional, formado por leis, que surge da ação exclusiva do Estado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fenômeno social é qualquer acontecimento, comportamento, prática ou processo que nasce das relações entre as pessoas, constitui a vida coletiva e afeta a vida de todos. Não é individual, mas coletivo e formado por indivíduos: na vida coletiva o indivíduo se articula com o conjunto de indivíduos, formando grupos e instituições e produzindo cultura, valores e contextos históricos."
+    },
+    {
+      "question": "A figura contrasta duas formas de compreender o indivíduo. Qual é a ideia-chave que ela destaca?",
+      "options": [
+        "Indivíduo e sociedade não são dimensões separadas",
+        "Indivíduo e sociedade são dimensões independentes",
+        "O indivíduo se explica só por seus comportamentos",
+        "A sociedade se explica só pela soma dos indivíduos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A perspectiva individualizante analisa o indivíduo sobretudo por seus processos psicológicos e comportamentos; as perspectivas críticas o compreendem em suas relações sociais, históricas, culturais e materiais. A conclusão é que indivíduo e sociedade não são dimensões separadas.",
+      "image": "pg05",
+      "imageCaption": "Mudança no modo de compreender o indivíduo"
+    },
+    {
+      "question": "A figura mostra como as perguntas da Psicologia Social se transformam. Em lugar de 'Como mudar o comportamento desse indivíduo?', o que passa a ser perguntado?",
+      "options": [
+        "Que condições sociais produzem esse comportamento e como transformá-las",
+        "Que reforços mantêm esse comportamento e como extingui-los em laboratório",
+        "Que traços de personalidade explicam esse comportamento e como medi-los",
+        "Que normas esse comportamento viola e como corrigir o indivíduo desviante"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pergunta centrada em mudar o indivíduo dá lugar a outra: que condições sociais participam da produção daquele comportamento e quais possibilidades de transformação existem. Do mesmo modo, 'Por que essa pessoa pensa assim?' vira 'Que relações sociais, históricas e culturais participam da produção desse modo de pensar?'.",
+      "image": "pg06",
+      "imageCaption": "As perguntas mudam"
+    },
+    {
+      "question": "A figura lista os objetos que ganham lugar na Psicologia Social renovada. Qual destes NÃO está entre eles?",
+      "options": [
+        "Erros de julgamento e atribuição de causalidade",
+        "Desigualdade social, pobreza e exclusão",
+        "Movimentos sociais e participação social",
+        "Preconceito, discriminação e direitos humanos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os objetos listados são relações de poder, desigualdade social, trabalho, ideologia, pobreza e exclusão, preconceito e discriminação, movimentos sociais, relações comunitárias, violência, saúde, educação, direitos humanos e participação social. Atribuição de causalidade e erros de julgamento são temas da vertente cognitiva, de aplicação menos visível.",
+      "image": "pg07",
+      "imageCaption": "O objeto também muda"
+    },
+    {
+      "question": "Pela tabela comparativa, como cada vertente concebe o papel do 'social'?",
+      "options": [
+        "Cognitivo-experimental: estímulo ou ambiente; crítica: substância da subjetividade",
+        "Cognitivo-experimental: substância da subjetividade; crítica: estímulo ou ambiente",
+        "Cognitivo-experimental: variável a eliminar; crítica: soma das interações pessoais",
+        "Cognitivo-experimental: estrutura de classes; crítica: rede de papéis prescritos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para a vertente cognitivo-experimental, o social é estímulo ou ambiente de interação que age sobre o indivíduo. Para a vertente crítica, o social é a própria substância que constitui a subjetividade. A mesma tabela opõe método experimental e quantitativo a método qualitativo, contextual e participante.",
+      "image": "pg08",
+      "imageCaption": "Vertente cognitivo-experimental x vertente crítica"
+    },
+    {
+      "question": "Ainda pela tabela comparativa, como as duas vertentes se posicionam quanto à neutralidade e à visão do sujeito?",
+      "options": [
+        "A experimental defende neutralidade e sujeito a-histórico; a crítica, engajamento e sujeito histórico",
+        "A experimental defende engajamento e sujeito histórico; a crítica, neutralidade e sujeito a-histórico",
+        "As duas defendem neutralidade, mas a crítica vê o sujeito como histórico e datado pela classe",
+        "As duas defendem engajamento, mas a experimental vê o sujeito como universal e a-histórico"
+      ],
+      "correctIndex": 0,
+      "explanation": "A vertente cognitivo-experimental defende a neutralidade científica e o foco no fato observável, e concebe um sujeito universal e a-histórico. A crítica rejeita a neutralidade, propõe engajamento na transformação social e vê o sujeito como histórico, datado e determinado pelas relações de classe e pela cultura.",
+      "image": "pg08",
+      "imageCaption": "Vertente cognitivo-experimental x vertente crítica"
+    }
+  ]
+}

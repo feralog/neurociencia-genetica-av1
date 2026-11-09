@@ -1,0 +1,332 @@
+{
+  "titulo": "Psicologia da Libertação: Martín-Baró e Fanon",
+  "eyebrow": "Dinâmicas Culturais · Psicologia da Libertação",
+  "subtitulo": "Sofrimento, contexto social, racismo e pluralidade de saberes",
+  "intro": "A Psicologia da Libertação de Ignacio Martín-Baró e a desideologização, a análise de Frantz Fanon sobre racismo, colonialismo, subjetividade e alienação colonial, e as Epistemologias do Sul. Inclui o estudo de caso de Lucas e as perguntas que a Psicologia precisa fazer diante do sofrimento.",
+  "questoes": [
+    {
+      "question": "A Psicologia da Libertação, associada a Ignacio Martín-Baró, caracteriza-se por ser uma psicologia:",
+      "options": [
+        "comprometida com a realidade concreta das populações e com as condições históricas e sociais",
+        "voltada ao indivíduo isolado, cujos conflitos internos explicam por si só o sofrimento",
+        "centrada em medir traços de personalidade estáveis, independentemente do contexto social",
+        "neutra diante das relações de poder, limitando-se a descrever comportamentos observáveis"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Psicologia da Libertação é comprometida com a realidade concreta das populações e com a análise das condições históricas e sociais que atravessam a vida dos sujeitos. Por isso não olha apenas para o indivíduo isoladamente."
+    },
+    {
+      "question": "Para a Psicologia da Libertação, a compreensão do sofrimento deve considerar quais elementos em conjunto?",
+      "options": [
+        "Sujeito, história, sociedade e relações de poder",
+        "Sujeito, genética, temperamento e traços inatos",
+        "Sujeito, sintomas, diagnóstico e medicação apenas",
+        "Sujeito, desejo, fantasia e conflitos inconscientes"
+      ],
+      "correctIndex": 0,
+      "explanation": "A fórmula da Psicologia da Libertação é considerar sujeito + história + sociedade + relações de poder. O sofrimento é lido no entrecruzamento desses elementos, não apenas dentro do indivíduo."
+    },
+    {
+      "question": "Dois estudantes têm ansiedade: A, porque não acompanha o ritmo da universidade; B, porque trabalha de dia, estuda à noite, tem dificuldades financeiras e não tem as mesmas condições materiais dos colegas. Na perspectiva de Martín-Baró:",
+      "options": [
+        "as situações não podem ser compreendidas da mesma maneira, pois as condições sociais diferem",
+        "as situações devem ser compreendidas igualmente, pois o sintoma de ansiedade é o mesmo",
+        "a situação B se explica pela falta de esforço pessoal, assim como a situação A",
+        "apenas a situação A interessa à Psicologia, pois a B é um problema estritamente econômico"
+      ],
+      "correctIndex": 0,
+      "explanation": "O exercício pergunta se estruturas sociais que produzem desigualdade também podem produzir sofrimento psicológico, e se a causa do sofrimento deve ser procurada apenas dentro da pessoa. Na situação B, condições materiais e sociais participam da ansiedade; tratá-la como idêntica à A seria apagar esse contexto.",
+      "image": "pg04",
+      "imageCaption": "Dois estudantes, dois contextos de sofrimento"
+    },
+    {
+      "question": "A pergunta \"se as estruturas sociais podem produzir desigualdades, elas também podem produzir sofrimento psicológico?\" leva à conclusão de que:",
+      "options": [
+        "a causa do sofrimento não deve ser procurada apenas dentro da pessoa",
+        "o sofrimento psicológico é sempre independente das estruturas sociais",
+        "as desigualdades sociais interessam à economia, não à Psicologia",
+        "o sofrimento se explica por características individuais inatas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O desdobramento da pergunta é: \"quando uma pessoa sofre, devemos procurar a causa apenas dentro dela?\". Para a Psicologia da Libertação, não: estruturas sociais que produzem desigualdade também participam da produção de sofrimento."
+    },
+    {
+      "question": "A desideologização, conceito de Martín-Baró, é:",
+      "options": [
+        "o esforço de tornar visíveis as explicações que naturalizam desigualdade e dominação",
+        "a recusa de qualquer explicação teórica em favor do relato espontâneo do paciente",
+        "a adoção de uma ideologia política específica como guia do atendimento psicológico",
+        "a neutralidade do psicólogo diante das relações de poder vividas pelo paciente"
+      ],
+      "correctIndex": 0,
+      "explanation": "Desideologização é o esforço de tornar visíveis as explicações e representações que naturalizam relações de desigualdade e dominação. Não é adotar uma ideologia nem buscar neutralidade, e sim desnaturalizar explicações que ocultam o social.",
+      "image": "pg06",
+      "imageCaption": "Desideologização: definição, exemplo e reflexão"
+    },
+    {
+      "question": "A frase \"pessoas pobres não conseguem porque não se esforçam\" é usada como exemplo de explicação a ser desideologizada porque:",
+      "options": [
+        "transforma um problema social em individual e ignora as desigualdades",
+        "descreve com precisão a causa individual das diferenças de renda",
+        "considera as condições sociais, mas exagera o papel da economia",
+        "é uma explicação científica neutra, sem relação com o poder social"
+      ],
+      "correctIndex": 0,
+      "explanation": "As perguntas de reflexão são: essa explicação considera as condições sociais? Ignora desigualdades? Transforma um problema social em individual? A frase faz exatamente isso, e por isso é o tipo de representação que a desideologização torna visível."
+    },
+    {
+      "question": "Na prática desideologizadora, em vez de buscar a falha individual, o psicólogo deve perguntar:",
+      "options": [
+        "Quais condições sociais, econômicas, históricas e institucionais interferem nas possibilidades dessa pessoa?",
+        "Quais traços de personalidade estáveis impedem essa pessoa de alcançar os objetivos que deseja ter?",
+        "Qual falta de esforço pessoal explica as dificuldades que essa pessoa vem enfrentando no cotidiano?",
+        "Qual diagnóstico individual resume, sem precisar do contexto, o sofrimento dessa pessoa em sessão?"
+      ],
+      "correctIndex": 0,
+      "explanation": "A desideologização propõe substituir a busca da falha individual pela pergunta: quais condições sociais, econômicas, históricas e institucionais interferem nas possibilidades dessa pessoa? A Psicologia precisa questionar explicações que transformam problemas estruturais em características individuais."
+    },
+    {
+      "question": "A conexão da desideologização com a Psicologia está em:",
+      "options": [
+        "questionar explicações que transformam problemas estruturais em características individuais",
+        "converter problemas individuais em questões estruturais, retirando a responsabilidade do sujeito",
+        "evitar qualquer discussão sobre desigualdade, para preservar a neutralidade do atendimento",
+        "priorizar explicações biológicas, que dispensam a análise de condições sociais e históricas"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Psicologia precisa questionar explicações que transformam problemas estruturais em características individuais. O movimento é desfazer a individualização indevida de algo que é estrutural, não apagar o sujeito."
+    },
+    {
+      "question": "Qual é a diferença entre a pergunta da psicologia tradicional e a da perspectiva da libertação?",
+      "options": [
+        "\"O que há de errado com o indivíduo?\" × \"o que acontece com esse sujeito e em que contexto?\"",
+        "\"O que acontece com o sujeito e em que contexto?\" × \"o que há de errado com o indivíduo?\"",
+        "\"Qual é o diagnóstico do sujeito?\" × \"qual é a medicação mais adequada ao seu quadro?\"",
+        "\"Quem possui poder no grupo?\" × \"quais traços inatos explicam o sofrimento do sujeito?\""
+      ],
+      "correctIndex": 0,
+      "explanation": "A psicologia tradicional pergunta \"o que há de errado com o indivíduo?\"; a perspectiva da libertação pergunta \"o que está acontecendo com esse sujeito e em que contexto isso ocorre?\". A segunda alternativa inverte as posições.",
+      "image": "pg08",
+      "imageCaption": "Psicologia tradicional × perspectiva da libertação"
+    },
+    {
+      "question": "Qual das perguntas abaixo NÃO pertence ao conjunto de perguntas da perspectiva da libertação?",
+      "options": [
+        "Qual defeito individual causa esse sofrimento?",
+        "Quais discursos naturalizam o sofrimento?",
+        "Quem possui poder nessas relações sociais?",
+        "Em que contexto esse sofrimento acontece?"
+      ],
+      "correctIndex": 0,
+      "explanation": "A perspectiva da libertação pergunta: quem sofre? Em que contexto? Quais relações estão envolvidas? Quem possui poder? Quais discursos naturalizam o sofrimento? E ainda: quais possibilidades existem, quais não existem, há perpetuação, quem quer mudança e quais possibilidades de transformação existem. Buscar um defeito individual é o oposto dessa leitura."
+    },
+    {
+      "question": "Além de analisar o sofrimento, a perspectiva da libertação pergunta também por:",
+      "options": [
+        "possibilidades de transformação, perpetuação e quem deseja a mudança",
+        "traços inatos, histórico familiar e predisposições de cada indivíduo",
+        "sintomas observáveis, sua frequência e sua intensidade ao longo do tempo",
+        "normas do grupo dominante e formas de adaptar o sujeito a elas"
+      ],
+      "correctIndex": 0,
+      "explanation": "As perguntas da libertação continuam para o futuro: quais possibilidades existem? Quais não existem? Há perpetuação? Quem quer mudança? Quais possibilidades de transformação existem? O foco é a transformação, não a adaptação."
+    },
+    {
+      "question": "Para Frantz Fanon, o racismo:",
+      "options": [
+        "produz desigualdade social e também efeitos na identidade e na construção da subjetividade",
+        "produz apenas desigualdade social, sem efeitos relevantes sobre a experiência subjetiva",
+        "afeta somente a autoestima individual, sem relação com o colonialismo ou com a sociedade",
+        "é um fenômeno exclusivamente interpessoal, explicado pelo preconceito de cada indivíduo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fanon busca compreender as relações entre colonialismo, racismo e subjetividade. O racismo não produz apenas desigualdade social: produz efeitos na identidade, na autoestima, na percepção de si, na relação com o próprio corpo, na relação com o outro e na construção da subjetividade.",
+      "image": "pg11",
+      "imageCaption": "Fanon: racismo, colonialismo e subjetividade"
+    },
+    {
+      "question": "Qual alternativa lista apenas efeitos do racismo na subjetividade, segundo a leitura de Fanon?",
+      "options": [
+        "Identidade, autoestima, percepção de si e relação com o próprio corpo",
+        "Renda, escolaridade, ocupação profissional e acesso a bens materiais",
+        "Hierarquia de saberes, eurocentrismo e silenciamento de comunidades",
+        "Binarismo de gênero, normas corporais e modelos tidos como universais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os efeitos apontados são sobre identidade, autoestima, percepção de si, relação com o próprio corpo, relação com o outro e construção da subjetividade. A segunda alternativa descreve desigualdade social; as outras, colonialidade do saber e de gênero."
+    },
+    {
+      "question": "A pergunta que orienta a leitura de Fanon sobre racismo e subjetividade é:",
+      "options": [
+        "o que acontece com a identidade de quem cresce numa sociedade que desvaloriza seu grupo racial",
+        "como medir com precisão a autoestima de indivíduos de diferentes grupos raciais na sociedade",
+        "por que alguns indivíduos têm, por natureza, maior tendência a internalizar o preconceito",
+        "como adaptar o indivíduo racializado às normas estéticas do grupo dominante da sociedade"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pergunta é: o que acontece com a identidade de uma pessoa quando ela cresce em uma sociedade que constantemente desvaloriza seu grupo racial? Dela decorre a análise dos efeitos do racismo na subjetividade e a noção de alienação colonial."
+    },
+    {
+      "question": "Na leitura de Fanon, a alienação colonial parte da constatação de que:",
+      "options": [
+        "a dominação colonial não se limita ao controle territorial e atinge a percepção do sujeito",
+        "a dominação colonial se limita ao controle territorial e termina com a independência",
+        "a alienação é um fenômeno individual, sem relação com a história colonial do grupo",
+        "a dominação colonial atinge a economia, mas preserva intacta a percepção de si"
+      ],
+      "correctIndex": 0,
+      "explanation": "A alienação colonial parte do alerta de que a dominação colonial não se limita ao controle territorial. Ela pode atingir a maneira como o sujeito percebe a si mesmo, seu grupo, sua cultura e seu lugar no mundo.",
+      "image": "pg12",
+      "imageCaption": "Alienação colonial"
+    },
+    {
+      "question": "A alienação colonial pode atingir a maneira como o sujeito percebe:",
+      "options": [
+        "a si mesmo, seu grupo, sua cultura e seu lugar no mundo",
+        "apenas o território que habita e os recursos dele extraídos",
+        "apenas as instituições políticas impostas pelo colonizador",
+        "apenas os conhecimentos acadêmicos produzidos na metrópole"
+      ],
+      "correctIndex": 0,
+      "explanation": "A alienação colonial pode atingir a maneira como o sujeito percebe a si mesmo, seu grupo, sua cultura e seu lugar no mundo. Por isso não se reduz ao controle territorial ou institucional."
+    },
+    {
+      "question": "Os eixos da contribuição de Fanon incluem a análise das relações entre sociedade, poder, racismo, colonialismo e subjetividade, os efeitos psicológicos do colonialismo e do racismo e:",
+      "options": [
+        "a alienação colonial, ligada à interferência do racismo na construção da identidade",
+        "a desideologização, ligada à crítica de explicações que culpam o pobre pela pobreza",
+        "a descrição densa, ligada à interpretação dos significados das práticas culturais",
+        "o relativismo cultural, ligado à suspensão do julgamento sobre outras culturas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os eixos associados a Fanon são: análise das relações (sociedade, poder, racismo, colonialismo, subjetividade), atuação crítica da Psicologia, efeitos psicológicos do colonialismo e do racismo e alienação colonial — como o racismo pode interferir na construção da identidade e da subjetividade. A desideologização é conceito de Martín-Baró."
+    },
+    {
+      "question": "Lucas, 19 anos, relata desconforto com a aparência, quer modificar características físicas para se parecer com o padrão das redes sociais e conta que desde criança ouve comentários depreciativos sobre cabelo, aparência e origem, além de \"brincadeiras\" sobre sua aparência racial na escola. Ele diz: \"Eu aprendi que, para ser bonito, precisava parecer com outra pessoa\". À luz de Fanon, essa fala expressa:",
+      "options": [
+        "a internalização de um padrão que desvaloriza seu grupo racial, como na alienação colonial",
+        "uma baixa autoestima de origem individual, sem relação com a história e o contexto social",
+        "uma preferência estética pessoal e neutra, que não exige qualquer leitura do contexto",
+        "um traço inato de insegurança, independente das experiências vividas na escola"
+      ],
+      "correctIndex": 0,
+      "explanation": "A trajetória de Lucas mostra o racismo produzindo efeitos na identidade, na autoestima, na percepção de si e na relação com o próprio corpo. A fala \"precisava parecer com outra pessoa\" indica que a desvalorização de seu grupo afetou a maneira como ele percebe a si mesmo, núcleo da alienação colonial."
+    },
+    {
+      "question": "No caso de Lucas, a psicóloga interpreta o problema inicialmente como \"baixa autoestima\" e sugere que ele trabalhe sua autoconfiança. A limitação dessa leitura, do ponto de vista de Fanon e de Martín-Baró, é que ela:",
+      "options": [
+        "individualiza um sofrimento produzido por racismo e por relações sociais históricas",
+        "dá peso excessivo ao racismo e às relações históricas na compreensão do caso de Lucas",
+        "considera o contexto escolar de Lucas, mas esquece de investigar seu histórico familiar",
+        "reconhece o racismo como causa, mas propõe uma intervenção coletiva em vez de individual"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"Baixa autoestima\" localiza o problema apenas dentro de Lucas. Fanon permite ver os efeitos do racismo na subjetividade; Martín-Baró, pela desideologização, permite questionar a explicação que transforma um problema estrutural em característica individual. Uma intervenção que considere o contexto social e histórico vai além de trabalhar a autoconfiança."
+    },
+    {
+      "question": "As Epistemologias do Sul são:",
+      "options": [
+        "perspectivas que questionam a hegemonia de modos de produzir conhecimento e valorizam saberes marginalizados",
+        "teorias que reconhecem apenas o conhecimento produzido em universidades do hemisfério sul como válido",
+        "métodos que aplicam os instrumentos científicos europeus a comunidades tradicionais do hemisfério sul",
+        "correntes que rejeitam toda produção científica e defendem apenas saberes ancestrais como verdadeiros"
+      ],
+      "correctIndex": 0,
+      "explanation": "Epistemologias do Sul são um conjunto de perspectivas que questionam a hegemonia de determinados modos de produzir conhecimento e valorizam conhecimentos produzidos por grupos historicamente marginalizados. O ponto é a pluralidade de saberes, não a troca de um saber único por outro.",
+      "image": "pg19",
+      "imageCaption": "Epistemologias do Sul: definição e exemplos de saberes"
+    },
+    {
+      "question": "Qual alternativa reúne exemplos de saberes valorizados pelas Epistemologias do Sul?",
+      "options": [
+        "Saberes indígenas, quilombolas, ancestrais e conhecimentos comunitários",
+        "Apenas conhecimentos produzidos por universidades latino-americanas",
+        "Apenas teorias europeias traduzidas para línguas do hemisfério sul",
+        "Saberes tradicionais, desde que validados por instrumentos ocidentais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os exemplos são saberes indígenas, quilombolas, de comunidades tradicionais, de populações negras, conhecimentos comunitários e saberes ancestrais. A exigência de validação por instrumentos ocidentais reproduziria a hegemonia que essa perspectiva questiona."
+    },
+    {
+      "question": "A pergunta \"se determinadas pessoas são historicamente colocadas em posição de inferioridade, o que acontece também com os conhecimentos produzidos por elas?\" liga as Epistemologias do Sul a quais conceitos?",
+      "options": [
+        "Colonialidade do saber e racismo epistêmico",
+        "Desideologização e alienação colonial",
+        "Colonialidade de gênero e binarismo",
+        "Colonialismo territorial e exploração"
+      ],
+      "correctIndex": 0,
+      "explanation": "A inferiorização das pessoas se estende aos seus conhecimentos: é a passagem da colonialidade do saber ao racismo epistêmico. As Epistemologias do Sul respondem a isso valorizando saberes de grupos historicamente marginalizados."
+    },
+    {
+      "question": "Uma comunidade indígena conhece as plantas medicinais de seu território, e um pesquisador universitário estuda essas práticas. Na pergunta \"quem é considerado especialista?\", a crítica das Epistemologias do Sul é que frequentemente:",
+      "options": [
+        "o pesquisador é reconhecido como produtor do conhecimento, e a comunidade, como objeto de estudo",
+        "a comunidade é reconhecida como produtora do conhecimento, e o pesquisador, como mero aprendiz",
+        "ambos são reconhecidos igualmente como especialistas, sem qualquer hierarquia entre os saberes",
+        "nenhum dos dois é reconhecido, pois só os saberes registrados em livros têm valor de especialista"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pergunta de retomada é: por que muitas vezes o pesquisador é reconhecido como produtor do conhecimento, enquanto a comunidade aparece apenas como objeto de estudo? A resposta remete ao racismo epistêmico e à colonialidade do saber.",
+      "image": "pg22",
+      "imageCaption": "Quem é considerado especialista?"
+    },
+    {
+      "question": "A pergunta \"um conhecimento precisa necessariamente ser produzido dentro de uma universidade para ser considerado conhecimento?\" é respondida pelas Epistemologias do Sul com a ideia de:",
+      "options": [
+        "pluralidade de saberes e crítica à hegemonia epistemológica",
+        "exclusividade do saber acadêmico como critério de verdade",
+        "substituição da universidade pelos saberes comunitários",
+        "neutralidade do conhecimento diante das relações de poder"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na síntese, as Epistemologias do Sul aparecem como pluralidade de saberes + crítica à hegemonia epistemológica. Elas não exigem que o conhecimento venha da universidade, nem propõem simplesmente substituí-la."
+    },
+    {
+      "question": "Na síntese que articula os autores e temas, qual associação está correta?",
+      "options": [
+        "Fanon: colonialismo + racismo + subjetividade",
+        "Martín-Baró: pluralidade de saberes + hegemonia",
+        "Epistemologias do Sul: colonialismo + racismo",
+        "Fanon: Psicologia + contexto social + libertação"
+      ],
+      "correctIndex": 0,
+      "explanation": "A síntese associa Martín-Baró a Psicologia + contexto social + libertação; Fanon a colonialismo + racismo + subjetividade; Epistemologias do Sul a pluralidade de saberes + crítica à hegemonia epistemológica; e a Psicologia crítica a compreender o sofrimento sem retirar o sujeito de sua história, cultura e contexto social."
+    },
+    {
+      "question": "A Psicologia crítica, que reúne essas contribuições, propõe:",
+      "options": [
+        "compreender o sofrimento sem retirar o sujeito de sua história, cultura e contexto social",
+        "compreender o sofrimento retirando o sujeito do contexto, para evitar interferências sociais",
+        "substituir a escuta individual por análises exclusivamente econômicas da desigualdade social",
+        "explicar o sofrimento pelas características inatas do sujeito, sem referência à sua cultura"
+      ],
+      "correctIndex": 0,
+      "explanation": "A síntese define a Psicologia crítica como compreender o sofrimento sem retirar o sujeito de sua história, cultura e contexto social. Não se abandona a escuta do sujeito; amplia-se o que se escuta."
+    },
+    {
+      "question": "Entre as perguntas que a Psicologia precisa fazer diante do sofrimento, a que fecha a sequência, voltada para o futuro, é:",
+      "options": [
+        "Que possibilidades de transformação e libertação podem ser construídas?",
+        "O que há de errado com essa pessoa e qual o seu diagnóstico individual?",
+        "Quais traços inatos tornam essa pessoa mais vulnerável ao sofrimento?",
+        "Como essa pessoa pode se adaptar melhor às normas sociais dominantes?"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sequência é: em vez de perguntar apenas \"o que há de errado com essa pessoa?\", perguntar também \"o que aconteceu com essa pessoa?\", \"em que contexto ela vive?\", \"quais relações de poder atravessam sua experiência?\", \"quais discursos e estruturas sociais participam da produção desse sofrimento?\" e, por fim, \"que possibilidades de transformação e libertação podem ser construídas?\".",
+      "image": "pg26",
+      "imageCaption": "As perguntas que a Psicologia precisa fazer"
+    },
+    {
+      "question": "A substituição proposta pela Psicologia da Libertação, ao lado de \"o que há de errado com essa pessoa?\", é a pergunta:",
+      "options": [
+        "O que aconteceu com essa pessoa?",
+        "Qual é o diagnóstico dessa pessoa?",
+        "Qual é o defeito dessa pessoa?",
+        "Qual é a falha dessa pessoa?"
+      ],
+      "correctIndex": 0,
+      "explanation": "A proposta não é abandonar a pergunta sobre o sujeito, mas acrescentar: \"o que aconteceu com essa pessoa?\". Ela desloca o foco do defeito individual para a história e o contexto que produzem o sofrimento."
+    }
+  ]
+}

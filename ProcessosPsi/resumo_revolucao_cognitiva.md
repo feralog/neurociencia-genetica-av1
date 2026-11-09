@@ -43,6 +43,15 @@ A ruptura não foi instantânea. Antes dela, dois programas de pesquisa dentro d
 
 São críticas graduais, não ainda uma revolução. Mas deslocam a discussão para o intervalo entre o estímulo e a resposta — exatamente o território que a década seguinte vai ocupar.
 
+#### A insuficiência explicativa da caixa preta
+
+O problema de fundo era explicativo. Com o foco restrito à relação entre ambiente e comportamento observável, o modelo tinha dificuldade em dar conta de fenômenos complexos como **linguagem**, **planejamento** e **tomada de decisão**. A saída foi recolocar o organismo no meio do esquema: em vez de **E → R** (estímulo → resposta), a relação passa a ser **E → O → R** — **estímulo → organismo → resposta**, em que o "O" é justamente o processamento interno que a caixa preta deixava de fora.
+
+| | Comportamentalismo | Psicologia cognitiva |
+|---|---|---|
+| Foco | relação entre comportamentos e ambiente | como processamos o ambiente com as atividades da mente |
+| Investiga | as leis do comportamento humano | as funções cognitivas: atenção, memória, percepção etc. |
+
 ---
 
 ## 1956: o ano da virada
@@ -68,7 +77,7 @@ Gardner (2003) registra que 1956 é quase consenso como início da revolução c
 - **Jerome Bruner** — a aprendizagem como **processo ativo** de quem aprende.
 - **Noam Chomsky** — a linguagem como estrutura **inata**, desenvolvida intuitivamente; oposição frontal ao *Comportamento Verbal* de Skinner. O desenvolvimento linguístico não se explica só pelos estímulos recebidos (Chomsky, 1957).
 - **George A. Miller** — quantificação dos **limites da memória** e da capacidade de processar informação; defesa explícita de uma psicologia cognitiva.
-- **Newell e Simon** — as **regras** por trás da capacidade humana de inferência.
+- **Newell e Simon** — as **regras** por trás da capacidade humana de inferência; com o programa **Logic Theorist**, mostraram que uma máquina pode resolver problemas lógicos simulando a cognição humana.
 - **Marvin Minsky** — tentativa de replicar em máquina aspectos da cognição humana.
 - Somam-se a isso as contribuições da **neurociência**.
 
@@ -82,6 +91,8 @@ Para estudar processos mentais empiricamente sem recair no subjetivismo da intro
 
 **A mente seria o software; o cérebro, o hardware.** Um software possui regras que traduzem, representam e computam as informações do hardware, gerando um efeito ou uma função. Analogamente, a mente representaria de forma regrada as mudanças do cérebro.
 
+Essa distinção recebe o nome de **independência funcional**: separa-se o suporte físico (o **hardware** — estrutura biológica, neurônios, conexões sinápticas) das atividades da cognição (o **software** — programas, algoritmos e representações mentais que processam os dados). Como as atividades da mente possuem **regras (algoritmos)**, o objetivo da psicologia cognitiva passa a ser **descobrir essas regras**.
+
 ### Entrada, processamento, saída
 
 | Etapa | Na mente | Num programa |
@@ -89,6 +100,16 @@ Para estudar processos mentais empiricamente sem recair no subjetivismo da intro
 | Entrada (input) | ondas mecânicas intensas captadas pela audição | toque do dedo sobre o ícone na tela |
 | Processamento | conversão em sensação sonora de alta intensidade | regra que traduz o toque no comando "abrir" |
 | Saída (output) | levar as mãos aos ouvidos | o aplicativo abre na tela |
+
+Nos exemplos mais detalhados, o processamento se divide em duas partes: o **hardware** converte o estímulo em eletricidade (ou em impulso nervoso), e o **software** interpreta esse sinal segundo uma regra.
+
+| Sistema | Entrada | Processamento: hardware | Processamento: software | Saída |
+|---|---|---|---|---|
+| Celular | toque no ícone do Instagram | a pressão do dedo vira eletricidade | o programa interpreta como "resgatar da memória o programa e abrir a tela" | a tela do aplicativo abre |
+| Robô aspirador | a câmera filma uma parede | o estímulo luminoso vira eletricidade | o programa "armazena a imagem da parede na memória" e a usa | evitar bater na parede |
+| Percepção humana | furar o dedo com força | o sistema nervoso transforma o furo em impulsos nervosos | a alta frequência de impulsos é interpretada como **dor alta**, formando a experiência da dor | tirar o dedo da agulha e tentar amenizar a dor |
+
+O último exemplo é uma simplificação grosseira, mas mostra o ponto: na percepção, o **hardware é o sistema nervoso** e o **software é o "programa" de percepção**, que transforma frequência de impulsos em experiência.
 
 ![Estímulo e comportamento, com e sem processamento](img:pg19)
 
@@ -110,6 +131,31 @@ A metáfora não ficou no plano da analogia; gerou modelos concretos.
 
 Em todos, o padrão é o mesmo: descrever uma função mental como um sistema de regras operando sobre representações.
 
+### Um modelo que vira pesquisa: a atenção
+
+A importância prática da metáfora é permitir **pesquisar a mente de forma objetiva e experimental**: cria-se um modelo de como funciona uma atividade cognitiva e fazem-se pesquisas que o **comprovem ou refutem**. Percepção e atenção não eram pesquisadas pelos comportamentalistas, que não as julgavam objetivamente pesquisáveis — eles estudariam apenas o comportamento de olhar e quais características do ambiente nos levam a olhar.
+
+O exemplo é o modelo dos **quatro tipos de atenção**, cada um descrito por uma regra de processamento:
+
+| Tipo | Regra |
+|---|---|
+| Seletiva | ignorar estímulos irrelevantes |
+| Sustentada | manter o foco em um estímulo relevante |
+| Dividida | focar numa atividade simples e numa complexa ao mesmo tempo |
+| Alternada | mudar a atenção entre duas atividades complexas |
+
+Duas consequências decorrem daí. Primeiro, essas regras podem ser **programadas**: uma câmera de vigilância com a regra "movimente-se e fique parada no movimento sempre que filmar movimento" funciona de modo parecido com uma regra atencional. Segundo, o modelo gera **perguntas de pesquisa**: quanto tempo as pessoas sustentam a atenção enquanto estudam? Qual a relação entre testes de atenção e o tempo de atenção mantido nos estudos?
+
+#### Top-down e bottom-up: quem controla a atenção
+
+| | Processamento top-down | Processamento bottom-up |
+|---|---|---|
+| Quem controla | o **sujeito** | o **estímulo** |
+| Modo | controlado | automático |
+| Custo | gasto energético para sustentar a atenção | menor gasto energético |
+
+> Top-down = de cima (do sujeito, das metas) para baixo, com esforço. Bottom-up = de baixo (do estímulo) para cima, automático e barato. Um barulho súbito que rouba o foco é bottom-up; manter a leitura de um texto difícil é top-down.
+
 ---
 
 ## Os limites da metáfora computacional
@@ -120,6 +166,13 @@ A mesma revolução que abriu o campo produziu, com o tempo, as evidências de s
 - **Variáveis excluídas** — considera pouco emoções, cultura e história de vida.
 - **Desgaste empírico** — há evidências de esgotamento dos modelos computacionais para explicar certas funções psicológicas.
 - **Objeção filosófica** — a metáfora seria insuficiente para dar conta do fenômeno da **subjetividade humana**.
+
+Quatro críticas ganham nome próprio:
+
+- **Ausência de afeto e emoção** — o modelo computacional clássico foca em regras lógicas e negligencia estados motivacionais, sentimentos e subjetividade.
+- **O Quarto Chinês (Searle, 1980)** — manipular símbolos segundo regras formais (sintaxe) **não significa compreender** o real significado (semântica) da informação. Um sistema pode responder corretamente em chinês seguindo um manual de regras sem entender uma palavra de chinês.
+- **Emergência do conexionismo** — o cérebro opera em **redes neurais paralelas** interconectadas, e não de forma puramente linear e serial como os computadores tradicionais.
+- **Cognição incorporada** — a mente não está isolada num software; ela **depende do corpo físico** e da interação direta com o ambiente sociocultural.
 
 > Nada disso equivale a abandonar a psicologia cognitiva. Existem abordagens cognitivas que não se apoiam tão fortemente no modelo computacional — e é dessa insatisfação interna que nasce a discussão sobre uma segunda revolução.
 

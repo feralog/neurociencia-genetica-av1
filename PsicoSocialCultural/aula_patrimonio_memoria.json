@@ -1,0 +1,315 @@
+{
+  "titulo": "Patrimônio Cultural, Memória Coletiva e Saúde Mental",
+  "eyebrow": "Dinâmicas Culturais · Memória e Patrimônio",
+  "subtitulo": "Bens, práticas e lembranças que sustentam identidade e pertencimento",
+  "intro": "Patrimônio cultural material e imaterial, memória coletiva como construção social e não consensual, e a relação entre continuidade cultural, vínculos comunitários e saúde mental. Fecha com a atuação da Psicologia diante de remoções, rupturas e apagamento de memórias.",
+  "questoes": [
+    {
+      "question": "O patrimônio cultural material corresponde a:",
+      "options": [
+        "bens concretos com importância histórica, artística ou social para uma coletividade",
+        "práticas e saberes que uma comunidade reconhece como parte de sua herança cultural",
+        "bens concretos cujo valor de mercado supera o de construções comuns da mesma época",
+        "lembranças individuais que cada pessoa guarda sobre o lugar em que nasceu e cresceu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Patrimônio material são bens culturais concretos — edificações, igrejas, monumentos, sítios arqueológicos, objetos, documentos e lugares de memória — com importância histórica, artística, arquitetônica ou social para uma coletividade. O critério não é o preço, e práticas e saberes pertencem ao patrimônio imaterial."
+    },
+    {
+      "question": "O patrimônio cultural imaterial é composto por:",
+      "options": [
+        "práticas, expressões, conhecimentos e modos de fazer reconhecidos como herança",
+        "edificações, monumentos e documentos protegidos por seu valor arquitetônico",
+        "objetos de uso cotidiano que deixaram de ser fabricados pela indústria atual",
+        "registros escritos produzidos por especialistas sobre a história de um povo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O patrimônio imaterial reúne práticas, expressões, conhecimentos e modos de fazer que uma comunidade reconhece como parte de sua herança cultural: festas, danças, músicas, manifestações religiosas, saberes sobre alimentação, cultivo e cuidado, histórias orais e técnicas artesanais."
+    },
+    {
+      "question": "Qual alternativa reúne apenas exemplos de patrimônio cultural material?",
+      "options": [
+        "sítios arqueológicos, igrejas históricas e documentos antigos",
+        "festas populares, danças tradicionais e histórias de família",
+        "técnicas artesanais, receitas antigas e cantos religiosos",
+        "igrejas históricas, festas populares e técnicas artesanais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sítios arqueológicos, igrejas e monumentos, objetos históricos e documentos são bens concretos — patrimônio material. Festas, danças, histórias orais, receitas e técnicas artesanais são práticas e saberes, portanto imateriais. A última alternativa mistura as duas categorias."
+    },
+    {
+      "question": "Qual alternativa reúne apenas exemplos de patrimônio cultural imaterial?",
+      "options": [
+        "festas populares, saberes sobre cultivo e histórias orais",
+        "monumentos, objetos históricos e sítios arqueológicos",
+        "edificações históricas, praças antigas e documentos",
+        "festas populares, monumentos e documentos de época"
+      ],
+      "correctIndex": 0,
+      "explanation": "Festas e celebrações, saberes tradicionais sobre alimentação, cultivo e cuidado, histórias orais e modos de transmissão de conhecimentos compõem o patrimônio imaterial. Monumentos, documentos, objetos e edificações são patrimônio material."
+    },
+    {
+      "question": "A imagem mostra uma igreja histórica. Ela exemplifica qual categoria de patrimônio?",
+      "options": [
+        "patrimônio cultural material, por ser um bem concreto com valor histórico",
+        "patrimônio cultural imaterial, por abrigar celebrações religiosas coletivas",
+        "patrimônio natural, por integrar a paisagem do território onde foi erguida",
+        "memória individual, por evocar lembranças pessoais de quem a frequentou"
+      ],
+      "correctIndex": 0,
+      "explanation": "Edificações históricas, igrejas e monumentos são o exemplo típico de patrimônio material: bens concretos com importância histórica, artística e arquitetônica para uma coletividade. As celebrações que acontecem ali seriam patrimônio imaterial, mas o edifício em si é material.",
+      "image": "pg11",
+      "imageCaption": "Igreja histórica"
+    },
+    {
+      "question": "A imagem mostra uma dança popular em uma celebração comunitária. Ela exemplifica:",
+      "options": [
+        "patrimônio cultural imaterial, por ser uma prática transmitida e reconhecida",
+        "patrimônio cultural material, por ocorrer em um espaço físico determinado",
+        "patrimônio cultural material, por envolver trajes e objetos confeccionados",
+        "uma manifestação de lazer sem relação com a herança cultural do grupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Danças, músicas, festas e manifestações religiosas são práticas e expressões — patrimônio imaterial. O que se preserva é o modo de fazer e sua transmissão entre gerações, não o espaço físico nem os objetos usados.",
+      "image": "pg12",
+      "imageCaption": "Dança popular em celebração comunitária"
+    },
+    {
+      "question": "Uma festa tradicional realizada em um espaço simples, sem arquitetura notável, deixa de ser patrimônio cultural?",
+      "options": [
+        "Não, pois seu valor está na importância histórica e simbólica para o grupo",
+        "Sim, pois o patrimônio depende de um bem físico de valor arquitetônico",
+        "Sim, pois só se torna patrimônio o que ocorre em lugar já tombado",
+        "Não, mas apenas se a festa atrair visitantes de fora da comunidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uma festa é patrimônio imaterial: o que a qualifica é ser prática reconhecida pela comunidade como herança cultural. A simplicidade do espaço não altera esse valor, que é histórico, social e simbólico, não arquitetônico nem turístico."
+    },
+    {
+      "question": "Sobre o valor de um patrimônio cultural, é correto afirmar que ele:",
+      "options": [
+        "não depende só do valor econômico, mas da importância histórica, social e simbólica",
+        "depende principalmente do valor econômico e do custo de reposição do bem cultural",
+        "depende sobretudo do reconhecimento por especialistas externos à comunidade local",
+        "depende apenas da antiguidade do bem, independentemente do sentido para o grupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O patrimônio cultural não depende apenas do valor econômico de um bem, mas também de sua importância histórica, social e simbólica para uma coletividade. É esse sentido compartilhado que justifica preservá-lo."
+    },
+    {
+      "question": "Ao decidir o que merece ser preservado como patrimônio, a perspectiva psicossocial enfatiza:",
+      "options": [
+        "a participação da comunidade que reconhece o bem como parte de sua história",
+        "a decisão exclusiva de órgãos técnicos, sem consulta aos grupos envolvidos",
+        "a escolha dos bens de maior valor de mercado para garantir sua manutenção",
+        "a seleção dos bens mais antigos, independentemente do uso que tenham hoje"
+      ],
+      "correctIndex": 0,
+      "explanation": "Se o valor do patrimônio está no sentido que tem para uma coletividade, quem vive aquela história precisa participar da decisão. Reduzir a escolha a critérios técnicos, de mercado ou de antiguidade ignora justamente o reconhecimento comunitário que define o patrimônio."
+    },
+    {
+      "question": "Preservar um prédio histórico pode ser importante para uma comunidade porque:",
+      "options": [
+        "o lugar condensa memórias, encontros e referências que sustentam a identidade",
+        "o imóvel tende a se valorizar no mercado depois de ser formalmente protegido",
+        "a preservação evita que a comunidade precise construir novos espaços de uso",
+        "o prédio garante, por si só, a continuidade das festas e saberes tradicionais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lugares associados à memória de uma comunidade são patrimônio material porque carregam histórias, encontros e referências compartilhadas. O valor é simbólico e identitário. O prédio sozinho não garante a continuidade das práticas imateriais, que dependem da transmissão entre pessoas."
+    },
+    {
+      "question": "Segundo a noção de memória coletiva, as lembranças individuais:",
+      "options": [
+        "são construídas e compartilhadas em contextos sociais, como família e comunidade",
+        "são registros privados que se formam de modo independente do grupo de origem",
+        "são cópias fiéis dos acontecimentos, preservadas sem interferência do presente",
+        "são sempre idênticas entre os membros de um grupo que viveu o mesmo episódio"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na memória coletiva, cuja referência clássica é Maurice Halbwachs, as lembranças individuais são construídas e compartilhadas em contextos sociais: famílias, comunidades e grupos transmitem histórias, tradições e referências que contribuem para a construção da identidade."
+    },
+    {
+      "question": "A memória coletiva contribui para a identidade de uma comunidade porque:",
+      "options": [
+        "transmite histórias e referências que dão sentido a quem somos e de onde viemos",
+        "fixa uma versão oficial e única do passado que todos os membros devem aceitar",
+        "substitui as lembranças individuais por registros documentais mais confiáveis",
+        "preserva os fatos históricos sem que o grupo precise reinterpretá-los ao longo do tempo"
+      ],
+      "correctIndex": 0,
+      "explanation": "As histórias coletivas contribuem para a construção de sentidos sobre quem somos e de onde viemos. A memória coletiva não é uma versão única e oficial nem um arquivo neutro: é transmitida e reinterpretada pelos grupos."
+    },
+    {
+      "question": "Os itens da imagem — histórias dos avós, fotografias de família, celebrações entre gerações, memórias de bairros e narrativas de migração — são exemplos de:",
+      "options": [
+        "memória coletiva, construída e transmitida nos grupos sociais",
+        "patrimônio material, por estarem registrados em objetos físicos",
+        "memória individual, por pertencerem à vida privada de cada um",
+        "documentação histórica oficial, validada por órgãos de proteção"
+      ],
+      "correctIndex": 0,
+      "explanation": "Histórias contadas pelos avós, fotografias de família, celebrações que atravessam gerações, memórias de bairros, comunidades e movimentos sociais, e narrativas sobre resistência, migração e pertencimento são exemplos de memória coletiva: lembranças compartilhadas e transmitidas nos grupos.",
+      "image": "pg17",
+      "imageCaption": "Exemplos de memória coletiva"
+    },
+    {
+      "question": "Afirmar que a memória coletiva não é necessariamente consensual significa que:",
+      "options": [
+        "grupos distintos lembram e interpretam o mesmo fato de modos diferentes",
+        "a memória coletiva é sempre falsa e não pode servir de referência a ninguém",
+        "cada indivíduo lembra sozinho, sem influência dos grupos a que pertence",
+        "todos os grupos acabam chegando à mesma versão depois de algum tempo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diferentes grupos podem recordar e interpretar o mesmo acontecimento de maneiras distintas. Por isso a memória coletiva é um campo de disputa: algumas histórias são valorizadas enquanto outras são silenciadas."
+    },
+    {
+      "question": "Ao reconhecer que a memória coletiva é um campo de disputa, deve-se considerar que:",
+      "options": [
+        "algumas histórias são valorizadas enquanto outras são silenciadas",
+        "todas as histórias de um grupo recebem o mesmo reconhecimento social",
+        "o silenciamento de uma história não interfere na identidade do grupo",
+        "apenas as histórias registradas por escrito chegam a formar memória"
+      ],
+      "correctIndex": 0,
+      "explanation": "Como a memória coletiva não é consensual, há histórias que ganham visibilidade e outras que são silenciadas. Esse silenciamento importa para a identidade e para o sofrimento dos grupos cujas narrativas são apagadas."
+    },
+    {
+      "question": "A preservação da memória cultural relaciona-se à saúde mental porque:",
+      "options": [
+        "sustenta pertencimento, identidade e vínculos que funcionam como apoio social",
+        "dispensa a necessidade de cuidado profissional nas comunidades tradicionais",
+        "afeta apenas o patrimônio físico, sem efeito sobre processos psicossociais",
+        "torna o sofrimento um problema estritamente individual de cada morador"
+      ],
+      "correctIndex": 0,
+      "explanation": "A preservação da memória cultural está diretamente relacionada aos processos psicossociais: fortalece o pertencimento, constrói sentidos de identidade e mantém vínculos sociais que formam redes de apoio. Sua perda tende a produzir sofrimento coletivo."
+    },
+    {
+      "question": "Na relação entre memória e saúde mental mostrada na imagem, qual dimensão descreve que festas, celebrações e práticas comunitárias favorecem encontros, solidariedade e redes de apoio?",
+      "options": [
+        "a dimensão dos vínculos sociais",
+        "a dimensão do pertencimento",
+        "a dimensão da reexistência",
+        "a dimensão de perda e ruptura"
+      ],
+      "correctIndex": 0,
+      "explanation": "São cinco dimensões: pertencimento (compartilhar referências fortalece o sentimento de fazer parte), identidade (histórias coletivas dão sentido a quem somos), vínculos sociais (festas e práticas favorecem encontros, solidariedade e redes de apoio), perda e ruptura (remoções e destruição de espaços geram sofrimento) e reexistência (recuperar histórias e se organizar reconstrói vínculos).",
+      "image": "pg20",
+      "imageCaption": "Memória coletiva e saúde mental: cinco dimensões"
+    },
+    {
+      "question": "Conhecer e compartilhar referências culturais fortalece o sentimento de fazer parte de um grupo. Essa afirmação descreve qual dimensão psicossocial?",
+      "options": [
+        "Pertencimento",
+        "Reexistência",
+        "Identidade",
+        "Continuidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pertencimento é o sentimento de fazer parte de um grupo, fortalecido quando as pessoas conhecem e compartilham referências culturais comuns. Identidade, por sua vez, refere-se aos sentidos sobre quem somos e de onde viemos."
+    },
+    {
+      "question": "Remoções territoriais, destruição de espaços de memória e interrupção de tradições produzem sofrimento especialmente quando acompanhadas de:",
+      "options": [
+        "violência, discriminação ou enfraquecimento dos vínculos comunitários",
+        "aumento das celebrações e da circulação de histórias entre gerações",
+        "oficinas comunitárias de registro das histórias e saberes do grupo",
+        "reconhecimento formal do território e participação nas decisões"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na dimensão de perda e ruptura, remoções territoriais, destruição de espaços de memória e interrupção de tradições podem gerar sofrimento, sobretudo quando acompanhadas de violência, discriminação ou enfraquecimento dos vínculos comunitários. As demais alternativas descrevem fatores de proteção."
+    },
+    {
+      "question": "O conceito de reexistência, aplicado a comunidades que sofreram perdas culturais, refere-se a:",
+      "options": [
+        "recuperar histórias, transmitir saberes e se organizar para reafirmar identidades",
+        "aceitar a perda do território como etapa natural da modernização das cidades",
+        "abandonar as tradições antigas para se adaptar rapidamente ao novo contexto",
+        "transferir para profissionais externos a tarefa de preservar a memória do grupo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Reexistência é a recuperação de histórias, a transmissão de saberes e a organização coletiva que contribuem para reconstruir vínculos e afirmar identidades. É resposta ativa da própria comunidade, não adaptação passiva nem delegação externa."
+    },
+    {
+      "question": "Diante de uma pessoa que sofre por perder não só a casa, mas o lugar onde a família construiu sua história, a Psicologia deve:",
+      "options": [
+        "compreender o sofrimento também como efeito da ruptura de memória e vínculos",
+        "tratar o caso como luto comum por um bem material, sem dimensão coletiva",
+        "focar na adaptação individual, ignorando o contexto da perda territorial",
+        "orientar a pessoa a esquecer o passado para seguir adiante com mais rapidez"
+      ],
+      "correctIndex": 0,
+      "explanation": "A perda envolve o lugar onde se constituíram história, memória e vínculos comunitários, e não só um bem material. Compreender o sofrimento exige considerar essa dimensão coletiva, identitária e territorial."
+    },
+    {
+      "question": "Qual princípio deve orientar a atuação psicológica diante de sofrimento produzido por desigualdade, deslocamento ou ruptura comunitária?",
+      "options": [
+        "não individualizar automaticamente um sofrimento de origem social",
+        "localizar a causa do sofrimento em características pessoais do sujeito",
+        "tratar o sofrimento como questão alheia ao trabalho em psicologia",
+        "priorizar o diagnóstico individual antes de olhar para o contexto"
+      ],
+      "correctIndex": 0,
+      "explanation": "A atuação psicológica não deve individualizar automaticamente um sofrimento produzido em contextos de desigualdade, deslocamento ou ruptura comunitária. Tratar como problema exclusivamente individual apaga as condições sociais que o produzem."
+    },
+    {
+      "question": "Uma comunidade tradicional removida de seu território perde a praça das celebrações e passa a ter dificuldade de reunir as gerações. Que elementos de patrimônio imaterial estão em jogo?",
+      "options": [
+        "festas, celebrações religiosas, saberes sobre plantas, receitas e histórias orais",
+        "apenas as casas e a praça, que são os bens concretos atingidos pela remoção",
+        "somente os documentos de posse da terra e os registros escritos da comunidade",
+        "apenas a renda das famílias, que muda com a transferência para outro bairro"
+      ],
+      "correctIndex": 0,
+      "explanation": "Festas, celebrações religiosas, conhecimentos sobre plantas, receitas, histórias orais e encontros entre famílias são práticas e saberes — patrimônio imaterial. A praça e as casas são o patrimônio material atingido; os dois se perdem juntos quando a comunidade é removida."
+    },
+    {
+      "question": "Na mesma comunidade removida, alguns moradores organizam encontros e oficinas para preservar as histórias e transmiti-las aos jovens. Essas iniciativas:",
+      "options": [
+        "podem fortalecer vínculos e identidade, contribuindo para a saúde coletiva",
+        "têm efeito apenas recreativo, sem impacto sobre o bem-estar psicossocial",
+        "substituem integralmente o território perdido e anulam todo o sofrimento",
+        "devem ser conduzidas por especialistas externos para terem validade real"
+      ],
+      "correctIndex": 0,
+      "explanation": "Registrar histórias, ensinar práticas aos jovens e recuperar festas preservam o patrimônio, fortalecem vínculos sociais e afirmam identidades — é a reexistência. Contribuem para a saúde coletiva, mas não apagam a perda nem precisam ser tuteladas de fora."
+    },
+    {
+      "question": "Ao atuar junto a uma comunidade que vive o apagamento de suas memórias, o psicólogo deve:",
+      "options": [
+        "construir ações com a comunidade, respeitando seus saberes e sua autonomia",
+        "definir sozinho as intervenções, pois detém o conhecimento técnico adequado",
+        "restringir-se ao atendimento individual dos moradores em maior sofrimento",
+        "propor a substituição das tradições por práticas de cuidado mais modernas"
+      ],
+      "correctIndex": 0,
+      "explanation": "A atuação deve ser culturalmente contextualizada: apoiar a organização coletiva, o registro de histórias e a transmissão de saberes, sem desconsiderar a cultura e a autonomia da comunidade. Impor o saber técnico ou reduzir tudo ao atendimento individual repete o apagamento."
+    },
+    {
+      "question": "Qual associação entre conceito e definição está correta?",
+      "options": [
+        "Memória coletiva: histórias, experiências e vínculos entre gerações",
+        "Patrimônio cultural: bens com alto valor de mercado e reconhecimento",
+        "Identidade: conjunto de traços herdados biologicamente pelo grupo",
+        "Saúde mental: ausência de conflitos nas relações da comunidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "As sínteses são: patrimônio cultural — bens, práticas, saberes e referências compartilhadas; memória coletiva — histórias, experiências e vínculos entre gerações; identidade e pertencimento — sentidos compartilhados e reconhecimento da própria história; saúde mental e comunidade — vínculos, apoio social, continuidade cultural e possibilidades de reexistência.",
+      "image": "pg27",
+      "imageCaption": "Síntese dos conceitos"
+    },
+    {
+      "question": "Preservar a memória de uma comunidade, numa perspectiva psicossocial, significa:",
+      "options": [
+        "reconhecer as histórias que constituem seus sujeitos e sustentam seus vínculos",
+        "conservar o passado como objeto de museu, separado da vida atual do grupo",
+        "registrar os fatos antigos para que deixem de interferir na vida presente",
+        "manter intactos os edifícios, ainda que as práticas do grupo desapareçam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Preservar a memória de uma comunidade não é apenas conservar o passado: é reconhecer as histórias que constituem seus sujeitos e os vínculos que ajudam a sustentar sua existência no presente."
+    }
+  ]
+}

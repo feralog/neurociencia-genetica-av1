@@ -1,0 +1,339 @@
+{
+  "titulo": "Identidade e Representações Sociais",
+  "eyebrow": "Psicologia Social · Identidade",
+  "subtitulo": "Quem somos nas relações e como o senso comum explica o mundo",
+  "intro": "Identidade como processo relacional e histórico (pressuposta, reposta, metamorfose) e a teoria das Representações Sociais de Moscovici: características, ancoragem, objetivação, exemplos e como investigá-las.",
+  "questoes": [
+    {
+      "question": "Responder à pergunta \"Quem é você?\" parece simples. Qual é o duplo efeito dessa resposta?",
+      "options": [
+        "Produz um conhecimento sobre nós e também nos torna reconhecíveis aos outros",
+        "Produz uma essência sobre nós e também nos torna independentes dos outros",
+        "Produz uma lembrança sobre nós e também nos torna indiferentes aos outros",
+        "Produz um julgamento sobre nós e também nos torna invisíveis para os outros"
+      ],
+      "correctIndex": 0,
+      "explanation": "Descrever quem somos tem duas faces: gera conhecimento sobre nós mesmos (como me descrevo?) e nos torna reconhecíveis aos outros (como sou reconhecido?). A identidade, portanto, envolve desde o início o olhar do outro."
+    },
+    {
+      "question": "Na perspectiva da Psicologia Social estudada, a identidade NÃO deve ser entendida como:",
+      "options": [
+        "Uma essência fixa, com características isoladas que permanecem iguais em todos os contextos",
+        "Um processo relacional, constituído nas relações sociais e nas condições históricas concretas",
+        "Algo produzido e reproduzido nas práticas sociais, envolvendo reconhecimento e expectativas",
+        "Um fenômeno que envolve posições, práticas e expectativas presentes nas relações sociais"
+      ],
+      "correctIndex": 0,
+      "explanation": "A identidade não é apenas \"algo dentro de mim\": não é uma essência fixa, um conjunto de características isoladas com definição igual em todos os contextos. É um processo relacional e histórico, produzido e reproduzido nas práticas sociais."
+    },
+    {
+      "question": "A identidade é constituída nas relações sociais. Quais elementos essas relações envolvem?",
+      "options": [
+        "Reconhecimento, posições, práticas, expectativas e condições históricas",
+        "Instintos, temperamento, herança genética, traços inatos e maturação",
+        "Introspecção, vontade própria, escolhas livres, talento e autoestima",
+        "Memória, atenção, percepção, raciocínio lógico e processamento cerebral"
+      ],
+      "correctIndex": 0,
+      "explanation": "A identidade é constituída nas relações sociais, que envolvem reconhecimento, posições, práticas, expectativas e condições históricas. Por isso ela é tratada como processo relacional e histórico, e não como atributo interno e isolado."
+    },
+    {
+      "question": "Observe o fluxo da imagem. Qual é a sequência que leva à identidade?",
+      "options": [
+        "Papéis e representações, relações, prática e, por fim, identidade",
+        "Prática, papéis e representações, identidade e, por fim, relações",
+        "Identidade, relações, papéis e representações e, por fim, prática",
+        "Relações, identidade, prática e, por fim, papéis e representações"
+      ],
+      "correctIndex": 0,
+      "explanation": "O fluxo vai de papéis e representações (\"é meu filho\", \"é professor\") às relações (expectativas, reconhecimento, lugares sociais), daí à prática (agir como filho, ensinar, trabalhar) e chega à identidade, que é reconhecida, reposta e transformada.",
+      "image": "pg05",
+      "imageCaption": "A identidade acontece nas relações"
+    },
+    {
+      "question": "Por que a representação \"é professor\" sozinha não basta para constituir uma identidade?",
+      "options": [
+        "Porque só ganha objetividade quando sustentada por relações e ações concretas",
+        "Porque só ganha objetividade quando confirmada por um diploma de nível superior",
+        "Porque só ganha objetividade quando a pessoa a aceita em sua vida interior",
+        "Porque só ganha objetividade quando descrita em testes padronizados de traço"
+      ],
+      "correctIndex": 0,
+      "explanation": "A representação e os papéis não bastam sozinhos: ganham objetividade quando sustentados por relações (expectativas, reconhecimento, lugares sociais) e por ações concretas, como efetivamente ensinar."
+    },
+    {
+      "question": "No fluxo da identidade, \"expectativas, reconhecimento e lugares sociais\" correspondem a qual etapa?",
+      "options": [
+        "Às relações, que ligam os papéis atribuídos às práticas concretas",
+        "Às práticas, que encerram o processo e fixam a identidade final",
+        "Aos papéis, que definem a essência imutável de cada pessoa",
+        "À identidade, que surge pronta antes de qualquer relação"
+      ],
+      "correctIndex": 0,
+      "explanation": "As relações são a etapa intermediária: os papéis e representações geram expectativas, reconhecimento e lugares sociais, que se concretizam em práticas (agir como filho, ensinar, trabalhar). Só então a identidade é reconhecida, reposta ou transformada."
+    },
+    {
+      "question": "Na imagem, como se define a identidade pressuposta?",
+      "options": [
+        "Aquilo que é atribuído ou esperado antes e que orienta as relações",
+        "Aquilo que é confirmado continuamente e atualizado nas práticas",
+        "Aquilo que a pessoa escolhe sozinha e mantém em qualquer contexto",
+        "Aquilo que surge depois da ruptura e substitui a identidade anterior"
+      ],
+      "correctIndex": 0,
+      "explanation": "Identidade pressuposta é o que é atribuído ou esperado de antemão e orienta as relações, como \"é meu filho\", \"é professor\", \"é trabalhador\". A confirmação contínua nas práticas é a identidade reposta.",
+      "image": "pg06",
+      "imageCaption": "Identidade pressuposta e identidade reposta"
+    },
+    {
+      "question": "A identidade reposta é aquela que:",
+      "options": [
+        "É continuamente confirmada, atualizada ou transformada nas relações e práticas",
+        "É atribuída antecipadamente pelos outros e dispensa confirmação no dia a dia",
+        "É herdada da família de origem e permanece estável por toda a existência",
+        "É definida pelo próprio sujeito isoladamente, sem depender do reconhecimento"
+      ],
+      "correctIndex": 0,
+      "explanation": "A identidade reposta é continuamente confirmada, atualizada ou transformada nas relações e práticas. Ela precisa ser reconhecida e sustentada no cotidiano, ao contrário da pressuposta, que é atribuída antes e orienta as relações."
+    },
+    {
+      "question": "A frase \"cada posição minha me determina\" deve ser entendida como:",
+      "options": [
+        "Parte da multiplicidade de determinações que compõe a existência concreta",
+        "Uma prisão absoluta que fixa a pessoa num único papel durante toda a vida",
+        "Uma escolha livre do indivíduo, que decide sozinho as posições que ocupa",
+        "Um traço biológico herdado, que se manifesta igual em todas as relações"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cada posição determina o sujeito não como prisão absoluta, mas como parte da multiplicidade de determinações que compõe a existência concreta. A pergunta-chave passa a ser: \"sou, mas sou quem, em qual relação?\""
+    },
+    {
+      "question": "\"É meu filho\", \"é professor\" e \"é trabalhador\" são exemplos de qual tipo de identidade?",
+      "options": [
+        "Identidade pressuposta, atribuída antes e orientando as relações",
+        "Identidade reposta, confirmada somente ao final de cada relação",
+        "Identidade essencial, fixa e igual em todos os contextos sociais",
+        "Identidade metamorfoseada, nascida da ruptura com o passado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Esses exemplos ilustram a identidade pressuposta: o que é atribuído ou esperado antes e orienta as relações. Para se manter, ela precisa ser reposta, isto é, reconhecida e sustentada no cotidiano."
+    },
+    {
+      "question": "Observe a sequência da imagem, de \"sou\" a \"novo sou\". O que ela representa?",
+      "options": [
+        "O movimento da permanência à transformação, passando pelas experiências vividas",
+        "O movimento da transformação à permanência, eliminando as experiências vividas",
+        "A fixação definitiva da identidade, que não se altera com as experiências vividas",
+        "A perda completa da identidade, sem qualquer continuidade com o que se viveu"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sequência sou, me reconheço, vivo experiências, não sou mais, novo \"sou\" vai da permanência à transformação. Ilustra a frase \"não reconheço mais aquele Fulano\": a identidade muda pelas experiências.",
+      "image": "pg07",
+      "imageCaption": "Da permanência à transformação"
+    },
+    {
+      "question": "Sobre a mudança de identidade (\"não reconheço mais aquele Fulano\"), é correto afirmar que:",
+      "options": [
+        "Pode ser mais ou menos previsível, desejável ou controlável e é atravessada por condições sociais",
+        "É sempre previsível, desejável e controlável, pois depende só da vontade do próprio indivíduo",
+        "É sempre imprevisível, indesejável e incontrolável, pois decorre de fatores biológicos internos",
+        "Só ocorre em situações de crise grave, e independe das condições sociais e dos valores vigentes"
+      ],
+      "correctIndex": 0,
+      "explanation": "A mudança pode ser mais ou menos previsível, desejável ou controlável, e está atravessada por condições sociais e valores. Não depende apenas da vontade nem é puramente aleatória."
+    },
+    {
+      "question": "A noção de identidade como metamorfose, ou desenvolvimento do concreto, sustenta que:",
+      "options": [
+        "Há continuidade e ruptura, reprodução e mudança, determinações e possibilidades",
+        "Há só ruptura e mudança, abandonando-se por completo toda a continuidade anterior",
+        "Há só continuidade e reprodução, sem nenhuma possibilidade real de transformação",
+        "Há só possibilidades livres de transformação, sem determinações sociais sobre ela"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na metamorfose não se abandona toda a continuidade: há continuidade e ruptura, reprodução e mudança, determinações sociais e possibilidades de transformação. A identidade deixa de ser essência e passa a ser analisada como processo."
+    },
+    {
+      "question": "Qual é a principal virada conceitual trazida pela ideia de identidade como metamorfose?",
+      "options": [
+        "A identidade deixa de ser tratada como essência e passa a ser analisada como processo",
+        "A identidade deixa de ser tratada como processo e passa a ser analisada como essência",
+        "A identidade deixa de ser tratada como social e passa a ser analisada como biológica",
+        "A identidade deixa de ser tratada como histórica e passa a ser analisada como inata"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pensar a identidade como metamorfose é pensá-la como desenvolvimento do concreto: em vez de essência fixa, é um processo com continuidade e ruptura, determinado socialmente, mas aberto à transformação."
+    },
+    {
+      "question": "Quem propôs o conceito de Representações Sociais e em que ano ele surgiu?",
+      "options": [
+        "Serge Moscovici, em 1961",
+        "Serge Moscovici, em 1981",
+        "Fritz Heider, em 1958",
+        "Kurt Lewin, em 1946"
+      ],
+      "correctIndex": 0,
+      "explanation": "Representações Sociais é um conceito do psicólogo social Moscovici, que surge em 1961. Designa modalidades de conhecimento prático, elaboradas e compartilhadas socialmente."
+    },
+    {
+      "question": "Representações Sociais são definidas como:",
+      "options": [
+        "Modalidades de conhecimento prático, elaboradas e compartilhadas socialmente, para compreender o mundo e comunicar",
+        "Modalidades de conhecimento científico, elaboradas e testadas em laboratório, para prever o comportamento humano",
+        "Modalidades de conhecimento individual, elaboradas e guardadas na memória, para resolver problemas privados",
+        "Modalidades de conhecimento inato, transmitidas e fixadas geneticamente, para orientar reflexos de sobrevivência"
+      ],
+      "correctIndex": 0,
+      "explanation": "Representações Sociais são modalidades de conhecimento prático, elaboradas e compartilhadas socialmente, orientadas para compreender o mundo e possibilitar a comunicação."
+    },
+    {
+      "question": "Representações Sociais são apenas conteúdos cognitivos?",
+      "options": [
+        "Não; envolvem também linguagem, afetos, relações sociais e contexto",
+        "Sim; são esquemas mentais individuais, separados de afeto e contexto",
+        "Não; envolvem apenas afetos, sem nenhum componente de conhecimento",
+        "Sim; restringem-se a informações científicas corretas sobre o mundo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Representações Sociais não são apenas conteúdos cognitivos: envolvem linguagem, afetos, relações sociais e contexto. Por isso pensar em \"psicólogo\" ou \"loucura\" evoca imagens, ideias, explicações e sentimentos."
+    },
+    {
+      "question": "Qual alternativa NÃO está entre as razões da importância das Representações Sociais?",
+      "options": [
+        "Medir com precisão os traços de personalidade estáveis de cada indivíduo",
+        "Compreender como as pessoas dão sentido à realidade em que estão inseridas",
+        "Compreender como o conhecimento cotidiano é produzido e compartilhado",
+        "Compreender como as representações orientam comportamentos e práticas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Estudar Representações Sociais serve para compreender como as pessoas dão sentido à realidade, a relação indivíduo-sociedade, como o conhecimento cotidiano é produzido e compartilhado, como orienta práticas e como os sentidos permanecem e se transformam. Medir traços estáveis vai na contramão disso."
+    },
+    {
+      "question": "Por que as Representações Sociais foram importantes para a Psicologia Social brasileira?",
+      "options": [
+        "Por superar o individualismo e questionar a neutralidade do conhecimento",
+        "Por reforçar o individualismo e afirmar a neutralidade do conhecimento",
+        "Por desprezar o senso comum e valorizar só o conhecimento científico",
+        "Por isolar o indivíduo da sociedade e estudá-lo apenas em laboratório"
+      ],
+      "correctIndex": 0,
+      "explanation": "Foram cinco contribuições: superação do individualismo na compreensão dos fenômenos sociais; centralidade da relação indivíduo-sociedade; valorização do conhecimento cotidiano e do senso comum; compreensão de como os significados orientam práticas; e questionamento da neutralidade e da universalidade do conhecimento."
+    },
+    {
+      "question": "Na teoria das Representações Sociais, a relação entre indivíduo e sociedade é descrita como:",
+      "options": [
+        "Nem determinismo nem voluntarismo: o sujeito constrói, reproduz, negocia ou transforma",
+        "Determinismo: a sociedade define completamente o indivíduo e aquilo que ele pensa",
+        "Voluntarismo: o indivíduo constrói sozinho aquilo que pensa, sem influência social",
+        "Neutralidade: indivíduo e sociedade não interferem um no outro na produção de sentido"
+      ],
+      "correctIndex": 0,
+      "explanation": "Não é determinismo (a sociedade não determina completamente o indivíduo) nem voluntarismo (o indivíduo não constrói sozinho o que pensa). O sujeito constrói representações a partir de relações, história, linguagem e grupos, e pode reproduzi-las, negociá-las ou transformá-las."
+    },
+    {
+      "question": "A representação \"mulher é mais cuidadosa\" pode produzir qual efeito prático?",
+      "options": [
+        "Expectativa de que mulheres assumam mais tarefas domésticas e de cuidado",
+        "Expectativa de que mulheres ocupem mais cargos de liderança e de comando",
+        "Expectativa de que homens assumam mais tarefas domésticas e de cuidado",
+        "Expectativa de que mulheres evitem profissões ligadas à saúde e ao ensino"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ao atribuir às mulheres cuidado, sensibilidade e responsabilidade, essa representação pode contribuir para a expectativa de que elas assumam mais tarefas domésticas e de cuidado. A pergunta crítica é quando uma característica socialmente construída passa a parecer \"natural\"."
+    },
+    {
+      "question": "A representação \"universidade não é lugar para pobre\" tende a influenciar principalmente:",
+      "options": [
+        "Projetos de vida, escolhas educacionais e sentimentos de pertencimento",
+        "Desempenho em testes de QI, memória de trabalho e atenção sustentada",
+        "Preferências estéticas, gostos musicais e escolhas de entretenimento",
+        "Características físicas, hábitos de sono e padrões de alimentação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Essa representação, que pode aparecer em famílias, escolas ou grupos sociais, produz expectativas sobre quem pertence ou não a determinados espaços e pode influenciar projetos de vida, escolhas educacionais e sentimentos de pertencimento."
+    },
+    {
+      "question": "A representação \"o nordestino é um homem forte\" tem efeito ambivalente porque:",
+      "options": [
+        "Valoriza a resistência do grupo, mas naturaliza sofrer sem demonstrar vulnerabilidade",
+        "Desvaloriza a resistência do grupo, mas protege contra o trabalho pesado e o sofrimento",
+        "Valoriza a fragilidade do grupo, mas naturaliza a recusa a qualquer trabalho pesado",
+        "Desvaloriza a história do grupo, mas estimula a expressão aberta da vulnerabilidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Associada a força, resistência, coragem e \"homem que não reclama\", ela pode produzir orgulho e identidade coletiva, valorizando a história de resistência do grupo; mas também naturaliza a ideia de que o nordestino deve suportar sofrimento, trabalho e dificuldades sem demonstrar vulnerabilidade."
+    },
+    {
+      "question": "Frases como \"a IA é como um Google muito mais inteligente\" ou \"vai acabar com os empregos\" ilustram que:",
+      "options": [
+        "A novidade é interpretada a partir de conhecimentos e valores já disponíveis",
+        "A novidade é interpretada apenas a partir de dados científicos atualizados",
+        "A novidade é rejeitada pelo senso comum até ser explicada pela ciência",
+        "A novidade é aceita sem interpretação, pois o senso comum é neutro"
+      ],
+      "correctIndex": 0,
+      "explanation": "O conhecimento científico circula socialmente e é reinterpretado por mídias, redes sociais, escola, família, trabalho e grupos. O senso comum produz explicações para tornar a realidade compreensível, interpretando a novidade a partir do que já conhece e valoriza."
+    },
+    {
+      "question": "Na imagem, qual característica das Representações Sociais corresponde a \"proteger e legitimar identidades sociais\"?",
+      "options": [
+        "A característica afetiva, que também organiza pertencimentos e diferenças",
+        "A característica cognitiva, que também transforma o estranho em familiar",
+        "A característica social, que também orienta condutas e comunicações",
+        "A característica histórica, que também fixa as identidades no tempo"
+      ],
+      "correctIndex": 0,
+      "explanation": "São três características: a cognitiva (familiarizar-se com a novidade, tornar o estranho compreensível), a afetiva (proteger e legitimar identidades sociais, organizar pertencimentos e diferenças) e a social (orientar condutas e comunicações, participar das trocas sociais).",
+      "image": "pg19",
+      "imageCaption": "As três características das Representações Sociais"
+    },
+    {
+      "question": "Quais são as duas funções principais (processos) das Representações Sociais?",
+      "options": [
+        "Ancoragem e objetivação",
+        "Assimilação e acomodação",
+        "Atribuição e dissonância",
+        "Projeção e racionalização"
+      ],
+      "correctIndex": 0,
+      "explanation": "As Representações Sociais possuem duas funções principais: a ancoragem, que insere o desconhecido em categorias já existentes, e a objetivação, que transforma noções abstratas em imagens aparentemente concretas."
+    },
+    {
+      "question": "Descrever a telemedicina como \"uma consulta normal, só que pelo celular\" exemplifica qual processo?",
+      "options": [
+        "Ancoragem: inserir o novo em conhecimentos e categorias já existentes",
+        "Objetivação: transformar uma noção abstrata em imagem concreta",
+        "Determinismo: a sociedade define integralmente o que se pensa",
+        "Voluntarismo: o indivíduo cria sozinho a sua explicação do mundo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ancoragem é dar nome ao desconhecido, inserindo-o em conhecimentos e categorias já existentes; o desconhecido é interpretado a partir do que o grupo já conhece e valoriza. A telemedicina é ancorada no atendimento médico tradicional e no uso do aparelho.",
+      "image": "pg20",
+      "imageCaption": "Ancoragem: o exemplo da telemedicina"
+    },
+    {
+      "question": "Na imagem, \"depressão\" é reduzida à figura de alguém triste e isolado na cama. Qual processo é ilustrado?",
+      "options": [
+        "Objetivação, em que a imagem passa a funcionar como se condensasse o fenômeno",
+        "Ancoragem, em que o fenômeno é classificado numa categoria médica já existente",
+        "Metamorfose, em que a identidade do sujeito se transforma pelas experiências",
+        "Identidade reposta, em que o papel social é confirmado na prática cotidiana"
+      ],
+      "correctIndex": 0,
+      "explanation": "Objetivação transforma noções abstratas em imagens e elementos aparentemente concretos, e a imagem pode passar a funcionar como se condensasse o próprio fenômeno. Com \"psicólogo\" acontece o mesmo: consultório, conversa, cérebro, paciente chorando.",
+      "image": "pg21",
+      "imageCaption": "Objetivação: \"psicólogo\" e \"depressão\""
+    },
+    {
+      "question": "Ao investigar uma representação social, qual conjunto de perguntas a Psicologia Social propõe?",
+      "options": [
+        "O quê, quem, como circula, em que contexto, quais afetos e quais práticas",
+        "O quê, quando, qual dosagem, qual prognóstico, qual causa e qual cura",
+        "Quem, quanto, qual traço, qual escore, qual norma e qual percentil",
+        "Por quê, qual gene, qual área cerebral, qual reflexo e qual instinto"
+      ],
+      "correctIndex": 0,
+      "explanation": "Investiga-se O QUE está sendo representado, QUEM produz e compartilha, COMO circula (linguagem, mídia, instituições, conversas), EM QUE CONTEXTO histórico e social se produz, QUAIS AFETOS e identidades estão envolvidos e QUAIS PRÁTICAS e efeitos ela orienta."
+    }
+  ]
+}

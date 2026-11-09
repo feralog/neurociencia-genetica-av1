@@ -1,0 +1,328 @@
+{
+  "titulo": "Movimentos Socioculturais",
+  "eyebrow": "Dinâmicas Culturais · Movimentos Sociais",
+  "subtitulo": "Feminismos, movimento negro, indígenas, quilombolas e população LGBTQIA+",
+  "intro": "Por que grupos se organizam coletivamente para reivindicar direitos, e como cinco movimentos socioculturais enfrentam desigualdades de gênero, raça, território e sexualidade. Fecha com interseccionalidade, efeitos da exclusão sobre a subjetividade e a atuação ética da Psicologia.",
+  "questoes": [
+    {
+      "question": "Por que determinados grupos sociais precisam se organizar coletivamente para reivindicar direitos?",
+      "options": [
+        "por desigualdade, relações de poder, identidade, reconhecimento e participação política",
+        "porque a organização coletiva é exigência legal para acessar qualquer política pública",
+        "porque as demandas individuais são sempre atendidas com mais rapidez pelas instituições",
+        "porque esses grupos rejeitam as instituições e preferem atuar fora de qualquer regra"
+      ],
+      "correctIndex": 0,
+      "explanation": "A organização coletiva responde a desigualdade, poder, identidade, reconhecimento e participação política. Quando direitos são negados a um grupo enquanto grupo, a resposta também precisa ser coletiva para ganhar visibilidade e força política."
+    },
+    {
+      "question": "Os movimentos socioculturais podem ser caracterizados como formas de mobilização coletiva que:",
+      "options": [
+        "questionam desigualdades, reivindicam reconhecimento e ampliam a participação política",
+        "buscam preservar a ordem social vigente e evitar mudanças nas relações de poder",
+        "atuam exclusivamente no campo artístico, sem relação com a conquista de direitos",
+        "defendem interesses individuais de lideranças sem vínculo com identidades coletivas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os movimentos socioculturais questionam desigualdades, reivindicam reconhecimento e ampliam a participação política. Relacionam-se à produção de identidades coletivas, ao enfrentamento das discriminações e às transformações sociais."
+    },
+    {
+      "question": "A análise de um movimento sociocultural considera, entre outros aspectos:",
+      "options": [
+        "reivindicações históricas e atuais, formas de mobilização e direitos conquistados",
+        "apenas o número de participantes e a frequência de manifestações de rua",
+        "somente a trajetória pessoal de suas lideranças mais conhecidas publicamente",
+        "exclusivamente as leis aprovadas, sem considerar as identidades envolvidas"
+      ],
+      "correctIndex": 0,
+      "explanation": "A análise de cada movimento observa suas reivindicações históricas e contemporâneas, suas formas de mobilização e suas contribuições para a conquista de direitos, além de sua relação com identidades coletivas, discriminações e transformações sociais."
+    },
+    {
+      "question": "Em uma instituição, mulheres relatam diferenças nas oportunidades de promoção e episódios de assédio; ao denunciar, algumas são desacreditadas ou responsabilizadas. Do ponto de vista das relações de poder, isso indica que:",
+      "options": [
+        "normas e práticas institucionais podem reproduzir desigualdades de gênero",
+        "o problema se restringe a conflitos pessoais entre colegas de trabalho",
+        "a desigualdade some quando as regras formais não mencionam o gênero",
+        "a responsabilidade pelo assédio recai sobre quem decide denunciá-lo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na situação de desigualdade de gênero e violência contra as mulheres, normas e práticas podem reproduzir desigualdades de gênero. Desacreditar ou responsabilizar quem denuncia é parte desse mecanismo, não um conflito interpessoal isolado.",
+      "image": "pg08",
+      "imageCaption": "Feminismos: desigualdade de gênero e violência contra as mulheres"
+    },
+    {
+      "question": "Quais impactos psicossociais são associados à desigualdade de gênero e ao assédio no ambiente institucional?",
+      "options": [
+        "medo, insegurança, sofrimento e redução do sentimento de pertencimento",
+        "aumento da confiança institucional e maior disposição para denunciar",
+        "efeitos apenas profissionais, sem repercussão sobre o bem-estar psíquico",
+        "fortalecimento do pertencimento das vítimas em relação à instituição"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os impactos psicossociais apontados são medo, insegurança, sofrimento e redução do sentimento de pertencimento. A violência de gênero atinge a subjetividade, não só a carreira."
+    },
+    {
+      "question": "Qual conjunto de ações coletivas responde à desigualdade de gênero e à violência contra as mulheres em uma instituição?",
+      "options": [
+        "prevenção, canais seguros de denúncia, responsabilização e educação para a igualdade",
+        "mediação informal entre vítima e agressor para evitar a exposição do caso",
+        "orientação às vítimas para que evitem situações que provoquem o assédio",
+        "transferência da vítima para outro setor, sem apuração do ocorrido"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ação coletiva envolve prevenção, canais seguros de denúncia, responsabilização e educação para a igualdade. As demais alternativas deslocam o problema para a vítima — exatamente o que se deve evitar ao enfrentar a violência sem responsabilizar as próprias vítimas."
+    },
+    {
+      "question": "Estudantes negros relatam comentários racistas, desvalorização de suas contribuições e pouca representação em espaços de decisão; ao reclamar, ouvem que estão exagerando. O conceito que explica a manutenção dessas desigualdades é:",
+      "options": [
+        "racismo institucional",
+        "preconceito individual",
+        "conflito interpessoal",
+        "diferença de desempenho"
+      ],
+      "correctIndex": 0,
+      "explanation": "Racismo institucional: práticas e normas podem manter desigualdades mesmo sem ofensas explícitas em todas as situações. Dizer que os estudantes estão exagerando é uma forma de invalidar a denúncia e preservar o padrão.",
+      "image": "pg09",
+      "imageCaption": "Movimento negro: discriminação racial no ambiente universitário"
+    },
+    {
+      "question": "Sobre o racismo institucional, é correto afirmar que ele:",
+      "options": [
+        "pode manter desigualdades mesmo sem ofensas explícitas em todas as situações",
+        "só existe quando há insultos raciais diretos e registrados contra alguém",
+        "depende da intenção consciente de cada pessoa que integra a instituição",
+        "desaparece quando a instituição promove uma palestra de conscientização"
+      ],
+      "correctIndex": 0,
+      "explanation": "O racismo institucional opera por práticas e normas que mantêm desigualdades, mesmo sem ofensas explícitas em todas as situações. Por isso não depende de intenção individual e não se resolve com ações pontuais de conscientização."
+    },
+    {
+      "question": "Quais impactos psicossociais o racismo no ambiente universitário pode produzir nos estudantes negros?",
+      "options": [
+        "desgaste, isolamento, insegurança e enfraquecimento do pertencimento acadêmico",
+        "maior integração ao grupo e reforço da confiança nos espaços de decisão",
+        "efeitos restritos ao rendimento nas provas, sem relação com a subjetividade",
+        "impactos passageiros, que desaparecem quando os comentários deixam de ocorrer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os impactos apontados são desgaste, isolamento, insegurança e enfraquecimento do pertencimento acadêmico. O racismo atinge a subjetividade e o sentimento de fazer parte da universidade."
+    },
+    {
+      "question": "Diante do racismo em uma universidade, quais mudanças vão além de ações pontuais de conscientização?",
+      "options": [
+        "escuta das denúncias, políticas antirracistas, revisão de práticas e referências negras",
+        "uma campanha anual de sensibilização, mantendo inalteradas as práticas institucionais",
+        "orientação aos estudantes negros para que relevem comentários considerados leves",
+        "atendimento psicológico individual aos estudantes, sem alteração das normas da casa"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ação coletiva proposta inclui escuta das denúncias, políticas antirracistas, revisão de práticas e valorização de referências negras. Como o racismo é institucional, a resposta precisa mudar normas e práticas, não só sensibilizar."
+    },
+    {
+      "question": "Uma comunidade indígena enfrenta pressões sobre seu território, e a restrição de acesso a áreas importantes dificulta práticas culturais e transmissão de conhecimentos. Qual afirmação expressa a relação entre território e identidade?",
+      "options": [
+        "o território pode sustentar vínculos, memória, espiritualidade e modos de vida",
+        "o território tem valor apenas econômico, ligado à produção de alimentos",
+        "a identidade indígena independe do território e se mantém em qualquer lugar",
+        "o território importa só para as gerações mais antigas da comunidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "O território pode sustentar vínculos, memória, espiritualidade e modos de vida. Restringir o acesso a áreas importantes afeta diretamente práticas culturais, transmissão de conhecimentos e atividades coletivas.",
+      "image": "pg10",
+      "imageCaption": "Povos indígenas: conflitos territoriais e preservação cultural"
+    },
+    {
+      "question": "No campo dos direitos e da autonomia dos povos indígenas, é correto afirmar que:",
+      "options": [
+        "os povos indígenas são diversos e devem participar das decisões que os afetam",
+        "os povos indígenas formam um grupo homogêneo, com demandas sempre idênticas",
+        "as decisões sobre territórios indígenas cabem apenas a órgãos técnicos externos",
+        "a autodeterminação indígena se limita à preservação de festas e rituais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os povos indígenas são diversos e devem participar das decisões que os afetam. Direitos originários, território, cultura e autodeterminação são os eixos de suas reivindicações."
+    },
+    {
+      "question": "Como a Psicologia pode apoiar o bem-estar de uma comunidade indígena sem impor referências culturais externas?",
+      "options": [
+        "construindo ações em diálogo com a comunidade, respeitando seus saberes e organização",
+        "aplicando protocolos padronizados de intervenção, iguais aos usados em centros urbanos",
+        "substituindo as práticas tradicionais de cuidado por técnicas clínicas reconhecidas",
+        "definindo previamente as prioridades da comunidade com base no diagnóstico técnico"
+      ],
+      "correctIndex": 0,
+      "explanation": "A atuação da Psicologia junto a povos indígenas consiste em construir ações em diálogo com a comunidade, respeitando seus saberes e sua organização. Protocolos impostos de fora repetem a lógica que desconsidera a autodeterminação."
+    },
+    {
+      "question": "Uma comunidade quilombola reivindica o reconhecimento de seu território, e a ameaça de remoção põe em risco lugares de memória, práticas tradicionais e redes de convivência entre gerações. Nesse contexto, a terra se relaciona a:",
+      "options": [
+        "continuidade da vida comunitária e reconhecimento coletivo",
+        "valor de mercado do imóvel e direito de propriedade individual",
+        "local de moradia substituível por qualquer outro de igual tamanho",
+        "espaço de produção agrícola, sem relação com memória ou identidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para as comunidades quilombolas, a terra se relaciona à continuidade da vida comunitária e ao reconhecimento coletivo. Por isso a remoção não é mera mudança de endereço: ameaça lugares de memória e redes entre gerações.",
+      "image": "pg11",
+      "imageCaption": "Comunidades quilombolas: reconhecimento territorial e memória coletiva"
+    },
+    {
+      "question": "Nas comunidades quilombolas, a memória coletiva é transmitida e fortalecida por meio de:",
+      "options": [
+        "narrativas, celebrações e saberes que fortalecem identidade e pertencimento",
+        "registros oficiais produzidos por órgãos públicos sobre a origem do grupo",
+        "lembranças individuais guardadas por cada família sem circulação coletiva",
+        "documentos de posse da terra emitidos após o reconhecimento do território"
+      ],
+      "correctIndex": 0,
+      "explanation": "Narrativas, celebrações e saberes transmitem histórias e fortalecem identidade e pertencimento. A ação comunitária valoriza a participação local, a transmissão de memórias e a articulação com políticas públicas."
+    },
+    {
+      "question": "Quais são os eixos centrais das reivindicações das comunidades quilombolas?",
+      "options": [
+        "memória coletiva, identidade, territorialidade e resistência",
+        "igualdade salarial, licença parental e combate ao assédio",
+        "inclusão digital, mobilidade urbana e acesso ao crédito",
+        "cidadania, nome social e proteção contra a homofobia"
+      ],
+      "correctIndex": 0,
+      "explanation": "As comunidades quilombolas articulam memória coletiva, identidade, territorialidade e resistência. Os distratores misturam pautas de outros movimentos (feminismos, população LGBTQIA+) ou temas sem relação com o grupo."
+    },
+    {
+      "question": "O que uma comunidade quilombola perde quando perde acesso aos lugares que sustentam sua memória?",
+      "options": [
+        "referências que transmitem histórias e sustentam identidade e vínculos",
+        "apenas o valor econômico das construções localizadas naquela área",
+        "somente o espaço físico, facilmente reconstituído em outro endereço",
+        "nada de relevante, desde que receba indenização pelo terreno perdido"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os lugares de memória sustentam narrativas, celebrações e saberes que transmitem histórias e fortalecem identidade e pertencimento. A perda é simbólica e relacional, não apenas material, e não se compensa com indenização."
+    },
+    {
+      "question": "Estudantes LGBTQIA+ relatam piadas, constrangimentos e exclusão de atividades; alguns evitam participar ou procurar ajuda por receio de novas discriminações. Em termos de clima institucional, a discriminação:",
+      "options": [
+        "compromete segurança, participação e acesso igualitário à educação",
+        "afeta apenas a convivência social, sem impacto no acesso à educação",
+        "é irrelevante enquanto os estudantes mantêm frequência regular às aulas",
+        "se resolve quando os estudantes deixam de participar das atividades"
+      ],
+      "correctIndex": 0,
+      "explanation": "A discriminação compromete segurança, participação e acesso igualitário à educação. O fato de alguns estudantes evitarem participar ou pedir ajuda é efeito desse clima, não solução.",
+      "image": "pg12",
+      "imageCaption": "População LGBTQIA+: discriminação e exclusão em espaços educacionais"
+    },
+    {
+      "question": "Quais impactos psicossociais a discriminação em espaços educacionais pode produzir em estudantes LGBTQIA+?",
+      "options": [
+        "estresse, isolamento e diminuição do sentimento de pertencimento",
+        "maior engajamento e busca ativa por ajuda nos serviços da escola",
+        "efeitos apenas acadêmicos, sem repercussão emocional relevante",
+        "fortalecimento da confiança nos colegas e na equipe da instituição"
+      ],
+      "correctIndex": 0,
+      "explanation": "Estresse, isolamento e diminuição do sentimento de pertencimento são os impactos psicossociais associados. O receio de novas discriminações leva estudantes a evitar participar e a não procurar ajuda."
+    },
+    {
+      "question": "Como garantir proteção, acolhimento e participação de estudantes LGBTQIA+ sem estigmatizá-los?",
+      "options": [
+        "protocolos contra discriminação, acolhimento, formação da equipe e respeito à dignidade",
+        "separação dos estudantes LGBTQIA+ em turmas próprias para evitar novos conflitos",
+        "orientação para que os estudantes evitem expor sua identidade no espaço escolar",
+        "punição dos episódios apenas quando houver agressão física comprovada e registrada"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ação coletiva proposta envolve protocolos contra discriminação, acolhimento, formação da equipe e respeito à dignidade. Separar ou pedir que se ocultem reforça o estigma em vez de enfrentar a discriminação."
+    },
+    {
+      "question": "O movimento LGBTQIA+ tem como eixos de reivindicação:",
+      "options": [
+        "reconhecimento, cidadania e enfrentamento da discriminação",
+        "direitos originários, território e autodeterminação dos povos",
+        "territorialidade, memória coletiva e titulação de terras",
+        "igualdade de gênero e enfrentamento da violência contra mulheres"
+      ],
+      "correctIndex": 0,
+      "explanation": "O movimento LGBTQIA+ se organiza em torno de reconhecimento, cidadania e enfrentamento da discriminação. As demais alternativas descrevem eixos dos povos indígenas, das comunidades quilombolas e dos feminismos."
+    },
+    {
+      "question": "A interseccionalidade, no estudo dos movimentos socioculturais, refere-se a:",
+      "options": [
+        "como raça, gênero, classe, sexualidade e território se articulam produzindo desigualdades",
+        "a soma independente de cada discriminação, analisada separadamente das outras formas",
+        "a prioridade de uma única opressão principal, da qual todas as demais derivariam",
+        "a ideia de que pertencer a vários grupos protege o indivíduo contra a exclusão"
+      ],
+      "correctIndex": 0,
+      "explanation": "Interseccionalidade é a análise de como raça, gênero, classe social, sexualidade e território podem se articular na produção de desigualdades e de experiências distintas de pertencimento. As opressões não se somam separadamente: combinam-se."
+    },
+    {
+      "question": "Uma mulher negra, quilombola e de baixa renda enfrenta barreiras diferentes das de uma mulher branca de classe média. A perspectiva que permite analisar essa diferença é:",
+      "options": [
+        "a perspectiva interseccional",
+        "a perspectiva meritocrática",
+        "a assimilação cultural",
+        "a neutralidade institucional"
+      ],
+      "correctIndex": 0,
+      "explanation": "A interseccionalidade mostra que raça, gênero, classe social e território se articulam e produzem experiências distintas de desigualdade e de pertencimento. Analisar só o gênero ocultaria as outras dimensões que pesam sobre essa mulher."
+    },
+    {
+      "question": "Como a exclusão social e a negação de direitos podem afetar as pessoas, segundo a Psicologia Social?",
+      "options": [
+        "afetam a subjetividade e a saúde mental, não apenas as condições materiais",
+        "afetam só as condições materiais, sem repercussão sobre a subjetividade",
+        "produzem efeitos apenas em pessoas com predisposição individual prévia",
+        "geram efeitos transitórios, que cessam ao fim de cada episódio vivido"
+      ],
+      "correctIndex": 0,
+      "explanation": "A exclusão social e a negação de direitos afetam a subjetividade e a saúde mental. Em todos os movimentos analisados aparecem impactos psicossociais: medo, insegurança, desgaste, isolamento, estresse e redução do pertencimento."
+    },
+    {
+      "question": "Compreender os movimentos socioculturais é fundamental para uma Psicologia que:",
+      "options": [
+        "reconheça a dimensão social da subjetividade e se comprometa com os Direitos Humanos",
+        "trate o sofrimento como fenômeno estritamente individual e alheio ao contexto social",
+        "mantenha distância das questões políticas para preservar sua neutralidade técnica",
+        "se limite ao consultório, deixando as desigualdades sociais para outras áreas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Compreender os movimentos socioculturais é fundamental para uma Psicologia que reconheça a dimensão social da subjetividade e esteja comprometida com a dignidade humana e os Direitos Humanos."
+    },
+    {
+      "question": "No mapa-síntese dos movimentos socioculturais, o eixo \"Psicologia e Direitos Humanos\" reúne:",
+      "options": [
+        "escuta ética, combate ao preconceito e fortalecimento da autonomia",
+        "organização, participação e reivindicação de direitos coletivos",
+        "pertencimento, memória e reconhecimento da diversidade cultural",
+        "cidadania, inclusão e justiça social para a população LGBTQIA+"
+      ],
+      "correctIndex": 0,
+      "explanation": "O mapa tem cinco eixos: lutas coletivas (organização, participação, reivindicação de direitos), identidade e cultura (pertencimento, memória, reconhecimento da diversidade), enfrentamento das desigualdades (feminismos, movimento negro, povos indígenas, quilombolas), direitos e transformação (população LGBTQIA+, cidadania, inclusão, justiça social) e Psicologia e Direitos Humanos (escuta ética, combate ao preconceito, fortalecimento da autonomia).",
+      "image": "pg15",
+      "imageCaption": "Mapa-síntese dos movimentos socioculturais"
+    },
+    {
+      "question": "Como a Psicologia pode contribuir para a transformação social junto a movimentos e grupos historicamente discriminados?",
+      "options": [
+        "sem desconsiderar a autonomia, os saberes e as experiências dos próprios grupos",
+        "assumindo a liderança das reivindicações, por possuir conhecimento técnico",
+        "definindo pelos grupos quais demandas são legítimas e quais devem ser deixadas",
+        "evitando qualquer envolvimento, para não comprometer a neutralidade profissional"
+      ],
+      "correctIndex": 0,
+      "explanation": "A contribuição da Psicologia para a transformação social deve se dar sem desconsiderar a autonomia, os saberes e as experiências dos próprios grupos — com escuta ética, combate ao preconceito e fortalecimento da autonomia."
+    },
+    {
+      "question": "A Lei nº 10.639/2003 e a Lei nº 11.645/2008 tratam, respectivamente, de:",
+      "options": [
+        "história e cultura afro-brasileira; história e cultura indígena",
+        "história e cultura indígena; história e cultura afro-brasileira",
+        "proteção contra a violência de gênero; direitos LGBTQIA+",
+        "demarcação de terras indígenas; territórios quilombolas"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Lei 10.639/2003 trata do ensino de história e cultura afro-brasileira; a Lei 11.645/2008 incorpora a história e cultura indígena. As duas fundamentam a educação para as relações étnico-raciais e a educação antirracista."
+    }
+  ]
+}

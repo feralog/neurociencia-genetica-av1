@@ -1,0 +1,341 @@
+{
+  "titulo": "A Arquitetura do Pensamento",
+  "eyebrow": "Processos Psicológicos · Pensamento e Decisão",
+  "subtitulo": "Representações mentais, caminhos lógicos e os vieses da decisão",
+  "intro": "Como a mente codifica a realidade em conceitos, protótipos e imagens, como raciocina pelos sistemas 1 e 2 e pela dedução e indução, como decide, e por que os atalhos mentais produzem vieses.",
+  "questoes": [
+    {
+      "question": "A forma de representação mental que agrupa ideias, objetos ou eventos com características comuns sob uma mesma categoria é o:",
+      "options": [
+        "conceito",
+        "protótipo",
+        "heurística",
+        "silogismo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O conceito é o agrupamento mental de ideias: reúne sob uma categoria (como 'fruta' ou 'móvel') elementos que compartilham propriedades. O protótipo é o exemplar mais representativo dessa categoria; heurística é um atalho de decisão e silogismo, uma forma de raciocínio dedutivo."
+    },
+    {
+      "question": "Ao ouvir a palavra 'pássaro', a maioria das pessoas pensa primeiro em um sabiá ou num pardal, e não num pinguim. O exemplar que vem à mente é um:",
+      "options": [
+        "protótipo, o modelo mais representativo da categoria",
+        "conceito, o agrupamento abstrato de toda a categoria",
+        "viés de ancoragem, preso à primeira informação ouvida",
+        "raciocínio dedutivo, partindo da regra para o caso"
+      ],
+      "correctIndex": 0,
+      "explanation": "Protótipo é o modelo mais representativo de uma categoria. O sabiá reúne os traços típicos de pássaro (voa, é pequeno, canta), enquanto o pinguim é membro atípico. Classificamos novos estímulos comparando-os com esse exemplar típico."
+    },
+    {
+      "question": "Uma pessoa de olhos fechados consegue 'ver' a fachada da casa onde cresceu e contar quantas janelas ela tem. Que representação mental está em uso?",
+      "options": [
+        "imagem mental, uma simulação sensorial interna",
+        "protótipo, o exemplar mais típico de uma casa",
+        "conceito, o agrupamento abstrato de moradias",
+        "heurística, o atalho que acelera a decisão"
+      ],
+      "correctIndex": 0,
+      "explanation": "Imagem mental é a simulação sensorial interna: a mente reconstrói uma experiência perceptiva sem o estímulo presente. Contar as janelas 'olhando' a casa imaginada é usar a representação como se fosse uma percepção."
+    },
+    {
+      "question": "Observe as três formas de representação do conhecimento mostradas na figura. Qual delas é definida como o modelo mais representativo de uma categoria?",
+      "options": [
+        "Protótipos",
+        "Conceitos",
+        "Heurísticas",
+        "Silogismos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A figura organiza a construção do conhecimento em três representações: conceitos (agrupamento mental de ideias), protótipos (o modelo mais representativo) e imagens mentais (simulação sensorial interna).",
+      "image": "pg03",
+      "imageCaption": "A construção do conhecimento: como a mente codifica a realidade"
+    },
+    {
+      "question": "Entre as três vantagens atribuídas aos protótipos, a chamada economia corresponde a:",
+      "options": [
+        "Redução do esforço cognitivo",
+        "Reconhecimento imediato do estímulo",
+        "Classificação de novos estímulos",
+        "Eliminação de erros de categoria"
+      ],
+      "correctIndex": 0,
+      "explanation": "Três forças são atribuídas aos protótipos: eficiência (reconhecimento imediato), economia (redução do esforço cognitivo) e flexibilidade (classificação de novos estímulos). Eliminar erros não está entre elas — o protótipo troca exatidão por rapidez.",
+      "image": "pg04",
+      "imageCaption": "A força dos protótipos"
+    },
+    {
+      "question": "Uma criança que nunca viu um ornitorrinco o classifica rapidamente como 'animal' ao vê-lo no zoológico. Essa capacidade ilustra qual vantagem dos protótipos?",
+      "options": [
+        "flexibilidade, ao classificar estímulos novos",
+        "economia, ao dispensar todo esforço mental",
+        "eficiência, ao memorizar cada exemplar visto",
+        "precisão, ao eliminar erros de categorização"
+      ],
+      "correctIndex": 0,
+      "explanation": "Flexibilidade é a capacidade de classificar novos estímulos comparando-os com o protótipo. A criança encaixa o ornitorrinco numa categoria conhecida sem precisar ter visto aquele exemplar antes."
+    },
+    {
+      "question": "No modelo dual da mente, o Sistema 1 se caracteriza por ser:",
+      "options": [
+        "rápido, automático, intuitivo e de pouco esforço",
+        "lento, controlado, lógico e de alto esforço",
+        "rápido, controlado, analítico e de alto esforço",
+        "lento, automático, intuitivo e de pouco esforço"
+      ],
+      "correctIndex": 0,
+      "explanation": "O Sistema 1 é rápido, automático, intuitivo e exige pouco esforço. O Sistema 2 é o oposto: devagar, controlado, lógico e analítico, com alto esforço cognitivo. As alternativas erradas misturam atributos dos dois.",
+      "image": "pg06",
+      "imageCaption": "Dois sistemas de raciocínio: o modelo dual da mente"
+    },
+    {
+      "question": "Calcular de cabeça 17 × 24, conferindo cada etapa, é tarefa típica de qual sistema de raciocínio?",
+      "options": [
+        "Sistema 2, controlado, analítico e de alto esforço",
+        "Sistema 1, automático, intuitivo e de pouco esforço",
+        "Sistema 1, porque envolve cálculo já memorizado",
+        "Sistema 2, porque dispensa atenção e concentração"
+      ],
+      "correctIndex": 0,
+      "explanation": "Uma multiplicação de dois dígitos não sai pronta: exige seguir passos, sustentar resultados parciais e conferi-los. É raciocínio controlado, lógico e custoso — o Sistema 2. Já '2 + 2' sai sozinho, pelo Sistema 1."
+    },
+    {
+      "question": "Qual situação é mais típica do Sistema 1?",
+      "options": [
+        "Perceber raiva num rosto assim que o vê",
+        "Comparar duas propostas de financiamento",
+        "Montar o argumento de uma redação",
+        "Conferir a lógica de um silogismo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ler a emoção de um rosto acontece de forma automática, imediata e sem esforço — marca do Sistema 1. Comparar propostas, argumentar e conferir silogismos exigem análise deliberada, que é trabalho do Sistema 2."
+    },
+    {
+      "question": "Um motorista novato precisa pensar em cada troca de marcha; anos depois, dirige conversando sem notar o câmbio. Em termos do modelo dual, isso indica que:",
+      "options": [
+        "a tarefa migrou do Sistema 2 para o Sistema 1",
+        "a tarefa migrou do Sistema 1 para o Sistema 2",
+        "a tarefa passou a depender de raciocínio dedutivo",
+        "a tarefa passou a exigir alto esforço cognitivo"
+      ],
+      "correctIndex": 0,
+      "explanation": "No início a tarefa é controlada e custosa (Sistema 2). Com a prática ela se automatiza e passa a correr de modo rápido e com pouco esforço (Sistema 1), liberando a atenção para outra atividade, como conversar."
+    },
+    {
+      "question": "O raciocínio dedutivo se define por partir:",
+      "options": [
+        "da regra geral para o caso específico, com conclusão garantida",
+        "de casos específicos para a regra, com conclusão provável",
+        "da intuição imediata para a ação, sem conclusão explícita",
+        "da emoção para a escolha, com conclusão sempre enviesada"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dedução vai da regra geral ao caso específico: se as premissas forem verdadeiras e a forma válida, a conclusão está logicamente garantida. A indução faz o caminho inverso e chega a conclusões probabilísticas.",
+      "image": "pg07",
+      "imageCaption": "Motores da decisão estruturada"
+    },
+    {
+      "question": "'Todos os mamíferos têm pulmões. A baleia é um mamífero. Logo, a baleia tem pulmões.' Esse raciocínio é:",
+      "options": [
+        "dedutivo, e a conclusão está logicamente garantida",
+        "indutivo, e a conclusão é apenas provável",
+        "dedutivo, e a conclusão é apenas provável",
+        "indutivo, e a conclusão está logicamente garantida"
+      ],
+      "correctIndex": 0,
+      "explanation": "Parte-se de uma regra geral (todos os mamíferos têm pulmões) para um caso específico (a baleia). É dedução: se as premissas são verdadeiras, a conclusão não pode ser falsa."
+    },
+    {
+      "question": "Um pesquisador observa centenas de cisnes, todos brancos, e conclui que 'todos os cisnes são brancos'. Sobre esse raciocínio é correto afirmar:",
+      "options": [
+        "É indutivo, e a conclusão é probabilística, sujeita a revisão",
+        "É dedutivo, e a conclusão é garantida pelas observações",
+        "É indutivo, e a conclusão é garantida pelo número de casos",
+        "É dedutivo, e a conclusão vale só para os cisnes vistos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Casos específicos formam a regra: é indução. Por mais casos que se acumulem, a conclusão é de natureza probabilística — basta um cisne negro para derrubá-la. Garantia lógica é propriedade da dedução, não da indução."
+    },
+    {
+      "question": "Por que as conclusões do raciocínio indutivo são de natureza probabilística?",
+      "options": [
+        "Porque generalizam a partir de casos observados, que nunca esgotam todos os casos",
+        "Porque partem de uma regra geral, que pode ter sido formulada de modo incorreto",
+        "Porque dependem do Sistema 1, que opera sempre de forma automática e intuitiva",
+        "Porque são filtradas por marcadores somáticos antes da análise consciente"
+      ],
+      "correctIndex": 0,
+      "explanation": "A indução extrai uma regra de casos específicos. Como os casos observados nunca cobrem todos os casos possíveis, a regra é uma aposta bem fundamentada, não uma certeza. Partir de uma regra geral é o movimento da dedução."
+    },
+    {
+      "question": "Observe o processo decisório representado. Qual é a etapa que vem logo após a identificação do problema?",
+      "options": [
+        "Geração de alternativas, com o mapeamento das opções viáveis",
+        "Avaliação lógica, com a escolha dedutiva ou indutiva final",
+        "Busca de confirmação, com a validação da opinião prévia",
+        "Insight súbito, com a solução vinda do processamento inconsciente"
+      ],
+      "correctIndex": 0,
+      "explanation": "O processo decisório estruturado tem três etapas: identificação do problema (definição clara do objetivo), geração de alternativas (mapeamento de opções viáveis) e avaliação lógica (escolha dedutiva ou indutiva final).",
+      "image": "pg08",
+      "imageCaption": "O processo decisório em três etapas"
+    },
+    {
+      "question": "No processo decisório estruturado, a etapa de identificação do problema consiste em:",
+      "options": [
+        "definir com clareza o objetivo a ser alcançado",
+        "mapear todas as opções viáveis para a escolha",
+        "escolher a opção por dedução ou por indução",
+        "testar a opção escolhida e corrigir os erros"
+      ],
+      "correctIndex": 0,
+      "explanation": "Identificar o problema é definir claramente o objetivo. Mapear opções é a geração de alternativas, e escolher por dedução ou indução é a avaliação lógica — segunda e terceira etapas, respectivamente."
+    },
+    {
+      "question": "Segundo a hipótese dos marcadores somáticos, as emoções participam da decisão porque:",
+      "options": [
+        "filtram opções antes da análise consciente",
+        "entram só depois da escolha, para justificá-la",
+        "atrapalham sempre a escolha e devem ser anuladas",
+        "substituem por completo a avaliação lógica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marcadores somáticos são sinais corporais ligados a experiências emocionais passadas. Eles filtram opções antes da análise consciente, descartando caminhos associados a mal-estar e reduzindo o leque que a razão precisa avaliar. A decisão não é lógica pura."
+    },
+    {
+      "question": "Ao considerar uma proposta de negócio, um empresário sente um 'aperto no estômago' e descarta a ideia antes mesmo de analisar os números. O fenômeno descrito corresponde a:",
+      "options": [
+        "um marcador somático filtrando a opção",
+        "um insight após incubação inconsciente",
+        "um raciocínio indutivo sobre os números",
+        "uma imagem mental da proposta recusada"
+      ],
+      "correctIndex": 0,
+      "explanation": "A reação corporal ligada à emoção sinaliza a opção como ruim e a elimina antes da análise consciente — é o papel dos marcadores somáticos. O insight, ao contrário, é a compreensão súbita da solução de um problema."
+    },
+    {
+      "question": "Depois de horas travado num problema, um estudante desiste, vai tomar banho e, de repente, enxerga a solução inteira. O fenômeno é chamado de:",
+      "options": [
+        "insight, compreensão súbita após processamento inconsciente",
+        "ancoragem, fixação na primeira informação recebida",
+        "dedução, aplicação de regra geral a um caso específico",
+        "disponibilidade, foco nas memórias mais recentes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Insight é a compreensão súbita — o 'Eureka!' — que surge depois de um período de processamento inconsciente. A solução não é construída passo a passo de modo consciente; ela aparece de uma vez.",
+      "image": "pg09",
+      "imageCaption": "Além da lógica pura: emoções e insight"
+    },
+    {
+      "question": "Heurísticas são definidas como:",
+      "options": [
+        "atalhos mentais, regras práticas que aceleram decisões complexas",
+        "regras lógicas formais, que garantem a conclusão correta",
+        "distorções emocionais, que impedem qualquer decisão rápida",
+        "lembranças recentes, que substituem o raciocínio analítico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Heurísticas são atalhos mentais: regras práticas que tornam rápidas decisões que seriam complexas. Elas funcionam bem na maior parte do tempo, mas, por trocarem exatidão por velocidade, geram erros sistemáticos — os vieses."
+    },
+    {
+      "question": "Qual a relação entre heurísticas e vieses cognitivos?",
+      "options": [
+        "Os vieses são erros sistemáticos produzidos pelo uso de atalhos",
+        "Os vieses são atalhos, e as heurísticas são os erros deles",
+        "Heurísticas e vieses são processos independentes entre si",
+        "Os vieses surgem só no Sistema 2, as heurísticas no Sistema 1"
+      ],
+      "correctIndex": 0,
+      "explanation": "A heurística é o atalho; o viés é o desvio sistemático que esse atalho produz quando a situação foge do padrão. É o custo da velocidade: a mente prefere o fácil ao correto."
+    },
+    {
+      "question": "Logo após assistir a várias reportagens sobre acidentes aéreos, uma pessoa passa a considerar o avião mais perigoso que o carro. Esse julgamento ilustra o viés de:",
+      "options": [
+        "disponibilidade, foco em memórias recentes",
+        "ancoragem, prisão à informação inicial",
+        "representatividade, aparência típica",
+        "confirmação, busca de validação prévia"
+      ],
+      "correctIndex": 0,
+      "explanation": "No viés de disponibilidade, julga-se a frequência ou o risco de algo pela facilidade com que exemplos vêm à memória — sobretudo memórias recentes e vívidas. As reportagens tornam os acidentes aéreos 'disponíveis', e o risco parece maior do que é."
+    },
+    {
+      "question": "Numa negociação, o vendedor abre pedindo um valor muito alto; mesmo com descontos, o comprador acaba pagando mais do que pretendia. O fenômeno é o viés de:",
+      "options": [
+        "ancoragem, prisão à informação inicial",
+        "disponibilidade, foco em memórias recentes",
+        "representatividade, aparência típica",
+        "confirmação, busca de validação prévia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ancoragem é a prisão à informação inicial: o primeiro número apresentado vira referência, e os ajustes feitos a partir dele são insuficientes. O preço de abertura 'ancora' toda a negociação."
+    },
+    {
+      "question": "Ao saber que alguém é tímido, organizado e gosta de livros, muitos concluem que ele é bibliotecário e não vendedor, ignorando que há muito mais vendedores. O viés em jogo é o de:",
+      "options": [
+        "representatividade, aparência típica",
+        "ancoragem, prisão à informação inicial",
+        "disponibilidade, foco em memórias recentes",
+        "confirmação, busca de validação prévia"
+      ],
+      "correctIndex": 0,
+      "explanation": "Representatividade é julgar pela semelhança com a aparência típica (o estereótipo do bibliotecário), desconsiderando a frequência real das categorias. É o mesmo mecanismo do protótipo usado fora de lugar."
+    },
+    {
+      "question": "Os quatro vieses clássicos aparecem na figura, cada um com uma definição curta. Qual definição corresponde ao viés de confirmação?",
+      "options": [
+        "Busca por validação de crença prévia",
+        "Prisão à primeira informação recebida",
+        "Foco nas memórias mais recentes",
+        "Julgamento por aparências típicas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os quatro vieses clássicos: disponibilidade (foco em memórias recentes), ancoragem (prisão à informação inicial), representatividade (julgamento por aparências típicas) e confirmação (busca por validação prévia).",
+      "image": "pg12",
+      "imageCaption": "Os quatro vieses clássicos"
+    },
+    {
+      "question": "Uma pessoa convicta de que determinado remédio funciona lê apenas os depoimentos favoráveis e descarta os estudos que mostram ausência de efeito. O comportamento caracteriza o viés de:",
+      "options": [
+        "confirmação, busca de validação prévia",
+        "ancoragem, prisão à informação inicial",
+        "disponibilidade, foco em memórias recentes",
+        "representatividade, aparência típica"
+      ],
+      "correctIndex": 0,
+      "explanation": "No viés de confirmação, procura-se e valoriza-se a informação que valida o que já se acreditava, enquanto a evidência contrária é ignorada ou desqualificada."
+    },
+    {
+      "question": "A frase 'a mente prefere o fácil ao correto' resume qual ideia sobre heurísticas e vieses?",
+      "options": [
+        "A rapidez dos atalhos tem como custo erros sistemáticos",
+        "Decisões rápidas são sempre mais corretas que as lentas",
+        "O Sistema 2 é o responsável pela maioria dos vieses",
+        "A lógica formal elimina a necessidade de atalhos"
+      ],
+      "correctIndex": 0,
+      "explanation": "É o custo da velocidade: os atalhos poupam esforço e funcionam na maior parte das vezes, mas, quando a situação foge do padrão, levam a erros previsíveis. O fácil (Sistema 1) tende a prevalecer sobre o correto (Sistema 2)."
+    },
+    {
+      "question": "Os vieses cognitivos clássicos estão mais diretamente associados a qual sistema do modelo dual?",
+      "options": [
+        "Sistema 1, que decide rápido e com pouco esforço",
+        "Sistema 2, que decide devagar e com alto esforço",
+        "Sistema 2, que aplica regras lógicas garantidas",
+        "Sistema 1, que confere a lógica de cada passo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os vieses nascem dos atalhos do pensamento rápido, automático e intuitivo — o Sistema 1. O Sistema 2, lento e analítico, é o que pode detectar e corrigir esses erros, mas exige esforço e por isso nem sempre é acionado."
+    },
+    {
+      "question": "Um júri condena um réu com base no fato de que ele 'tem cara de criminoso' e, a partir daí, valoriza só as provas que confirmam essa impressão. Que dois vieses aparecem, em ordem?",
+      "options": [
+        "Representatividade e, em seguida, confirmação",
+        "Disponibilidade e, em seguida, ancoragem",
+        "Ancoragem e, em seguida, disponibilidade",
+        "Confirmação e, em seguida, representatividade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Julgar pela aparência típica de criminoso é representatividade. Depois, buscar só as provas que validam a impressão inicial é confirmação. Os vieses costumam se encadear, um reforçando o outro."
+    }
+  ]
+}

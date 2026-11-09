@@ -1,0 +1,341 @@
+{
+  "titulo": "Células do Sistema Nervoso e Bioeletrogênese",
+  "eyebrow": "Neurociência · Neurofisiologia",
+  "subtitulo": "Neurônios, glia e o impulso elétrico que percorre o axônio",
+  "intro": "Cobre as funções do sistema nervoso, a estrutura e a classificação dos neurônios, as células da glia, a substância branca e cinzenta, o potencial de ação fase a fase, a bomba de sódio e potássio e os fatores que aceleram a condução nervosa.",
+  "questoes": [
+    {
+      "question": "Qual é a função geral do sistema nervoso?",
+      "options": [
+        "Gerar respostas adaptativas a mudanças do ambiente externo e do meio interno",
+        "Armazenar nutrientes e liberá-los conforme a demanda energética das células",
+        "Produzir hormônios que circulam pelo sangue até os órgãos de todo o corpo",
+        "Regular a temperatura corporal por meio da produção constante de calor"
+      ],
+      "correctIndex": 0,
+      "explanation": "O sistema nervoso existe para gerar respostas adaptativas a mudanças do ambiente externo e do meio interno. Para isso ele traduz eventos do mundo físico em sinais neurais, envia esses sinais de uma célula para outra, processa-os e gera respostas."
+    },
+    {
+      "question": "Outros sistemas do corpo, como o endócrino, também geram respostas adaptativas. O que distingue as respostas do sistema nervoso?",
+      "options": [
+        "São rápidas, de milissegundos a segundos, porque usam potenciais de ação",
+        "São lentas, de horas a dias, porque dependem de hormônios no sangue",
+        "São duradouras, de semanas a meses, porque alteram a expressão gênica",
+        "São rápidas, de milissegundos a segundos, porque usam a corrente sanguínea"
+      ],
+      "correctIndex": 0,
+      "explanation": "A marca das respostas nervosas é a velocidade: ocorrem em milissegundos ou segundos, porque a informação é conduzida por potenciais de ação ao longo das fibras nervosas. A via sanguínea é a do sistema endócrino, mais lenta."
+    },
+    {
+      "question": "O neurônio tem três partes. Qual associação entre parte e característica está correta?",
+      "options": [
+        "Corpo celular: centro metabólico; dendritos: numerosos e curtos; axônio: longo e único",
+        "Corpo celular: longo e único; dendritos: centro metabólico; axônio: numerosos e curtos",
+        "Corpo celular: numerosos e curtos; dendritos: longo e único; axônio: centro metabólico",
+        "Corpo celular: centro metabólico; dendritos: longo e único; axônio: numerosos e curtos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O corpo celular abriga o núcleo e é o centro metabólico; os dendritos são numerosos e curtos e recebem sinais; o axônio é longo e único e conduz o impulso até os terminais."
+    },
+    {
+      "question": "Por que o neurônio é chamado de unidade funcional do sistema nervoso?",
+      "options": [
+        "Porque é a célula especializada em receber, processar e transmitir impulsos nervosos",
+        "Porque é a célula especializada em nutrir, sustentar e proteger as demais células",
+        "Porque é a célula especializada em produzir mielina e isolar os axônios vizinhos",
+        "Porque é a célula especializada em fagocitar restos celulares e combater patógenos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O neurônio é a célula que recebe, processa e transmite os impulsos nervosos — é ele que faz o trabalho de sinalização. Nutrir, sustentar, mielinizar e defender são funções das células da glia."
+    },
+    {
+      "question": "A classificação funcional dos neurônios em sensoriais, motores e interneurônios se baseia em quê?",
+      "options": [
+        "No papel do neurônio, relacionado à direção em que conduz o impulso nervoso",
+        "Na forma do neurônio, relacionada ao número de dendritos que saem do corpo",
+        "No tamanho do neurônio, relacionado ao comprimento total do seu axônio",
+        "Na química do neurônio, relacionada ao neurotransmissor que ele libera"
+      ],
+      "correctIndex": 0,
+      "explanation": "A classificação funcional considera o papel do neurônio e a direção do impulso: em direção ao SNC (sensorial), saindo do SNC (motor) ou dentro do SNC, conectando os dois (interneurônio). A classificação pela forma é outra, a morfológica."
+    },
+    {
+      "question": "Um neurônio capta a temperatura de um objeto tocado pela mão e conduz essa informação até a medula espinal. Como ele é classificado?",
+      "options": [
+        "Neurônio sensorial, ou aferente",
+        "Neurônio motor, ou eferente",
+        "Interneurônio, ou associativo",
+        "Neurônio motor, ou aferente"
+      ],
+      "correctIndex": 0,
+      "explanation": "Neurônios sensoriais (aferentes) captam estímulos do meio externo e interno — tato, dor, som, luz, temperatura — e conduzem os impulsos até o SNC."
+    },
+    {
+      "question": "Qual é o destino dos impulsos conduzidos pelos neurônios motores (eferentes)?",
+      "options": [
+        "Músculos e glândulas, gerando resposta motora ou secretora",
+        "Medula e encéfalo, levando informação de tato, dor e luz",
+        "Outros neurônios do SNC, integrando sensação e movimento",
+        "Vasos sanguíneos, formando a barreira hematoencefálica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os neurônios motores conduzem impulsos a partir do SNC até músculos e glândulas, sendo responsáveis pela resposta motora ou secretora. Levar informação ao SNC é papel do neurônio sensorial."
+    },
+    {
+      "question": "Sobre os interneurônios, é correto afirmar que:",
+      "options": [
+        "ficam só no SNC, conectam sensoriais e motores e são a classe mais numerosa",
+        "ficam só no SNP, conectam sensoriais e motores e são a classe mais rara",
+        "ficam só no SNC, levam impulsos aos músculos e são a classe mais rara",
+        "ficam só no SNP, captam estímulos externos e são a classe mais numerosa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os interneurônios ficam exclusivamente no SNC, conectam neurônios sensoriais e motores, fazem o processamento e a integração das informações e são a classe mais numerosa de neurônios."
+    },
+    {
+      "question": "No esquema, a informação segue do neurônio sensorial até o neurônio motor. Qual neurônio faz a ligação entre os dois?",
+      "options": [
+        "O neurônio associativo, isto é, o interneurônio",
+        "O neurônio aferente, isto é, o neurônio sensorial",
+        "O neurônio eferente, isto é, o neurônio motor",
+        "A célula de Schwann, isto é, a glia periférica"
+      ],
+      "correctIndex": 0,
+      "explanation": "O esquema mostra o neurônio sensorial levando o impulso até um neurônio associativo, que por sua vez o repassa ao neurônio motor. O neurônio associativo é o interneurônio, responsável por integrar a informação dentro do SNC.",
+      "image": "pg10",
+      "imageCaption": "Tipos de neurônios e direção da condução"
+    },
+    {
+      "question": "O que diferencia a substância branca da substância cinzenta?",
+      "options": [
+        "A branca tem predomínio de axônios mielinizados; a cinzenta, de corpos neuronais",
+        "A branca tem predomínio de corpos neuronais; a cinzenta, de axônios mielinizados",
+        "A branca é formada só por células da glia; a cinzenta, só por axônios mielinizados",
+        "A branca não conduz impulsos nervosos; a cinzenta é a única que conduz impulsos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cor branca vem da mielina: a substância branca tem predomínio de axônios mielinizados. A substância cinzenta reúne corpos neuronais, dendritos e axônios não mielinizados. As duas participam da condução."
+    },
+    {
+      "question": "Qual é o papel geral das células da glia?",
+      "options": [
+        "Dar suporte físico, químico e elétrico aos neurônios, sem transmitir sinais",
+        "Conduzir impulsos elétricos entre os neurônios, no lugar dos próprios axônios",
+        "Produzir os neurotransmissores que os neurônios liberam nas suas sinapses",
+        "Realizar as sinapses entre neurônios, ligando um terminal axonal a outro"
+      ],
+      "correctIndex": 0,
+      "explanation": "A glia não participa diretamente da transmissão de sinais: oferece suporte físico, químico e elétrico aos neurônios. As células gliais do sistema nervoso central são diferentes das do periférico."
+    },
+    {
+      "question": "Quais células da glia formam a bainha de mielina no sistema nervoso central (SNC) e no periférico (SNP)?",
+      "options": [
+        "No SNC, oligodendrócito; no SNP, célula de Schwann",
+        "No SNC, célula de Schwann; no SNP, oligodendrócito",
+        "No SNC, astrócito; no SNP, célula satélite",
+        "No SNC, micróglia; no SNP, célula de Schwann"
+      ],
+      "correctIndex": 0,
+      "explanation": "No SNC a mielina é formada pelos oligodendrócitos. No sistema nervoso periférico essa função é das células de Schwann — trocar uma pela outra é o erro mais comum."
+    },
+    {
+      "question": "A síndrome de Guillain-Barré é uma doença desmielinizante que atinge as raízes nervosas, parte do sistema nervoso periférico. Quais células produzem a nova mielina durante a recuperação?",
+      "options": [
+        "Células de Schwann, porque as raízes nervosas fazem parte do SNP",
+        "Oligodendrócitos, porque as raízes nervosas fazem parte do SNC",
+        "Astrócitos, porque formam a barreira hematoencefálica nas raízes",
+        "Micróglias, porque fagocitam a mielina lesada e a reconstroem"
+      ],
+      "correctIndex": 0,
+      "explanation": "As raízes dorsais e ventrais pertencem ao sistema nervoso periférico, onde quem produz mielina é a célula de Schwann. A remielinização pode levar um ano ou mais. Oligodendrócitos só mielinizam no SNC."
+    },
+    {
+      "question": "Qual célula da glia é responsável pela defesa imunológica dentro do sistema nervoso, fagocitando patógenos e restos celulares?",
+      "options": [
+        "Micróglia, presente no sistema nervoso central",
+        "Astrócito, presente no sistema nervoso central",
+        "Célula ependimária, presente no sistema nervoso central",
+        "Célula satélite, presente no sistema nervoso periférico"
+      ],
+      "correctIndex": 0,
+      "explanation": "A micróglia é formada por células imunológicas modificadas que atuam como fagócitos dentro do sistema nervoso, defendendo contra patógenos e removendo restos celulares."
+    },
+    {
+      "question": "Qual célula da glia se associa às sinapses, recapta K+ e água do interstício e, junto com os capilares, forma a barreira hematoencefálica?",
+      "options": [
+        "Astrócito, presente no sistema nervoso central",
+        "Oligodendrócito, presente no sistema nervoso central",
+        "Micróglia, presente no sistema nervoso central",
+        "Célula de Schwann, presente no sistema nervoso periférico"
+      ],
+      "correctIndex": 0,
+      "explanation": "O astrócito recapta neurotransmissores nas sinapses, ajusta a composição do interstício captando K+ e água, fornece substratos para a produção de ATP e, com os capilares, forma a barreira hematoencefálica."
+    },
+    {
+      "question": "Quais células da glia produzem o líquido cerebroespinhal (líquor)?",
+      "options": [
+        "Células ependimárias, do sistema nervoso central",
+        "Células satélites, do sistema nervoso periférico",
+        "Oligodendrócitos, do sistema nervoso central",
+        "Micróglias, do sistema nervoso central"
+      ],
+      "correctIndex": 0,
+      "explanation": "As células ependimárias revestem as cavidades do SNC e produzem o líquido cerebroespinhal. Também criam barreiras entre compartimentos e são fonte de células-tronco neurais."
+    },
+    {
+      "question": "Pelo organograma, quais células da glia pertencem ao sistema nervoso periférico?",
+      "options": [
+        "Células de Schwann e células satélites",
+        "Oligodendrócitos e células satélites",
+        "Astrócitos e células de Schwann",
+        "Micróglia e células ependimárias"
+      ],
+      "correctIndex": 0,
+      "explanation": "O organograma divide a glia em dois grupos: no SNC ficam células ependimárias, astrócitos, micróglia e oligodendrócitos; no SNP, células de Schwann (que formam mielina e secretam fatores neurotróficos) e células satélites (que dão apoio aos corpos celulares nos gânglios).",
+      "image": "pg18",
+      "imageCaption": "Células da glia e suas funções"
+    },
+    {
+      "question": "O que é bioeletrogênese?",
+      "options": [
+        "A capacidade de gerar e alterar a diferença de potencial elétrico na membrana",
+        "A capacidade de produzir e liberar neurotransmissores na fenda sináptica",
+        "A capacidade de produzir novas células gliais para reparar os neurônios",
+        "A capacidade de processar sinais sinápticos vindos de vários neurônios"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bioeletrogênese é a propriedade de certas células — neurônios e células musculares — de gerar e alterar a diferença de potencial elétrico através da membrana. É a base do impulso nervoso."
+    },
+    {
+      "question": "Qual conjunto reúne apenas células excitáveis, isto é, capazes de gerar potenciais de ação?",
+      "options": [
+        "Neurônios, cardiomiócitos, músculo liso e células beta pancreáticas",
+        "Neurônios, astrócitos, micróglia e células ependimárias do encéfalo",
+        "Oligodendrócitos, células de Schwann, células satélites e astrócitos",
+        "Micróglia, células ependimárias, oligodendrócitos e células satélites"
+      ],
+      "correctIndex": 0,
+      "explanation": "São células excitáveis os miócitos, os cardiomiócitos, o músculo liso, os neurônios e as células beta pancreáticas. As células da glia dão suporte, mas não participam diretamente da transmissão de sinais."
+    },
+    {
+      "question": "Na fase de despolarização do potencial de ação, qual íon entra na célula em grande quantidade?",
+      "options": [
+        "Sódio (Na+)",
+        "Potássio (K+)",
+        "Cloro (Cl-)",
+        "Cálcio (Ca2+)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ao atingir o limiar, os canais de Na+ dependentes de voltagem se abrem e o influxo rápido de Na+ torna o interior positivo, levando a membrana de cerca de -70 mV até perto de +30 mV."
+    },
+    {
+      "question": "O que acontece na fase de repolarização do potencial de ação?",
+      "options": [
+        "Os canais de Na+ se fecham e os de K+ se abrem, e o K+ sai da célula",
+        "Os canais de Na+ se abrem e os de K+ se fecham, e o Na+ entra na célula",
+        "Os canais de Na+ e de K+ se fecham, e a bomba para de funcionar",
+        "Os canais de Cl- se abrem e os de K+ se fecham, e o Cl- entra na célula"
+      ],
+      "correctIndex": 0,
+      "explanation": "No pico (+30 mV) os canais de Na+ se fecham e os canais de K+, mais lentos, se abrem. O K+ sai em direção ao líquido extracelular e o potencial volta a ficar negativo."
+    },
+    {
+      "question": "No gráfico do potencial de ação, o que ocorre no ponto 7?",
+      "options": [
+        "Os canais de K+ continuam abertos e mais K+ sai, hiperpolarizando a célula",
+        "Os canais de Na+ começam a se abrir porque a membrana atingiu o limiar",
+        "O influxo rápido de Na+ despolariza a célula até o pico do potencial",
+        "A célula volta à permeabilidade de repouso e ao potencial de repouso"
+      ],
+      "correctIndex": 0,
+      "explanation": "Depois de repolarizar, os canais de K+ demoram a fechar: mais K+ sai e a membrana fica abaixo do repouso (pós-hiperpolarização, perto de -80 mV). No ponto 8 esses canais se fecham e, no 9, a célula volta ao repouso.",
+      "image": "pg46",
+      "imageCaption": "Potencial de ação com as fases numeradas"
+    },
+    {
+      "question": "Os canais de Na+ dependentes de voltagem têm duas comportas. Qual sequência de estados eles percorrem durante o potencial de ação?",
+      "options": [
+        "Repouso (fechado), ativado (aberto) e inativado (bloqueado pela comporta)",
+        "Ativado (aberto), repouso (fechado) e inativado (bloqueado pela comporta)",
+        "Inativado (bloqueado), ativado (aberto) e repouso (aberto pela comporta)",
+        "Repouso (aberto), inativado (fechado) e ativado (bloqueado pela comporta)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em repouso a comporta de ativação está fechada; na despolarização ela se abre e o Na+ entra (ativado); logo depois a comporta de inativação bloqueia o canal (inativado). Já o canal de K+ tem só uma comporta, de ativação lenta."
+    },
+    {
+      "question": "No gráfico de permeabilidade iônica ao longo do tempo, como se comparam os picos de permeabilidade ao Na+ e ao K+?",
+      "options": [
+        "O pico de Na+ vem primeiro e o de K+ vem depois, mais lento e prolongado",
+        "O pico de K+ vem primeiro e o de Na+ vem depois, mais lento e prolongado",
+        "Os picos de Na+ e de K+ acontecem juntos, com a mesma duração e altura",
+        "Só a permeabilidade ao Na+ varia; a de K+ fica constante em todo o tempo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A permeabilidade ao Na+ sobe rápido e cai cedo, coincidindo com a subida do potencial. A de K+ sobe depois e demora a voltar ao basal — por isso se prolonga durante a pós-hiperpolarização.",
+      "image": "pg34",
+      "imageCaption": "Potencial de membrana e permeabilidade a Na+ e K+"
+    },
+    {
+      "question": "Qual é o papel da bomba de Na+/K+ (Na+/K+-ATPase) para a célula excitável?",
+      "options": [
+        "Restabelecer os gradientes: tira 3 Na+ e põe 2 K+ na célula, gastando ATP",
+        "Restabelecer os gradientes: põe 3 Na+ e tira 2 K+ da célula, gastando ATP",
+        "Restabelecer os gradientes: tira 2 Na+ e põe 3 K+ na célula, sem gastar ATP",
+        "Disparar o potencial: põe 3 Na+ e tira 2 K+ da célula, sem gastar ATP"
+      ],
+      "correctIndex": 0,
+      "explanation": "A bomba Na+/K+ usa a energia do ATP para levar 3 Na+ para fora e 2 K+ para dentro, restabelecendo os gradientes iônicos que sustentam o potencial de repouso."
+    },
+    {
+      "question": "O que significa dizer que o potencial de ação segue o princípio do \"tudo ou nada\"?",
+      "options": [
+        "Se o estímulo atinge o limiar, o potencial ocorre por inteiro; se não, não ocorre",
+        "Se o estímulo é mais forte, o potencial cresce em altura na mesma proporção",
+        "Se o estímulo atinge o limiar, o potencial ocorre só na metade do axônio",
+        "Se o estímulo é mais fraco, o potencial ocorre com altura menor e mais lenta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Atingido o limiar, o potencial de ação dispara com amplitude completa; abaixo dele, não há potencial de ação. Ele não tem 'meio disparo' e se propaga ao longo de toda a fibra."
+    },
+    {
+      "question": "Pela tabela de tipos de fibra, qual fibra conduz o impulso mais rápido e por quê?",
+      "options": [
+        "A fibra Aα, a de maior diâmetro (13–20 µm), a 80–120 m/s",
+        "A fibra C, a de menor diâmetro (0,2–1,5 µm), a 80–120 m/s",
+        "A fibra Aδ, a de diâmetro médio (1–5 µm), a 35–75 m/s",
+        "A fibra Aβ, a de diâmetro médio (6–12 µm), a 5–35 m/s"
+      ],
+      "correctIndex": 0,
+      "explanation": "Quanto maior o diâmetro do axônio, mais rápida a condução. A fibra Aα (13–20 µm, mielinizada) conduz a 80–120 m/s; a fibra C, fina e sem mielina, fica em 0,5–2 m/s.",
+      "image": "pg39",
+      "imageCaption": "Diâmetro e velocidade dos tipos de fibra"
+    },
+    {
+      "question": "Na condução saltatória, por que o impulso parece \"saltar\" de um ponto a outro do axônio mielinizado?",
+      "options": [
+        "Porque só os nódulos de Ranvier têm canais de Na+ e a mielina isola o resto",
+        "Porque só as bainhas de mielina têm canais de Na+ e os nódulos isolam o resto",
+        "Porque só o corpo celular tem canais de Na+ e o axônio inteiro fica isolado",
+        "Porque só os dendritos têm canais de Na+ e a mielina conduz corrente sozinha"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os canais de Na+ dependentes de voltagem ficam concentrados nos nódulos de Ranvier, trechos sem mielina. Como a mielina é isolante elétrico e reduz o vazamento iônico, a despolarização passa de nódulo em nódulo, o que acelera muito a condução.",
+      "image": "pg41",
+      "imageCaption": "Condução saltatória no axônio mielinizado"
+    },
+    {
+      "question": "Por que doenças desmielinizantes reduzem ou bloqueiam a condução nervosa?",
+      "options": [
+        "Porque a corrente vaza para fora nas regiões que antes eram isoladas pela mielina",
+        "Porque os nódulos de Ranvier passam a ter canais de Na+ em excesso e travam o axônio",
+        "Porque a mielina degenerada passa a liberar neurotransmissores na fenda sináptica",
+        "Porque o axônio perde o corpo celular e deixa de receber impulsos dos dendritos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sem a mielina, a corrente que deveria correr isolada até o próximo nódulo vaza pela membrana. O sinal chega fraco ao nódulo seguinte, a condução fica lenta ou é bloqueada.",
+      "image": "pg42",
+      "imageCaption": "Vazamento de corrente na bainha degenerada"
+    }
+  ]
+}

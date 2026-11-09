@@ -33,3 +33,7 @@ __pycache__/
 # Guias de estudo escritos por colega de turma (trabalho de terceiro, compartilhado
 # dentro da turma) — servem de referencia local para gerar o material, nao se publicam
 ProcessosPsi/guia_*.md
+
+# Leitura do livro Torres & Neiva (Psicologia Social: principais temas e vertentes)
+# e o conteudo extraido que a embute — obra protegida, como o cap. 12 do Bock
+PsicoSocial/conteudo_historico_2.md

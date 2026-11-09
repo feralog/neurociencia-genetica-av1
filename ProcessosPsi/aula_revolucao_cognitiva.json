@@ -339,6 +339,72 @@
       ],
       "correctIndex": 0,
       "explanation": "Os autores não contestam a importância dos enfoques discursivos e construtivistas, mas negam que constituam uma segunda revolução. Faltam-lhes a ruptura metodológica, a convergência interdisciplinar e a nova analogia ontológica mente-cérebro que caracterizaram o fim dos anos cinquenta; seriam reformulações dentro de uma mesma unidade de análise."
+    },
+    {
+      "question": "Sobre o processamento atencional, é correto afirmar que o processamento top-down:",
+      "options": [
+        "é controlado pelo sujeito e envolve gasto energético para sustentar a atenção",
+        "é controlado pelo estímulo e ocorre de forma automática, com menor gasto energético",
+        "é controlado pelo estímulo e exige gasto energético para manter o foco atencional",
+        "é controlado pelo sujeito e ocorre de forma automática, sem gasto energético algum"
+      ],
+      "correctIndex": 0,
+      "explanation": "No top-down a atenção é dirigida pelo sujeito, a partir de suas metas, e sustentá-la custa energia. No bottom-up é o estímulo que captura a atenção: o processo é automático e gasta menos energia. Um barulho súbito que rouba o foco é bottom-up; manter a leitura de um texto difícil é top-down."
+    },
+    {
+      "question": "Na passagem do behaviorismo à psicologia cognitiva, o esquema E → R dá lugar a E → O → R. O que o 'O' representa e por que ele foi incluído?",
+      "options": [
+        "O organismo, cujo processamento interno explica linguagem, planejamento e decisão",
+        "O operante, cujo reforço explica a aquisição de linguagem, planejamento e decisão",
+        "O observador, cujo relato introspectivo explica linguagem, planejamento e decisão",
+        "O objeto, cujas propriedades físicas explicam linguagem, planejamento e decisão"
+      ],
+      "correctIndex": 0,
+      "explanation": "E → O → R é estímulo → organismo → resposta. O modelo centrado na relação ambiente-comportamento tinha insuficiência explicativa para fenômenos complexos como linguagem, planejamento e tomada de decisão; recolocar o organismo e seu processamento interno no meio do esquema é o que abre a caixa preta."
+    },
+    {
+      "question": "Um robô aspirador filma uma parede, o estímulo luminoso é convertido em eletricidade, o programa armazena a imagem na memória e o robô desvia. Na lógica da metáfora computacional, a conversão do estímulo luminoso em eletricidade corresponde a qual parte?",
+      "options": [
+        "Ao hardware, na etapa de processamento",
+        "Ao software, na etapa de processamento",
+        "Ao hardware, na etapa de saída",
+        "Ao software, na etapa de entrada"
+      ],
+      "correctIndex": 0,
+      "explanation": "No exemplo, a entrada é a parede filmada; o processamento tem duas partes — o hardware converte o estímulo em eletricidade e o software interpreta esse sinal pela regra 'armazenar a imagem e usá-la para evitar a parede'; a saída é desviar. Na percepção humana o paralelo é o sistema nervoso (hardware) e o programa de percepção (software)."
+    },
+    {
+      "question": "No exemplo de alguém que fura o dedo com força, qual elemento corresponde ao software, isto é, ao 'programa de percepção'?",
+      "options": [
+        "A interpretação da alta frequência de impulsos nervosos como dor intensa",
+        "A transformação do furo em impulsos nervosos pelo sistema nervoso",
+        "O movimento de tirar o dedo da agulha para amenizar a dor sentida",
+        "O contato físico da agulha com a pele, que inicia todo o processo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O furo é a entrada; o sistema nervoso (hardware) o transforma em impulsos; o programa de percepção (software) interpreta a frequência alta de impulsos como dor alta, formando a experiência da dor; tirar o dedo é a saída. O próprio exemplo é uma simplificação grosseira, útil só para mostrar a divisão hardware/software."
+    },
+    {
+      "question": "No modelo dos quatro tipos de atenção, descrito como um conjunto de regras de processamento, a regra 'mudar a atenção entre duas atividades complexas' define a atenção:",
+      "options": [
+        "alternada",
+        "dividida",
+        "seletiva",
+        "sustentada"
+      ],
+      "correctIndex": 0,
+      "explanation": "Seletiva: ignorar estímulos irrelevantes. Sustentada: focar em um estímulo relevante. Dividida: focar numa atividade simples e numa complexa ao mesmo tempo. Alternada: mudar a atenção entre duas atividades complexas. Por ser descrito em regras, o modelo pode ser programado (como numa câmera de vigilância) e testado experimentalmente."
+    },
+    {
+      "question": "O argumento do Quarto Chinês, de Searle (1980), é usado contra a metáfora computacional por sustentar que:",
+      "options": [
+        "manipular símbolos por regras formais não equivale a compreender seu significado",
+        "o cérebro opera em redes paralelas, e não em série como os computadores clássicos",
+        "a mente depende do corpo e da interação direta com o ambiente sociocultural",
+        "o modelo clássico negligencia estados motivacionais, sentimentos e afetos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O Quarto Chinês separa sintaxe de semântica: um sistema pode seguir regras formais e produzir respostas corretas sem compreender o real significado da informação. As outras alternativas são críticas reais, mas com outros nomes: conexionismo (redes paralelas), cognição incorporada (corpo e ambiente) e ausência de afeto e emoção."
     }
   ]
 }

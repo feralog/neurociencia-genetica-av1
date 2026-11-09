@@ -1,0 +1,332 @@
+{
+  "titulo": "Sinapse e Transmissão Sináptica",
+  "eyebrow": "Neurociência · Neurofisiologia",
+  "subtitulo": "Como um neurônio passa a mensagem adiante para outra célula",
+  "intro": "Cobre o que é sinapse e suas partes, a diferença entre sinapse elétrica e química, a sequência de síntese, liberação e término do neurotransmissor, a codificação da força do estímulo, os potenciais PEPS e PIPS e os receptores ionotrópicos e metabotrópicos.",
+  "questoes": [
+    {
+      "question": "O que é uma sinapse?",
+      "options": [
+        "A estrutura que permite a comunicação de um neurônio com outra célula, neuronal ou não",
+        "A estrutura que permite a comunicação de um neurônio apenas com outro neurônio do SNC",
+        "A estrutura que isola o axônio e acelera a condução do potencial de ação pela fibra",
+        "A estrutura que produz o líquido cerebroespinhal e o distribui pelos ventrículos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sinapse é a região onde um terminal axonal se comunica com a célula-alvo. A célula pós-sináptica pode ser outro neurônio ou não — um músculo ou uma glândula, por exemplo."
+    },
+    {
+      "question": "A comunicação entre células nervosas depende de quais elementos?",
+      "options": [
+        "Das moléculas sinalizadoras, dos receptores das células-alvo e das conexões anatômicas",
+        "Apenas das moléculas sinalizadoras liberadas, independentemente de receptores na célula-alvo",
+        "Apenas das conexões anatômicas entre células, sem participação de moléculas sinalizadoras",
+        "Dos hormônios do sangue, dos vasos sanguíneos que irrigam o tecido e da bainha de mielina"
+      ],
+      "correctIndex": 0,
+      "explanation": "A comunicação no sistema nervoso envolve sinalização elétrica e química e depende das moléculas sinalizadoras, dos receptores das células-alvo, das conexões anatômicas e de seus alvos."
+    },
+    {
+      "question": "Quais são, em ordem, os componentes de uma sinapse química entre dois neurônios?",
+      "options": [
+        "Terminal axonal pré-sináptico, fenda sináptica e dendrito pós-sináptico",
+        "Dendrito pré-sináptico, fenda sináptica e terminal axonal pós-sináptico",
+        "Corpo celular pré-sináptico, bainha de mielina e axônio pós-sináptico",
+        "Terminal axonal pré-sináptico, nódulo de Ranvier e axônio pós-sináptico"
+      ],
+      "correctIndex": 0,
+      "explanation": "A informação sai do terminal axonal da célula pré-sináptica, atravessa a fenda sináptica e chega à membrana da célula pós-sináptica — tipicamente um dendrito, quando o alvo é outro neurônio."
+    },
+    {
+      "question": "Na micrografia da sinapse neuromuscular, qual é a célula pós-sináptica?",
+      "options": [
+        "A fibra muscular, que recebe o neurotransmissor através da fenda",
+        "A célula de Schwann, que recebe o neurotransmissor através da fenda",
+        "A mitocôndria, que recebe o neurotransmissor através da fenda",
+        "O terminal axonal, que recebe o neurotransmissor através da fenda"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na sinapse neuromuscular, o terminal axonal (pré-sináptico, cheio de vesículas com neurotransmissores e mitocôndrias) libera o transmissor na fenda sináptica, e a fibra muscular é a célula pós-sináptica. A célula de Schwann apenas envolve o terminal.",
+      "image": "pg04",
+      "imageCaption": "Sinapse neuromuscular ao microscópio eletrônico"
+    },
+    {
+      "question": "Quais são as características da sinapse elétrica?",
+      "options": [
+        "Sinal elétrico direto, condução rápida e bidirecional",
+        "Sinal químico indireto, condução lenta e unidirecional",
+        "Sinal elétrico direto, condução lenta e unidirecional",
+        "Sinal químico indireto, condução rápida e bidirecional"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na sinapse elétrica o sinal passa diretamente de uma célula para a outra por canais que unem os citoplasmas, por isso é rápida e bidirecional. Existe especialmente entre neurônios, mas também na glia, no músculo cardíaco e liso e na célula beta pancreática."
+    },
+    {
+      "question": "Na junção comunicante da sinapse elétrica, como se organizam as proteínas que formam o canal?",
+      "options": [
+        "Conexinas se agrupam em um conéxon, e dois conéxons unidos formam o canal",
+        "Conéxons se agrupam em uma conexina, e duas conexinas unidas formam o canal",
+        "Conexinas se agrupam em uma vesícula, e duas vesículas unidas formam o canal",
+        "Receptores se agrupam em um conéxon, e dois receptores unidos formam o canal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cada membrana tem um conéxon, formado por subunidades chamadas conexinas. Os conéxons das duas células se encaixam e formam um canal contínuo por onde passam íons e pequenas moléculas de um citoplasma para o outro.",
+      "image": "pg11",
+      "imageCaption": "Junção comunicante: conexina, conéxon e canal"
+    },
+    {
+      "question": "O que passa de uma célula para a outra pelos canais da junção comunicante?",
+      "options": [
+        "Íons e pequenas moléculas, diretamente de um citoplasma ao outro",
+        "Vesículas inteiras de neurotransmissor, por exocitose na fenda",
+        "Proteína G ativada, que leva o sinal até o núcleo da outra célula",
+        "Somente o neurotransmissor, depois de ser liberado na fenda"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os canais da junção comunicante unem os citoplasmas das duas células, permitindo a passagem de íons e pequenas moléculas. É essa passagem direta de corrente iônica que faz a sinapse elétrica ser tão rápida."
+    },
+    {
+      "question": "Qual afirmação sobre a sinapse química está correta?",
+      "options": [
+        "É a maioria das sinapses e converte o sinal elétrico em químico para cruzar a fenda",
+        "É a minoria das sinapses e converte o sinal químico em elétrico para cruzar a fenda",
+        "É a maioria das sinapses e passa o sinal elétrico direto por junções comunicantes",
+        "É a minoria das sinapses e conduz o sinal nos dois sentidos sem usar transmissores"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sinapse química é a maioria das sinapses do sistema nervoso. O sinal elétrico do neurônio pré-sináptico é convertido em sinal químico (o neurotransmissor), que atravessa a fenda e se liga a receptores na membrana pós-sináptica."
+    },
+    {
+      "question": "Comparando as duas sinapses, por que a sinapse química é mais lenta que a elétrica?",
+      "options": [
+        "Porque o sinal precisa virar neurotransmissor, cruzar a fenda e se ligar a receptores",
+        "Porque o sinal precisa atravessar as junções comunicantes nos dois sentidos ao mesmo tempo",
+        "Porque o sinal precisa ser conduzido pela bainha de mielina que reveste a fenda sináptica",
+        "Porque o sinal precisa passar pelo corpo celular da célula pós-sináptica antes de chegar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na sinapse elétrica a corrente passa direto pelos canais. Na química há etapas intermediárias: entrada de Ca2+, exocitose das vesículas, difusão do neurotransmissor pela fenda e ligação ao receptor."
+    },
+    {
+      "question": "Os neurotransmissores peptídicos são produzidos de que forma?",
+      "options": [
+        "São sintetizados no corpo celular, junto com enzimas, e levados pelo transporte axonal",
+        "São sintetizados nos dendritos pós-sinápticos e devolvidos ao terminal pela fenda",
+        "São sintetizados nas células de Schwann e transferidos ao axônio pela bainha de mielina",
+        "São sintetizados na fenda sináptica, a partir de precursores trazidos pelo sangue"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os peptídeos são sintetizados no corpo celular junto com enzimas e seguem pelo transporte axonal até o terminal. Outros neurotransmissores são sintetizados e empacotados no próprio terminal sináptico, e os precursores podem ser recaptados para o intracelular."
+    },
+    {
+      "question": "Quando o potencial de ação chega ao terminal axonal, qual íon entra por canais dependentes de voltagem e dispara a liberação do neurotransmissor?",
+      "options": [
+        "Cálcio (Ca2+)",
+        "Sódio (Na+)",
+        "Potássio (K+)",
+        "Cloreto (Cl-)"
+      ],
+      "correctIndex": 0,
+      "explanation": "A despolarização do terminal abre canais de Ca2+ dependentes de voltagem. A entrada de cálcio promove a fusão das vesículas sinápticas com a membrana pré-sináptica e a exocitose do neurotransmissor."
+    },
+    {
+      "question": "No esquema da liberação do neurotransmissor, o que acontece na etapa 3?",
+      "options": [
+        "A entrada do cálcio inicia a exocitose do conteúdo das vesículas sinápticas",
+        "O potencial de ação chega e despolariza o terminal axonal pré-sináptico",
+        "O neurotransmissor difunde-se pela fenda e se liga aos receptores pós-sinápticos",
+        "A ligação do neurotransmissor inicia uma resposta na célula pós-sináptica"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sequência é: (1) o potencial de ação despolariza o terminal; (2) abrem-se canais de Ca2+ dependentes de voltagem e o Ca2+ entra; (3) o cálcio inicia a exocitose das vesículas; (4) o neurotransmissor difunde-se e se liga aos receptores; (5) começa a resposta da célula pós-sináptica.",
+      "image": "pg15",
+      "imageCaption": "Liberação do neurotransmissor em cinco etapas"
+    },
+    {
+      "question": "Qual é a ordem correta dos eventos na sinapse química?",
+      "options": [
+        "Potencial de ação, entrada de Ca2+, exocitose, difusão e ligação ao receptor",
+        "Entrada de Ca2+, potencial de ação, ligação ao receptor, difusão e exocitose",
+        "Exocitose, potencial de ação, entrada de Ca2+, ligação ao receptor e difusão",
+        "Potencial de ação, exocitose, entrada de Ca2+, ligação ao receptor e difusão"
+      ],
+      "correctIndex": 0,
+      "explanation": "O potencial de ação chega ao terminal, os canais de Ca2+ se abrem, o Ca2+ promove a fusão das vesículas (exocitose), o neurotransmissor se difunde pela fenda e se liga a receptores específicos, ativando a célula pós-sináptica."
+    },
+    {
+      "question": "Na sinapse química, onde ficam as vesículas sinápticas e os receptores?",
+      "options": [
+        "As vesículas no terminal pré-sináptico; os receptores na membrana pós-sináptica",
+        "As vesículas na membrana pós-sináptica; os receptores no terminal pré-sináptico",
+        "As vesículas e os receptores dentro da fenda sináptica, soltos no líquido",
+        "As vesículas no corpo celular pós-sináptico; os receptores na bainha de mielina"
+      ],
+      "correctIndex": 0,
+      "explanation": "As vesículas com neurotransmissor ficam no terminal axonal pré-sináptico, junto à zona ativa. Os receptores ficam na membrana da célula pós-sináptica, na região da densidade pós-sináptica."
+    },
+    {
+      "question": "Como termina a ação do neurotransmissor na fenda sináptica?",
+      "options": [
+        "Por recaptação pelo terminal ou pela glia, por inativação enzimática ou por difusão",
+        "Por recaptação pelos vasos sanguíneos, por fusão com as vesículas ou por mielinização",
+        "Por fagocitose pela micróglia, por ligação às conexinas ou por condução saltatória",
+        "Por ligação permanente aos receptores, que ficam bloqueados até a próxima sinapse"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ação neurotransmissora se encerra quando o composto é recaptado (pelo terminal pré-sináptico, para reutilização, ou pela glia), clivado por enzimas ou difundido para longe da sinapse."
+    },
+    {
+      "question": "No esquema do término da atividade do neurotransmissor, o que representa o número 2?",
+      "options": [
+        "Enzimas que inativam o neurotransmissor na fenda",
+        "Transportadores que levam o neurotransmissor à glia",
+        "Difusão do neurotransmissor em direção ao vaso",
+        "Vesículas que reabsorvem o neurotransmissor livre"
+      ],
+      "correctIndex": 0,
+      "explanation": "No esquema, o número 1 é o retorno do neurotransmissor ao terminal axonal ou às células da glia (recaptação), o 2 é a inativação por enzimas e o 3 é a difusão para fora da fenda sináptica.",
+      "image": "pg16",
+      "imageCaption": "Três formas de encerrar a ação do neurotransmissor"
+    },
+    {
+      "question": "Se o potencial de ação segue o \"tudo ou nada\", como um estímulo forte se diferencia de um fraco na transmissão sináptica?",
+      "options": [
+        "Gera mais potenciais de ação e libera mais neurotransmissor",
+        "Gera potenciais de ação mais altos e de maior amplitude",
+        "Gera menos potenciais de ação, porém mais duradouros",
+        "Gera o mesmo número de potenciais, mas com mais cálcio"
+      ],
+      "correctIndex": 0,
+      "explanation": "A amplitude do potencial de ação é fixa. A força do estímulo é codificada pela frequência: estímulos fracos geram poucos potenciais de ação e liberam pouco neurotransmissor; estímulos fortes geram mais potenciais de ação e liberam mais neurotransmissor."
+    },
+    {
+      "question": "No esquema da força do estímulo, onde o potencial graduado é convertido em potenciais de ação?",
+      "options": [
+        "Na zona de gatilho, quando o potencial graduado ultrapassa o limiar",
+        "No terminal axonal, quando o neurotransmissor é liberado na fenda",
+        "No corpo celular, quando o núcleo recebe o estímulo do receptor",
+        "No receptor sensorial, quando o estímulo é forte o bastante"
+      ],
+      "correctIndex": 0,
+      "explanation": "O estímulo gera no receptor um potencial graduado, cuja altura varia com a força do estímulo. Na zona de gatilho, se ele ultrapassa o limiar, surgem potenciais de ação — em maior número quanto mais forte o estímulo — que seguem até o terminal axonal.",
+      "image": "pg20",
+      "imageCaption": "Força do estímulo, potencial graduado e potenciais de ação"
+    },
+    {
+      "question": "O que significam as siglas PEPS e PIPS?",
+      "options": [
+        "Potencial excitatório pós-sináptico e potencial inibitório pós-sináptico",
+        "Potencial elétrico pré-sináptico e potencial iônico pré-sináptico",
+        "Potencial excitatório pré-sináptico e potencial inibitório pré-sináptico",
+        "Potencial elétrico pós-sináptico e potencial iônico pós-sináptico"
+      ],
+      "correctIndex": 0,
+      "explanation": "PEPS é o potencial excitatório pós-sináptico, uma despolarização que aproxima a célula do limiar. PIPS é o potencial inibitório pós-sináptico, uma hiperpolarização que afasta a célula do limiar."
+    },
+    {
+      "question": "Em uma sinapse excitatória típica, o glutamato abre canais que deixam entrar qual íon, com qual efeito?",
+      "options": [
+        "Na+, que entra e despolariza a membrana pós-sináptica",
+        "Cl-, que entra e hiperpolariza a membrana pós-sináptica",
+        "K+, que entra e despolariza a membrana pós-sináptica",
+        "Ca2+, que sai e hiperpolariza a membrana pós-sináptica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na sinapse excitatória, o glutamato abre canais por onde o Na+ entra, despolarizando a célula pós-sináptica (PEPS)."
+    },
+    {
+      "question": "Pelo esquema, o que acontece na sinapse inibitória mediada por GABA?",
+      "options": [
+        "O Cl- entra na célula e a membrana se hiperpolariza",
+        "O Na+ entra na célula e a membrana se despolariza",
+        "O Cl- sai da célula e a membrana se despolariza",
+        "O Na+ sai da célula e a membrana se hiperpolariza"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na sinapse inibitória, o GABA abre canais de Cl-. A entrada desse íon negativo deixa o interior mais negativo — hiperpolarização —, o que afasta a célula do limiar e gera um PIPS.",
+      "image": "pg22",
+      "imageCaption": "Sinapse excitatória (glutamato) e inibitória (GABA)"
+    },
+    {
+      "question": "Pelo fluxograma das respostas pós-sinápticas, qual alteração iônica gera um PEPS (despolarização excitatória)?",
+      "options": [
+        "Fechar canais e reduzir a saída de K+",
+        "Abrir canais e aumentar a entrada de Cl-",
+        "Abrir canais e aumentar a saída de K+",
+        "Fechar canais e reduzir a entrada de Na+"
+      ],
+      "correctIndex": 0,
+      "explanation": "Há dois caminhos para o PEPS: abrir canais e deixar mais Na+ entrar, ou fechar canais e deixar menos K+ sair. Mais K+ saindo, mais Cl- entrando ou menos Na+ entrando geram PIPS (hiperpolarização inibitória).",
+      "image": "pg21",
+      "imageCaption": "Respostas pós-sinápticas rápidas e lentas"
+    },
+    {
+      "question": "Qual a diferença entre as respostas pós-sinápticas rápidas e lentas?",
+      "options": [
+        "As rápidas usam canais iônicos; as lentas, receptores acoplados à proteína G",
+        "As rápidas usam receptores acoplados à proteína G; as lentas, canais iônicos",
+        "As rápidas usam junções comunicantes; as lentas, canais iônicos controlados",
+        "As rápidas usam a bomba de Na+/K+; as lentas, receptores de canal iônico"
+      ],
+      "correctIndex": 0,
+      "explanation": "As respostas rápidas são mediadas por canais iônicos controlados quimicamente e geram potenciais curtos. As lentas dependem de receptores acoplados à proteína G, que ativam segundos mensageiros e podem ter efeitos de longo prazo."
+    },
+    {
+      "question": "Qual a diferença entre o efeito dos neurotransmissores e o dos neuromoduladores?",
+      "options": [
+        "Neurotransmissores geram potenciais rápidos e curtos; neuromoduladores, lentos e duradouros",
+        "Neurotransmissores geram potenciais lentos e duradouros; neuromoduladores, rápidos e curtos",
+        "Neurotransmissores agem só em sinapses elétricas; neuromoduladores, só em sinapses químicas",
+        "Neurotransmissores agem só na pré-sináptica; neuromoduladores, só nos vasos sanguíneos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os neurotransmissores geram potenciais sinápticos rápidos e de curta duração. Os neuromoduladores geram potenciais sinápticos lentos e efeitos de longo prazo, atuando por receptores acoplados à proteína G."
+    },
+    {
+      "question": "Sobre os receptores ionotrópicos, é correto afirmar que:",
+      "options": [
+        "são canais iônicos abertos pelo neurotransmissor e dão as respostas mais rápidas",
+        "são receptores acoplados à proteína G e dão as respostas mais lentas e duradouras",
+        "são canais iônicos abertos pela voltagem e só existem nas sinapses elétricas",
+        "são enzimas ativadas pelo neurotransmissor que produzem segundos mensageiros"
+      ],
+      "correctIndex": 0,
+      "explanation": "O receptor ionotrópico é o próprio canal: o neurotransmissor se liga e o canal se abre. Por isso é o mais rápido. Se deixa passar Na+, despolariza; se deixa passar Cl-, hiperpolariza."
+    },
+    {
+      "question": "Em um receptor metabotrópico, como o sinal chega à célula depois que o neurotransmissor se liga?",
+      "options": [
+        "O receptor ativa a proteína G, que abre um canal ou ativa uma enzima de segundos mensageiros",
+        "O receptor se abre como um canal e deixa o Na+ entrar diretamente, sem etapas intermediárias",
+        "O receptor fecha as junções comunicantes e impede a passagem de íons entre as duas células",
+        "O receptor é recaptado para o terminal pré-sináptico e lá libera mais neurotransmissor"
+      ],
+      "correctIndex": 0,
+      "explanation": "O receptor metabotrópico ativa uma proteína G, que pode (a) abrir um canal iônico acoplado a ela ou (b) ativar uma enzima que gera segundos mensageiros. Essas etapas extras tornam a resposta mais lenta.",
+      "image": "pg24",
+      "imageCaption": "Receptores metabotrópicos acoplados à proteína G"
+    },
+    {
+      "question": "A via do segundo mensageiro, ativada por receptores acoplados à proteína G, pode levar a qual resultado além de alterar canais iônicos?",
+      "options": [
+        "Modificar proteínas existentes ou regular a síntese de novas proteínas",
+        "Formar junções comunicantes novas entre a célula e os seus vizinhos",
+        "Produzir a bainha de mielina em volta do axônio da célula pós-sináptica",
+        "Disparar a exocitose de vesículas dentro da própria célula pós-sináptica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pela via do segundo mensageiro, a célula pode alterar a abertura de canais iônicos ou modificar proteínas existentes e regular a síntese de novas proteínas, produzindo uma resposta intracelular coordenada e de longo prazo."
+    },
+    {
+      "question": "Um fármaco hipotético impede a abertura dos canais de Ca2+ dependentes de voltagem no terminal axonal. Qual seria a consequência direta?",
+      "options": [
+        "As vesículas não se fundiriam à membrana e o neurotransmissor não seria liberado",
+        "O potencial de ação não chegaria ao terminal axonal por falta de canais de Na+",
+        "O neurotransmissor seria liberado em excesso e ficaria preso nos receptores",
+        "As junções comunicantes se fechariam e a sinapse química passaria a ser elétrica"
+      ],
+      "correctIndex": 0,
+      "explanation": "É a entrada de Ca2+ que promove a fusão das vesículas com a membrana pré-sináptica. Sem ela, mesmo com o potencial de ação chegando ao terminal, não haveria exocitose e a mensagem não cruzaria a fenda."
+    }
+  ]
+}
