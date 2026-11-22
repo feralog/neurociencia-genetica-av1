@@ -1,0 +1,295 @@
+{
+  "titulo": "Linguagem e Interface Cognitiva",
+  "eyebrow": "Processos Psicológicos · Linguagem",
+  "subtitulo": "Estruturas da língua, o debate da aquisição e a relatividade linguística",
+  "intro": "Percorre os níveis hierárquicos da linguagem (fonemas, morfemas, sintaxe e pragmática), o debate entre o inatismo de Chomsky e o interacionismo de Vygotsky e a hipótese de Sapir-Whorf, com as evidências sobre cores, espaço e tempo.",
+  "questoes": [
+    {
+      "question": "Qual afirmação descreve a relação entre linguagem e cognição na psicologia cognitiva?",
+      "options": [
+        "A linguagem expressa ideias e também estrutura a própria cognição",
+        "A linguagem apenas traduz em palavras ideias já formadas antes",
+        "A linguagem é independente da cognição e serve só à comunicação",
+        "A cognição só começa a existir depois que a linguagem é adquirida"
+      ],
+      "correctIndex": 0,
+      "explanation": "A linguagem não apenas expressa ideias: ela estrutura a cognição humana. Funciona como representação mental, como processamento simbólico e como meio de interação social — por isso é tratada como interface entre palavra e pensamento."
+    },
+    {
+      "question": "Por quais três dimensões a linguagem se liga ao pensamento?",
+      "options": [
+        "Representação mental, processamento simbólico e interação social",
+        "Percepção sensorial, condicionamento operante e interação social",
+        "Representação mental, reflexo inato e imitação motora dos adultos",
+        "Processamento simbólico, memória sensorial e reforço do ambiente"
+      ],
+      "correctIndex": 0,
+      "explanation": "A linguagem representa mentalmente o mundo (palavras evocam conceitos), opera como processamento simbólico (símbolos combinados por regras) e é instrumento de interação social. Condicionamento, reflexo e reforço pertencem à explicação behaviorista, não a essa definição."
+    },
+    {
+      "question": "Na hierarquia do processamento linguístico, o que são os fonemas?",
+      "options": [
+        "Unidades sonoras fundamentais e abstratas",
+        "Menores unidades portadoras de significado",
+        "Regras de combinação estrutural gramatical",
+        "Usos práticos da fala no contexto social"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fonemas são as unidades sonoras fundamentais e abstratas da língua. Sozinhos não têm significado, mas distinguem palavras: trocar /p/ por /b/ transforma 'pato' em 'bato'. A menor unidade com significado é o morfema."
+    },
+    {
+      "question": "Nos níveis hierárquicos do processamento linguístico, qual corresponde às menores unidades portadoras de significado?",
+      "options": [
+        "O nível dos morfemas",
+        "O nível dos fonemas",
+        "O nível da sintaxe",
+        "O nível da pragmática"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os quatro níveis vão dos fonemas (unidades sonoras) aos morfemas (menores unidades com significado), à sintaxe (regras de combinação estrutural) e à pragmática (uso em contexto social). Em 'infelizmente', 'in-', 'feliz' e '-mente' são morfemas: cada um contribui com um pedaço do sentido.",
+      "image": "pg04",
+      "imageCaption": "Arquitetura da comunicação: os quatro níveis"
+    },
+    {
+      "question": "'Pato' e 'bato' diferem por um único som, e essa troca muda a palavra. Que unidade linguística está em jogo?",
+      "options": [
+        "O fonema, unidade sonora que distingue palavras",
+        "O morfema, unidade mínima portadora de sentido",
+        "A sintaxe, regra de combinação entre palavras",
+        "A pragmática, uso da fala no contexto social"
+      ],
+      "correctIndex": 0,
+      "explanation": "O fonema é a unidade sonora fundamental. Ele não carrega significado próprio — /p/ sozinho não quer dizer nada —, mas a troca de um fonema por outro muda a palavra. É essa função distintiva que o define."
+    },
+    {
+      "question": "'O cão mordeu o homem' e 'O homem mordeu o cão' têm as mesmas palavras e sentidos opostos. Qual nível explica a diferença?",
+      "options": [
+        "A sintaxe, que rege a combinação estrutural",
+        "Os fonemas, que formam os sons das palavras",
+        "Os morfemas, que carregam o sentido mínimo",
+        "A pragmática, que ajusta a fala ao contexto"
+      ],
+      "correctIndex": 0,
+      "explanation": "As palavras e seus sons são idênticos nas duas frases; muda apenas a ordem e a função de cada termo (quem é sujeito, quem é objeto). Isso é sintaxe: as regras de combinação estrutural gramatical que transformam palavras em frases com sentido determinado."
+    },
+    {
+      "question": "Alguém pergunta 'Você sabe que horas são?' e espera ouvir as horas, não um simples 'sim'. Qual nível da linguagem está em ação?",
+      "options": [
+        "A pragmática, o uso da linguagem no contexto social",
+        "A sintaxe, a regra de combinação entre as palavras",
+        "O morfema, a menor unidade dotada de significado",
+        "O fonema, a unidade sonora fundamental da fala"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ao pé da letra, a pergunta admite 'sim' como resposta, mas no contexto social ela funciona como um pedido. Entender a intenção por trás da forma é tarefa da pragmática — o uso prático da linguagem em contexto, o nível mais alto da hierarquia."
+    },
+    {
+      "question": "No inatismo de Chomsky, o que é a Gramática Universal?",
+      "options": [
+        "Um conjunto inato de regras estruturais básicas",
+        "Um conjunto de regras aprendido por reforço",
+        "Uma gramática construída na negociação social",
+        "A norma culta comum às línguas mais faladas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Chomsky, todo ser humano nasce com um conjunto inato de regras estruturais básicas, comum a todas as línguas. O ambiente não ensina essas regras: apenas informa qual língua específica será falada. Gramática construída socialmente é a visão de Vygotsky."
+    },
+    {
+      "question": "Para Chomsky, qual estrutura seria um módulo cerebral especializado para a linguagem?",
+      "options": [
+        "O Dispositivo de Aquisição da Linguagem",
+        "A Zona de Desenvolvimento Proximal",
+        "A Ferramenta Psicológica dos signos",
+        "O Esquema de Reforço do Comportamento"
+      ],
+      "correctIndex": 0,
+      "explanation": "O Dispositivo de Aquisição da Linguagem (DAL, ou LAD em inglês) é o módulo cerebral especializado que, para Chomsky, permite à criança extrair as regras da língua que ouve. É um construto teórico, não uma área anatômica delimitada. Zona de desenvolvimento e ferramenta psicológica são conceitos de Vygotsky."
+    },
+    {
+      "question": "Qual argumento do inatismo sustenta que o input ambiental é insuficiente para adquirir a linguagem sem uma base genética?",
+      "options": [
+        "Pobreza do estímulo",
+        "Gramática universal",
+        "Zona de desenvolvimento",
+        "Ferramenta psicológica"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pobreza do estímulo afirma que a fala que a criança ouve é fragmentada, cheia de erros e incompleta — insuficiente, por si só, para explicar o domínio de uma gramática inteira em poucos anos. A lacuna seria preenchida por uma base genética: a Gramática Universal e o Dispositivo de Aquisição.",
+      "image": "pg06",
+      "imageCaption": "O inatismo de Chomsky"
+    },
+    {
+      "question": "Uma criança diz 'eu fazi' e 'ele trazeu', formas que nunca ouviu de um adulto. Para o inatismo, o que isso indica?",
+      "options": [
+        "Que ela aplica regras gramaticais, e não apenas imita",
+        "Que ela reproduz por imitação o que ouviu em casa",
+        "Que o reforço dos pais fixou as formas incorretas",
+        "Que ela ainda não opera com regra gramatical alguma"
+      ],
+      "correctIndex": 0,
+      "explanation": "São erros de supergeneralização: a criança aplica a regra dos verbos regulares ('comi', 'bebeu') a verbos irregulares. Como ninguém fala 'fazi', a forma não veio de imitação nem de reforço — veio de uma regra extraída da fala ouvida, argumento usado a favor do inatismo."
+    },
+    {
+      "question": "Chomsky construiu o inatismo criticando a explicação behaviorista de Skinner. Para o behaviorismo, como a criança adquire a linguagem?",
+      "options": [
+        "Por imitação de modelos e reforço do ambiente",
+        "Por ativação de uma gramática universal inata",
+        "Por maturação de um módulo cerebral específico",
+        "Por negociação de significados na cultura"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em 'Comportamento Verbal' (1957), Skinner tratou a fala como comportamento operante, aprendido por imitação e modelado por reforço. Chomsky respondeu em 1959 que esse modelo não explica a criatividade da linguagem — a produção de frases nunca ouvidas — nem a rapidez da aquisição."
+    },
+    {
+      "question": "Um pesquisador argumenta que crianças de culturas muito diferentes passam por etapas gramaticais semelhantes, mesmo ouvindo falas fragmentadas e cheias de erros. Esse argumento favorece qual posição?",
+      "options": [
+        "O inatismo de Noam Chomsky",
+        "O interacionismo de Vygotsky",
+        "O behaviorismo de Skinner",
+        "A relatividade de Sapir-Whorf"
+      ],
+      "correctIndex": 0,
+      "explanation": "Etapas universais apesar de um input pobre são exatamente o que o inatismo prevê: se a gramática dependesse só do ambiente, ambientes tão diferentes produziriam trajetórias diferentes. É a combinação de Gramática Universal com pobreza do estímulo."
+    },
+    {
+      "question": "Para Vygotsky, de onde emerge a linguagem?",
+      "options": [
+        "Das interações sociais vividas no dia a dia",
+        "De uma gramática inata ativada pelo ambiente",
+        "Do reforço seletivo das vocalizações do bebê",
+        "Da maturação de um módulo cerebral inato"
+      ],
+      "correctIndex": 0,
+      "explanation": "No interacionismo, a linguagem tem origem sociocultural: nasce das interações sociais diárias, em que adultos e parceiros mais experientes nomeiam, perguntam e conversam com a criança. Gramática inata e módulo cerebral pertencem ao inatismo; o reforço, ao behaviorismo."
+    },
+    {
+      "question": "Na abordagem interacionista, qual conceito designa o aprendizado mediado por parceiros mais experientes?",
+      "options": [
+        "Zona de desenvolvimento proximal",
+        "Dispositivo de aquisição inato",
+        "Gramática universal preexistente",
+        "Pobreza do estímulo ambiental"
+      ],
+      "correctIndex": 0,
+      "explanation": "A zona de desenvolvimento proximal é a distância entre o que a criança faz sozinha e o que consegue fazer com a ajuda de alguém mais experiente. É nessa faixa que a mediação social produz aprendizado — inclusive o da linguagem.",
+      "image": "pg07",
+      "imageCaption": "O interacionismo de Vygotsky"
+    },
+    {
+      "question": "Para Vygotsky, que papel os signos — a linguagem entre eles — exercem sobre a mente?",
+      "options": [
+        "Organizam as funções mentais superiores, como ferramentas",
+        "Apenas expressam pensamentos formados de modo independente",
+        "Ativam as regras inatas de uma gramática universal",
+        "Servem só à comunicação, sem efeito sobre o pensamento"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vygotsky chamou os signos de ferramentas psicológicas: assim como um instrumento age sobre o mundo, o signo age sobre a própria mente, organizando funções mentais superiores como atenção voluntária, memória deliberada e planejamento. A fala que começa entre pessoas é internalizada e vira instrumento do pensamento."
+    },
+    {
+      "question": "Uma criança não consegue contar sozinha uma história em ordem, mas consegue quando a mãe faz perguntas de apoio. Para Vygotsky, essa faixa de desempenho corresponde a quê?",
+      "options": [
+        "À zona de desenvolvimento proximal",
+        "Ao nível de desenvolvimento real",
+        "À pobreza do estímulo ambiental",
+        "Ao dispositivo de aquisição inato"
+      ],
+      "correctIndex": 0,
+      "explanation": "O que a criança faz sozinha é o nível de desenvolvimento real; o que ela alcança com a mediação de alguém mais experiente revela a zona de desenvolvimento proximal. As perguntas da mãe são mediação social — o motor do aprendizado no interacionismo."
+    },
+    {
+      "question": "No debate sobre a aquisição da linguagem, qual papel o inatismo de Chomsky atribui ao ambiente?",
+      "options": [
+        "Apenas aciona mecanismos inatos",
+        "Constrói diretamente o conhecimento",
+        "Modela a fala por reforço seletivo",
+        "Define a gramática por negociação"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Chomsky, o ambiente apenas aciona mecanismos inatos — decide se a criança vai falar português ou japonês, mas não constrói a capacidade gramatical. Para Vygotsky, ao contrário, o ambiente é o construtor direto do conhecimento.",
+      "image": "pg08",
+      "imageCaption": "Síntese do debate: inatismo × interacionismo"
+    },
+    {
+      "question": "Qual par descreve corretamente o foco de cada abordagem da aquisição da linguagem?",
+      "options": [
+        "Chomsky: estruturas biológicas internas; Vygotsky: práticas culturais externas",
+        "Chomsky: práticas culturais externas; Vygotsky: estruturas biológicas internas",
+        "Chomsky: reforço do ambiente externo; Vygotsky: estruturas biológicas internas",
+        "Chomsky: estruturas biológicas internas; Vygotsky: reforço do ambiente externo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O inatismo olha para dentro — estruturas biológicas internas e gramática universal e preexistente. O interacionismo olha para fora — práticas culturais externas e gramática construída via negociação social. Reforço do ambiente é a chave do behaviorismo, não de nenhum dos dois."
+    },
+    {
+      "question": "Qual ideia central resume a hipótese de Sapir-Whorf?",
+      "options": [
+        "O idioma que falamos molda o modo como percebemos a realidade",
+        "Todas as línguas derivam de uma mesma gramática universal inata",
+        "A linguagem emerge das interações sociais e das práticas culturais",
+        "O pensamento se forma antes e de modo independente do idioma"
+      ],
+      "correctIndex": 0,
+      "explanation": "A hipótese, associada a Edward Sapir e Benjamin Lee Whorf, propõe a relatividade linguística: o idioma que falamos molda a forma como percebemos a realidade. Gramática universal é Chomsky; origem social da linguagem é Vygotsky."
+    },
+    {
+      "question": "Na hipótese de Sapir-Whorf, o que distingue a versão forte da versão fraca?",
+      "options": [
+        "Na forte, o idioma determina o pensamento; na fraca, só o influencia",
+        "Na forte, o idioma só influencia o pensamento; na fraca, o determina",
+        "Na forte, vale para a percepção de cores; na fraca, para o tempo",
+        "A forte foi proposta por Sapir; a fraca, depois, por Benjamin Whorf"
+      ],
+      "correctIndex": 0,
+      "explanation": "O determinismo forte diz que a língua determina — e limita — o que se pode pensar: sem a palavra, não haveria o conceito. A influência fraca diz apenas que a língua facilita, acelera ou torna mais saliente certas distinções. As duas versões não se dividem por domínio nem por autor.",
+      "image": "pg10",
+      "imageCaption": "A hipótese de Sapir-Whorf: duas versões"
+    },
+    {
+      "question": "O que as evidências modernas indicam sobre a relação entre idioma e pensamento?",
+      "options": [
+        "Uma influência sutil, e não um determinismo absoluto",
+        "Um determinismo absoluto do idioma sobre a percepção",
+        "Nenhuma influência mensurável do idioma sobre a mente",
+        "Um efeito restrito ao vocabulário, sem impacto cognitivo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os estudos com cores, orientação espacial e tempo mostram diferenças reais, mas graduais — velocidade, preferência, saliência —, e não a impossibilidade de pensar algo que a língua não nomeia. Isso sustenta a versão fraca da hipótese e enfraquece a forte."
+    },
+    {
+      "question": "Qual domínio de evidência mostra que sistemas de coordenadas absolutas, como norte e sul, alteram a navegação cognitiva?",
+      "options": [
+        "Orientação espacial",
+        "Percepção de cores",
+        "Concepção de tempo",
+        "Aquisição sintática"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em línguas que descrevem o espaço por pontos cardeais, e não por 'esquerda' e 'direita', os falantes precisam manter-se orientados o tempo todo — e de fato se orientam melhor. É o domínio da orientação espacial; cores dizem respeito à categorização visual e tempo às metáforas espaciais.",
+      "image": "pg11",
+      "imageCaption": "Como o idioma molda o pensamento: três domínios"
+    },
+    {
+      "question": "Falantes de uma língua que nomeia com palavras distintas o azul-claro e o azul-escuro discriminam esses tons mais depressa. Que evidência isso ilustra?",
+      "options": [
+        "Léxicos distintos alteram a velocidade de categorização visual",
+        "Metáforas espaciais reestruturam os cronogramas mentais do tempo",
+        "Coordenadas absolutas modificam a navegação no espaço físico",
+        "A gramática universal fixa as mesmas categorias de cor em todos"
+      ],
+      "correctIndex": 0,
+      "explanation": "É o achado com falantes de russo, que têm palavras básicas diferentes para o azul-claro (goluboy) e o azul-escuro (siniy): distinguem esses tons mais rápido. O efeito é de velocidade, não de cegueira — falantes de outras línguas também veem a diferença, apenas sem a mesma rapidez."
+    },
+    {
+      "question": "Como o idioma afeta a concepção de tempo, segundo as evidências de relatividade linguística?",
+      "options": [
+        "Metáforas espaciais da língua reestruturam os cronogramas mentais",
+        "Léxicos distintos de cores alteram a percepção da duração",
+        "Línguas sem tempo verbal futuro impedem pensar no futuro",
+        "Coordenadas absolutas eliminam a noção de passado e futuro"
+      ],
+      "correctIndex": 0,
+      "explanation": "Falamos do tempo com metáforas de espaço — o futuro 'à frente', o passado 'para trás' —, e línguas diferentes organizam esse eixo de modo diferente. Em aimará, o passado fica 'à frente' (é conhecido, visível) e o futuro 'atrás'. A ideia de que a língua impediria pensar no futuro é determinismo forte, que as evidências não sustentam."
+    }
+  ]
+}

@@ -1,0 +1,1265 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Diversidade da Personalidade Humana III e IV</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;450;500;600&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{background:#f5f3ef;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  button{font:inherit;color:inherit;font-family:'IBM Plex Sans',system-ui,sans-serif}
+  a{color:#2b57cc;text-decoration:none}
+  a:hover{color:#1e3f9c;text-decoration:underline}
+  @keyframes qFade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  @keyframes qDrawer{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:none}}
+
+  /* hovers — no canvas eram style-hover, aqui viram CSS de verdade */
+  .h-dark:hover{background:#2b57cc!important;transform:translateY(-1px)}
+  .h-darkflat:hover{background:#2b57cc!important}
+  .h-line:hover{border-color:#121a2b!important}
+  .h-ink:hover{color:#121a2b!important}
+  .h-opt:not(.locked):hover{border-color:var(--hbd)!important;transform:translateY(-1px)}
+  .h-card:hover{border-color:#121a2b!important;transform:translateY(-2px)}
+
+  /* tipografia do resumo */
+  .rsm{font-size:16.5px;line-height:1.72;color:#2a3141;max-width:64ch}
+  .rsm h2{font-family:'Newsreader',Georgia,serif;font-size:27px;font-weight:500;letter-spacing:-.02em;line-height:1.2;margin:42px 0 14px;padding-top:20px;border-top:1px solid #e4e0d8;text-wrap:pretty}
+  .rsm h2:first-child{margin-top:0;padding-top:0;border-top:0}
+  .rsm h3{font-family:'Newsreader',Georgia,serif;font-size:20px;font-weight:600;letter-spacing:-.01em;margin:28px 0 10px;text-wrap:pretty}
+  .rsm h4{font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#2b57cc;margin:24px 0 8px}
+  .rsm p{margin:0 0 15px;text-wrap:pretty}
+  .rsm ul,.rsm ol{margin:0 0 15px;padding-left:22px}
+  .rsm li{margin-bottom:7px;text-wrap:pretty}
+  .rsm li>ul,.rsm li>ol{margin:7px 0 0}
+  .rsm strong{font-weight:600;color:#121a2b}
+  .rsm em{font-style:italic}
+  .rsm code{font-family:'IBM Plex Mono',monospace;font-size:.88em;background:#efece5;border:1px solid #e4e0d8;border-radius:5px;padding:1px 5px}
+  .rsm hr{border:0;border-top:1px solid #e4e0d8;margin:32px 0}
+  .rsm blockquote{margin:0 0 18px;padding:15px 18px;background:#f7f6f2;border-left:2.5px solid #2b57cc;border-radius:0 12px 12px 0;font-size:15px;line-height:1.65;color:#39404f}
+  .rsm blockquote p:last-child{margin-bottom:0}
+  .rsm .tbl{overflow-x:auto;margin:0 0 20px;border:1px solid #e4e0d8;border-radius:12px;background:#fff}
+  .rsm table{border-collapse:collapse;width:100%;font-size:14px;line-height:1.5}
+  .rsm th{text-align:left;font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:#8a8578;font-weight:600;padding:11px 14px;background:#faf9f6;border-bottom:1px solid #e4e0d8;white-space:nowrap}
+  .rsm td{padding:11px 14px;border-bottom:1px solid #efece5;vertical-align:top;text-wrap:pretty}
+  .rsm tr:last-child td{border-bottom:0}
+  .rsm .key{background:#f2f6fb;border:1px solid #d6e2f4;border-radius:12px;padding:16px 18px;margin:0 0 18px}
+  .rsm .key>*:last-child{margin-bottom:0}
+
+  /* figuras — no resumo e na questao */
+  .fig{margin:0 0 20px;background:#fff;border:1px solid #e4e0d8;border-radius:14px;overflow:hidden}
+  .fig img{display:block;width:100%;height:auto;cursor:zoom-in}
+  .fig figcaption{font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.06em;color:#8a8578;padding:9px 13px;border-top:1px solid #efece5;background:#faf9f6;text-wrap:pretty}
+  .qfig{margin:0 0 20px}
+
+  /* lightbox */
+  #lb{position:fixed;inset:0;z-index:90;background:rgba(18,26,43,.86);display:none;align-items:center;justify-content:center;padding:24px;cursor:zoom-out}
+  #lb.on{display:flex;animation:qFade .16s ease}
+  #lb img{max-width:100%;max-height:100%;border-radius:10px;box-shadow:0 24px 60px rgba(0,0,0,.5)}
+
+  @media(max-width:560px){
+    .rsm{font-size:16px}
+    .rsm h2{font-size:24px}
+    .home-grid{grid-template-columns:1fr!important}
+  }
+</style>
+</head>
+<body>
+
+<div style="min-height:100vh;background:#f5f3ef;color:#121a2b;font-family:'IBM Plex Sans',system-ui,sans-serif">
+  <header style="position:sticky;top:0;z-index:30;background:rgba(245,243,239,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid #e4e0d8">
+    <div style="max-width:720px;margin:0 auto;padding:12px 16px 10px" id="hdr"></div>
+  </header>
+  <main style="max-width:720px;margin:0 auto;padding:0 16px 80px" id="stage"></main>
+</div>
+<div id="lb"><img alt=""></div>
+
+<script type="text/html" id="resumoSrc"><h2>1. A Terceira Força e a hierarquia de Maslow</h2>
+<p>Nas partes anteriores, a personalidade apareceu como campo de forças em conflito: o id contra o superego, a sombra contra a persona, o seio bom contra o seio mau. O humanismo muda o ponto de partida. Surgido nos <strong>Estados Unidos nas décadas de 1950 e 1960</strong>, ele se autodenomina <strong>Terceira Força</strong> porque nasce como protesto contra as duas abordagens que dominavam a psicologia da época.</p>
+<div class="tbl"><table><thead><tr><th></th><th><strong>Psicanálise</strong></th><th><strong>Behaviorismo</strong></th><th><strong>Humanismo (Terceira Força)</strong></th></tr></thead><tbody><tr><td>O que move o sujeito</td><td>Impulsos inconscientes, conflitos da infância</td><td>Condicionamentos e consequências do ambiente</td><td>Força inata de crescimento e autorrealização</td></tr><tr><td>Crítica humanista</td><td>Determinismo psíquico; foco excessivo na neurose, na psicopatologia e nas "forças sombrias" do inconsciente</td><td>Visão reducionista e mecanicista, que iguala o comportamento humano ao de animais de laboratório</td><td>—</td></tr><tr><td>Visão de homem</td><td>Determinado pelo passado</td><td>Determinado pelo meio</td><td>Totalidade <strong>consciente, ativa, intencional, livre e inerentemente boa</strong>, movida por forças saudáveis voltadas ao <strong>futuro</strong></td></tr></tbody></table></div>
+<p>O sujeito humanista não é empurrado pelo passado nem puxado pelo ambiente: é um organismo dotado de <strong>liberdade, escolha e dignidade</strong>, e o sofrimento é lido como obstáculo ao crescimento, e não como essência do psiquismo.</p>
+<h3>Abraham Maslow — a teoria holístico-dinâmica</h3>
+<p>Para Maslow, personalidade e motivação são governadas por uma <strong>hierarquia integrada de necessidades</strong>, que ficou conhecida como pirâmide. O que organiza essa hierarquia é o <strong>princípio de prepotência</strong>: as necessidades da base exigem satisfação antes que as do topo possam emergir e orientar a conduta.</p>
+<div class="tbl"><table><thead><tr><th>Nível (da base ao topo)</th><th>O que inclui</th></tr></thead><tbody><tr><td>1. <strong>Fisiológicas</strong></td><td>Ar, água, alimento, sono, homeostase corporal</td></tr><tr><td>2. <strong>Segurança</strong></td><td>Estabilidade, proteção, ordem, emprego, abrigo</td></tr><tr><td>3. <strong>Amor / pertencimento</strong></td><td>Afeto, amizades, intimidade sexual, pertencer a grupos</td></tr><tr><td>4. <strong>Estima</strong></td><td>Autoestima, autovalorização, reconhecimento, status, respeito dos outros</td></tr><tr><td>5. <strong>Autoatualização / autorrealização</strong></td><td>O topo da existência humana: impulso inato para atualizar o potencial máximo, expressando criatividade, talento e autonomia</td></tr></tbody></table></div>
+<h4>Da falta ao crescimento</h4>
+<p>Enquanto as necessidades básicas não estão resolvidas, o sujeito opera pela <strong>motivação pela falta</strong> — busca o que lhe falta. Resolvidas essas necessidades, entra em cena a <strong>metamotivação</strong> (motivação pelo crescimento): a personalidade passa a se guiar por <strong>valores superiores, os Valores-B</strong> — verdade, justiça, beleza e totalidade.</p>
+<blockquote><p>Prepotência, aqui, não tem nada a ver com arrogância: significa que a necessidade de baixo tem <strong>mais potência</strong> que a de cima. Quem tem fome não está preocupado com status. E atenção à ordem: <strong>estima</strong> (reconhecimento, status) vem <strong>acima</strong> de pertencimento (afeto, grupo).</p></blockquote>
+<hr>
+<h2>2. Carl Rogers: tendência atualizante e atitudes facilitadoras</h2>
+<h3>A tendência atualizante</h3>
+<p>O conceito central da <strong>Abordagem Centrada na Pessoa</strong> é a <strong>tendência atualizante</strong>: uma força biológica universal, uma inclinação inerente a <strong>todo organismo vivo</strong> para se desenvolver, expandir, amadurecer e realizar plenamente suas potencialidades criativas. Ela é o motor da personalidade.</p>
+<p>Daí decorre a visão clínica rogeriana. O sintoma e o sofrimento psicológico <strong>não são defeitos</strong>: são um <strong>bloqueio temporário</strong> da tendência atualizante, causado por ambientes sociais ou familiares opressores que sufocaram o verdadeiro modo de ser do indivíduo. A tarefa terapêutica não é consertar, e sim <strong>desbloquear</strong>.</p>
+<h3>Self real × self ideal: a incongruência</h3>
+<p>A personalidade rogeriana transita entre dois polos:</p>
+<ul><li><strong>Self real</strong> — quem a pessoa genuinamente é no momento.</li><li><strong>Self ideal</strong> — quem ela acha que deveria ser para agradar o mundo.</li></ul>
+<p>Quando a distância entre esses eixos é imensa, instala-se a <strong>incongruência</strong>, que gera <strong>ansiedade, alienação e sofrimento neurótico</strong>. Em termos mais técnicos, Rogers descreve a incongruência como o descompasso entre o autoconceito e a experiência vivida pelo organismo; a distância entre self real e self ideal é a forma mais direta de enxergar e medir esse descompasso na clínica.</p>
+<blockquote><p>Ponte com a parte II: o <strong>falso-self</strong> de Winnicott e o <strong>self ideal</strong> de Rogers descrevem a mesma cena — alguém que se molda à expectativa do outro e perde o contato com o que é. Winnicott localiza a origem na falha do ambiente mãe-bebê; Rogers, nas <strong>condições de valor</strong> impostas pelo ambiente ("só serei amado se for assim").</p></blockquote>
+<h3>O imperativo clínico: as três atitudes facilitadoras</h3>
+<p>Para liberar a tendência atualizante, o psicólogo <strong>não deve adotar postura diretiva</strong> nem aplicar técnicas intervencionistas. O crescimento é facilitado <strong>unicamente pela presença genuína</strong> do terapeuta, apoiada em três condições. (Rogers as formulou, em 1957, como as condições do lado do terapeuta dentro de um conjunto de seis condições "necessárias e suficientes" para a mudança.)</p>
+<div class="tbl"><table><thead><tr><th>Atitude</th><th>O que é</th><th>O que <strong>não</strong> é</th></tr></thead><tbody><tr><td><strong>Congruência (autenticidade)</strong></td><td>Estar inteiramente presente, de forma genuína, honesto com os próprios sentimentos no encontro</td><td>Esconder-se atrás de máscara profissional rígida ou de "jaleco de autoridade"</td></tr><tr><td><strong>Consideração positiva incondicional (CPI)</strong></td><td>Aceitação total, calorosa e sem julgamentos morais de tudo o que o cliente vivencia ou expressa; nenhuma "condição de valor" para acolher</td><td>Aprovar apenas o que parece adequado; reforçar seletivamente certas falas</td></tr><tr><td><strong>Compreensão empática</strong></td><td>Mergulhar no mundo interno e fenomênico do cliente, percebendo sentimentos e significados <strong>como se</strong> fossem seus, e validar a experiência subjetiva</td><td>Perder o limite do "como se" e se fundir ao cliente; interpretar a dor pela teoria do terapeuta</td></tr></tbody></table></div>
+<p>A CPI tem uma função precisa: aceito exatamente como é, o cliente ganha a <strong>segurança necessária para baixar as defesas e mudar</strong>. A empatia escuta a dor <strong>a partir da perspectiva de quem a vive</strong>.</p>
+<h4>O legado da dignidade humana</h4>
+<p>As abordagens humanistas transformam a relação terapêutica em espaço <strong>horizontal e democrático</strong>. O psicólogo abre mão de ser o especialista detentor do saber para se tornar <strong>catalisador</strong> do potencial que já habita o próprio cliente.</p>
+<blockquote><p>Pegadinha clássica: congruência é atributo do <strong>terapeuta</strong> (autenticidade); incongruência é estado do <strong>cliente</strong> (self real distante do ideal). A mesma raiz, lados opostos da sala.</p></blockquote>
+<hr>
+<h2>3. Teorias disposicionais: Allport e o Big Five</h2>
+<p>As <strong>teorias disposicionais</strong>, ou teorias dos traços, estudam a personalidade a partir de <strong>traços</strong>: características internas e tendências estáveis de comportamento. A premissa é que as pessoas têm formas próprias e duradouras de agir, sentir e pensar em diferentes situações. São as vertentes <strong>mais empíricas e mensuráveis</strong> da disciplina — a matriz nomotética apresentada na parte I, agora vista por dentro.</p>
+<h3>Gordon Allport — a psicologia do indivíduo</h3>
+<p>O mesmo Allport da definição de 1937 é considerado o <strong>pai fundador do estudo científico dos traços</strong>. Ele <strong>rejeitou o determinismo do inconsciente</strong> e focou na <strong>motivação consciente</strong> e no <strong>presente</strong> do indivíduo. Fez um levantamento de <strong>mais de 4.500 termos</strong> descritivos de comportamento e os organizou em três níveis de relevância:</p>
+<div class="tbl"><table><thead><tr><th>Nível</th><th>Definição</th><th>Exemplo</th></tr></thead><tbody><tr><td><strong>Traços cardeais</strong></td><td>Disposições tão dominantes e obsessivas que governam quase todas as ações da vida; definem o sujeito. <strong>Nem todas as pessoas desenvolvem um</strong></td><td>Altruísmo extremo de Madre Teresa; maquiavelismo na busca pelo poder</td></tr><tr><td><strong>Traços centrais</strong></td><td>Características gerais que formam os blocos de construção da personalidade — <strong>normalmente de 5 a 10</strong> por indivíduo</td><td>Os adjetivos de uma carta de recomendação: inteligente, honesto, tímido, pontual</td></tr><tr><td><strong>Traços secundários</strong></td><td>Disposições menos visíveis, menos generalizadas e <strong>altamente dependentes do contexto</strong>; preferências ou reações específicas</td><td>Irritar-se só com fome; medo de falar em público em alguém sociável no dia a dia</td></tr></tbody></table></div>
+<h4>Autonomia funcional: a ruptura com a infância</h4>
+<p>É uma das teses mais importantes de Allport: os motivos que impulsionam o adulto maduro <strong>tornam-se independentes</strong> — funcionalmente autônomos — das suas raízes infantis.</p>
+<p>O exemplo clássico: um jovem começa a estudar medicina (ou a caçar) para agradar o pai e ganhar sua aprovação — motivo infantil. Adulto, continua exercendo a medicina porque desenvolveu amor pela profissão e pela ciência. O motivo atual <strong>se sustenta por si mesmo</strong>.</p>
+<blockquote><p>Contraste decisivo com a parte II: para o <strong>determinismo psíquico</strong> de Freud, todo traço atual é determinado por conflitos da infância. Para a <strong>autonomia funcional</strong> de Allport, a origem infantil de um motivo não explica por que ele se mantém hoje.</p></blockquote>
+<h3>Os Cinco Grandes Fatores (Big Five)</h3>
+<p>Desenvolvido por pesquisadores como <strong>Costa e McCrae</strong> por meio da <strong>análise fatorial</strong>, o Big Five é hoje o padrão-ouro e a estrutura mais consensual da psicologia contemporânea para mapear a diversidade temperamental. Acrônimo: <strong>OCEAN</strong>.</p>
+<div class="tbl"><table><thead><tr><th>Fator</th><th>Mede</th><th>Pontuação alta</th><th>Pontuação baixa</th></tr></thead><tbody><tr><td><strong>O — Abertura para a experiência</strong> (<em>Openness</em>)</td><td>Curiosidade intelectual, criatividade, preferência pela variedade, imaginação</td><td>Original, aberto ao novo</td><td>Convencional, dogmático</td></tr><tr><td><strong>C — Conscienciosidade / realização</strong> (<em>Conscientiousness</em>)</td><td>Organização, persistência, controle de impulsos, responsabilidade, foco em metas</td><td>Disciplinado, confiável</td><td>Descuidado, procrastinador</td></tr><tr><td><strong>E — Extroversão</strong> (<em>Extraversion</em>)</td><td>Orientação para o mundo externo: sociabilidade, assertividade, busca de estimulação, otimismo</td><td>Sociável, assertivo</td><td>Introvertido: prefere solitude e ambientes calmos</td></tr><tr><td><strong>A — Amabilidade / socialização</strong> (<em>Agreeableness</em>)</td><td>Qualidade das interações, num contínuo da compaixão ao antagonismo</td><td>Empático, cooperativo, confiante</td><td>Competitivo, cínico, manipulador</td></tr><tr><td><strong>N — Neuroticismo / instabilidade emocional</strong> (<em>Neuroticism</em>)</td><td>Tendência a vivenciar afetos negativos e instabilidade</td><td>Ansiedade, vulnerabilidade ao estresse, mau humor, insegurança</td><td>Estabilidade e resiliência emocional</td></tr></tbody></table></div>
+<blockquote><p>Cuidado com dois falsos amigos: <strong>conscienciosidade</strong> não é "ter consciência", é organização e responsabilidade; <strong>neuroticismo</strong> não é diagnóstico de neurose, é uma dimensão contínua presente em todas as pessoas, em graus diferentes.</p></blockquote>
+<hr>
+<h2>4. Eysenck: a base biológica dos traços</h2>
+<p>Hans Eysenck <strong>reduziu a personalidade a poucas dimensões</strong> — no seu modelo clássico, três superfatores: psicoticismo, extroversão e neuroticismo — e defendeu que a nossa posição nesses traços é <strong>fortemente herdada</strong> e determinada pela <strong>constituição neurológica</strong>. É o temperamento da parte I ganhando mecanismo cerebral.</p>
+<h3>Ativação cortical e extroversão</h3>
+<p>O <strong>SARA</strong> (sistema ativador reticular ascendente) é uma rede de nervos no <strong>tronco encefálico</strong> que controla o estado de alerta, o ciclo sono-vigília e a filtragem de estímulos sensoriais — decide quais informações do ambiente entram na consciência. Para Eysenck, a diferença entre introvertidos e extrovertidos reside no <strong>nível basal de atividade</strong> desse sistema.</p>
+<div class="tbl"><table><thead><tr><th></th><th><strong>Introvertido</strong></th><th><strong>Extrovertido</strong></th></tr></thead><tbody><tr><td>Excitação cortical basal</td><td><strong>Alta</strong> — o cérebro já está muito estimulado por dentro</td><td><strong>Baixa</strong> — subexcitação crônica</td></tr><tr><td>Limiar para estímulos externos</td><td>Baixo: pouco estímulo já basta</td><td>Alto: precisa de muito estímulo</td></tr><tr><td>Comportamento</td><td>Evita ambientes barulhentos ou lotados para não sofrer sobrecarga</td><td>Busca ativamente estímulos, riscos e interações para elevar a ativação a um nível confortável</td></tr></tbody></table></div>
+<blockquote><p>A intuição engana: o introvertido <strong>não</strong> tem o cérebro "menos ativo". É o contrário — por já estar ativado demais, ele se protege do excesso. O extrovertido busca a festa porque está <strong>subestimulado</strong>.</p></blockquote>
+<h3>Sistema nervoso autônomo e neuroticismo</h3>
+<p>Eysenck associou o <strong>neuroticismo</strong> ao limiar de ativação do <strong>sistema nervoso simpático</strong> (resposta de luta ou fuga) e do <strong>sistema límbico</strong>. Pessoas com alto neuroticismo têm um sistema autônomo <strong>hiper-reativo</strong>: disparam alarmes de ansiedade e estresse diante de estímulos mínimos do cotidiano e <strong>demoram muito mais para retornar à homeostase</strong> emocional depois da ativação.</p>
+<div class="tbl"><table><thead><tr><th>Dimensão</th><th>Base biológica</th><th>Marca</th></tr></thead><tbody><tr><td>Extroversão</td><td>Nível basal do SARA (córtex)</td><td>Quanto estímulo o sujeito precisa</td></tr><tr><td>Neuroticismo</td><td>Simpático e sistema límbico</td><td>Quão rápido e por quanto tempo ele se alarma</td></tr></tbody></table></div>
+<h4>A personalidade como espectro, não como caixa</h4>
+<p>As teorias disposicionais mostram que a diversidade humana se organiza em <strong>espectros contínuos</strong>, e não em tipos rígidos. O psicólogo usa esses modelos para compreender a variação biológica do temperamento e <strong>mapear os traços sem patologizar</strong> o sujeito, reconhecendo a legitimidade das diferentes formas biológicas e comportamentais de habitar o mundo.</p>
+<hr>
+<h2>5. Behaviorismo radical: seleção por consequências e o Self</h2>
+<p>O behaviorismo radical desmonta a ideia de personalidade como substância interna imutável — uma "alma" ou força psíquica misteriosa. Para <strong>B. F. Skinner</strong>, o que chamamos de personalidade ou Self é um <strong>repertório complexo de comportamentos</strong>, moldado continuamente pelas interações do organismo com o ambiente. A personalidade <strong>não habita o indivíduo: ela é o próprio indivíduo em ação</strong>.</p>
+<h3>Os três níveis de variação e seleção</h3>
+<div class="tbl"><table><thead><tr><th>Nível</th><th>O que é</th><th>Impacto na personalidade</th></tr></thead><tbody><tr><td><strong>1. Filogênese</strong> — história evolutiva da espécie</td><td>Herança genética da espécie; características anatômicas e fisiológicas do indivíduo</td><td>Define limites físicos, a sensibilidade a certos reforçadores (alimento, toque) e os comportamentos reflexos e inatos (chorar, sugar ao nascer). É o <strong>substrato biológico inicial</strong></td></tr><tr><td><strong>2. Ontogênese</strong> — história de aprendizagem do indivíduo</td><td>Todas as experiências de aprendizagem desde o nascimento, pelo <strong>condicionamento operante</strong> (ação → consequência)</td><td><strong>O nível mais crucial para explicar a diversidade individual</strong>. A personalidade é a soma dos hábitos e respostas selecionados pelas consequências ao longo da vida</td></tr><tr><td><strong>3. Cultura</strong> — práticas do grupo social</td><td>Regras, leis, costumes, linguagens e rituais transmitidos entre gerações</td><td><strong>Acelera a aprendizagem</strong> ao fornecer regras e modelos prontos, sem que o sujeito precise errar sozinho; molda caráter ético, papéis de gênero, relação com o trabalho e valores. Funciona como <strong>macroambiente</strong> que seleciona o aceitável e o banido</td></tr></tbody></table></div>
+<p>O exemplo ontogenético é o mais cobrado. Quem cresceu num ambiente em que <strong>expressar emoções era reforçado</strong> com atenção e carinho desenvolve um repertório "comunicativo" e "afetuoso". Se o mesmo comportamento foi <strong>punido ou negligenciado</strong>, a pessoa aprende a se esquivar e a se isolar, com repertório "fechado" ou "fóbico". Mesmo organismo, histórias diferentes, personalidades diferentes.</p>
+<h3>O Self como sistema de respostas</h3>
+<p>Skinner rejeita categoricamente o <strong>"homem interno"</strong> — um homúnculo ou ego que toma decisões dentro da cabeça. O Self é definido como <strong>um sistema de respostas estruturado de forma funcionalmente unificada</strong>.</p>
+<p>Como o comportamento depende do contexto, uma mesma pessoa pode manifestar <strong>diferentes selves</strong>: o self-trabalhador, organizado e firme, e o self-familiar, brincalhão e submisso. Essas variações <strong>não são falsidade nem doença</strong>: são respostas saudáveis, adaptadas a diferentes conjuntos de reforçadores sociais.</p>
+<blockquote><p>Não confunda com o falso-self de Winnicott. Lá, a máscara é uma defesa que sufoca a espontaneidade e gera vazio. Aqui, a multiplicidade de selves é <strong>adaptação normal</strong> a contextos com contingências diferentes.</p></blockquote>
+<h3>Autoconhecimento como produto social</h3>
+<p>Skinner defende uma tese contraintuitiva: temos acesso direto às nossas dores e pensamentos — o <strong>mundo privado</strong> —, mas <strong>não nascemos sabendo o que eles significam</strong>. O autoconhecimento é uma habilidade inteiramente social, construída porque a <strong>comunidade verbal</strong> (pais, escola, amigos) nos pergunta sobre o nosso mundo interno.</p>
+<ul><li><strong>O processo:</strong> a criança cai e chora; a mãe pergunta "você está com dor?" ou "você está assustado?". Ao nomear o que a criança sente e reforçar suas respostas, a sociedade a ensina a observar o próprio comportamento e a <strong>discriminar</strong> as próprias emoções.</li><li><strong>A consequência clínica:</strong> quem teve as expressões emocionais negligenciadas ou punidas terá extrema dificuldade, adulto, em responder "o que você está sentindo agora?". O déficit não vem de falta de "ego forte", e sim de uma comunidade verbal que <strong>falhou em ensiná-lo</strong> a se observar.</li></ul>
+<h4>A plasticidade do comportamento</h4>
+<p>A maior contribuição do behaviorismo radical para a diversidade da personalidade é uma <strong>visão libertadora da mudança</strong>: se a personalidade é produto da história de interações com o ambiente, ela nunca está trancada numa essência ou num diagnóstico imutável. <strong>Alterando-se as contingências atuais, novos comportamentos são aprendidos</strong> e o Self pode se transformar profundamente.</p>
+<hr>
+<h2>6. Bandura e Beck: a virada cognitiva</h2>
+<p>A transição seguinte vai do modelo puramente comportamental para as abordagens <strong>social cognitiva</strong> e <strong>cognitiva</strong>. A personalidade não é moldada só por consequências diretas do ambiente, mas pela forma como o indivíduo <strong>processa ativamente a informação</strong>, cria expectativas e desenvolve crenças sobre si e sobre o mundo.</p>
+<h3>Albert Bandura — a teoria social cognitiva</h3>
+<p>Bandura expandiu o behaviorismo ao mostrar que o ser humano é um <strong>agente ativo</strong>, que aprende e molda a personalidade por processos cognitivos inseridos socialmente.</p>
+<h4>Determinismo recíproco triádico</h4>
+<p>Bandura rejeita que a personalidade seja causada apenas por forças internas (psicanálise) ou apenas por forças externas (behaviorismo clássico). Ela resulta da interação <strong>mútua, contínua e indissociável</strong> entre três fatores:</p>
+<ul><li><strong>P — Fatores pessoais e cognitivos:</strong> crenças, memórias, expectativas, predisposições biológicas, traços de pensamento.</li><li><strong>C — Comportamento:</strong> as ações reais, respostas motoras e verbais.</li><li><strong>A — Ambiente externo:</strong> contexto social e físico, regras familiares, consequências do meio.</li></ul>
+<p>Exemplo: um pensamento de timidez (P) faz o aluno sentar no fundo da sala (C); o professor passa a ignorá-lo (A); essa reação reforça a crença pessoal de exclusão (P). <strong>A personalidade é esse circuito giratório</strong> — e pode ser interrompida em qualquer um dos três pontos.</p>
+<h4>Aprendizagem vicária</h4>
+<p>Ninguém precisa errar e ser punido para aprender. Aprendemos <strong>observando as ações e, principalmente, as consequências das ações dos outros</strong> — os modelos. Grande parte de hábitos, traços de agressividade, medos e papéis sociais de gênero foi adquirida assistindo a pais, professores, amigos e figuras da mídia.</p>
+<blockquote><p>Atenção à terminologia: a aprendizagem por observação aparece como <strong>modelagem</strong> ou <strong>modelação</strong>. Em análise do comportamento, <em>modelagem</em> designa também outra coisa — o reforço de aproximações sucessivas, de Skinner. Em prova, leia o contexto: observar e imitar é Bandura.</p></blockquote>
+<h4>Autoeficácia</h4>
+<p>É o pilar mais importante de Bandura para a clínica: a <strong>crença na própria capacidade de organizar e executar as ações necessárias</strong> para alcançar um objetivo ou lidar com uma situação específica. Ela dita o nível de resiliência da personalidade.</p>
+<div class="tbl"><table><thead><tr><th>Alta autoeficácia</th><th>Baixa autoeficácia</th></tr></thead><tbody><tr><td>Aceita desafios difíceis</td><td>Evitação</td></tr><tr><td>Persiste diante dos fracassos</td><td>Baixa autoestima</td></tr><tr><td>Controla a ansiedade</td><td>Sensação de desamparo</td></tr></tbody></table></div>
+<p>Na literatura de Bandura, a autoeficácia se alimenta de quatro fontes: <strong>experiências de êxito</strong> (a mais poderosa), <strong>experiências vicárias</strong> (ver alguém parecido conseguir), <strong>persuasão verbal</strong> e <strong>estados fisiológicos e emocionais</strong>.</p>
+<blockquote><p>Autoeficácia <strong>não</strong> é autoestima. Autoestima é um apreço global por si; autoeficácia é específica da tarefa — dá para ter boa autoestima e baixa autoeficácia em estatística.</p></blockquote>
+<h3>Aaron T. Beck — o modelo cognitivo da personalidade</h3>
+<p>Para o psiquiatra <strong>Aaron Beck</strong>, criador da Terapia Cognitiva, o que define a diversidade da personalidade <strong>não são os fatos da vida em si, mas a forma como o sujeito os interpreta</strong> e lhes dá significado.</p>
+<h4>Esquemas: as lentes</h4>
+<p>Esquemas são <strong>estruturas cognitivas profundas</strong> que funcionam como "lentes" ou "filtros" criados desde a infância: organizam, selecionam e interpretam toda informação que chega do ambiente. Ambientes estáveis e afetuosos produzem esquemas saudáveis de competência e segurança; ambientes negligentes ou críticos produzem <strong>esquemas disfuncionais</strong> — filtros distorcidos que processam a realidade de forma enviesada (<strong>erros cognitivos</strong>).</p>
+<h4>Crenças nucleares</h4>
+<p>As <strong>crenças nucleares</strong> (<em>core beliefs</em>) são o nível <strong>mais profundo e rígido</strong> da personalidade: verdades absolutas e globais sobre <strong>si mesmo, os outros e o futuro</strong> — a <strong>tríade cognitiva</strong>. Organizam-se em três grandes categorias de sofrimento (sistematizadas por Judith Beck, continuadora do modelo):</p>
+<div class="tbl"><table><thead><tr><th>Categoria</th><th>Núcleo</th><th>Exemplos</th></tr></thead><tbody><tr><td><strong>Desamparo</strong></td><td>Impotência, fracasso, falta de controle</td><td>"Eu sou impotente", "Eu sou um fracasso", "Não consigo controlar nada na minha vida"</td></tr><tr><td><strong>Desamor</strong></td><td>Não ser digno de afeto</td><td>"Ninguém gosta de mim", "Sempre serei rejeitado e abandonado"</td></tr><tr><td><strong>Desvalor</strong></td><td>Não ter valor, ser mau</td><td>"Eu não tenho valor", "Eu sou um lixo", "Eu sou uma pessoa má e tóxica"</td></tr></tbody></table></div>
+<p>As fronteiras entre categorias nem sempre são nítidas: frases sobre incompetência, por exemplo, costumam ser classificadas como desamparo, mas ferem também o senso de valor.</p>
+<h4>A dinâmica rígida</h4>
+<p>Na personalidade saudável, crenças e esquemas são <strong>flexíveis</strong> e mudam quando a realidade mostra o contrário. Na personalidade vulnerável, as crenças nucleares tornam-se <strong>rígidas e hiperativas</strong>: o sujeito ignora as evidências positivas e enxerga o mundo apenas pelo filtro do sofrimento. O chefe dá nove elogios e uma crítica pontual; o funcionário retém só a crítica, porque ela confirma o que ele já acredita: "Viu? Eu sou incompetente!".</p>
+<h3>Bandura × Beck na clínica</h3>
+<div class="tbl"><table><thead><tr><th></th><th><strong>Bandura</strong></th><th><strong>Beck</strong></th></tr></thead><tbody><tr><td>Alvo</td><td>Autoeficácia e o circuito P–C–A</td><td>Crenças nucleares rígidas</td></tr><tr><td>Estratégias</td><td>Experiências de <strong>sucesso gradual</strong>, modelação de novos comportamentos, controle de metas</td><td><strong>Questionamento socrático</strong>; flexibilização das crenças; tratar pensamentos automáticos negativos como <strong>hipóteses, não verdades absolutas</strong></td></tr><tr><td>Resultado buscado</td><td>Mudar o circuito do determinismo recíproco</td><td>Reestruturação cognitiva da visão de si e do mundo</td></tr></tbody></table></div>
+<blockquote><p>Para discutir: a baixa autoeficácia acadêmica afeta provas e a entrada no mercado de trabalho por todos os lados do triângulo — a crença "não vou conseguir" (P) leva a estudar menos ou evitar (C), o resultado ruim (A) confirma a crença. Romper o ciclo pede metas pequenas e alcançáveis, que gerem experiências de êxito.</p></blockquote>
+<hr>
+<h2>7. Transtornos da personalidade: modelos, clusters e Cluster B</h2>
+<p>Na parte I, o critério que separa diversidade de psicopatologia eram <strong>sofrimento</strong> e <strong>rigidez</strong>. Os transtornos da personalidade são justamente isso: <strong>padrões rígidos e desadaptativos</strong>, distintos da variação individual saudável.</p>
+<h3>Categorial × dimensional</h3>
+<p>O entendimento dos transtornos passou por uma revolução recente.</p>
+<div class="tbl"><table><thead><tr><th></th><th><strong>Modelo categorial</strong></th><th><strong>Modelo dimensional</strong></th></tr></thead><tbody><tr><td>Onde está</td><td><strong>Seção II do DSM-5-TR</strong> (modelo tradicional)</td><td><strong>Seção III do DSM-5-TR</strong> (modelo alternativo) e adotado <strong>integralmente pela CID-11</strong></td></tr><tr><td>Lógica</td><td>Transtornos como entidades distintas: o sujeito <strong>tem ou não tem</strong>, por contagem de critérios (ex.: cumprir 5 de 9)</td><td>A personalidade patológica como <strong>espectro contínuo</strong> de variação dos traços normais</td></tr><tr><td>Limite / foco</td><td><strong>Alta comorbidade</strong>, sobreposição de sintomas e <strong>não captura a gravidade</strong> real</td><td>Avalia o <strong>grau de prejuízo no funcionamento</strong> + domínios de traços patológicos</td></tr></tbody></table></div>
+<p>No <strong>DSM-5-TR, Seção III</strong>, o funcionamento é avaliado em dois níveis — <strong>Self</strong> (identidade e autodirecionamento) e <strong>interpessoal</strong> (empatia e intimidade) — associado a cinco domínios de traços: <strong>afetividade negativa, distanciamento, antagonismo, desinibição e psicoticismo</strong>.</p>
+<p>A <strong>CID-11</strong> segue a mesma lógica, com dois ajustes que convém saber: classifica o transtorno pela <strong>gravidade</strong> (leve, moderado ou grave) e usa um conjunto próprio de domínios — <strong>afetividade negativa, distanciamento, dissocialidade, desinibição e anancastia</strong> —, além de um qualificador opcional de <strong>padrão borderline</strong>. Ou seja: dimensional nos dois, mas as listas de domínios não são idênticas.</p>
+<blockquote><p>O modelo dimensional conversa diretamente com o Big Five: os domínios patológicos são, grosso modo, versões extremas e desadaptativas dos traços normais — afetividade negativa ≈ neuroticismo alto; distanciamento ≈ extroversão baixa; antagonismo ≈ amabilidade baixa; desinibição ≈ conscienciosidade baixa.</p></blockquote>
+<h3>Os três clusters (modelo categorial)</h3>
+<div class="tbl"><table><thead><tr><th>Cluster</th><th>Perfil</th><th>Marcas</th><th>Transtornos</th></tr></thead><tbody><tr><td><strong>A</strong></td><td>Excêntricos / esquisitos</td><td>Desconfiança, isolamento social, distorções cognitivas</td><td>Paranoide, esquizoide, esquizotípico</td></tr><tr><td><strong>B</strong></td><td>Dramáticos / emocionais / erráticos</td><td>Impulsividade, desregulação emocional, busca de atenção, conflitos interpessoais intensos</td><td>Borderline, narcisista, antissocial, histriônico</td></tr><tr><td><strong>C</strong></td><td>Ansiosos / medrosos</td><td>Alto neuroticismo, insegurança, necessidade de controle</td><td>Evitativo, dependente, obsessivo-compulsivo</td></tr></tbody></table></div>
+<h3>Diagnóstico diferencial no Cluster B</h3>
+<p>O Cluster B é o que mais desafia o diagnóstico diferencial, porque os comportamentos dramáticos se sobrepõem. O psicólogo precisa investigar a <strong>motivação nuclear</strong> por trás das ações.</p>
+<h4>Borderline (TPB)</h4>
+<ul><li><strong>Núcleo:</strong> instabilidade generalizada nos relacionamentos, na autoimagem e nos afetos, com impulsividade acentuada.</li><li><strong>Motivação profunda:</strong> <strong>medo desesperador e crônico de abandono</strong>, rejeição e desamparo — real ou imaginário.</li><li><strong>Dinâmica:</strong> oscila entre idealização extrema e desvalorização total do outro — a <strong>cisão</strong>. Há vazio crônico, automutilação ou ideação suicida como tentativas desreguladas de aplacar a dor ou evitar o abandono.</li></ul>
+<blockquote><p>Ponte com a parte II: a cisão do borderline é o mecanismo da <strong>posição esquizoparanoide</strong> de Klein — o outro é "todo bom" ou "todo mau", sem integração.</p></blockquote>
+<h4>Narcisista (TPN)</h4>
+<ul><li><strong>Núcleo:</strong> padrão difuso de <strong>grandiosidade</strong> (em fantasia ou comportamento), necessidade de admiração e falta profunda de empatia.</li><li><strong>Motivação profunda:</strong> preservar uma <strong>autoimagem inflada, porém extremamente frágil</strong>, que protege de um sentimento subjacente de <strong>inferioridade e vergonha</strong>.</li><li><strong>Dinâmica:</strong> o outro é instrumento de validação (<strong>suprimento narcisista</strong>). Desvaloriza o ambiente, exibe sentimento de direito e reage com <strong>fúria narcisista</strong> ou depressão severa quando as expectativas de privilégio não são atendidas.</li></ul>
+<h4>Antissocial (TPA)</h4>
+<ul><li><strong>Núcleo:</strong> desrespeito e violação dos direitos dos outros, irresponsabilidade crônica, <strong>ausência de remorso</strong>, descumprimento de normas sociais e legais.</li><li><strong>Motivação profunda:</strong> ganho pessoal, poder, controle ou prazer imediato, <strong>sem a mediação de freios morais ou empatia</strong>.</li><li><strong>Dinâmica:</strong> o outro é <strong>presa ou peão</strong>. Manipula de forma <strong>fria, calculista e utilitária</strong>, com baixíssima reatividade ao medo e à ansiedade — no vocabulário de Eysenck, uma hipoativação: é preciso muito mais estímulo para que ele sinta medo. Pelo DSM, o diagnóstico exige idade mínima de 18 anos e sinais de transtorno da conduta antes dos 15.</li></ul>
+<blockquote><p>Atenção à formulação: às vezes se lê que o antissocial tem "limiar baixo" para o medo. O sentido correto é o inverso — o medo dele demora a disparar (limiar <strong>alto</strong>, ativação <strong>baixa</strong>). Limiar baixo descreveria alguém que se assusta à toa.</p></blockquote>
+<div class="tbl"><table><thead><tr><th>Transtorno</th><th>Comportamento visível</th><th>Medo / vulnerabilidade nuclear</th><th>Relação com o outro</th><th>Por que manipula</th></tr></thead><tbody><tr><td><strong>Borderline</strong></td><td>Explosões emocionais, automutilação, tentativas de suicídio</td><td>Abandono, rejeição e vazio</td><td>Dependência intensa, oscilando entre amor e ódio</td><td>Desregulação afetiva dolorosa; evitar o abandono</td></tr><tr><td><strong>Narcisista</strong></td><td>Arrogância, ostentação, exigência de privilégios</td><td>Fracasso, crítica e insignificância</td><td>Exploração para obter admiração e validação</td><td>Para ser admirado</td></tr><tr><td><strong>Antissocial</strong></td><td>Engano, agressividade, roubo, quebra de leis</td><td>Submissão, tédio e perda de controle</td><td>Instrumentalização fria para ganho ou prazer pessoal</td><td>Por ganho, de forma fria e utilitária</td></tr></tbody></table></div>
+<h4>O olhar clínico além do rótulo</h4>
+<p>O diagnóstico de um transtorno da personalidade <strong>nunca deve estigmatizar</strong> o paciente nem dar o caso como "perdido". Funciona como <strong>mapa de um funcionamento rígido</strong>. Compreender a motivação nuclear — o medo do abandono no borderline, a fragilidade da autoimagem no narcisista, a frieza utilitária no antissocial — permite desenhar intervenções que <strong>flexibilizem essas defesas</strong>, reduzindo o sofrimento e o impacto destrutivo nas relações.</p>
+<hr>
+<h2>8. Despatologização e práxis afirmativa</h2>
+<p>Os manuais diagnósticos <strong>não são verdades biológicas imutáveis</strong>: são documentos históricos atravessados por disputas sociais, que muitas vezes refletem os preconceitos e a moral de uma época. É a mesma crítica da parte I ao viés W.E.I.R.D. e à escuta colonial, agora aplicada à nosografia. A história da despatologização é a história da libertação de subjetividades que foram <strong>criminalizadas e medicalizadas</strong> pelo Estado.</p>
+<h3>Linha do tempo</h3>
+<div class="tbl"><table><thead><tr><th>Ano</th><th>Marco</th></tr></thead><tbody><tr><td>Até os anos 1970</td><td>Homossexualidade nos manuais médicos como desvio, distúrbio ou perversão sexual</td></tr><tr><td><strong>1973</strong></td><td>Após intensos protestos de movimentos sociais e de profissionais progressistas, a <strong>APA</strong> (Associação Psiquiátrica Americana) retira o termo "homossexualismo" do DSM. A decisão alterou a edição vigente, o DSM-II; o DSM-III (1980) trouxe o eufemismo <strong>"homossexualidade ego-distônica"</strong></td></tr><tr><td><strong>1987</strong></td><td>Cai em definitivo a homossexualidade ego-distônica (DSM-III-R)</td></tr><tr><td><strong>17/05/1990</strong></td><td>A <strong>OMS</strong> retira formalmente a homossexualidade da <strong>CID</strong>. A data vira o <strong>Dia Internacional contra a Homofobia, Transfobia e Bifobia</strong></td></tr><tr><td><strong>1999</strong></td><td><strong>Resolução CFP 01/99</strong> (orientação sexual)</td></tr><tr><td><strong>2013</strong></td><td><strong>DSM-5</strong>: "transtorno de identidade de gênero" é banido e substituído por <strong>disforia de gênero</strong></td></tr><tr><td><strong>2018</strong></td><td><strong>Resolução CFP 01/18</strong> (identidades trans e travestis)</td></tr><tr><td><strong>2019 / 2022</strong></td><td><strong>CID-11</strong> (aprovada em 2019, em vigor em 2022): a transexualidade sai dos transtornos mentais e vai para <strong>condições relacionadas à saúde sexual</strong>, como <strong>incongruência de gênero</strong></td></tr></tbody></table></div>
+<h4>Identidades trans: do transtorno à variação</h4>
+<ul><li><strong>DSM-5 (2013) — disforia de gênero:</strong> desloca o foco da identidade em si, que <strong>não é doença</strong>, para o <strong>sofrimento psíquico</strong> gerado pela incongruência e pela falta de acolhimento social.</li><li><strong>CID-11 — incongruência de gênero:</strong> deixa de ser adoecimento mental para se tornar <strong>variação legítima da diversidade humana</strong>.</li></ul>
+<blockquote><p>Não troque os nomes: <strong>disforia de gênero</strong> é termo do <strong>DSM-5</strong> e ainda fica entre os diagnósticos psiquiátricos, com foco no sofrimento; <strong>incongruência de gênero</strong> é termo da <strong>CID-11</strong>, fora do capítulo de transtornos mentais.</p></blockquote>
+<h3>A práxis afirmativa do psicólogo</h3>
+<p>A Psicologia não pode adotar uma postura de <strong>"neutralidade conivente"</strong> diante da violência. Deve operar pela <strong>psicoterapia afirmativa</strong>: uma abordagem que valida, acolhe e fortalece as identidades minoritárias, combatendo o <strong>estresse de minoria</strong> — o desgaste crônico produzido pelo preconceito, pela discriminação e pela necessidade constante de vigilância e ocultação (conceito associado ao pesquisador Ilan Meyer).</p>
+<div class="tbl"><table><thead><tr><th>Norma</th><th>Tema</th><th>O que determina</th></tr></thead><tbody><tr><td><strong>Resolução CFP 01/99</strong></td><td>Orientação sexual</td><td>Proíbe categoricamente qualquer pronunciamento ou prática que proponha <strong>cura, reversão ou tratamento</strong> da homossexualidade (terapias de conversão, "cura gay"). A homossexualidade não constitui doença, desvio nem perversão</td></tr><tr><td><strong>Resolução CFP 01/18</strong></td><td>Identidade de gênero</td><td>Garante a <strong>autodeterminação</strong>: o psicólogo acolhe e valida identidades trans e travestis; proíbe favorecer patologizações ou propor "reversão" da identidade ou expressão de gênero</td></tr></tbody></table></div>
+<h4>Neurodivergência</h4>
+<p>A práxis afirmativa se estende ao campo da cognição. O sujeito neurodivergente — <strong>autistas, pessoas com TDAH ou com altas habilidades/superdotação (AH/SD)</strong> — não é um conjunto de déficits a eliminar para que se "adeque" à sociedade neurotípica. A intervenção visa <strong>autonomia, redução do sofrimento e adaptação do ambiente</strong>, respeitando a <strong>ecologia cognitiva singular</strong> daquela personalidade. É a neurodiversidade da parte I convertida em conduta clínica.</p>
+<h3>O compromisso com os direitos humanos</h3>
+<p>O primeiro dos Princípios Fundamentais do <strong>Código de Ética Profissional do Psicólogo</strong> (muitas vezes citado como "artigo 1º") determina que o psicólogo baseará seu trabalho no respeito e na promoção da <strong>liberdade, da dignidade, da igualdade e da integridade do ser humano</strong>, apoiado nos valores da <strong>Declaração Universal dos Direitos Humanos</strong>. Ser ético significa combater ativamente o <strong>racismo, a LGBTfobia, o capacitismo e a psicopatologização das diferenças</strong>.</p>
+<blockquote><p>A ponte entre as matrizes e a ética: Rogers recusa condições de valor, Eysenck mapeia sem patologizar, Skinner mostra que nenhum Self está trancado num diagnóstico, e o modelo dimensional trata o patológico como extremo de um espectro comum. A práxis afirmativa é a consequência clínica de tudo isso.</p></blockquote>
+<hr>
+<h2>9. Comparativo das matrizes e pontes com as partes I e II</h2>
+<h3>As matrizes das partes III e IV</h3>
+<div class="tbl"><table><thead><tr><th>Matriz</th><th>Autor</th><th>O que move / estrutura a personalidade</th><th>Conceitos-chave</th><th>Postura clínica</th></tr></thead><tbody><tr><td><strong>Humanismo</strong></td><td>Abraham Maslow</td><td>Hierarquia de necessidades rumo à autoatualização</td><td>Prepotência, motivação pela falta, metamotivação, Valores-B</td><td>Favorecer o crescimento</td></tr><tr><td><strong>Humanismo</strong></td><td>Carl Rogers</td><td>Tendência atualizante</td><td>Self real × ideal, incongruência, condições de valor</td><td>Não diretiva: congruência, CPI, empatia</td></tr><tr><td><strong>Traços</strong></td><td>Gordon Allport</td><td>Disposições estáveis e motivação consciente no presente</td><td>Traços cardeais, centrais e secundários; autonomia funcional</td><td>Descrever o indivíduo singular</td></tr><tr><td><strong>Traços</strong></td><td>Costa e McCrae</td><td>Cinco dimensões contínuas (análise fatorial)</td><td>OCEAN</td><td>Mapear sem rotular</td></tr><tr><td><strong>Traços biológicos</strong></td><td>Hans Eysenck</td><td>Constituição neurológica herdada</td><td>SARA e extroversão; simpático/límbico e neuroticismo</td><td>Entender o temperamento como espectro</td></tr><tr><td><strong>Behaviorismo radical</strong></td><td>B. F. Skinner</td><td>Seleção por consequências em três níveis</td><td>Filogênese, ontogênese, cultura; Self como sistema de respostas; comunidade verbal</td><td>Alterar contingências</td></tr><tr><td><strong>Social cognitiva</strong></td><td>Albert Bandura</td><td>Interação P–C–A</td><td>Determinismo recíproco, aprendizagem vicária, autoeficácia</td><td>Sucesso gradual, modelação, metas</td></tr><tr><td><strong>Cognitiva</strong></td><td>Aaron Beck</td><td>Interpretação dos fatos por esquemas</td><td>Esquemas, crenças nucleares, tríade cognitiva</td><td>Questionamento socrático, reestruturação</td></tr></tbody></table></div>
+<h3>O que volta das partes I e II, e com que ângulo</h3>
+<div class="tbl"><table><thead><tr><th>Conceito das partes I e II</th><th>Como reaparece nas partes III e IV</th></tr></thead><tbody><tr><td><strong>Determinismo psíquico</strong> (Freud)</td><td>É o alvo da crítica humanista e o oposto da <strong>autonomia funcional</strong> de Allport</td></tr><tr><td><strong>Temperamento</strong> (base biológica)</td><td>Ganha mecanismo em <strong>Eysenck</strong>: SARA para extroversão, simpático e límbico para neuroticismo</td></tr><tr><td><strong>Abordagem nomotética / Big Five</strong></td><td>Detalhada no <strong>OCEAN</strong> e prolongada no <strong>modelo dimensional</strong> dos transtornos</td></tr><tr><td><strong>Falso-self</strong> (Winnicott)</td><td>Ecoa no <strong>self ideal</strong> e nas <strong>condições de valor</strong> de Rogers — e contrasta com os <strong>selves múltiplos e saudáveis</strong> de Skinner</td></tr><tr><td><strong>Cisão</strong> (Klein, posição esquizoparanoide)</td><td>Reaparece na <strong>idealização × desvalorização</strong> do borderline</td></tr><tr><td><strong>Persona</strong> (Jung)</td><td>Rogers pede o contrário no terapeuta: <strong>congruência</strong>, sem máscara profissional</td></tr><tr><td><strong>Sofrimento + rigidez</strong> como critério</td><td>Define o <strong>transtorno da personalidade</strong> como padrão rígido e desadaptativo</td></tr><tr><td><strong>W.E.I.R.D. e decolonialidade</strong></td><td>Os manuais são <strong>documentos históricos</strong>: base da <strong>despatologização</strong></td></tr><tr><td><strong>Neurodiversidade</strong></td><td>Vira <strong>práxis afirmativa</strong> diante da neurodivergência</td></tr></tbody></table></div>
+<blockquote><p>A personalidade como território de liberdade: o papel da Psicologia não é padronizar os sujeitos em caixas de normalidade estatística, mas dar sustentação clínica para que cada ser humano exerça o direito ético de existir em sua <strong>plenitude, autenticidade e singularidade</strong>.</p></blockquote></script>
+<!-- Tutor local: define window.DEEPSEEK_KEY. O arquivo NAO vai para o repositorio,
+     entao online ele da 404 e o chat simplesmente nao aparece. -->
+<script src="../deepseek_key.js"></script>
+<script>
+/* ─────────────────────────────────────────────────────────────────────────────
+   CONTRATO DE DADOS — para adaptar a outro tema, troque apenas QUIZ e o resumo.
+   Cada item: { question, options[2..6], correctIndex, explanation }
+   ──────────────────────────────────────────────────────────────────────────── */
+var TITLE      = "Diversidade da Personalidade Humana III e IV";
+var EYEBROW    = "Psicologia · Personalidade";
+var DISCIPLINA = "Personalidade";   // pasta de origem (PED, GO...) — usada pelo índice
+var SUBTITLE = "Do humanismo aos transtornos de personalidade e à práxis afirmativa";
+var INTRO    = "Cobre a Terceira Força (Maslow e Rogers), as teorias dos traços (Allport, Big Five e Eysenck), o behaviorismo radical de Skinner, a virada cognitiva de Bandura e Beck, os transtornos da personalidade no DSM-5-TR e na CID-11 e a despatologização com a práxis afirmativa.";
+
+var QUIZ = [
+  {
+    "question": "O humanismo surgiu nos Estados Unidos nas décadas de 1950 e 1960 e se autodenominou Terceira Força. Contra o que esse movimento se levantava?",
+    "options": [
+      "O mecanicismo behaviorista e o determinismo psicanalítico",
+      "O tecnicismo cognitivista e o biologismo da psiquiatria",
+      "O idealismo existencialista e o relativismo da Gestalt",
+      "O estruturalismo de Wundt e o funcionalismo de William James"
+    ],
+    "correctIndex": 0,
+    "explanation": "O humanismo nasce como protesto contra as duas forças dominantes: o behaviorismo, que igualava o comportamento humano ao de animais de laboratório, e a psicanálise, centrada no determinismo psíquico, na neurose e nas forças sombrias do inconsciente. Em seu lugar, propõe um ser humano consciente, livre, intencional e inerentemente bom, movido por forças saudáveis voltadas ao futuro."
+  },
+  {
+    "question": "Na teoria holístico-dinâmica de Abraham Maslow, que princípio determina que as necessidades da base precisam ser satisfeitas antes que as do topo emerjam?",
+    "options": [
+      "Princípio de prepotência das necessidades",
+      "Princípio de autonomia funcional dos motivos",
+      "Princípio de reforço diferencial das respostas",
+      "Princípio de compensação das inferioridades"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pelo princípio de prepotência, a pirâmide funciona como hierarquia integrada: as necessidades fisiológicas pressionam mais que as de segurança, que pressionam mais que amor, estima e autoatualização. Só quando as camadas inferiores estão razoavelmente atendidas as superiores passam a orientar a conduta. Autonomia funcional é conceito de Allport; compensação da inferioridade, de Adler."
+  },
+  {
+    "question": "Na hierarquia de Maslow, a busca por autovalorização, reconhecimento, status e respeito dos outros corresponde a qual nível?",
+    "options": [
+      "Estima, quarto nível da pirâmide",
+      "Pertencimento, terceiro nível da pirâmide",
+      "Segurança, segundo nível da pirâmide",
+      "Autorrealização, topo da pirâmide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Estima reúne autoestima, autovalorização, reconhecimento, status e respeito dos outros. Fica acima de amor/pertencimento (afeto, amizades, intimidade, pertencer a grupos) e abaixo da autoatualização. A ordem completa, da base ao topo: fisiológicas, segurança, amor/pertencimento, estima e autoatualização."
+  },
+  {
+    "question": "Segundo Maslow, quando as necessidades básicas estão resolvidas, o indivíduo passa a guiar a personalidade por valores como verdade, justiça, beleza e totalidade. Como se chama esse modo de motivação?",
+    "options": [
+      "Metamotivação, ou motivação pelo crescimento",
+      "Motivação por deficiência, ou motivação pela falta",
+      "Sublimação, ou desvio da pulsão para a arte",
+      "Reforço negativo, ou alívio da privação"
+    ],
+    "correctIndex": 0,
+    "explanation": "A metamotivação é a motivação pelo crescimento, orientada pelos Valores-B: verdade, justiça, beleza e totalidade. Contrasta com a motivação pela falta, que move o sujeito enquanto as necessidades básicas ainda não foram satisfeitas. É o modo de funcionamento da pessoa que caminha para a autoatualização."
+  },
+  {
+    "question": "Para Carl Rogers, qual é o motor da personalidade, presente em todo organismo vivo como inclinação a se desenvolver, amadurecer e realizar suas potencialidades?",
+    "options": [
+      "A tendência atualizante do organismo",
+      "A pulsão de vida em conflito com a de morte",
+      "O reforço positivo vindo do ambiente social",
+      "O inconsciente coletivo e seus arquétipos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A tendência atualizante é o conceito central da Abordagem Centrada na Pessoa: uma força biológica universal voltada ao crescimento. Daí a visão clínica rogeriana — o sintoma não é defeito, e sim bloqueio temporário dessa tendência, causado por ambientes sociais ou familiares opressores que sufocaram o verdadeiro modo de ser do indivíduo."
+  },
+  {
+    "question": "Uma jovem é, no momento, insegura e curiosa, mas se cobra ser sempre segura, brilhante e agradável para corresponder ao que o mundo espera. Quanto maior essa distância, maior a ansiedade. Como Rogers nomeia esse estado?",
+    "options": [
+      "Incongruência entre o self real e o self ideal",
+      "Cisão entre o objeto bom e o objeto mau interno",
+      "Dissonância entre a crença e o próprio comportamento",
+      "Conflito entre o id e o superego punitivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "O self real é quem a pessoa genuinamente é no momento; o self ideal, quem ela acha que deveria ser para agradar o mundo. Quando a distância entre os dois é grande, instala-se a incongruência, que gera ansiedade, alienação e sofrimento neurótico. A terapia busca reduzir essa distância liberando a tendência atualizante."
+  },
+  {
+    "question": "Qual atitude facilitadora exige que o terapeuta esteja presente de forma genuína, honesto com os próprios sentimentos, sem se esconder atrás de uma máscara profissional rígida?",
+    "options": [
+      "Congruência, ou autenticidade do terapeuta",
+      "Compreensão empática do mundo do cliente",
+      "Consideração positiva incondicional",
+      "Neutralidade técnica, ou abstinência"
+    ],
+    "correctIndex": 0,
+    "explanation": "Congruência é a autenticidade: o psicólogo está inteiramente presente, sem jaleco de autoridade, honesto com o que sente no encontro. É uma das três atitudes facilitadoras de Rogers, ao lado da consideração positiva incondicional e da compreensão empática. Neutralidade e abstinência são princípios da técnica psicanalítica, não rogerianos."
+  },
+  {
+    "question": "Um cliente relata algo de que se envergonha e espera ser repreendido. O terapeuta o acolhe sem julgamento moral e sem impor condições de valor para aceitá-lo. Qual atitude facilitadora está em jogo?",
+    "options": [
+      "Consideração positiva incondicional",
+      "Congruência, ou autenticidade plena",
+      "Reforço positivo da fala desejada",
+      "Confrontação empática do discurso"
+    ],
+    "correctIndex": 0,
+    "explanation": "A consideração positiva incondicional é a aceitação total, calorosa e sem julgamentos morais de tudo o que o cliente vivencia ou expressa. Como o terapeuta não estabelece condições de valor, o cliente ganha a segurança necessária para baixar as defesas e mudar. Reforçar seletivamente certas falas seria justamente impor uma condição."
+  },
+  {
+    "question": "Na compreensão empática descrita por Rogers, o terapeuta percebe os sentimentos do cliente como se fossem seus. Qual é o limite que preserva essa atitude?",
+    "options": [
+      "Manter o como se, sem se fundir ao cliente",
+      "Revelar sempre os próprios sentimentos ao cliente",
+      "Interpretar a dor a partir da teoria do terapeuta",
+      "Concordar com tudo o que o cliente decidir fazer"
+    ],
+    "correctIndex": 0,
+    "explanation": "Compreensão empática é mergulhar no mundo interno e fenomênico do cliente, escutando a dor da perspectiva de quem a vive e validando a experiência subjetiva — sem perder o limite do como se. O terapeuta sente com o cliente sem se confundir com ele; interpretar pela teoria seria sair do mundo do outro."
+  },
+  {
+    "question": "Na hierarquia de traços de Gordon Allport, como se chama uma disposição tão dominante que governa quase todas as ações de uma pessoa, como o altruísmo extremo de Madre Teresa?",
+    "options": [
+      "Traço cardeal, que nem todos desenvolvem",
+      "Traço central, que todos têm de 5 a 10",
+      "Traço secundário, ligado a um só contexto",
+      "Traço comum, partilhado por uma cultura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Allport organizou mais de 4.500 termos descritivos em três níveis. O traço cardeal é tão dominante que define o sujeito — e nem todas as pessoas desenvolvem um. Os centrais (normalmente de 5 a 10) são os blocos de construção da personalidade; os secundários são menos visíveis e dependentes da situação."
+  },
+  {
+    "question": "Uma pessoa sociável no dia a dia tem medo intenso de falar em público e só fica irritada quando está com fome. Na classificação de Allport, essas disposições são:",
+    "options": [
+      "Traços secundários, dependentes do contexto",
+      "Traços centrais, blocos da personalidade",
+      "Traços cardeais, que governam a conduta",
+      "Traços de temperamento, herdados e imutáveis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Traços secundários são menos visíveis, menos generalizados e altamente dependentes da situação — aparecem como preferências ou reações específicas. Os centrais são os adjetivos usados para descrever alguém numa carta de recomendação (inteligente, honesto, tímido, pontual), válidos em muitos contextos."
+  },
+  {
+    "question": "Um homem começou a estudar medicina para obter a aprovação do pai, mas, adulto, segue na profissão por amor à ciência. Que conceito de Allport explica a continuidade, e de que tese ele se afasta?",
+    "options": [
+      "Autonomia funcional; afasta-se do determinismo da infância",
+      "Formação reativa; afasta-se da hierarquia dos traços",
+      "Sublimação; afasta-se do princípio do prazer freudiano",
+      "Prepotência; afasta-se da hierarquia das necessidades básicas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pela autonomia funcional, os motivos do adulto maduro se tornam independentes de suas raízes infantis: o motivo atual se sustenta por si mesmo. É uma ruptura direta com o determinismo psíquico freudiano, para o qual o traço atual é sempre determinado por conflitos da infância. Allport foca na motivação consciente e no presente."
+  },
+  {
+    "question": "No modelo dos Cinco Grandes Fatores, uma pessoa descuidada, pouco persistente e procrastinadora tende a pontuar baixo em qual dimensão?",
+    "options": [
+      "Conscienciosidade, ou realização",
+      "Amabilidade, ou socialização",
+      "Extroversão, ou busca de estímulos",
+      "Abertura para a experiência"
+    ],
+    "correctIndex": 0,
+    "explanation": "Conscienciosidade, o C de OCEAN, mede organização, persistência, controle de impulsos, responsabilidade e foco em metas: pontuação alta indica sujeitos disciplinados e confiáveis; baixa, descuidados e procrastinadores. O modelo, de Costa e McCrae, foi derivado por análise fatorial e é hoje a estrutura mais consensual para mapear traços."
+  },
+  {
+    "question": "Na teoria da ativação cortical de Hans Eysenck, por que o introvertido tende a evitar ambientes barulhentos e lotados?",
+    "options": [
+      "Seu nível basal de excitação cortical já é alto",
+      "Seu nível basal de excitação cortical é baixo",
+      "Seu sistema simpático demora muito a ser ativado",
+      "Seu contato social foi punido na infância"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eysenck localiza a diferença no nível basal do SARA, o sistema ativador reticular ascendente. O introvertido já tem excitação cortical alta e, por isso, limiar baixo para estímulos externos: evita barulho para não se sobrecarregar. O extrovertido vive em subexcitação crônica e busca estímulos, riscos e interações para chegar a um nível confortável."
+  },
+  {
+    "question": "Hans Eysenck defendia que a posição de cada pessoa nos traços é fortemente herdada. A que base biológica ele associou o neuroticismo?",
+    "options": [
+      "Hiper-reatividade do simpático e do sistema límbico",
+      "Baixa atividade basal do sistema reticular ascendente",
+      "Excesso de dopamina nas vias corticais pré-frontais",
+      "Hipoatividade do sistema parassimpático cardíaco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eysenck ligou o neuroticismo ao limiar de ativação do sistema nervoso simpático (luta ou fuga) e do sistema límbico. Quem pontua alto tem um sistema autônomo hiper-reativo: dispara ansiedade diante de estímulos mínimos e demora mais para voltar à homeostase. A atividade basal do sistema reticular, por sua vez, explica a extroversão."
+  },
+  {
+    "question": "No modelo de seleção por consequências de B. F. Skinner, qual dos três níveis é o mais crucial para explicar a diversidade da personalidade individual?",
+    "options": [
+      "Ontogênese, a história de aprendizagem operante",
+      "Filogênese, a história evolutiva da espécie",
+      "Cultura, as práticas transmitidas pelo grupo social",
+      "Epigênese, a expressão gênica pelo ambiente"
+    ],
+    "correctIndex": 0,
+    "explanation": "A ontogênese reúne as experiências de aprendizagem do indivíduo desde o nascimento, pelo condicionamento operante (ação seguida de consequência). A filogênese dá o substrato biológico — limites físicos, sensibilidade a reforçadores, reflexos — e a cultura fornece regras e modelos prontos. É a história de reforços e punições que diferencia um repertório afetuoso de um fechado."
+  },
+  {
+    "question": "Para o behaviorismo radical, de que modo o terceiro nível de seleção, a cultura, atua sobre a personalidade?",
+    "options": [
+      "Fornece regras prontas, poupando o sujeito de errar sozinho",
+      "Fixa reflexos inatos, como sugar e chorar ao nascer",
+      "Transmite arquétipos herdados por toda a espécie humana",
+      "Constrói o superego ao resolver o complexo de Édipo na infância"
+    ],
+    "correctIndex": 0,
+    "explanation": "A cultura reúne regras, leis, costumes, linguagens e rituais transmitidos entre gerações. Ela acelera a aprendizagem individual ao oferecer modelos de conduta prontos, sem que o sujeito precise passar pela punição de errar sozinho, e molda caráter ético, papéis de gênero e valores morais, funcionando como macroambiente que seleciona o que é aceito ou banido."
+  },
+  {
+    "question": "Uma mulher é firme e organizada no trabalho, mas brincalhona e submissa em família. Como o behaviorismo radical de Skinner interpreta essa diferença?",
+    "options": [
+      "Selves distintos, adaptados a reforçadores diferentes",
+      "Falso-self, máscara de submissão diante da própria família",
+      "Incongruência, distância entre self real e ideal",
+      "Persona rígida, identificada com o papel social"
+    ],
+    "correctIndex": 0,
+    "explanation": "Para Skinner, o Self é um sistema de respostas funcionalmente unificado — não um homem interno que decide dentro da cabeça. Como o comportamento depende do contexto, a mesma pessoa pode manifestar selves diferentes conforme o conjunto de reforçadores sociais. Essas variações não são falsidade nem doença, e sim respostas saudáveis e adaptadas."
+  },
+  {
+    "question": "Um adulto não consegue responder à pergunta “o que você está sentindo agora?”, pois cresceu numa família que punia ou ignorava suas expressões emocionais. Como Skinner explica esse déficit?",
+    "options": [
+      "A comunidade verbal não o ensinou a discriminar emoções",
+      "O ego não se fortaleceu o bastante para tolerar afetos",
+      "O temperamento herdado limita a percepção de emoções",
+      "O self ideal reprimiu de vez a experiência organísmica"
+    ],
+    "correctIndex": 0,
+    "explanation": "Temos acesso direto ao mundo privado, mas não nascemos sabendo nomeá-lo. O autoconhecimento é uma habilidade social, construída quando a comunidade verbal — pais, escola, amigos — pergunta e reforça descrições do que sentimos. Quando ela falha, o déficit não decorre de um ego fraco: é falha de aprendizagem."
+  },
+  {
+    "question": "Um aluno com pensamentos de timidez senta no fundo da sala, o professor passa a ignorá-lo e isso reforça a crença de exclusão. Que conceito de Albert Bandura esse circuito ilustra?",
+    "options": [
+      "Determinismo recíproco triádico",
+      "Determinismo psíquico da infância",
+      "Seleção pelas consequências",
+      "Desamparo aprendido crônico"
+    ],
+    "correctIndex": 0,
+    "explanation": "No determinismo recíproco, a personalidade resulta da interação contínua entre fatores pessoais e cognitivos (P), comportamento (C) e ambiente (A). A crença de timidez (P) leva a sentar no fundo (C), o professor o ignora (A), e isso realimenta a crença (P). Bandura rejeita tanto a causa só interna da psicanálise quanto a só externa do behaviorismo clássico."
+  },
+  {
+    "question": "Uma criança passa a reproduzir a agressividade de um personagem de TV depois de ver que ele é premiado por agir assim, sem nunca ter sido reforçada diretamente. Que processo Bandura descreve?",
+    "options": [
+      "Aprendizagem vicária, por observação de modelos",
+      "Condicionamento operante, por reforço direto do ato",
+      "Condicionamento clássico, por pareamento",
+      "Insight súbito, por reorganização do campo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na aprendizagem vicária aprendemos observando as ações e, sobretudo, as consequências das ações dos outros — sem precisar errar e ser punido para aprender. Grande parte de hábitos, traços de agressividade, medos e papéis sociais de gênero é adquirida assistindo a pais, professores, amigos e figuras da mídia."
+  },
+  {
+    "question": "A crença de uma pessoa na própria capacidade de organizar e executar as ações necessárias para lidar com uma situação específica recebe, em Bandura, o nome de:",
+    "options": [
+      "Autoeficácia, crença ligada à tarefa",
+      "Autoestima, apreço global por si mesmo",
+      "Autoconceito, descrição geral de si",
+      "Autorrealização, topo da pirâmide"
+    ],
+    "correctIndex": 0,
+    "explanation": "Autoeficácia é a crença na própria capacidade de executar o que uma situação específica exige — diferente da autoestima, que é global. Ela dita a resiliência: alta autoeficácia leva a aceitar desafios, persistir diante do fracasso e controlar a ansiedade; baixa gera evitação, baixa autoestima e sensação de desamparo."
+  },
+  {
+    "question": "No modelo cognitivo de Beck, as crenças nucleares se agrupam em três categorias de sofrimento. A crença “ninguém gosta de mim, sempre serei rejeitado” pertence a qual delas?",
+    "options": [
+      "Crença de desamor",
+      "Crença de desamparo",
+      "Crença de desvalor",
+      "Crença de desconfiança"
+    ],
+    "correctIndex": 0,
+    "explanation": "As crenças de desamor giram em torno de não ser digno de afeto (ninguém gosta de mim, serei abandonado). As de desamparo, em torno de impotência e fracasso (não consigo controlar nada); as de desvalor, em torno de não ter valor ou ser mau (eu sou um lixo). São verdades absolutas e globais sobre si, os outros e o futuro."
+  },
+  {
+    "question": "Um funcionário recebe nove elogios e uma crítica pontual do chefe, mas só retém a crítica, que confirma sua crença rígida sobre si. No modelo de Beck, qual é o objetivo central do tratamento?",
+    "options": [
+      "Tratar pensamentos automáticos como hipóteses a testar",
+      "Elevar a autoeficácia por modelação de novos hábitos",
+      "Interpretar a raiz edípica da crítica sentida ao chefe",
+      "Extinguir a crença retirando todo reforço da queixa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Na personalidade vulnerável, as crenças nucleares ficam rígidas e hiperativas e funcionam como filtro: o sujeito ignora as evidências positivas e só enxerga o que confirma o sofrimento. Beck propõe o questionamento socrático e a flexibilização dessas crenças, ensinando o paciente a tratar pensamentos automáticos negativos como hipóteses, e não como verdades absolutas."
+  },
+  {
+    "question": "O modelo categorial dos transtornos de personalidade, da Seção II do DSM-5-TR, decide se o sujeito tem ou não o transtorno pela contagem de critérios. Qual é sua principal limitação?",
+    "options": [
+      "Alta comorbidade e incapacidade de medir a gravidade",
+      "Ausência de critérios operacionais para o diagnóstico",
+      "Exigência de avaliar traços como espectros contínuos",
+      "Restrição do diagnóstico aos casos com sintoma físico"
+    ],
+    "correctIndex": 0,
+    "explanation": "A abordagem categorial trata os transtornos como entidades distintas: tem ou não tem, conforme o número de critérios cumpridos (por exemplo, 5 de 9). Seus limites são a alta taxa de comorbidade, a sobreposição de sintomas entre quadros e a incapacidade de capturar a gravidade real. Ver a personalidade como espectro contínuo é a proposta do modelo dimensional."
+  },
+  {
+    "question": "No modelo dimensional da Seção III do DSM-5-TR, o prejuízo no funcionamento da personalidade é avaliado em quais níveis?",
+    "options": [
+      "Self, com identidade e autodirecionamento; interpessoal, com empatia e intimidade",
+      "Self, com empatia e intimidade; interpessoal, com identidade e autodirecionamento",
+      "Self, com humor e cognição; interpessoal, com adesão a normas e controle de impulsos",
+      "Self, com memória e atenção; interpessoal, com papéis sociais e vida profissional"
+    ],
+    "correctIndex": 0,
+    "explanation": "A Seção III avalia o grau de prejuízo no funcionamento da personalidade em dois níveis — Self (identidade e autodirecionamento) e interpessoal (empatia e intimidade) — associado a cinco domínios de traços patológicos: afetividade negativa, distanciamento, antagonismo, desinibição e psicoticismo. A CID-11 adotou integralmente a lógica dimensional."
+  },
+  {
+    "question": "Desconfiança, isolamento social e distorções cognitivas marcam o Cluster A do DSM-5-TR. Quais transtornos o compõem?",
+    "options": [
+      "Paranoide, esquizoide e esquizotípico",
+      "Evitativo, dependente e obsessivo-compulsivo",
+      "Antissocial, borderline e histriônico",
+      "Paranoide, histriônico e dependente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cluster A (excêntricos): paranoide, esquizoide e esquizotípico. Cluster B (dramáticos, emocionais, erráticos): borderline, narcisista, antissocial e histriônico. Cluster C (ansiosos, medrosos): evitativo, dependente e obsessivo-compulsivo, marcados por alto neuroticismo, insegurança e necessidade de controle."
+  },
+  {
+    "question": "Uma paciente oscila entre idealizar e desvalorizar totalmente o parceiro, relata vazio crônico e se automutila quando teme ser deixada. Qual é a motivação nuclear desse quadro?",
+    "options": [
+      "Medo desesperador de abandono e rejeição",
+      "Preservação de uma autoimagem grandiosa e frágil",
+      "Busca fria por ganho pessoal e controle",
+      "Desejo de ser sempre o centro das atenções"
+    ],
+    "correctIndex": 0,
+    "explanation": "É o transtorno da personalidade borderline: instabilidade nos relacionamentos, na autoimagem e nos afetos, com impulsividade acentuada, movida pelo medo crônico de abandono, real ou imaginário. A oscilação entre idealização e desvalorização é a cisão — o mesmo mecanismo da posição esquizoparanoide de Klein, em que o objeto é todo bom ou todo mau."
+  },
+  {
+    "question": "No transtorno da personalidade narcisista, o que se esconde por trás da grandiosidade e da exigência de admiração?",
+    "options": [
+      "Autoimagem frágil, defesa contra vergonha e inferioridade",
+      "Medo crônico de abandono, com vazio interior e automutilação",
+      "Ausência de medo, com busca fria por ganho e prazer",
+      "Desconfiança paranoide, com isolamento e excentricidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "A autoimagem do narcisista é inflada, porém extremamente frágil: protege de um sentimento subjacente de inferioridade e vergonha. O outro vira instrumento de validação (suprimento narcisista), e a frustração das expectativas de privilégio provoca fúria narcisista ou depressão severa. Fracasso, crítica e insignificância são seus medos nucleares."
+  },
+  {
+    "question": "No diagnóstico diferencial do Cluster B, o que distingue a manipulação no transtorno da personalidade antissocial?",
+    "options": [
+      "É fria e utilitária, voltada a ganho, poder ou prazer",
+      "É desregulada, voltada a evitar a dor do abandono",
+      "É exibicionista, voltada a obter admiração e validação",
+      "É ansiosa, voltada a evitar a crítica e a rejeição"
+    ],
+    "correctIndex": 0,
+    "explanation": "O borderline age por desregulação afetiva dolorosa; o narcisista manipula para ser admirado; o antissocial manipula de forma fria, calculista e utilitária, vendo o outro como presa ou peão. Há desrespeito aos direitos alheios, irresponsabilidade crônica e ausência de remorso, com baixa reatividade ao medo e à ansiedade."
+  },
+  {
+    "question": "Qual sequência descreve corretamente a despatologização da homossexualidade nos manuais diagnósticos?",
+    "options": [
+      "APA retira do DSM em 1973; OMS retira da CID em 1990",
+      "OMS retira da CID em 1973; APA retira do DSM em 1990",
+      "APA retira do DSM em 1987; OMS retira da CID em 2019",
+      "OMS retira da CID em 1980; APA retira do DSM em 2013"
+    ],
+    "correctIndex": 0,
+    "explanation": "Em 1973, após protestos de movimentos sociais e de profissionais progressistas, a Associação Psiquiátrica Americana retirou o termo homossexualismo do DSM, mantendo por um tempo a categoria homossexualidade ego-distônica, que caiu de vez em 1987. Em 17 de maio de 1990, a OMS a retirou da CID — data que se tornou o Dia Internacional contra a Homofobia, Transfobia e Bifobia."
+  },
+  {
+    "question": "Ao substituir transtorno de identidade de gênero por disforia de gênero, em 2013, o DSM-5 deslocou o foco diagnóstico para onde?",
+    "options": [
+      "Para o sofrimento gerado pela incongruência e pela exclusão",
+      "Para a identidade trans em si, tratada como transtorno",
+      "Para a orientação sexual associada à identidade de gênero",
+      "Para os traços de personalidade que antecedem a transição social"
+    ],
+    "correctIndex": 0,
+    "explanation": "Com a disforia de gênero, o diagnóstico deixa de recair sobre a identidade — que não é doença — e passa a recair sobre o sofrimento psíquico gerado pela incongruência e pela falta de acolhimento social. O passo seguinte veio com a CID-11, que retirou a transexualidade do capítulo de transtornos mentais."
+  },
+  {
+    "question": "Na CID-11, aprovada em 2019 e em vigor desde 2022, como e onde a transexualidade passou a ser classificada?",
+    "options": [
+      "Incongruência de gênero, em condições relacionadas à saúde sexual",
+      "Disforia de gênero, em transtornos mentais e comportamentais",
+      "Transtorno de identidade de gênero, em transtornos da personalidade",
+      "Incongruência de gênero, em transtornos do neurodesenvolvimento"
+    ],
+    "correctIndex": 0,
+    "explanation": "A CID-11 tirou a transexualidade da categoria de transtornos mentais e comportamentais e a realocou em condições relacionadas à saúde sexual, sob o nome incongruência de gênero. Ela deixa de ser adoecimento mental para ser reconhecida como variação legítima da diversidade humana."
+  },
+  {
+    "question": "O Conselho Federal de Psicologia proíbe práticas de cura, reversão ou tratamento voltadas à diversidade sexual e de gênero. As Resoluções CFP 01/99 e 01/18 tratam, respectivamente, de:",
+    "options": [
+      "Orientação sexual; identidades trans e travestis",
+      "Identidades trans e travestis; orientação sexual",
+      "Neurodivergência; orientação sexual e de gênero",
+      "Avaliação psicológica; identidades trans e travestis"
+    ],
+    "correctIndex": 0,
+    "explanation": "A Resolução CFP 01/99 proíbe o psicólogo de propor cura, reversão ou tratamento da homossexualidade — as chamadas terapias de conversão —, pois ela não é doença, desvio nem perversão. A Resolução CFP 01/18 garante a autodeterminação de pessoas trans e travestis e proíbe patologizar ou tentar reverter identidade ou expressão de gênero."
+  },
+  {
+    "question": "Na práxis afirmativa diante da neurodivergência — autistas, pessoas com TDAH ou com altas habilidades —, para onde se volta a intervenção psicológica?",
+    "options": [
+      "Autonomia, redução do sofrimento e adaptação do ambiente",
+      "Eliminação dos déficits para ajustar o sujeito à norma social",
+      "Normalização do comportamento pela extinção de traços",
+      "Diagnóstico precoce para suprimir os traços atípicos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A práxis afirmativa recusa ver o neurodivergente como um conjunto de déficits a eliminar para que se adeque à sociedade neurotípica. A intervenção visa autonomia, redução do sofrimento e adaptação do ambiente, respeitando a ecologia cognitiva singular de cada personalidade — a mesma lógica da neurodiversidade como variação, e não defeito."
+  }
+];
+
+var LETTERS = ['A','B','C','D','E','F'];
+var SHUFFLE = true, LOCK = true;
+
+var S = { view:'home', started:false, finished:false, i:0, order:[], answers:[], open:{}, filter:'all', warn:false, chat:{} };
+
+function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function pad(n){ return String(n).padStart(2,'0'); }
+
+function build(){
+  var qs = QUIZ.map(function(q,id){ return { question:q.question, options:q.options.slice(), correctIndex:q.correctIndex, explanation:q.explanation, image:q.image, imageCaption:q.imageCaption, id:id }; });
+  if (!SHUFFLE) return qs;
+  for (var i=qs.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=qs[i]; qs[i]=qs[j]; qs[j]=t; }
+  return qs.map(function(q){
+    var correct = q.options[q.correctIndex], o = q.options.slice();
+    for (var i=o.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=o[i]; o[i]=o[j]; o[j]=t; }
+    q.options = o; q.correctIndex = o.indexOf(correct); return q;
+  });
+}
+
+/* ── ações ─────────────────────────────────────────────────────────────────── */
+var A = {
+  home:      function(){ S.view='home'; S.started=false; S.finished=false; up(0); },
+  resumo:    function(){ S.view='resumo'; up(0); },
+  start:     function(){ var o=build(); S.view='quiz'; S.started=true; S.finished=false; S.i=0; S.order=o;
+                         S.answers=new Array(o.length).fill(null); S.open={}; S.filter='all'; S.warn=false; up(0); },
+  restart:   function(){ A.start(); },
+  sair:      function(){ S.view='home'; S.started=false; up(0); },   // guarda as respostas
+  retomar:   function(){ S.view='quiz'; S.started=true; S.finished=false; S.warn=false; up(0); },
+  go:        function(n){ if(n<0||n>S.order.length-1) return; S.i=n; S.warn=false; render(); },
+  jump:      function(n){ if(S.finished){ S.finished=false; S.i=n; S.warn=false; } else { if(n<0||n>S.order.length-1) return; S.i=n; S.warn=false; } up(0,'smooth'); },
+  pick:      function(n){ if(LOCK && S.answers[S.i]!==null) return; S.answers[S.i]=n; render(); },
+  prev:      function(){ A.go(S.i-1); },
+  next:      function(){ if(S.i<S.order.length-1) A.go(S.i+1); else A.finish(); },
+  finish:    function(){ var b=S.answers.filter(function(a){return a===null}).length;
+                         if(b>0 && !S.warn){ S.warn=true; render(); return; } S.finished=true; S.warn=false; up(0); },
+  force:     function(){ S.finished=true; S.warn=false; up(0); },
+  gotoBlank: function(){ var n=S.answers.findIndex(function(a){return a===null}); if(n>=0) A.go(n); },
+  back:      function(){ S.finished=false; S.warn=false; up(0); },
+  filter:    function(k){ S.filter=k; render(); },
+  toggle:    function(n){ S.open[n]=!S.open[n]; render(); },
+  toggleAll: function(){ var r=reviewList(), all=r.length>0 && r.every(function(x){return S.open[x.idx]});
+                         S.open={}; if(!all) r.forEach(function(x){ S.open[x.idx]=true; }); render(); }
+};
+function up(top, beh){ render(); window.scrollTo({ top: top||0, behavior: beh||'auto' }); }
+
+/* Aberto por duplo clique (file://) volta para o indice local; servido pela web,
+   volta para o publicado. Os dois listam os mesmos materiais. */
+function idxHref(){
+  var local = (typeof location !== 'undefined' && location.protocol === 'file:');
+  return local ? '../index_local.html' : '../index.html';
+}
+function emAndamento(){
+  return S.order.length > 0 && !S.finished &&
+         S.answers.some(function(a){ return a !== null; });
+}
+
+/* ── header ────────────────────────────────────────────────────────────────── */
+function renderHeader(){
+  var mono = "font-family:'IBM Plex Mono',monospace";
+  var left =
+    '<div style="min-width:0">' +
+      '<div style="display:flex;align-items:center;gap:8px;'+mono+';font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:#8a8578">' +
+        '<a href="'+idxHref()+'" class="h-ink" style="color:#2b57cc;text-decoration:none;white-space:nowrap">\u2190 Materiais</a>' +
+        '<span style="color:#d3cec4">/</span>' +
+        '<span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+esc(EYEBROW)+'</span>' +
+      '</div>' +
+      '<h1 style="margin:1px 0 0;font-family:\'Newsreader\',Georgia,serif;font-size:20px;font-weight:500;letter-spacing:-.01em;line-height:1.15">'+esc(TITLE)+'</h1>' +
+    '</div>';
+
+  var right = '';
+  if (S.view === 'quiz' && S.started) {
+    var hit = counts().hit;
+    right = '<div style="display:flex;align-items:center;gap:10px;flex-shrink:0">' +
+              '<button type="button" data-act="sair" class="h-line" style="background:none;border:1px solid #ddd8ce;border-radius:9px;padding:6px 11px;'+mono+';font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:#5b6478;cursor:pointer;transition:border-color .15s ease">Sair</button>' +
+              '<div style="display:flex;align-items:center;gap:6px">' +
+                '<span style="'+mono+';font-size:15px;font-weight:600;letter-spacing:-.02em">'+hit+'</span>' +
+                '<span style="'+mono+';font-size:11px;color:#8a8578">/ '+S.order.length+'</span>' +
+              '</div></div>';
+  } else if (S.view !== 'home') {
+    right = '<button type="button" data-act="home" class="h-line" style="flex-shrink:0;background:none;border:1px solid #ddd8ce;border-radius:9px;padding:7px 13px;'+mono+';font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#5b6478;cursor:pointer;transition:border-color .15s ease">← Início</button>';
+  }
+
+  var html = '<div style="display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:'+(S.view==='quiz'&&S.started?'10px':'2px')+'">'+left+right+'</div>';
+
+  if (S.view === 'quiz' && S.started) {
+    var c = counts();
+    var rail = S.order.map(function(q,n){
+      var a = S.answers[n], cur = n===S.i && !S.finished, bg = '#d3cec4';
+      if (a!==null) bg = (a===q.correctIndex) ? '#2e7d55' : '#c04437';
+      if (cur && a===null) bg = '#121a2b';
+      var st = a===null ? 'em branco' : (a===q.correctIndex ? 'correta' : 'incorreta');
+      return '<button type="button" data-act="jump" data-n="'+n+'" title="Questão '+(n+1)+' — '+st+'" aria-label="Questão '+(n+1)+' — '+st+'" style="flex:1 1 0;min-width:0;background:none;border:0;padding:13px 0;margin:0;cursor:pointer;display:flex;align-items:center;justify-content:center">' +
+             '<span style="display:block;width:100%;border-radius:99px;transition:height .18s ease,background .18s ease,box-shadow .18s ease;height:'+(cur?'17px':'9px')+';background:'+bg+';box-shadow:'+(cur?'0 0 0 3px rgba(18,26,43,.13)':'none')+'"></span></button>';
+    }).join('');
+    html += '<div><div style="display:flex;align-items:center;gap:3px">'+rail+'</div>' +
+            '<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:-2px">' +
+              '<div style="'+mono+';font-size:11px;letter-spacing:.04em;color:#5b6478">Questão '+pad(S.i+1)+' / '+S.order.length+'</div>' +
+              '<div style="display:flex;align-items:center;gap:12px;'+mono+';font-size:10.5px;color:#8a8578">' +
+                dot('#2e7d55',c.hit)+dot('#c04437',c.miss)+dot('#d3cec4',c.blank) +
+              '</div></div></div>';
+  }
+  document.getElementById('hdr').innerHTML = html;
+}
+function dot(color,n){ return '<span style="display:flex;align-items:center;gap:5px"><span style="width:7px;height:7px;border-radius:99px;background:'+color+';display:block"></span>'+n+'</span>'; }
+
+function counts(){
+  var hit=0, miss=0, blank=0;
+  S.answers.forEach(function(a,n){
+    if (a===null) blank++;
+    else if (S.order[n] && a===S.order[n].correctIndex) hit++;
+    else miss++;
+  });
+  return { hit:hit, miss:miss, blank:blank, total:S.order.length };
+}
+
+/* ── tela inicial ──────────────────────────────────────────────────────────── */
+function renderHome(){
+  var mono = "font-family:'IBM Plex Mono',monospace";
+  var secoes = (document.getElementById('resumoSrc').textContent.match(/<h2/g)||[]).length;
+  var cell = function(v,l){
+    return '<div style="background:#faf9f6;padding:16px 14px">' +
+      '<div style="'+mono+';font-size:22px;font-weight:500;letter-spacing:-.03em">'+v+'</div>' +
+      '<div style="'+mono+';font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:#8a8578;margin-top:3px">'+l+'</div></div>';
+  };
+  var card = function(act,tag,titulo,desc,cta){
+    return '<button type="button" data-act="'+act+'" class="h-card" style="display:flex;flex-direction:column;align-items:flex-start;gap:0;text-align:left;background:#fff;border:1px solid #e4e0d8;border-radius:18px;padding:24px 22px;cursor:pointer;transition:border-color .16s ease,transform .14s ease;box-shadow:0 1px 2px rgba(18,26,43,.04),0 12px 28px -20px rgba(18,26,43,.18)">' +
+      '<div style="'+mono+';font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:12px">'+tag+'</div>' +
+      '<div style="font-family:\'Newsreader\',Georgia,serif;font-size:26px;font-weight:500;letter-spacing:-.02em;line-height:1.15;margin-bottom:8px">'+titulo+'</div>' +
+      '<div style="font-size:14px;line-height:1.6;color:#5b6478;margin-bottom:18px;text-wrap:pretty">'+desc+'</div>' +
+      '<div style="'+mono+';font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#121a2b">'+cta+'</div></button>';
+  };
+
+  document.getElementById('stage').innerHTML =
+    '<section style="padding:56px 0 0;animation:qFade .3s ease">' +
+      '<div style="'+mono+';font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:16px">Material de revisão</div>' +
+      '<h2 style="font-family:\'Newsreader\',Georgia,serif;font-size:40px;line-height:1.08;font-weight:400;letter-spacing:-.025em;margin:0 0 18px;text-wrap:pretty">'+esc(SUBTITLE)+'</h2>' +
+      '<p style="font-size:15.5px;line-height:1.65;color:#5b6478;margin:0 0 30px;max-width:52ch;text-wrap:pretty">'+esc(INTRO)+'</p>' +
+      '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(108px,1fr));gap:1px;background:#e4e0d8;border:1px solid #e4e0d8;border-radius:14px;overflow:hidden;margin-bottom:32px">' +
+        cell(QUIZ.length,'Questões') + cell(secoes,'Seções') + cell('~'+Math.round(QUIZ.length*0.75),'Minutos') +
+      '</div>' +
+      '<div class="home-grid" style="display:grid;grid-template-columns:1fr 1fr;gap:12px">' +
+        (emAndamento()
+          ? card('retomar','Em andamento','Quiz',
+                 'Você parou na questão '+pad(S.i+1)+' de '+S.order.length+', com '+
+                 (S.order.length-counts().blank)+' respondida'+((S.order.length-counts().blank)===1?'':'s')+
+                 '. Suas respostas continuam guardadas.','Retomar →')
+          : card('start','Praticar','Quiz', QUIZ.length+' questões de múltipla escolha, com explicação assim que você responde e gabarito comentado no fim.','Começar →')) +
+        card('resumo','Estudar','Resumo','O conteúdo da aula em texto corrido, organizado em '+secoes+' seções para leitura antes da prova.','Ler →') +
+      '</div>' +
+      '<div style="margin-top:26px;display:flex;flex-wrap:wrap;align-items:center;gap:8px 18px;'+mono+';font-size:11px;color:#8a8578">' +
+        '<span>← →&nbsp; navegar</span><span>1–'+maxOpts()+'&nbsp; responder</span><span>Enter&nbsp; avançar</span>' +
+        (emAndamento() ? '<button type="button" data-act="start" class="h-ink" style="background:none;border:0;padding:0;'+mono+';font-size:11px;color:#8a8578;cursor:pointer;text-decoration:underline;text-underline-offset:3px">recomeçar do zero</button>' : '') +
+        '</div>' +
+    '</section>';
+}
+function maxOpts(){ return QUIZ.reduce(function(m,q){ return Math.max(m,q.options.length); },0); }
+
+/* ── resumo ────────────────────────────────────────────────────────────────── */
+function renderResumo(){
+  document.getElementById('stage').innerHTML =
+    '<section style="padding:34px 0 0;animation:qFade .3s ease">' +
+      '<div style="font-family:\'IBM Plex Mono\',monospace;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:14px">Resumo</div>' +
+      '<div class="rsm">' + document.getElementById('resumoSrc').textContent + '</div>' +
+      '<div style="display:flex;flex-wrap:wrap;gap:9px;margin-top:38px;padding-top:24px;border-top:1px solid #e4e0d8">' +
+        '<button type="button" data-act="start" class="h-darkflat" style="background:#121a2b;color:#f5f3ef;border:0;border-radius:11px;padding:13px 24px;font-size:14px;font-weight:500;cursor:pointer;transition:background .16s ease">Fazer o quiz →</button>' +
+        '<button type="button" data-act="home" class="h-line" style="background:none;border:1px solid #ddd8ce;border-radius:11px;padding:13px 22px;font-size:14px;cursor:pointer;transition:border-color .15s ease">Voltar ao início</button>' +
+      '</div></section>';
+}
+
+/* imagem da questao — data URI ja resolvida pelo montar_quiz.py */
+function figura(q, cls){
+  if (!q.image) return '';
+  return '<figure class="fig'+(cls?' '+cls:'')+'"><img src="'+q.image+'" alt="'+esc(q.imageCaption||'Imagem da questão')+'">' +
+         (q.imageCaption ? '<figcaption>'+esc(q.imageCaption)+'</figcaption>' : '') + '</figure>';
+}
+
+/* ── questão ───────────────────────────────────────────────────────────────── */
+function renderQuestion(){
+  var mono = "font-family:'IBM Plex Mono',monospace";
+  var q = S.order[S.i], ans = S.answers[S.i], reveal = ans !== null;
+
+  var status = 'Não respondida', sColor = '#8a8578';
+  if (reveal) { var ok = ans===q.correctIndex; status = ok?'Você acertou':'Você errou'; sColor = ok?'#2e7d55':'#c04437'; }
+
+  var opts = q.options.map(function(text,n){
+    var isC = n===q.correctIndex, isMine = n===ans;
+    var bd='#e4e0d8', bg='#fff', fg='#121a2b', bBg='#f2efe9', bFg='#8a8578', mark='', mColor='', op='1', hbd='#2b57cc';
+    if (reveal) {
+      op = (isC||isMine) ? '1' : '.62';
+      if (isC)               { bd='#8fc7a7'; bg='#eef7f1'; fg='#1f5c3e'; bBg='#2e7d55'; bFg='#fff'; mark='✓'; mColor='#2e7d55'; }
+      if (isMine && !isC)    { bd='#e0a49a'; bg='#fdf0ee'; fg='#8f2f25'; bBg='#c04437'; bFg='#fff'; mark='✕'; mColor='#c04437'; }
+    } else if (isMine)       { bd='#121a2b'; bg='#f7f6f2'; bBg='#121a2b'; bFg='#f5f3ef'; }
+    var locked = reveal && LOCK;
+    return '<button type="button" data-act="pick" data-n="'+n+'" class="h-opt'+(locked?' locked':'')+'" style="--hbd:'+hbd+';display:flex;gap:13px;align-items:flex-start;width:100%;text-align:left;padding:14px 15px;border-radius:13px;font-size:15px;line-height:1.5;transition:border-color .15s ease,background .15s ease,transform .12s ease;border:1.5px solid '+bd+';background:'+bg+';color:'+fg+';cursor:'+(locked?'default':'pointer')+';opacity:'+op+'">' +
+      '<span style="flex-shrink:0;width:24px;height:24px;border-radius:7px;display:flex;align-items:center;justify-content:center;'+mono+';font-size:11.5px;font-weight:600;margin-top:1px;background:'+bBg+';color:'+bFg+'">'+LETTERS[n]+'</span>' +
+      '<span style="flex:1;min-width:0;text-wrap:pretty">'+esc(text)+'</span>' +
+      (mark ? '<span style="flex-shrink:0;'+mono+';font-size:14px;font-weight:600;margin-top:1px;color:'+mColor+'">'+mark+'</span>' : '') +
+      '</button>';
+  }).join('');
+
+  var expl = reveal ? '<div style="margin-top:20px;padding:16px 18px;background:#f7f6f2;border-left:2.5px solid #2b57cc;border-radius:0 12px 12px 0;animation:qFade .26s ease">' +
+      '<div style="'+mono+';font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:8px">Por quê</div>' +
+      '<p style="margin:0;font-size:14.5px;line-height:1.68;color:#39404f;text-wrap:pretty">'+esc(q.explanation)+'</p></div>' : '';
+
+  var blank = counts().blank;
+  var warn = S.warn ? '<div style="margin-top:14px;padding:15px 17px;background:#fdf7e9;border:1px solid #e8d5a3;border-radius:14px;animation:qFade .22s ease">' +
+      '<p style="margin:0 0 12px;font-size:14px;line-height:1.55;color:#6b5620">'+blank+(blank===1?' questão ainda está em branco.':' questões ainda estão em branco.')+' Você pode voltar nelas ou finalizar assim mesmo.</p>' +
+      '<div style="display:flex;flex-wrap:wrap;gap:8px">' +
+        '<button type="button" data-act="gotoBlank" style="background:#121a2b;color:#f5f3ef;border:0;border-radius:9px;padding:9px 16px;font-size:13px;font-weight:500;cursor:pointer">Ir para a 1ª em branco</button>' +
+        '<button type="button" data-act="force" style="background:none;color:#6b5620;border:1px solid #e8d5a3;border-radius:9px;padding:9px 16px;font-size:13px;cursor:pointer">Finalizar assim mesmo</button>' +
+      '</div></div>' : '';
+
+  var last = S.i === S.order.length-1;
+  var early = !last && (S.order.length - blank) > 0;
+
+  document.getElementById('stage').innerHTML =
+    '<section style="padding:26px 0 0">' +
+      '<article style="background:#fff;border:1px solid #e4e0d8;border-radius:18px;padding:26px 22px 24px;box-shadow:0 1px 2px rgba(18,26,43,.04),0 12px 28px -18px rgba(18,26,43,.18)">' +
+        '<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:14px">' +
+          '<div style="'+mono+';font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc">Questão '+pad(S.i+1)+'</div>' +
+          '<div style="'+mono+';font-size:10.5px;letter-spacing:.06em;color:'+sColor+'">'+status+'</div>' +
+        '</div>' +
+        '<h2 style="font-family:\'Newsreader\',Georgia,serif;font-size:22px;line-height:1.42;font-weight:400;letter-spacing:-.012em;margin:0 0 22px;text-wrap:pretty">'+esc(q.question)+'</h2>' +
+        figura(q, 'qfig') +
+        '<div style="display:flex;flex-direction:column;gap:9px">'+opts+'</div>' + expl +
+        (reveal ? chatBox(q, ans===q.correctIndex) : '') +
+      '</article>' + warn +
+      '<div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:18px">' +
+        '<button type="button" data-act="prev" class="h-line" style="background:none;border:1px solid #ddd8ce;border-radius:11px;padding:12px 18px;font-size:14px;cursor:pointer;transition:border-color .15s ease,color .15s ease;color:'+(S.i===0?'#c4bfb4':'#121a2b')+';pointer-events:'+(S.i===0?'none':'auto')+'">← Anterior</button>' +
+        '<div style="display:flex;align-items:center;gap:8px">' +
+          (early ? '<button type="button" data-act="finish" class="h-ink" style="background:none;border:0;padding:12px 6px;'+mono+';font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:#8a8578;cursor:pointer;text-decoration:underline;text-underline-offset:3px">Finalizar</button>' : '') +
+          '<button type="button" data-act="next" class="h-darkflat" style="background:#121a2b;color:#f5f3ef;border:0;border-radius:11px;padding:12px 22px;font-size:14px;font-weight:500;cursor:pointer;transition:background .16s ease">'+(last?'Finalizar':'Próxima →')+'</button>' +
+        '</div></div></section>';
+}
+
+/* ── resultado + gabarito comentado ────────────────────────────────────────── */
+function reviewList(){
+  return S.order.map(function(q,n){
+    var a = S.answers[n], ok = a!==null && a===q.correctIndex;
+    return { idx:n, ok:ok, blank:a===null, q:q, a:a };
+  }).filter(function(r){
+    return S.filter==='all' || (S.filter==='wrong'&&!r.ok&&!r.blank) || (S.filter==='right'&&r.ok) || (S.filter==='blank'&&r.blank);
+  });
+}
+
+function renderResult(){
+  var mono = "font-family:'IBM Plex Mono',monospace";
+  var c = counts(), pct = c.total ? Math.round(c.hit/c.total*100) : 0;
+
+  var title='Precisa revisar', msg='Releia o material com atenção e refaça o quiz — as explicações abaixo cobrem cada erro.';
+  if (pct>=90)      { title='Domínio sólido';   msg='Desempenho excelente. Confira as explicações das que escaparam e siga em frente.'; }
+  else if (pct>=70) { title='Bom desempenho';   msg='Base consistente. Revise os pontos errados abaixo para fechar as lacunas.'; }
+  else if (pct>=50) { title='Meio do caminho';  msg='Você acertou o essencial, mas há lacunas. Comece pelo filtro de erradas.'; }
+
+  var stat = function(v,l,color){
+    return '<div style="background:#faf9f6;padding:14px 10px">' +
+      '<div style="'+mono+';font-size:19px;font-weight:500;color:'+color+'">'+v+'</div>' +
+      '<div style="'+mono+';font-size:9.5px;letter-spacing:.09em;text-transform:uppercase;color:#8a8578;margin-top:2px">'+l+'</div></div>';
+  };
+
+  var fdefs = [['all','Todas',c.total],['wrong','Erradas',c.miss],['right','Certas',c.hit],['blank','Em branco',c.blank]];
+  var filters = fdefs.map(function(f){
+    var on = S.filter===f[0];
+    return '<button type="button" data-act="filter" data-k="'+f[0]+'" class="h-line" style="border-radius:99px;padding:8px 14px;font-size:13px;cursor:pointer;transition:all .15s ease;border:1px solid '+(on?'#121a2b':'#ddd8ce')+';background:'+(on?'#121a2b':'transparent')+';color:'+(on?'#f5f3ef':'#5b6478')+'">'+f[1]+' '+f[2]+'</button>';
+  }).join('');
+
+  var list = reviewList();
+  var allOpen = list.length>0 && list.every(function(r){ return S.open[r.idx]; });
+
+  var cards = list.map(function(r){
+    var numBg='#f0ede7', numFg='#8a8578';
+    if (!r.blank) { if (r.ok) { numBg='#e3f0e8'; numFg='#1f5c3e'; } else { numBg='#fbe6e2'; numFg='#8f2f25'; } }
+    var open = !!S.open[r.idx];
+    var body = '';
+    if (open) {
+      var opts = r.q.options.map(function(text,n){
+        var isC = n===r.q.correctIndex, isMine = n===r.a;
+        var bd='#eeebe4', bg='#fbfaf8', fg='#5b6478', bBg='#f0ede7', bFg='#8a8578', tag='', tBg='', tFg='';
+        if (isC)            { bd='#bcdcc9'; bg='#eef7f1'; fg='#1f5c3e'; bBg='#2e7d55'; bFg='#fff'; tag='Correta'; tBg='#d9ede1'; tFg='#1f5c3e'; }
+        if (isMine && !isC) { bd='#eec4bd'; bg='#fdf0ee'; fg='#8f2f25'; bBg='#c04437'; bFg='#fff'; tag='Sua resposta'; tBg='#f7ddd8'; tFg='#8f2f25'; }
+        if (isMine && isC)  { tag='Sua resposta ✓'; }
+        return '<div style="display:flex;gap:11px;align-items:flex-start;padding:11px 13px;border-radius:11px;font-size:14px;line-height:1.5;border:1px solid '+bd+';background:'+bg+';color:'+fg+'">' +
+          '<span style="flex-shrink:0;width:21px;height:21px;border-radius:6px;display:flex;align-items:center;justify-content:center;'+mono+';font-size:10.5px;font-weight:600;background:'+bBg+';color:'+bFg+'">'+LETTERS[n]+'</span>' +
+          '<span style="flex:1;min-width:0;text-wrap:pretty">'+esc(text)+'</span>' +
+          (tag ? '<span style="flex-shrink:0;'+mono+';font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;padding:3px 7px;border-radius:6px;margin-top:1px;background:'+tBg+';color:'+tFg+'">'+tag+'</span>' : '') +
+          '</div>';
+      }).join('');
+      body = '<div style="padding:2px 15px 18px;animation:qDrawer .2s ease">' +
+        '<div style="height:1px;background:#eeebe4;margin:0 0 16px"></div>' +
+        '<p style="font-family:\'Newsreader\',Georgia,serif;font-size:18px;line-height:1.5;margin:0 0 16px;text-wrap:pretty">'+esc(r.q.question)+'</p>' +
+        figura(r.q) +
+        '<div style="display:flex;flex-direction:column;gap:7px">'+opts+'</div>' +
+        '<div style="margin-top:16px;padding:14px 16px;background:#f7f6f2;border-left:2.5px solid #2b57cc;border-radius:0 11px 11px 0">' +
+          '<div style="'+mono+';font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:7px">Por quê</div>' +
+          '<p style="margin:0;font-size:14px;line-height:1.65;color:#39404f;text-wrap:pretty">'+esc(r.q.explanation)+'</p></div>' +
+        '<button type="button" data-act="jump" data-n="'+r.idx+'" style="margin-top:14px;background:none;border:0;padding:0;'+mono+';font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#2b57cc;cursor:pointer;text-decoration:underline;text-underline-offset:3px">Abrir no quiz →</button></div>';
+    }
+    return '<div style="background:#fff;border:1px solid '+(open?'#c9c3b6':'#e4e0d8')+';border-radius:14px;overflow:hidden;transition:border-color .15s ease">' +
+      '<button type="button" data-act="toggle" data-n="'+r.idx+'" style="display:flex;align-items:center;gap:12px;width:100%;text-align:left;background:none;border:0;padding:14px 15px;cursor:pointer">' +
+        '<span style="flex-shrink:0;width:28px;height:28px;border-radius:8px;display:flex;align-items:center;justify-content:center;'+mono+';font-size:12px;font-weight:600;background:'+numBg+';color:'+numFg+'">'+pad(r.idx+1)+'</span>' +
+        '<span style="flex:1;min-width:0;font-size:14px;line-height:1.45;color:#39404f;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical">'+esc(r.q.question)+'</span>' +
+        '<span style="flex-shrink:0;'+mono+';font-size:16px;color:#8a8578;width:16px;text-align:center">'+(open?'−':'+')+'</span>' +
+      '</button>' + body + '</div>';
+  }).join('');
+
+  document.getElementById('stage').innerHTML =
+    '<section style="padding:34px 0 0;animation:qFade .3s ease">' +
+      '<div style="'+mono+';font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:#2b57cc;margin-bottom:14px">Resultado</div>' +
+      '<h2 style="font-family:\'Newsreader\',Georgia,serif;font-size:36px;line-height:1.12;font-weight:400;letter-spacing:-.025em;margin:0 0 8px">'+title+'</h2>' +
+      '<p style="font-size:15px;line-height:1.6;color:#5b6478;margin:0 0 24px;max-width:48ch;text-wrap:pretty">'+msg+'</p>' +
+      '<div style="height:8px;border-radius:99px;background:#e4e0d8;overflow:hidden;margin-bottom:10px">' +
+        '<div style="height:100%;border-radius:99px;background:#121a2b;transition:width .7s cubic-bezier(.22,1,.36,1);width:'+pct+'%"></div></div>' +
+      '<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:#e4e0d8;border:1px solid #e4e0d8;border-radius:14px;overflow:hidden;margin-bottom:34px">' +
+        stat(c.hit,'Certas','#2e7d55')+stat(c.miss,'Erradas','#c04437')+stat(c.blank,'Branco','#8a8578')+stat(pct+'%','Aproveit.','#2b57cc') +
+      '</div>' +
+      '<div style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:14px">' +
+        '<h3 style="font-family:\'Newsreader\',Georgia,serif;font-size:22px;font-weight:500;letter-spacing:-.015em;margin:0">Gabarito comentado</h3>' +
+        '<button type="button" data-act="toggleAll" class="h-ink" style="background:none;border:0;padding:6px 0;'+mono+';font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#5b6478;cursor:pointer;text-decoration:underline;text-underline-offset:3px">'+(allOpen?'Recolher tudo':'Expandir tudo')+'</button>' +
+      '</div>' +
+      '<div style="display:flex;gap:7px;flex-wrap:wrap;margin-bottom:16px">'+filters+'</div>' +
+      '<div style="display:flex;flex-direction:column;gap:8px">'+cards+'</div>' +
+      (list.length===0 ? '<div style="padding:38px 16px;text-align:center;color:#8a8578;font-size:14px;border:1px dashed #ddd8ce;border-radius:14px">Nenhuma questão neste filtro.</div>' : '') +
+      '<div style="display:flex;flex-wrap:wrap;gap:9px;margin-top:28px;padding-top:24px;border-top:1px solid #e4e0d8">' +
+        '<button type="button" data-act="restart" class="h-darkflat" style="background:#121a2b;color:#f5f3ef;border:0;border-radius:11px;padding:13px 24px;font-size:14px;font-weight:500;cursor:pointer;transition:background .16s ease">Refazer o quiz</button>' +
+        '<button type="button" data-act="back" class="h-line" style="background:none;border:1px solid #ddd8ce;border-radius:11px;padding:13px 22px;font-size:14px;cursor:pointer;transition:border-color .15s ease">Voltar às questões</button>' +
+        '<button type="button" data-act="resumo" class="h-line" style="background:none;border:1px solid #ddd8ce;border-radius:11px;padding:13px 22px;font-size:14px;cursor:pointer;transition:border-color .15s ease">Ler o resumo</button>' +
+      '</div></section>';
+}
+
+/* ── render + eventos ──────────────────────────────────────────────────────── */
+
+/* ─── Tutor DeepSeek — só local, só quando a questão foi errada ──────────────
+   A chave vem de ../deepseek_key.js, que não existe na versão publicada: online
+   o arquivo dá 404, dsOn() vira false e o chat simplesmente não é renderizado.
+   O histórico fica em S.chat[idDaQuestao] e sobrevive ao re-render do stage. */
+var DS_MODEL = 'deepseek-v4-flash';
+var DS_URL   = 'https://api.deepseek.com/chat/completions';
+var NLJS     = String.fromCharCode(10);
+var DS_MONO  = "font-family:'IBM Plex Mono',monospace";
+var DS_SANS  = "font-family:'IBM Plex Sans',system-ui,sans-serif";
+
+function dsOn(){ return typeof window.DEEPSEEK_KEY === 'string' && window.DEEPSEEK_KEY.length > 10; }
+
+
+/* ─── markdown do chat ───────────────────────────────────────────────────────
+   O modelo responde em markdown (**negrito**, listas, `codigo`, tabelas). O texto
+   vem de fora, entao a ordem importa: ESCAPA TUDO primeiro com esc() e so depois
+   aplica formatacao — assim nenhuma tag vinda da resposta vira HTML de verdade.
+   Como esc() ja trocou > por &gt;, a citacao casa com &gt; e nao com >.
+   Trechos de codigo saem de cena por um marcador NUL, que nao pode existir
+   no texto escapado, e voltam no fim — assim ` ` protege o que esta dentro. */
+function mdIn(t){
+  var Z = String.fromCharCode(0), codes = [];
+  t = t.replace(/`([^`]+)`/g, function(_, c){
+    codes.push(c);
+    return Z + 'c' + (codes.length - 1) + Z;
+  });
+  t = t.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  t = t.replace(/__([^_]+)__/g, '<strong>$1</strong>');
+  t = t.replace(/(^|[\s(])\*([^*\n]+)\*/g, '$1<em>$2</em>');
+  t = t.replace(/(^|[\s(])_([^_\n]+)_/g, '$1<em>$2</em>');
+  t = t.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g,
+    '<a href="$2" target="_blank" rel="noopener" style="color:#2b57cc">$1</a>');
+  return t.replace(new RegExp(Z + 'c([0-9]+)' + Z, 'g'), function(_, i){
+    return '<code style="' + DS_MONO + ';font-size:12px;background:#f2efe9;' +
+           'border-radius:4px;padding:1px 5px">' + codes[i] + '</code>';
+  });
+}
+
+function mdChat(txt){
+  var Z = String.fromCharCode(0);
+  var t = esc(String(txt == null ? '' : txt));
+  var blocos = [];
+  t = t.replace(/```[a-zA-Z]*\n?([\s\S]*?)```/g, function(_, c){
+    blocos.push(c.replace(/\n+$/, ''));
+    return Z + 'b' + (blocos.length - 1) + Z;
+  });
+
+  var linhas = t.split('\n'), out = [], lista = null, par = [];
+  function fechaLista(){ if (lista) { out.push('</' + lista + '>'); lista = null; } }
+  function fechaPar(){
+    if (par.length) { out.push('<p style="margin:0 0 9px">' + mdIn(par.join(' ')) + '</p>'); par = []; }
+  }
+  function fecha(){ fechaPar(); fechaLista(); }
+
+  for (var i = 0; i < linhas.length; i++){
+    var l = linhas[i], t2 = l.trim();
+    if (!t2) { fecha(); continue; }
+
+    var bl = t2.match(new RegExp('^' + Z + 'b([0-9]+)' + Z + '$'));
+    if (bl) {
+      fecha();
+      out.push('<pre style="margin:0 0 9px;padding:9px 11px;background:#f7f6f2;border-radius:9px;' +
+               'overflow-x:auto;' + DS_MONO + ';font-size:12px;line-height:1.5">' + blocos[bl[1]] + '</pre>');
+      continue;
+    }
+
+    // tabela: linha com | ... | seguida da separadora | --- | --- |
+    if (t2.charAt(0) === '|' && i + 1 < linhas.length && /^\|[\s:|-]+\|$/.test(linhas[i+1].trim())) {
+      fecha();
+      var celulas = function(linha){
+        return linha.trim().replace(/^\||\|$/g, '').split('|').map(function(c){ return mdIn(c.trim()); });
+      };
+      var cab = celulas(t2), corpo = [];
+      i += 2;
+      while (i < linhas.length && linhas[i].trim().charAt(0) === '|') { corpo.push(celulas(linhas[i].trim())); i++; }
+      i--;
+      var cel = 'padding:5px 9px;border-bottom:1px solid #eae6de;text-align:left;vertical-align:top';
+      out.push('<div style="overflow-x:auto;margin:0 0 9px">' +
+        '<table style="border-collapse:collapse;font-size:12.5px;width:100%">' +
+        '<thead><tr>' + cab.map(function(c){ return '<th style="' + cel + ';font-weight:600">' + c + '</th>'; }).join('') + '</tr></thead>' +
+        '<tbody>' + corpo.map(function(r){
+          return '<tr>' + r.map(function(c){ return '<td style="' + cel + '">' + c + '</td>'; }).join('') + '</tr>';
+        }).join('') + '</tbody></table></div>');
+      continue;
+    }
+
+    var h = t2.match(/^#{1,6}\s+(.*)$/);
+    if (h) {
+      fecha();
+      out.push('<div style="font-weight:600;color:#121a2b;margin:11px 0 5px">' + mdIn(h[1]) + '</div>');
+      continue;
+    }
+
+    if (/^(---+|\*\*\*+)$/.test(t2)) {
+      fecha();
+      out.push('<hr style="border:0;border-top:1px solid #eae6de;margin:11px 0">');
+      continue;
+    }
+
+    var cit = t2.match(/^&gt;\s?(.*)$/);
+    if (cit) {
+      fecha();
+      out.push('<div style="margin:0 0 9px;padding:7px 11px;border-left:2.5px solid #c9d6f7;' +
+               'background:#f7f9fe;border-radius:0 7px 7px 0">' + mdIn(cit[1]) + '</div>');
+      continue;
+    }
+
+    var mUl = t2.match(/^[-*•]\s+(.*)$/);
+    var mOl = t2.match(/^\d+[.)]\s+(.*)$/);
+    if (mUl || mOl) {
+      var tipo = mUl ? 'ul' : 'ol';
+      fechaPar();
+      if (lista !== tipo) {
+        fechaLista();
+        out.push('<' + tipo + ' style="margin:0 0 9px;padding-left:19px">');
+        lista = tipo;
+      }
+      out.push('<li style="margin:3px 0">' + mdIn((mUl || mOl)[1]) + '</li>');
+      continue;
+    }
+
+    fechaLista();
+    par.push(t2);
+  }
+  fecha();
+  return out.join('');
+}
+
+function msgHTML(m){
+  if (m.role === 'user')
+    return '<div style="margin:0 0 10px;text-align:right">' +
+      '<span style="display:inline-block;max-width:88%;text-align:left;background:#f2efe9;' +
+      'border-radius:12px 12px 3px 12px;padding:9px 12px;font-size:13.5px;line-height:1.6;' +
+      'color:#39404f;text-wrap:pretty">' + esc(m.content) + '</span></div>';
+  return '<div style="margin:0 0 12px">' +
+    '<div style="' + DS_MONO + ';font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;' +
+    'color:#2b57cc;margin-bottom:4px">DeepSeek</div>' +
+    '<div style="font-size:13.5px;line-height:1.65;color:#39404f;text-wrap:pretty">' +
+    mdChat(m.content) + '</div></div>';
+}
+
+function chatBox(q, acertou){
+  if (!dsOn()) return '';
+  var chamada = acertou ? 'Quer ir mais fundo?' : 'Ainda com dúvida?';
+  var dica = acertou ? 'Por que as outras estão erradas?' : 'Por que a que eu marquei está errada?';
+  var hist = (S.chat[q.id] || []).map(msgHTML).join('');
+  return '<div id="ds" data-qid="' + q.id + '" style="margin-top:14px;border:1px solid #e4e0d8;' +
+      'border-radius:14px;background:#fff;overflow:hidden;animation:qFade .26s ease">' +
+      '<div style="display:flex;align-items:center;gap:8px;padding:11px 15px;' +
+        'border-bottom:1px solid #f0ede6;background:#faf9f6">' +
+        '<span style="' + DS_MONO + ';font-size:10px;letter-spacing:.16em;text-transform:uppercase;' +
+        'color:#2b57cc">' + chamada + '</span>' +
+        '<span style="font-size:12px;color:#8a8578">pergunte ao DeepSeek</span></div>' +
+      '<div id="dsLog" style="max-height:280px;overflow-y:auto;padding:' + (hist ? '12px 15px' : '0') + '">' +
+        hist + '</div>' +
+      '<div style="display:flex;gap:8px;padding:11px 12px;border-top:1px solid #f0ede6">' +
+        '<input id="dsIn" type="text" autocomplete="off" ' +
+          'placeholder="' + dica + '" ' +
+          'style="flex:1;min-width:0;border:1px solid #e4e0d8;border-radius:10px;padding:10px 12px;' +
+          'font-size:13.5px;' + DS_SANS + ';color:#121a2b;background:#fff;outline:none">' +
+        '<button type="button" data-act="dsSend" class="h-darkflat" style="flex-shrink:0;' +
+          'background:#121a2b;color:#f5f3ef;border:0;border-radius:10px;padding:10px 16px;' +
+          'font-size:13px;font-weight:500;cursor:pointer;transition:background .16s ease">Enviar</button>' +
+      '</div></div>';
+}
+
+function dsContexto(q, ans){
+  var alts = q.options.map(function(o, n){ return LETTERS[n] + ') ' + o; }).join(NLJS);
+  return 'Questao: ' + q.question + NLJS + alts + NLJS +
+    'Resposta correta: ' + LETTERS[q.correctIndex] + ') ' + q.options[q.correctIndex] + NLJS +
+    'O estudante marcou: ' + (ans === null ? 'nada' : LETTERS[ans] + ') ' + q.options[ans]) + NLJS +
+    'Explicacao que ele ja tem: ' + q.explanation;
+}
+
+A.dsSend = function(){
+  var box = document.getElementById('ds');
+  if (!box || !dsOn() || box.getAttribute('data-busy')) return;
+  var input = document.getElementById('dsIn'), log = document.getElementById('dsLog');
+  var texto = (input.value || '').trim();
+  if (!texto) return;
+
+  var qid = parseInt(box.getAttribute('data-qid'), 10), q = null, ans = null;
+  for (var i = 0; i < S.order.length; i++)
+    if (S.order[i].id === qid) { q = S.order[i]; ans = S.answers[i]; }
+  if (!q) return;
+
+  S.chat[qid] = S.chat[qid] || [];
+  S.chat[qid].push({ role:'user', content:texto });
+  input.value = '';
+  log.style.padding = '12px 15px';
+  log.insertAdjacentHTML('beforeend', msgHTML({ role:'user', content:texto }));
+  log.insertAdjacentHTML('beforeend',
+    '<div><div style="' + DS_MONO + ';font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;' +
+    'color:#2b57cc;margin-bottom:4px">DeepSeek</div>' +
+    '<div id="dsTxt" style="font-size:13.5px;line-height:1.65;color:#8a8578;' +
+    'text-wrap:pretty">pensando…</div></div>');
+  log.scrollTop = log.scrollHeight;
+  box.setAttribute('data-busy', '1');
+
+  var acertou = (ans === q.correctIndex);
+  var situacao = acertou
+    ? 'Voce e um tutor de medicina. O estudante do 7o semestre ACERTOU esta questao, mas ficou com uma duvida. '
+    : 'Voce e um tutor de medicina. O estudante do 7o semestre ERROU esta questao. ';
+  var msgs = [
+    { role:'system', content: situacao +
+      'Responda em portugues do Brasil, direto ao ponto, no maximo 150 palavras. ' +
+      'Traga o dado concreto (valor, criterio, mecanismo) em vez de generalidade. ' +
+      'Nao repita a explicacao que ele ja tem; foque na duvida que ele trouxe.' },
+    { role:'user', content: dsContexto(q, ans) }
+  ];
+  var h = S.chat[qid];
+  for (var j = 0; j < h.length; j++) msgs.push({ role:h[j].role, content:h[j].content });
+
+  dsStream(msgs, function(txt, fim, erro){
+    var el = document.getElementById('dsTxt');
+    if (!el) { box.removeAttribute('data-busy'); return; }
+    if (erro) { el.style.color = '#c04437'; el.textContent = erro; box.removeAttribute('data-busy'); return; }
+    el.style.color = '#39404f';
+    el.innerHTML = mdChat(txt);
+    var lg = document.getElementById('dsLog'); if (lg) lg.scrollTop = lg.scrollHeight;
+    if (fim) { el.removeAttribute('id'); S.chat[qid].push({ role:'assistant', content:txt }); box.removeAttribute('data-busy'); }
+  });
+};
+
+function dsStream(messages, cb){
+  var acc = '';
+  fetch(DS_URL, {
+    method: 'POST',
+    headers: { 'Content-Type':'application/json', 'Authorization':'Bearer ' + window.DEEPSEEK_KEY },
+    body: JSON.stringify({ model:DS_MODEL, messages:messages, stream:true, max_tokens:1200, temperature:0.3 })
+  }).then(function(r){
+    if (!r.ok) return r.text().then(function(t){
+      throw new Error(
+        r.status === 401 ? 'Chave recusada (401). Confira o deepseek_key.js.' :
+        r.status === 402 ? 'Sem saldo na conta DeepSeek (402).' :
+        r.status === 429 ? 'Limite de uso atingido (429). Tente daqui a pouco.' :
+        'Erro ' + r.status + ': ' + String(t).slice(0, 120));
+    });
+    var reader = r.body.getReader(), dec = new TextDecoder(), buf = '';
+    (function pump(){
+      return reader.read().then(function(res){
+        if (res.done) { cb(acc || '(resposta vazia)', true); return; }
+        buf += dec.decode(res.value, { stream:true });
+        var linhas = buf.split(NLJS);
+        buf = linhas.pop();
+        for (var i = 0; i < linhas.length; i++){
+          var l = linhas[i].trim();
+          if (l.indexOf('data:') !== 0) continue;
+          var carga = l.slice(5).trim();
+          if (carga === '[DONE]') continue;
+          try {
+            var d = JSON.parse(carga).choices[0].delta;
+            if (d && d.content) { acc += d.content; cb(acc, false); }
+          } catch (_){}
+        }
+        return pump();
+      });
+    })();
+  }).catch(function(e){
+    cb('', true, 'Nao consegui falar com o DeepSeek: ' + (e && e.message ? e.message : e));
+  });
+}
+
+function render(){
+  renderHeader();
+  if (S.view === 'home')        renderHome();
+  else if (S.view === 'resumo') renderResumo();
+  else if (S.finished)          renderResult();
+  else                          renderQuestion();
+}
+
+/* lightbox: clique em qualquer figura amplia */
+document.addEventListener('click', function(e){
+  var lb = document.getElementById('lb');
+  if (e.target.closest('#lb')) { lb.className = ''; return; }
+  var img = e.target.closest('.fig img');
+  if (img) { lb.firstElementChild.src = img.src; lb.className = 'on'; }
+});
+window.addEventListener('keydown', function(e){
+  if (e.key === 'Escape') document.getElementById('lb').className = '';
+});
+
+document.addEventListener('click', function(e){
+  var b = e.target.closest('[data-act]'); if (!b) return;
+  var act = b.getAttribute('data-act'), n = parseInt(b.getAttribute('data-n'),10), k = b.getAttribute('data-k');
+  if (act==='pick'||act==='jump'||act==='toggle') A[act](n);
+  else if (act==='filter') A.filter(k);
+  else if (A[act]) A[act]();
+});
+
+window.addEventListener('keydown', function(e){
+  if (S.view!=='quiz' || !S.started || S.finished) return;
+  var t = e.target, tag = t && t.tagName;
+  if (tag==='INPUT' || tag==='TEXTAREA' || (t && t.isContentEditable)) return;
+  if (e.metaKey||e.ctrlKey||e.altKey) return;
+  if (e.key==='ArrowRight')     { e.preventDefault(); A.go(S.i+1); }
+  else if (e.key==='ArrowLeft') { e.preventDefault(); A.go(S.i-1); }
+  else if (e.key==='Enter')     { e.preventDefault(); A.next(); }
+  else if (/^[1-6]$/.test(e.key)) {
+    var n = parseInt(e.key,10)-1;
+    if (n < S.order[S.i].options.length) A.pick(n);
+  }
+});
+
+render();
+</script>
+</body>
+</html>

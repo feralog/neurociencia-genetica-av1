@@ -1,0 +1,354 @@
+{
+  "titulo": "Neurotransmissores",
+  "eyebrow": "Neurociência · Neuroquímica",
+  "subtitulo": "As moléculas que levam a mensagem de um neurônio ao próximo",
+  "intro": "Cobre os critérios que definem um neurotransmissor e a divisão em clássicos e não clássicos, a acetilcolina, as monoaminas (dopamina e suas vias, noradrenalina, serotonina e histamina), o glutamato com LTP e excitotoxicidade, e os inibitórios GABA e glicina — com as drogas que agem em cada um.",
+  "questoes": [
+    {
+      "question": "Qual dos itens abaixo é um dos critérios clássicos para que uma molécula seja considerada neurotransmissor?",
+      "options": [
+        "Haver um mecanismo específico para removê-la da fenda sináptica",
+        "Ser produzida pelo neurônio pós-sináptico e agir no pré-sináptico",
+        "Ser transportada pelo sangue até órgãos distantes do neurônio",
+        "Agir sempre de modo excitatório sobre a célula pós-sináptica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os quatro critérios são: ser sintetizada no neurônio pré-sináptico; estar no terminal e ser liberada em quantidade suficiente para agir no pós-sináptico ou no órgão efetor; quando administrada como droga, imitar a ação do transmissor endógeno; e existir um mecanismo específico de remoção da fenda. Transporte pelo sangue é característica de hormônio."
+    },
+    {
+      "question": "Qual destas substâncias é um neurotransmissor NÃO clássico?",
+      "options": [
+        "Óxido nítrico, do grupo dos gases",
+        "Glutamato, do grupo dos aminoácidos",
+        "Dopamina, do grupo das monoaminas",
+        "Glicina, do grupo dos aminoácidos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Clássicos são a acetilcolina, os aminoácidos (glutamato, GABA, glicina) e as monoaminas (dopamina, noradrenalina, serotonina). Os não clássicos incluem neuropeptídeos (endorfinas, encefalinas, neuropeptídeo Y), lipídeos (anandamida), gases (óxido nítrico) e purinas (ATP)."
+    },
+    {
+      "question": "Qual neurotransmissor foi o primeiro a ser descoberto (Henry Dale, 1914; confirmado por Otto Loewi) e é o único usado pelo sistema nervoso somático?",
+      "options": [
+        "Acetilcolina",
+        "Noradrenalina",
+        "Serotonina",
+        "Adrenalina"
+      ],
+      "correctIndex": 0,
+      "explanation": "A acetilcolina foi descoberta por Henry Dale em 1914 e confirmada como neurotransmissor por Otto Loewi; os dois ganharam o Nobel em 1936. É o único neurotransmissor do sistema nervoso somático: a contração do músculo esquelético depende da ACh liberada pelo neurônio motor."
+    },
+    {
+      "question": "No ciclo da acetilcolina mostrado na figura, que molécula retorna ao terminal axônico para ser reaproveitada na síntese de mais ACh?",
+      "options": [
+        "A colina, liberada pela ação da acetilcolinesterase",
+        "O acetato, liberado pela ação da acetilcolinesterase",
+        "A acetilcolina inteira, pelo transportador vesicular",
+        "O acetil-CoA, produzido pela célula pós-sináptica"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ACh é sintetizada a partir de colina e acetil-CoA. Na fenda, a acetilcolinesterase a quebra rapidamente em acetato e colina, e é a colina que volta ao terminal para formar nova ACh. A ação da ACh termina, portanto, por degradação enzimática, e não por recaptação da molécula inteira.",
+      "image": "pg07",
+      "imageCaption": "Síntese, quebra e reciclagem da acetilcolina"
+    },
+    {
+      "question": "Qual é a diferença entre os receptores nicotínicos e muscarínicos da acetilcolina?",
+      "options": [
+        "Nicotínico é ionotrópico (canal); muscarínico é acoplado à proteína G",
+        "Nicotínico é acoplado à proteína G; muscarínico é ionotrópico (canal)",
+        "Ambos são canais iônicos, diferindo só no íon que deixam passar",
+        "Ambos são acoplados à proteína G, diferindo só na localização"
+      ],
+      "correctIndex": 0,
+      "explanation": "O nicotínico é um canal de Na+ e K+ que se abre rapidamente quando a ACh se liga às suas duas subunidades α; fica no músculo esquelético, em neurônios autonômicos e no SNC. O muscarínico é metabotrópico: ativa proteína G e segundos mensageiros (fosfolipase C, IP3, DAG) e fica nos músculos liso e cardíaco, nas glândulas e no SNC."
+    },
+    {
+      "question": "Que efeitos a acetilcolina produz no sistema cardiovascular?",
+      "options": [
+        "Reduz a frequência e a força cardíacas e causa vasodilatação",
+        "Aumenta a frequência e a força cardíacas e causa vasoconstrição",
+        "Aumenta a frequência cardíaca e causa vasodilatação direta",
+        "Reduz a força cardíaca e causa vasoconstrição generalizada"
+      ],
+      "correctIndex": 0,
+      "explanation": "No sistema cardiovascular a ACh diminui a frequência cardíaca, reduz a força de contração e causa vasodilatação. A vasodilatação é um efeito indireto, mediado pela liberação de óxido nítrico."
+    },
+    {
+      "question": "A figura compara as toxinas botulínica e tetânica. Por que a primeira causa paralisia flácida e a segunda, paralisia espástica?",
+      "options": [
+        "A botulínica bloqueia a liberação de ACh; a tetânica, a de glicina e GABA",
+        "A botulínica bloqueia a liberação de glicina e GABA; a tetânica, a de ACh",
+        "A botulínica destrói a acetilcolinesterase; a tetânica bloqueia o receptor",
+        "A botulínica estimula a liberação de ACh; a tetânica estimula a de GABA"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sem liberação de ACh (toxina botulínica), o músculo não recebe o sinal para contrair e fica flácido. A toxina tetânica impede a liberação de glicina e GABA, os inibitórios que permitem o relaxamento — por isso a contração fica incontrolável (paralisia espástica).",
+      "image": "pg12",
+      "imageCaption": "Mecanismo das toxinas botulínica e tetânica"
+    },
+    {
+      "question": "Qual é a sequência de síntese da dopamina no terminal pré-sináptico?",
+      "options": [
+        "Tirosina → DOPA → dopamina",
+        "Triptofano → 5-HTP → dopamina",
+        "Colina → acetil-CoA → dopamina",
+        "Glutamina → glutamato → dopamina"
+      ],
+      "correctIndex": 0,
+      "explanation": "A dopamina é fabricada a partir do aminoácido tirosina, que vira DOPA e depois dopamina. O triptofano é o precursor da serotonina, e colina mais acetil-CoA formam a acetilcolina."
+    },
+    {
+      "question": "Na figura, qual é o efeito da dopamina sobre a adenilato ciclase ao se ligar aos receptores D1 e D2?",
+      "options": [
+        "D1 a estimula (via Gs) e D2 a inibe (via Gi)",
+        "D1 a inibe (via Gi) e D2 a estimula (via Gs)",
+        "Os dois a estimulam, ambos pela proteína Gs",
+        "Os dois a inibem, ambos pela proteína Gi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os receptores de dopamina são metabotrópicos. D1 está acoplado à proteína Gs, que estimula a adenilato ciclase e aumenta o AMPc; D2 está acoplado à Gi, que inibe a enzima. O mesmo neurotransmissor produz efeitos opostos conforme o receptor.",
+      "image": "pg16",
+      "imageCaption": "Receptores D1 e D2 e a adenilato ciclase"
+    },
+    {
+      "question": "Qual via dopaminérgica concentra cerca de 75% da dopamina do cérebro e está ligada ao controle do movimento?",
+      "options": [
+        "Nigroestriatal, da substância negra ao estriado",
+        "Mesolímbica, da área tegmental ao accumbens",
+        "Mesocortical, da área tegmental ao córtex frontal",
+        "Tuberoinfundibular, do hipotálamo à hipófise"
+      ],
+      "correctIndex": 0,
+      "explanation": "A via nigroestriatal liga a substância negra ao estriado, é a principal via dopaminérgica (cerca de 75% da dopamina cerebral) e controla o movimento. É a via afetada na doença de Parkinson."
+    },
+    {
+      "question": "A figura compara cortes do mesencéfalo de uma pessoa com doença de Parkinson e de uma pessoa saudável. O que indica a palidez da substância negra no Parkinson?",
+      "options": [
+        "Perda dos neurônios dopaminérgicos da via nigroestriatal",
+        "Excesso de dopamina acumulada na via nigroestriatal",
+        "Perda dos neurônios serotoninérgicos dos núcleos da rafe",
+        "Perda dos neurônios colinérgicos do córtex frontal"
+      ],
+      "correctIndex": 0,
+      "explanation": "A substância negra é escura porque seus neurônios dopaminérgicos são pigmentados. No Parkinson, descrito por James Parkinson em 1817, esses neurônios se perdem e a dopamina falta na via nigroestriatal, que ajusta os comandos do córtex para os músculos — por isso a região fica pálida e o movimento é prejudicado.",
+      "image": "pg18",
+      "imageCaption": "Substância negra no Parkinson e no encéfalo normal"
+    },
+    {
+      "question": "Uma pessoa sente prazer intenso e vontade de repetir uma experiência. Qual via dopaminérgica regula esse incentivo e recompensa?",
+      "options": [
+        "Mesolímbica: da área tegmental ventral ao nucleus accumbens",
+        "Nigroestriatal: da substância negra ao estriado dorsal",
+        "Mesocortical: da área tegmental ventral ao córtex frontal",
+        "Tuberoinfundibular: do hipotálamo à hipófise anterior"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na via mesolímbica, neurônios da área tegmental ventral (mesencéfalo) projetam-se para o nucleus accumbens e o núcleo amigdaloide, estruturas do sistema límbico. A dopamina liberada no accumbens regula o incentivo e a recompensa — é a via central nas propriedades aditivas das drogas."
+    },
+    {
+      "question": "A via dopaminérgica que sai da área tegmental ventral e se projeta para o córtex frontal está relacionada principalmente a quê?",
+      "options": [
+        "Aspectos emocionais e comportamentais, como o controle afetivo",
+        "Controle fino dos movimentos voluntários e da postura corporal",
+        "Regulação da secreção de hormônios pela hipófise anterior",
+        "Processamento da informação visual e auditiva primária"
+      ],
+      "correctIndex": 0,
+      "explanation": "É a via mesocortical. Ela se relaciona com aspectos emocionais e comportamentais, como o controle do comportamento afetivo, e tem relação estreita com a via mesolímbica. O controle do movimento cabe à nigroestriatal."
+    },
+    {
+      "question": "Como o metilfenidato (Ritalina) e a cocaína aumentam a disponibilidade de dopamina na fenda sináptica?",
+      "options": [
+        "Bloqueando a recaptação da dopamina pelo terminal pré-sináptico",
+        "Bloqueando os receptores D1 e D2 da membrana pós-sináptica",
+        "Estimulando a enzima MAO, que degrada a dopamina na fenda",
+        "Convertendo serotonina em dopamina no terminal pré-sináptico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ambos travam o transportador que recapta a dopamina; ela se acumula na fenda e intensifica o efeito nos receptores, gerando euforia e prazer intenso. A MAO (monoamina oxidase) degrada monoaminas — estimulá-la reduziria a dopamina, e inibi-la é que a aumentaria."
+    },
+    {
+      "question": "Os fármacos antipsicóticos agem principalmente sobre qual sistema de neurotransmissão?",
+      "options": [
+        "Bloqueiam receptores de dopamina (são antagonistas)",
+        "Ativam receptores de dopamina (são agonistas diretos)",
+        "Bloqueiam receptores de acetilcolina (antagonistas)",
+        "Ativam receptores GABA-A, como os benzodiazepínicos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os antipsicóticos são antagonistas dos receptores de dopamina, que são metabotrópicos e ficam no SNC. A bromocriptina, ao contrário, é um agonista dopaminérgico."
+    },
+    {
+      "question": "Na figura, qual receptor da noradrenalina, ao ser ativado, inibe a liberação de transmissores?",
+      "options": [
+        "α2, acoplado à proteína Gi",
+        "α1, acoplado à proteína Gq",
+        "β, acoplado à proteína Gs",
+        "Nicotínico, um canal iônico"
+      ],
+      "correctIndex": 0,
+      "explanation": "Todos os receptores adrenérgicos são metabotrópicos. O α2 (Gi, inibe a adenilato ciclase) inibe a liberação de transmissores; o α1 (Gq, fosfolipase C, Ca2+) contrai o músculo liso; o β (Gs, AMPc) contrai o músculo cardíaco, relaxa o liso e promove glicogenólise. Nicotínico é receptor de acetilcolina.",
+      "image": "pg23",
+      "imageCaption": "Receptores α1, α2 e β da noradrenalina"
+    },
+    {
+      "question": "Por que uma dieta pobre em triptofano pode reduzir os níveis de serotonina?",
+      "options": [
+        "O triptofano é o precursor a partir do qual a serotonina é sintetizada",
+        "O triptofano é a enzima que converte a tirosina em serotonina",
+        "O triptofano inibe a MAO e impede a degradação da serotonina",
+        "O triptofano é o receptor ao qual a serotonina se liga no SNC"
+      ],
+      "correctIndex": 0,
+      "explanation": "A serotonina (5-hidroxitriptamina) é sintetizada a partir do aminoácido triptofano, que vira 5-hidroxitriptofano e depois serotonina. O nível plasmático de triptofano varia com a alimentação, então menos triptofano na dieta significa menos matéria-prima para a serotonina."
+    },
+    {
+      "question": "A figura mostra as projeções serotoninérgicas no encéfalo. De onde elas partem?",
+      "options": [
+        "Dos núcleos da rafe, no tronco encefálico",
+        "Da substância negra, no mesencéfalo",
+        "Do núcleo tuberomamilar, no hipotálamo",
+        "Da área tegmental ventral, no mesencéfalo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os neurônios serotoninérgicos ficam nos núcleos da rafe e se projetam para o córtex, o tálamo, o cerebelo e a medula espinhal. A substância negra e a área tegmental ventral produzem dopamina; o núcleo tuberomamilar, histamina.",
+      "image": "pg26",
+      "imageCaption": "Projeções serotoninérgicas a partir dos núcleos da rafe"
+    },
+    {
+      "question": "Qual conjunto de funções é atribuído à serotonina?",
+      "options": [
+        "Humor, sono, apetite, temperatura corporal e agressividade",
+        "Contração do músculo esquelético e frequência cardíaca",
+        "Controle motor fino pela via nigroestriatal e recompensa",
+        "Inibição dos reflexos medulares e do tônus muscular"
+      ],
+      "correctIndex": 0,
+      "explanation": "A serotonina participa do controle da ira e do comportamento agressivo, da temperatura corporal, do humor, do sono e do apetite. Contração esquelética é papel da acetilcolina; controle motor e recompensa, da dopamina; inibição medular, da glicina."
+    },
+    {
+      "question": "No diagrama das monoaminas, quais funções dependem das três — noradrenalina, serotonina e dopamina?",
+      "options": [
+        "O humor e a cognição",
+        "O prazer e a recompensa",
+        "O sexo e o apetite",
+        "A energia e o alerta"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cognição e humor ficam na interseção das três monoaminas. Prazer, recompensa e motivação são da dopamina; sexo, agressão e apetite, de serotonina com dopamina; energia, alerta e concentração, da noradrenalina.",
+      "image": "pg27",
+      "imageCaption": "Funções da noradrenalina, serotonina e dopamina"
+    },
+    {
+      "question": "Qual associação entre receptor de histamina e função está correta?",
+      "options": [
+        "H3 — liberação de histamina e de outros NT",
+        "H2 — comportamento alimentar e nutrição",
+        "H1 — memória de longa duração e navegação",
+        "H3 — contração do músculo liso intestinal"
+      ],
+      "correctIndex": 0,
+      "explanation": "A histamina, produzida no núcleo tuberomamilar do hipotálamo, age em três receptores metabotrópicos: H1 (comportamento e nutrição), H2 (memória de longa duração e navegação espacial) e H3, que regula a liberação de histamina e de outros neurotransmissores."
+    },
+    {
+      "question": "Como se classificam os neurotransmissores aminoácidos quanto à ação predominante?",
+      "options": [
+        "Glutamato e aspartato excitatórios; GABA e glicina inibitórios",
+        "Glutamato e glicina excitatórios; GABA e aspartato inibitórios",
+        "GABA e glicina excitatórios; glutamato e aspartato inibitórios",
+        "Todos excitatórios; a inibição fica a cargo das monoaminas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O glutamato é o principal excitatório (cerca de 75% da transmissão excitatória) e o aspartato, de distribuição mais restrita, também excita. O GABA é o principal inibitório do cérebro, e a glicina, do tronco encefálico e da medula. Ainda assim, a ação final depende do receptor."
+    },
+    {
+      "question": "Quais receptores de glutamato são responsáveis pela transmissão excitatória rápida?",
+      "options": [
+        "AMPA e cainato, ionotrópicos",
+        "NMDA e mGluR, metabotrópicos",
+        "GABA-A e GABA-B, inibitórios",
+        "Nicotínico e muscarínico"
+      ],
+      "correctIndex": 0,
+      "explanation": "AMPA (entrada de Na+) e cainato são receptores ionotrópicos de glutamato e fazem a transmissão excitatória rápida. O NMDA também é ionotrópico, mas é fortemente regulado e deixa entrar Ca2+; o mGluR é o receptor metabotrópico de glutamato."
+    },
+    {
+      "question": "Que condições são necessárias para o receptor NMDA abrir e deixar entrar Ca2+?",
+      "options": [
+        "Glutamato, glicina como coativadora e despolarização que expulse o Mg2+",
+        "Apenas glutamato, pois o canal NMDA não tem nenhum bloqueio iônico",
+        "Glutamato e hiperpolarização da membrana, que atrai o Mg2+ para fora",
+        "Apenas glicina, pois o glutamato age só nos receptores AMPA"
+      ],
+      "correctIndex": 0,
+      "explanation": "O NMDA tem vários sítios de ligação e exige co-ativação pela glicina além do glutamato. Ele é dependente de voltagem: em repouso, o Mg2+ bloqueia o canal, e só a despolarização da membrana o expulsa."
+    },
+    {
+      "question": "Na figura da LTP, qual é o papel da entrada de Na+ pelos receptores AMPA (etapa 2)?",
+      "options": [
+        "Despolarizar a célula, expulsando o Mg2+ que bloqueia o canal NMDA",
+        "Hiperpolarizar a célula, mantendo o Mg2+ dentro do canal NMDA",
+        "Liberar diretamente o glutamato das vesículas pré-sinápticas",
+        "Degradar o glutamato da fenda e encerrar a transmissão"
+      ],
+      "correctIndex": 0,
+      "explanation": "O glutamato se liga a AMPA e NMDA; o Na+ que entra pelo AMPA despolariza a célula, o que ejeta o Mg2+ do NMDA. Então o Ca2+ entra, ativa segundos mensageiros e a célula fica mais sensível ao glutamato; uma substância parácrina ainda aumenta a liberação de glutamato pelo pré-sináptico.",
+      "image": "pg36",
+      "imageCaption": "Mecanismo da potenciação de longa duração (LTP)"
+    },
+    {
+      "question": "O que é a potenciação de longa duração (LTP), considerada um dos principais mecanismos celulares da memória?",
+      "options": [
+        "Fortalecimento duradouro da sinapse após estimulação sincronizada",
+        "Enfraquecimento duradouro da sinapse após estimulação repetida",
+        "Aumento breve do potencial de ação, que some em milissegundos",
+        "Crescimento de novos neurônios no hipocampo durante o sono"
+      ],
+      "correctIndex": 0,
+      "explanation": "A LTP é uma melhoria duradoura na transmissão entre dois neurônios estimulados de forma sincronizada — uma forma de plasticidade sináptica. Como se acredita que a memória é codificada pela força das sinapses, a LTP está na base da aprendizagem. O enfraquecimento duradouro é a LTD."
+    },
+    {
+      "question": "O que é excitotoxicidade?",
+      "options": [
+        "Morte neuronal causada por excesso de glutamato extracelular",
+        "Morte neuronal causada por falta de glutamato extracelular",
+        "Morte neuronal causada por excesso de GABA extracelular",
+        "Morte neuronal causada por excesso de dopamina na fenda"
+      ],
+      "correctIndex": 0,
+      "explanation": "O glutamato é paradoxal: promove crescimento e sobrevivência de neurônios, mas em excesso causa degeneração e morte. Excitotoxicidade aparece em infecções, inflamação, hipóxia e isquemia (a queda de ATP reduz a captação de glutamato), trauma, tumores e doenças como Huntington."
+    },
+    {
+      "question": "Qual é a diferença entre os receptores GABA-A e GABA-B?",
+      "options": [
+        "GABA-A abre canais de Cl- (ionotrópico); GABA-B abre canais de K+ via proteína G",
+        "GABA-A abre canais de K+ via proteína G; GABA-B abre canais de Cl- (ionotrópico)",
+        "GABA-A abre canais de Na+ (ionotrópico); GABA-B abre canais de Ca2+ via proteína G",
+        "Os dois são ionotrópicos e abrem canais de Cl-, diferindo só na localização"
+      ],
+      "correctIndex": 0,
+      "explanation": "O GABA-A é ionotrópico: abre canais de cloreto e causa hiperpolarização direta. O GABA-B é metabotrópico: abre canais de potássio e causa hiperpolarização indireta. Nos dois casos o efeito é inibitório."
+    },
+    {
+      "question": "Álcool, benzodiazepínicos (como o diazepam) e barbitúricos compartilham qual mecanismo?",
+      "options": [
+        "Potencializam a ação inibitória do GABA",
+        "Bloqueiam a ação inibitória do GABA",
+        "Bloqueiam a recaptação de dopamina",
+        "Ativam os receptores NMDA do glutamato"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os três reforçam a inibição mediada pelo GABA, o principal inibitório do SNC — por isso são chamados de agonistas GABA, ou, mais precisamente, potenciadores do receptor. Os barbitúricos são usados como anticonvulsivantes. Quem bloqueia o GABA é a picrotoxina."
+    },
+    {
+      "question": "A estricnina é antagonista do receptor de glicina. Por que ela faz um estímulo mínimo provocar uma grande contração muscular?",
+      "options": [
+        "Remove a inibição da glicina sobre os arcos reflexos medulares",
+        "Aumenta a liberação de acetilcolina na junção neuromuscular",
+        "Bloqueia a acetilcolinesterase e acumula ACh na fenda",
+        "Ativa diretamente os receptores AMPA dos motoneurônios"
+      ],
+      "correctIndex": 0,
+      "explanation": "A glicina é o principal inibitório do tronco encefálico e da medula: abre canais de cloreto e gera PIPS. Bloqueando seu receptor, a estricnina aumenta a transmissão nos arcos reflexos, que deixam de ser freados, e o menor estímulo sensorial causa grande contração."
+    }
+  ]
+}

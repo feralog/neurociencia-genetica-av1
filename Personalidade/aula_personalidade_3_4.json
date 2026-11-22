@@ -1,0 +1,393 @@
+{
+  "titulo": "Diversidade da Personalidade Humana III e IV",
+  "eyebrow": "Psicologia · Personalidade",
+  "subtitulo": "Do humanismo aos transtornos de personalidade e à práxis afirmativa",
+  "intro": "Cobre a Terceira Força (Maslow e Rogers), as teorias dos traços (Allport, Big Five e Eysenck), o behaviorismo radical de Skinner, a virada cognitiva de Bandura e Beck, os transtornos da personalidade no DSM-5-TR e na CID-11 e a despatologização com a práxis afirmativa.",
+  "questoes": [
+    {
+      "question": "O humanismo surgiu nos Estados Unidos nas décadas de 1950 e 1960 e se autodenominou Terceira Força. Contra o que esse movimento se levantava?",
+      "options": [
+        "O mecanicismo behaviorista e o determinismo psicanalítico",
+        "O tecnicismo cognitivista e o biologismo da psiquiatria",
+        "O idealismo existencialista e o relativismo da Gestalt",
+        "O estruturalismo de Wundt e o funcionalismo de William James"
+      ],
+      "correctIndex": 0,
+      "explanation": "O humanismo nasce como protesto contra as duas forças dominantes: o behaviorismo, que igualava o comportamento humano ao de animais de laboratório, e a psicanálise, centrada no determinismo psíquico, na neurose e nas forças sombrias do inconsciente. Em seu lugar, propõe um ser humano consciente, livre, intencional e inerentemente bom, movido por forças saudáveis voltadas ao futuro."
+    },
+    {
+      "question": "Na teoria holístico-dinâmica de Abraham Maslow, que princípio determina que as necessidades da base precisam ser satisfeitas antes que as do topo emerjam?",
+      "options": [
+        "Princípio de prepotência das necessidades",
+        "Princípio de autonomia funcional dos motivos",
+        "Princípio de reforço diferencial das respostas",
+        "Princípio de compensação das inferioridades"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pelo princípio de prepotência, a pirâmide funciona como hierarquia integrada: as necessidades fisiológicas pressionam mais que as de segurança, que pressionam mais que amor, estima e autoatualização. Só quando as camadas inferiores estão razoavelmente atendidas as superiores passam a orientar a conduta. Autonomia funcional é conceito de Allport; compensação da inferioridade, de Adler."
+    },
+    {
+      "question": "Na hierarquia de Maslow, a busca por autovalorização, reconhecimento, status e respeito dos outros corresponde a qual nível?",
+      "options": [
+        "Estima, quarto nível da pirâmide",
+        "Pertencimento, terceiro nível da pirâmide",
+        "Segurança, segundo nível da pirâmide",
+        "Autorrealização, topo da pirâmide"
+      ],
+      "correctIndex": 0,
+      "explanation": "Estima reúne autoestima, autovalorização, reconhecimento, status e respeito dos outros. Fica acima de amor/pertencimento (afeto, amizades, intimidade, pertencer a grupos) e abaixo da autoatualização. A ordem completa, da base ao topo: fisiológicas, segurança, amor/pertencimento, estima e autoatualização."
+    },
+    {
+      "question": "Segundo Maslow, quando as necessidades básicas estão resolvidas, o indivíduo passa a guiar a personalidade por valores como verdade, justiça, beleza e totalidade. Como se chama esse modo de motivação?",
+      "options": [
+        "Metamotivação, ou motivação pelo crescimento",
+        "Motivação por deficiência, ou motivação pela falta",
+        "Sublimação, ou desvio da pulsão para a arte",
+        "Reforço negativo, ou alívio da privação"
+      ],
+      "correctIndex": 0,
+      "explanation": "A metamotivação é a motivação pelo crescimento, orientada pelos Valores-B: verdade, justiça, beleza e totalidade. Contrasta com a motivação pela falta, que move o sujeito enquanto as necessidades básicas ainda não foram satisfeitas. É o modo de funcionamento da pessoa que caminha para a autoatualização."
+    },
+    {
+      "question": "Para Carl Rogers, qual é o motor da personalidade, presente em todo organismo vivo como inclinação a se desenvolver, amadurecer e realizar suas potencialidades?",
+      "options": [
+        "A tendência atualizante do organismo",
+        "A pulsão de vida em conflito com a de morte",
+        "O reforço positivo vindo do ambiente social",
+        "O inconsciente coletivo e seus arquétipos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A tendência atualizante é o conceito central da Abordagem Centrada na Pessoa: uma força biológica universal voltada ao crescimento. Daí a visão clínica rogeriana — o sintoma não é defeito, e sim bloqueio temporário dessa tendência, causado por ambientes sociais ou familiares opressores que sufocaram o verdadeiro modo de ser do indivíduo."
+    },
+    {
+      "question": "Uma jovem é, no momento, insegura e curiosa, mas se cobra ser sempre segura, brilhante e agradável para corresponder ao que o mundo espera. Quanto maior essa distância, maior a ansiedade. Como Rogers nomeia esse estado?",
+      "options": [
+        "Incongruência entre o self real e o self ideal",
+        "Cisão entre o objeto bom e o objeto mau interno",
+        "Dissonância entre a crença e o próprio comportamento",
+        "Conflito entre o id e o superego punitivo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O self real é quem a pessoa genuinamente é no momento; o self ideal, quem ela acha que deveria ser para agradar o mundo. Quando a distância entre os dois é grande, instala-se a incongruência, que gera ansiedade, alienação e sofrimento neurótico. A terapia busca reduzir essa distância liberando a tendência atualizante."
+    },
+    {
+      "question": "Qual atitude facilitadora exige que o terapeuta esteja presente de forma genuína, honesto com os próprios sentimentos, sem se esconder atrás de uma máscara profissional rígida?",
+      "options": [
+        "Congruência, ou autenticidade do terapeuta",
+        "Compreensão empática do mundo do cliente",
+        "Consideração positiva incondicional",
+        "Neutralidade técnica, ou abstinência"
+      ],
+      "correctIndex": 0,
+      "explanation": "Congruência é a autenticidade: o psicólogo está inteiramente presente, sem jaleco de autoridade, honesto com o que sente no encontro. É uma das três atitudes facilitadoras de Rogers, ao lado da consideração positiva incondicional e da compreensão empática. Neutralidade e abstinência são princípios da técnica psicanalítica, não rogerianos."
+    },
+    {
+      "question": "Um cliente relata algo de que se envergonha e espera ser repreendido. O terapeuta o acolhe sem julgamento moral e sem impor condições de valor para aceitá-lo. Qual atitude facilitadora está em jogo?",
+      "options": [
+        "Consideração positiva incondicional",
+        "Congruência, ou autenticidade plena",
+        "Reforço positivo da fala desejada",
+        "Confrontação empática do discurso"
+      ],
+      "correctIndex": 0,
+      "explanation": "A consideração positiva incondicional é a aceitação total, calorosa e sem julgamentos morais de tudo o que o cliente vivencia ou expressa. Como o terapeuta não estabelece condições de valor, o cliente ganha a segurança necessária para baixar as defesas e mudar. Reforçar seletivamente certas falas seria justamente impor uma condição."
+    },
+    {
+      "question": "Na compreensão empática descrita por Rogers, o terapeuta percebe os sentimentos do cliente como se fossem seus. Qual é o limite que preserva essa atitude?",
+      "options": [
+        "Manter o como se, sem se fundir ao cliente",
+        "Revelar sempre os próprios sentimentos ao cliente",
+        "Interpretar a dor a partir da teoria do terapeuta",
+        "Concordar com tudo o que o cliente decidir fazer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Compreensão empática é mergulhar no mundo interno e fenomênico do cliente, escutando a dor da perspectiva de quem a vive e validando a experiência subjetiva — sem perder o limite do como se. O terapeuta sente com o cliente sem se confundir com ele; interpretar pela teoria seria sair do mundo do outro."
+    },
+    {
+      "question": "Na hierarquia de traços de Gordon Allport, como se chama uma disposição tão dominante que governa quase todas as ações de uma pessoa, como o altruísmo extremo de Madre Teresa?",
+      "options": [
+        "Traço cardeal, que nem todos desenvolvem",
+        "Traço central, que todos têm de 5 a 10",
+        "Traço secundário, ligado a um só contexto",
+        "Traço comum, partilhado por uma cultura"
+      ],
+      "correctIndex": 0,
+      "explanation": "Allport organizou mais de 4.500 termos descritivos em três níveis. O traço cardeal é tão dominante que define o sujeito — e nem todas as pessoas desenvolvem um. Os centrais (normalmente de 5 a 10) são os blocos de construção da personalidade; os secundários são menos visíveis e dependentes da situação."
+    },
+    {
+      "question": "Uma pessoa sociável no dia a dia tem medo intenso de falar em público e só fica irritada quando está com fome. Na classificação de Allport, essas disposições são:",
+      "options": [
+        "Traços secundários, dependentes do contexto",
+        "Traços centrais, blocos da personalidade",
+        "Traços cardeais, que governam a conduta",
+        "Traços de temperamento, herdados e imutáveis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Traços secundários são menos visíveis, menos generalizados e altamente dependentes da situação — aparecem como preferências ou reações específicas. Os centrais são os adjetivos usados para descrever alguém numa carta de recomendação (inteligente, honesto, tímido, pontual), válidos em muitos contextos."
+    },
+    {
+      "question": "Um homem começou a estudar medicina para obter a aprovação do pai, mas, adulto, segue na profissão por amor à ciência. Que conceito de Allport explica a continuidade, e de que tese ele se afasta?",
+      "options": [
+        "Autonomia funcional; afasta-se do determinismo da infância",
+        "Formação reativa; afasta-se da hierarquia dos traços",
+        "Sublimação; afasta-se do princípio do prazer freudiano",
+        "Prepotência; afasta-se da hierarquia das necessidades básicas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pela autonomia funcional, os motivos do adulto maduro se tornam independentes de suas raízes infantis: o motivo atual se sustenta por si mesmo. É uma ruptura direta com o determinismo psíquico freudiano, para o qual o traço atual é sempre determinado por conflitos da infância. Allport foca na motivação consciente e no presente."
+    },
+    {
+      "question": "No modelo dos Cinco Grandes Fatores, uma pessoa descuidada, pouco persistente e procrastinadora tende a pontuar baixo em qual dimensão?",
+      "options": [
+        "Conscienciosidade, ou realização",
+        "Amabilidade, ou socialização",
+        "Extroversão, ou busca de estímulos",
+        "Abertura para a experiência"
+      ],
+      "correctIndex": 0,
+      "explanation": "Conscienciosidade, o C de OCEAN, mede organização, persistência, controle de impulsos, responsabilidade e foco em metas: pontuação alta indica sujeitos disciplinados e confiáveis; baixa, descuidados e procrastinadores. O modelo, de Costa e McCrae, foi derivado por análise fatorial e é hoje a estrutura mais consensual para mapear traços."
+    },
+    {
+      "question": "Na teoria da ativação cortical de Hans Eysenck, por que o introvertido tende a evitar ambientes barulhentos e lotados?",
+      "options": [
+        "Seu nível basal de excitação cortical já é alto",
+        "Seu nível basal de excitação cortical é baixo",
+        "Seu sistema simpático demora muito a ser ativado",
+        "Seu contato social foi punido na infância"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eysenck localiza a diferença no nível basal do SARA, o sistema ativador reticular ascendente. O introvertido já tem excitação cortical alta e, por isso, limiar baixo para estímulos externos: evita barulho para não se sobrecarregar. O extrovertido vive em subexcitação crônica e busca estímulos, riscos e interações para chegar a um nível confortável."
+    },
+    {
+      "question": "Hans Eysenck defendia que a posição de cada pessoa nos traços é fortemente herdada. A que base biológica ele associou o neuroticismo?",
+      "options": [
+        "Hiper-reatividade do simpático e do sistema límbico",
+        "Baixa atividade basal do sistema reticular ascendente",
+        "Excesso de dopamina nas vias corticais pré-frontais",
+        "Hipoatividade do sistema parassimpático cardíaco"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eysenck ligou o neuroticismo ao limiar de ativação do sistema nervoso simpático (luta ou fuga) e do sistema límbico. Quem pontua alto tem um sistema autônomo hiper-reativo: dispara ansiedade diante de estímulos mínimos e demora mais para voltar à homeostase. A atividade basal do sistema reticular, por sua vez, explica a extroversão."
+    },
+    {
+      "question": "No modelo de seleção por consequências de B. F. Skinner, qual dos três níveis é o mais crucial para explicar a diversidade da personalidade individual?",
+      "options": [
+        "Ontogênese, a história de aprendizagem operante",
+        "Filogênese, a história evolutiva da espécie",
+        "Cultura, as práticas transmitidas pelo grupo social",
+        "Epigênese, a expressão gênica pelo ambiente"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ontogênese reúne as experiências de aprendizagem do indivíduo desde o nascimento, pelo condicionamento operante (ação seguida de consequência). A filogênese dá o substrato biológico — limites físicos, sensibilidade a reforçadores, reflexos — e a cultura fornece regras e modelos prontos. É a história de reforços e punições que diferencia um repertório afetuoso de um fechado."
+    },
+    {
+      "question": "Para o behaviorismo radical, de que modo o terceiro nível de seleção, a cultura, atua sobre a personalidade?",
+      "options": [
+        "Fornece regras prontas, poupando o sujeito de errar sozinho",
+        "Fixa reflexos inatos, como sugar e chorar ao nascer",
+        "Transmite arquétipos herdados por toda a espécie humana",
+        "Constrói o superego ao resolver o complexo de Édipo na infância"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cultura reúne regras, leis, costumes, linguagens e rituais transmitidos entre gerações. Ela acelera a aprendizagem individual ao oferecer modelos de conduta prontos, sem que o sujeito precise passar pela punição de errar sozinho, e molda caráter ético, papéis de gênero e valores morais, funcionando como macroambiente que seleciona o que é aceito ou banido."
+    },
+    {
+      "question": "Uma mulher é firme e organizada no trabalho, mas brincalhona e submissa em família. Como o behaviorismo radical de Skinner interpreta essa diferença?",
+      "options": [
+        "Selves distintos, adaptados a reforçadores diferentes",
+        "Falso-self, máscara de submissão diante da própria família",
+        "Incongruência, distância entre self real e ideal",
+        "Persona rígida, identificada com o papel social"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Skinner, o Self é um sistema de respostas funcionalmente unificado — não um homem interno que decide dentro da cabeça. Como o comportamento depende do contexto, a mesma pessoa pode manifestar selves diferentes conforme o conjunto de reforçadores sociais. Essas variações não são falsidade nem doença, e sim respostas saudáveis e adaptadas."
+    },
+    {
+      "question": "Um adulto não consegue responder à pergunta “o que você está sentindo agora?”, pois cresceu numa família que punia ou ignorava suas expressões emocionais. Como Skinner explica esse déficit?",
+      "options": [
+        "A comunidade verbal não o ensinou a discriminar emoções",
+        "O ego não se fortaleceu o bastante para tolerar afetos",
+        "O temperamento herdado limita a percepção de emoções",
+        "O self ideal reprimiu de vez a experiência organísmica"
+      ],
+      "correctIndex": 0,
+      "explanation": "Temos acesso direto ao mundo privado, mas não nascemos sabendo nomeá-lo. O autoconhecimento é uma habilidade social, construída quando a comunidade verbal — pais, escola, amigos — pergunta e reforça descrições do que sentimos. Quando ela falha, o déficit não decorre de um ego fraco: é falha de aprendizagem."
+    },
+    {
+      "question": "Um aluno com pensamentos de timidez senta no fundo da sala, o professor passa a ignorá-lo e isso reforça a crença de exclusão. Que conceito de Albert Bandura esse circuito ilustra?",
+      "options": [
+        "Determinismo recíproco triádico",
+        "Determinismo psíquico da infância",
+        "Seleção pelas consequências",
+        "Desamparo aprendido crônico"
+      ],
+      "correctIndex": 0,
+      "explanation": "No determinismo recíproco, a personalidade resulta da interação contínua entre fatores pessoais e cognitivos (P), comportamento (C) e ambiente (A). A crença de timidez (P) leva a sentar no fundo (C), o professor o ignora (A), e isso realimenta a crença (P). Bandura rejeita tanto a causa só interna da psicanálise quanto a só externa do behaviorismo clássico."
+    },
+    {
+      "question": "Uma criança passa a reproduzir a agressividade de um personagem de TV depois de ver que ele é premiado por agir assim, sem nunca ter sido reforçada diretamente. Que processo Bandura descreve?",
+      "options": [
+        "Aprendizagem vicária, por observação de modelos",
+        "Condicionamento operante, por reforço direto do ato",
+        "Condicionamento clássico, por pareamento",
+        "Insight súbito, por reorganização do campo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na aprendizagem vicária aprendemos observando as ações e, sobretudo, as consequências das ações dos outros — sem precisar errar e ser punido para aprender. Grande parte de hábitos, traços de agressividade, medos e papéis sociais de gênero é adquirida assistindo a pais, professores, amigos e figuras da mídia."
+    },
+    {
+      "question": "A crença de uma pessoa na própria capacidade de organizar e executar as ações necessárias para lidar com uma situação específica recebe, em Bandura, o nome de:",
+      "options": [
+        "Autoeficácia, crença ligada à tarefa",
+        "Autoestima, apreço global por si mesmo",
+        "Autoconceito, descrição geral de si",
+        "Autorrealização, topo da pirâmide"
+      ],
+      "correctIndex": 0,
+      "explanation": "Autoeficácia é a crença na própria capacidade de executar o que uma situação específica exige — diferente da autoestima, que é global. Ela dita a resiliência: alta autoeficácia leva a aceitar desafios, persistir diante do fracasso e controlar a ansiedade; baixa gera evitação, baixa autoestima e sensação de desamparo."
+    },
+    {
+      "question": "No modelo cognitivo de Beck, as crenças nucleares se agrupam em três categorias de sofrimento. A crença “ninguém gosta de mim, sempre serei rejeitado” pertence a qual delas?",
+      "options": [
+        "Crença de desamor",
+        "Crença de desamparo",
+        "Crença de desvalor",
+        "Crença de desconfiança"
+      ],
+      "correctIndex": 0,
+      "explanation": "As crenças de desamor giram em torno de não ser digno de afeto (ninguém gosta de mim, serei abandonado). As de desamparo, em torno de impotência e fracasso (não consigo controlar nada); as de desvalor, em torno de não ter valor ou ser mau (eu sou um lixo). São verdades absolutas e globais sobre si, os outros e o futuro."
+    },
+    {
+      "question": "Um funcionário recebe nove elogios e uma crítica pontual do chefe, mas só retém a crítica, que confirma sua crença rígida sobre si. No modelo de Beck, qual é o objetivo central do tratamento?",
+      "options": [
+        "Tratar pensamentos automáticos como hipóteses a testar",
+        "Elevar a autoeficácia por modelação de novos hábitos",
+        "Interpretar a raiz edípica da crítica sentida ao chefe",
+        "Extinguir a crença retirando todo reforço da queixa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na personalidade vulnerável, as crenças nucleares ficam rígidas e hiperativas e funcionam como filtro: o sujeito ignora as evidências positivas e só enxerga o que confirma o sofrimento. Beck propõe o questionamento socrático e a flexibilização dessas crenças, ensinando o paciente a tratar pensamentos automáticos negativos como hipóteses, e não como verdades absolutas."
+    },
+    {
+      "question": "O modelo categorial dos transtornos de personalidade, da Seção II do DSM-5-TR, decide se o sujeito tem ou não o transtorno pela contagem de critérios. Qual é sua principal limitação?",
+      "options": [
+        "Alta comorbidade e incapacidade de medir a gravidade",
+        "Ausência de critérios operacionais para o diagnóstico",
+        "Exigência de avaliar traços como espectros contínuos",
+        "Restrição do diagnóstico aos casos com sintoma físico"
+      ],
+      "correctIndex": 0,
+      "explanation": "A abordagem categorial trata os transtornos como entidades distintas: tem ou não tem, conforme o número de critérios cumpridos (por exemplo, 5 de 9). Seus limites são a alta taxa de comorbidade, a sobreposição de sintomas entre quadros e a incapacidade de capturar a gravidade real. Ver a personalidade como espectro contínuo é a proposta do modelo dimensional."
+    },
+    {
+      "question": "No modelo dimensional da Seção III do DSM-5-TR, o prejuízo no funcionamento da personalidade é avaliado em quais níveis?",
+      "options": [
+        "Self, com identidade e autodirecionamento; interpessoal, com empatia e intimidade",
+        "Self, com empatia e intimidade; interpessoal, com identidade e autodirecionamento",
+        "Self, com humor e cognição; interpessoal, com adesão a normas e controle de impulsos",
+        "Self, com memória e atenção; interpessoal, com papéis sociais e vida profissional"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Seção III avalia o grau de prejuízo no funcionamento da personalidade em dois níveis — Self (identidade e autodirecionamento) e interpessoal (empatia e intimidade) — associado a cinco domínios de traços patológicos: afetividade negativa, distanciamento, antagonismo, desinibição e psicoticismo. A CID-11 adotou integralmente a lógica dimensional."
+    },
+    {
+      "question": "Desconfiança, isolamento social e distorções cognitivas marcam o Cluster A do DSM-5-TR. Quais transtornos o compõem?",
+      "options": [
+        "Paranoide, esquizoide e esquizotípico",
+        "Evitativo, dependente e obsessivo-compulsivo",
+        "Antissocial, borderline e histriônico",
+        "Paranoide, histriônico e dependente"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cluster A (excêntricos): paranoide, esquizoide e esquizotípico. Cluster B (dramáticos, emocionais, erráticos): borderline, narcisista, antissocial e histriônico. Cluster C (ansiosos, medrosos): evitativo, dependente e obsessivo-compulsivo, marcados por alto neuroticismo, insegurança e necessidade de controle."
+    },
+    {
+      "question": "Uma paciente oscila entre idealizar e desvalorizar totalmente o parceiro, relata vazio crônico e se automutila quando teme ser deixada. Qual é a motivação nuclear desse quadro?",
+      "options": [
+        "Medo desesperador de abandono e rejeição",
+        "Preservação de uma autoimagem grandiosa e frágil",
+        "Busca fria por ganho pessoal e controle",
+        "Desejo de ser sempre o centro das atenções"
+      ],
+      "correctIndex": 0,
+      "explanation": "É o transtorno da personalidade borderline: instabilidade nos relacionamentos, na autoimagem e nos afetos, com impulsividade acentuada, movida pelo medo crônico de abandono, real ou imaginário. A oscilação entre idealização e desvalorização é a cisão — o mesmo mecanismo da posição esquizoparanoide de Klein, em que o objeto é todo bom ou todo mau."
+    },
+    {
+      "question": "No transtorno da personalidade narcisista, o que se esconde por trás da grandiosidade e da exigência de admiração?",
+      "options": [
+        "Autoimagem frágil, defesa contra vergonha e inferioridade",
+        "Medo crônico de abandono, com vazio interior e automutilação",
+        "Ausência de medo, com busca fria por ganho e prazer",
+        "Desconfiança paranoide, com isolamento e excentricidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "A autoimagem do narcisista é inflada, porém extremamente frágil: protege de um sentimento subjacente de inferioridade e vergonha. O outro vira instrumento de validação (suprimento narcisista), e a frustração das expectativas de privilégio provoca fúria narcisista ou depressão severa. Fracasso, crítica e insignificância são seus medos nucleares."
+    },
+    {
+      "question": "No diagnóstico diferencial do Cluster B, o que distingue a manipulação no transtorno da personalidade antissocial?",
+      "options": [
+        "É fria e utilitária, voltada a ganho, poder ou prazer",
+        "É desregulada, voltada a evitar a dor do abandono",
+        "É exibicionista, voltada a obter admiração e validação",
+        "É ansiosa, voltada a evitar a crítica e a rejeição"
+      ],
+      "correctIndex": 0,
+      "explanation": "O borderline age por desregulação afetiva dolorosa; o narcisista manipula para ser admirado; o antissocial manipula de forma fria, calculista e utilitária, vendo o outro como presa ou peão. Há desrespeito aos direitos alheios, irresponsabilidade crônica e ausência de remorso, com baixa reatividade ao medo e à ansiedade."
+    },
+    {
+      "question": "Qual sequência descreve corretamente a despatologização da homossexualidade nos manuais diagnósticos?",
+      "options": [
+        "APA retira do DSM em 1973; OMS retira da CID em 1990",
+        "OMS retira da CID em 1973; APA retira do DSM em 1990",
+        "APA retira do DSM em 1987; OMS retira da CID em 2019",
+        "OMS retira da CID em 1980; APA retira do DSM em 2013"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em 1973, após protestos de movimentos sociais e de profissionais progressistas, a Associação Psiquiátrica Americana retirou o termo homossexualismo do DSM, mantendo por um tempo a categoria homossexualidade ego-distônica, que caiu de vez em 1987. Em 17 de maio de 1990, a OMS a retirou da CID — data que se tornou o Dia Internacional contra a Homofobia, Transfobia e Bifobia."
+    },
+    {
+      "question": "Ao substituir transtorno de identidade de gênero por disforia de gênero, em 2013, o DSM-5 deslocou o foco diagnóstico para onde?",
+      "options": [
+        "Para o sofrimento gerado pela incongruência e pela exclusão",
+        "Para a identidade trans em si, tratada como transtorno",
+        "Para a orientação sexual associada à identidade de gênero",
+        "Para os traços de personalidade que antecedem a transição social"
+      ],
+      "correctIndex": 0,
+      "explanation": "Com a disforia de gênero, o diagnóstico deixa de recair sobre a identidade — que não é doença — e passa a recair sobre o sofrimento psíquico gerado pela incongruência e pela falta de acolhimento social. O passo seguinte veio com a CID-11, que retirou a transexualidade do capítulo de transtornos mentais."
+    },
+    {
+      "question": "Na CID-11, aprovada em 2019 e em vigor desde 2022, como e onde a transexualidade passou a ser classificada?",
+      "options": [
+        "Incongruência de gênero, em condições relacionadas à saúde sexual",
+        "Disforia de gênero, em transtornos mentais e comportamentais",
+        "Transtorno de identidade de gênero, em transtornos da personalidade",
+        "Incongruência de gênero, em transtornos do neurodesenvolvimento"
+      ],
+      "correctIndex": 0,
+      "explanation": "A CID-11 tirou a transexualidade da categoria de transtornos mentais e comportamentais e a realocou em condições relacionadas à saúde sexual, sob o nome incongruência de gênero. Ela deixa de ser adoecimento mental para ser reconhecida como variação legítima da diversidade humana."
+    },
+    {
+      "question": "O Conselho Federal de Psicologia proíbe práticas de cura, reversão ou tratamento voltadas à diversidade sexual e de gênero. As Resoluções CFP 01/99 e 01/18 tratam, respectivamente, de:",
+      "options": [
+        "Orientação sexual; identidades trans e travestis",
+        "Identidades trans e travestis; orientação sexual",
+        "Neurodivergência; orientação sexual e de gênero",
+        "Avaliação psicológica; identidades trans e travestis"
+      ],
+      "correctIndex": 0,
+      "explanation": "A Resolução CFP 01/99 proíbe o psicólogo de propor cura, reversão ou tratamento da homossexualidade — as chamadas terapias de conversão —, pois ela não é doença, desvio nem perversão. A Resolução CFP 01/18 garante a autodeterminação de pessoas trans e travestis e proíbe patologizar ou tentar reverter identidade ou expressão de gênero."
+    },
+    {
+      "question": "Na práxis afirmativa diante da neurodivergência — autistas, pessoas com TDAH ou com altas habilidades —, para onde se volta a intervenção psicológica?",
+      "options": [
+        "Autonomia, redução do sofrimento e adaptação do ambiente",
+        "Eliminação dos déficits para ajustar o sujeito à norma social",
+        "Normalização do comportamento pela extinção de traços",
+        "Diagnóstico precoce para suprimir os traços atípicos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A práxis afirmativa recusa ver o neurodivergente como um conjunto de déficits a eliminar para que se adeque à sociedade neurotípica. A intervenção visa autonomia, redução do sofrimento e adaptação do ambiente, respeitando a ecologia cognitiva singular de cada personalidade — a mesma lógica da neurodiversidade como variação, e não defeito."
+    }
+  ]
+}

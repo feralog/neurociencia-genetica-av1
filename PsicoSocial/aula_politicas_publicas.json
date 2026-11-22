@@ -1,0 +1,745 @@
+{
+  "titulo": "Psicologia, Subjetividade e Políticas Públicas",
+  "eyebrow": "Psicologia Social · Políticas Públicas",
+  "subtitulo": "Da “ausência presente” à “presença presente” da psicologia nas políticas públicas",
+  "intro": "O texto inteiro de Maria da Graça M. Gonçalves: a história da psicologia brasileira lida pela perspectiva sócio-histórica, a psicologia comunitária, o Compromisso Social, os seminários do CFP, o Banco Social e o Crepop, e os oito pontos para uma presença crítica nas políticas públicas.",
+  "questoes": [
+    {
+      "question": "Na análise de Maria da Graça Gonçalves sobre a relação da psicologia brasileira com as políticas públicas, a expressão “ausência presente” caracteriza qual situação?",
+      "options": [
+        "A psicologia aplicada à escola e ao trabalho, em instituições tradicionais, somada à clínica",
+        "A psicologia comunitária, que atuava junto à população por fora das instituições conservadoras",
+        "A psicologia inserida em políticas públicas democráticas, com participação e controle social",
+        "A psicologia de pesquisa, restrita às universidades públicas de excelência e longe da prática"
+      ],
+      "correctIndex": 0,
+      "explanation": "“Ausência presente” é a psicologia tradicional: aplicada às instituições de educação e trabalho e, como desdobramento delas, a clínica, que cuidava do que não se ajustava. Ela está presente nas instituições, mas num lugar secundário e adaptador, ausente como participante de políticas que garantem direitos. A psicologia comunitária é a “presença ausente”; a inserção crítica em políticas democráticas é a meta da “presença presente”."
+    },
+    {
+      "question": "Gonçalves chama de “presença ausente” uma das formas históricas de relação da psicologia brasileira com o campo das políticas públicas. A que ela se refere?",
+      "options": [
+        "À psicologia comunitária, voltada à promoção das pessoas e desenvolvida por fora das instituições",
+        "À psicologia aplicada à escola e ao trabalho, que atuava em posição auxiliar dentro das instituições",
+        "À clínica liberal, que atendia em consultório particular uma parcela restrita e elitizada da população",
+        "À psicologia inserida no Estado, que formulava políticas sociais junto aos governos do regime militar"
+      ],
+      "correctIndex": 0,
+      "explanation": "A psicologia comunitária tinha por objetivo a promoção das pessoas e, no contexto da ditadura, teve de se desenvolver por fora das instituições conservadoras. É uma presença real junto à população, mas ausente do setor público e das políticas. A psicologia aplicada e a clínica compõem, ao contrário, a “ausência presente”."
+    },
+    {
+      "question": "Para Gonçalves, que a psicologia alcance nas políticas públicas uma “presença presente” exige que:",
+      "options": [
+        "a crítica às instituições conservadoras venha acompanhada de propostas que fortaleçam instituições democráticas",
+        "a psicologia mantenha distância do Estado e atue apenas por meio dos movimentos sociais organizados no país",
+        "o psicólogo preserve a neutralidade técnica para servir igualmente a qualquer política adotada pelos governos",
+        "a profissão concentre esforços na ampliação dos consultórios e na qualidade da clínica individual oferecida à população"
+      ],
+      "correctIndex": 0,
+      "explanation": "O momento histórico atual já não comporta só a crítica às instituições conservadoras: ela precisa trazer junto propostas para construir e fortalecer instituições democráticas. Atuar só por fora do Estado era a marca da “presença ausente”; a neutralidade técnica e a clínica individual marcam a “ausência presente”."
+    },
+    {
+      "question": "Gonçalves aponta duas razões pelas quais a situação de “ausência” da psicologia nas políticas públicas mudou. Quais são elas?",
+      "options": [
+        "Não se podem mais ignorar as denúncias de compromisso com as elites, e a crítica precisa vir com propostas",
+        "A ditadura passou a contratar psicólogos, e o mercado de consultórios chegou às classes populares do país",
+        "A psicologia comprovou sua neutralidade científica, e os governos passaram a reconhecer seus laudos técnicos",
+        "O neoliberalismo fortaleceu o Estado provedor, e a regulamentação da profissão abriu concursos para a área"
+      ],
+      "correctIndex": 0,
+      "explanation": "Primeiro, não dá mais para fechar os olhos às denúncias, repetidas há muito tempo e em contextos variados, de que a psicologia esteve comprometida com as elites. Segundo, o momento já não se resume a criticar as instituições conservadoras: é preciso propor a construção de instituições democráticas. O neoliberalismo, aliás, enfraquece o Estado como implementador de políticas, em busca do “Estado mínimo”."
+    },
+    {
+      "question": "Ao mapear os tipos de inserção da psicologia na sociedade brasileira, Gonçalves distingue “concepções críticas” de “propostas de ruptura”. O que caracteriza as concepções críticas?",
+      "options": [
+        "São produzidas a partir das concepções tradicionais e buscam alternativas inovadoras para a realidade brasileira",
+        "Rompem com os modelos tradicionais de atuação e colocam a psicologia a serviço da construção de uma outra sociedade",
+        "Aplicam o saber psicológico para controlar, enquadrar e adaptar os indivíduos à sociedade capitalista do país",
+        "Expressam no plano teórico concepções naturalizantes e normalizadoras das subjetividades dos indivíduos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os quatro tipos de inserção são: aplicações práticas que controlam, enquadram e adaptam; expressões teóricas naturalizantes e normalizadoras; concepções críticas, produzidas a partir das concepções tradicionais, que buscam alternativas inovadoras; e propostas de ruptura com os modelos tradicionais, que põem a psicologia a serviço da maioria e até da construção de uma nova sociedade. A diferença está em nascer de dentro da tradição ou romper com ela."
+    },
+    {
+      "question": "Ao propor retomar a história da psicologia brasileira com um “trabalho de desnaturalização”, na perspectiva sócio-histórica, Gonçalves pretende mostrar que:",
+      "options": [
+        "o lugar atual da psicologia no campo social foi produzido por práticas que se tornaram hegemônicas",
+        "o lugar atual da psicologia no campo social decorre da natureza universal do próprio psiquismo humano",
+        "o lugar atual da psicologia no campo social resulta da livre escolha individual de cada profissional",
+        "o lugar atual da psicologia no campo social é efeito direto da importação de teorias europeias prontas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Desnaturalizar é mostrar que, se a psicologia ocupa hoje certos lugares no campo social, é porque esses lugares foram construídos por práticas que conquistaram hegemonia e pelas representações que as legitimavam na teoria, no método e nas concepções. Atribuir esse lugar à natureza do psiquismo seria justamente a naturalização que o texto critica."
+    },
+    {
+      "question": "Gonçalves descreve o campo das políticas sociais no Brasil posterior à “Constituição Cidadã” como marcado por uma contradição. Qual?",
+      "options": [
+        "Há referências constitucionais para ampliar direitos e, ao mesmo tempo, investidas neoliberais que os retardam",
+        "Há um Estado de bem-estar social consolidado e, ao mesmo tempo, ausência completa de políticas de saúde",
+        "Há um Estado autoritário que impede políticas e, ao mesmo tempo, plena aplicação dos princípios constitucionais",
+        "Há expansão do mercado privado de saúde e, ao mesmo tempo, fortalecimento do Estado como provedor único"
+      ],
+      "correctIndex": 0,
+      "explanation": "As políticas sociais contam com respaldo constitucional para se ampliar e para criar sistemas de garantia de direitos, mas simultaneamente sofrem as investidas neoliberais, que atrasam ou até bloqueiam o avanço das conquistas sociais. A Constituição de 1988 ainda está por ser posta em prática, e o Brasil vive de forma particular o questionamento das bases do Estado de bem-estar social."
+    },
+    {
+      "question": "Quando afirma que a psicologia esteve ausente das políticas públicas, Gonçalves delimita políticas públicas como aquelas que:",
+      "options": [
+        "garantem direitos sociais e são formuladas e executadas sob a responsabilidade do poder público",
+        "são desenvolvidas por ONGs e igrejas, com financiamento privado e sem participação do Estado",
+        "regulamentam o exercício das profissões liberais e fiscalizam o atendimento em consultórios",
+        "organizam a seleção e o treinamento de trabalhadores nas empresas por meio de testes psicológicos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O recorte abrange políticas destinadas a garantir direitos sociais, formuladas e executadas pelo poder público, que contrata especialistas e responde a demandas sociais geradas pelo desenvolvimento econômico e pelos arranjos políticos. De certo modo, a psicologia jamais esteve inteiramente ausente desse campo, mas chegou a ele quase sempre por via indireta."
+    },
+    {
+      "question": "Uma das convicções produzidas pela própria psicologia, que a manteve à margem do setor público, é a de que ela seria:",
+      "options": [
+        "um saber neutro sobre o homem, aplicável em qualquer lugar por um especialista técnico",
+        "um saber político sobre a sociedade, aplicável apenas por meio dos movimentos sociais",
+        "um saber provisório sobre o sujeito, que deveria ser reinventado em cada nova situação",
+        "um saber coletivo sobre os grupos, que dispensaria a formação universitária específica"
+      ],
+      "correctIndex": 0,
+      "explanation": "A psicologia se via como neutra, dona de um saber científico sobre o ser humano que serviria em qualquer contexto: escolas, empresas, instituições de recuperação, grupos. Ao psicólogo caberia o papel de “especialista” ou “técnico”, cujos conhecimentos orientariam a atuação de outros profissionais. Por isso a psicologia aplicada se colocou como auxiliar, ligada à emissão de laudos e diagnósticos."
+    },
+    {
+      "question": "Por que, para Gonçalves, a naturalização dos fenômenos psicológicos contribuiu para uma presença pequena ou inexistente da psicologia nas políticas públicas?",
+      "options": [
+        "Porque um saber tido como universal dispensaria criar conhecimentos específicos, bastando “aplicar” o existente",
+        "Porque um saber tido como natural exigiria laboratórios caros, que o setor público não tinha como financiar",
+        "Porque um saber tido como universal seria rejeitado pelos gestores, que preferiam soluções locais e políticas",
+        "Porque um saber tido como natural impediria o diagnóstico, que era a principal demanda do Estado autoritário"
+      ],
+      "correctIndex": 0,
+      "explanation": "A naturalização implica buscar um conhecimento universal sobre o psiquismo, e um saber que se julga natural e universal legitima ações normalizadoras, que ajustam os indivíduos. A psicologia não precisaria criar conhecimentos e procedimentos próprios para cada situação; bastaria “aplicar” o saber disponível. São posições que se dizem neutras e, por isso mesmo, ocultam os interesses a que servem."
+    },
+    {
+      "question": "Em leitura que Gonçalves retoma de Bock (2003), apoiada em Massimi e Antunes, as ideias e teorias psicológicas no Brasil serviram ao interesse das elites em:",
+      "options": [
+        "controlar, higienizar, diferenciar e categorizar, em favor do lucro e da reprodução do capital",
+        "educar, emancipar, conscientizar e organizar, em favor da autonomia das classes populares",
+        "tratar, curar, reabilitar e reinserir, em favor da saúde pública e da universalidade do acesso",
+        "pesquisar, publicar, ensinar e formar, em favor da autonomia científica das universidades"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Bock (2003), primeiro as ideias psicológicas e depois as teorias atenderam claramente ao interesse das elites em controlar, higienizar, diferenciar e categorizar, interesse ligado à preservação ou ao aumento do lucro e à reprodução do capital. Antunes (1999) mostra esse vínculo já nas ideias psicológicas do Brasil colonial e do Império, ligadas ao controle da população."
+    },
+    {
+      "question": "Na reconstrução de Antunes (1999), qual é a sequência da presença da psicologia nas instituições sociais brasileiras?",
+      "options": [
+        "Século XIX na medicina e, logo depois, na educação; início do século XX também no trabalho, via psicometria",
+        "Século XIX no trabalho, via psicometria, e logo depois na clínica; início do século XX também na educação",
+        "Século XIX na educação popular e, logo depois, na justiça; início do século XX também na clínica privada",
+        "Século XIX nos consultórios e, logo depois, nas empresas; início do século XX também na saúde pública estatal"
+      ],
+      "correctIndex": 0,
+      "explanation": "No século XIX a psicologia está no interior da medicina, junto à psiquiatria, como ciência auxiliar; logo em seguida e paralelamente, na educação. No início do século XX essas presenças se firmam, e a psicometria leva a psicologia também ao trabalho. Para Antunes, a educação foi a principal base de sua emergência como ciência, por onde chegaram os saberes da Europa e dos Estados Unidos."
+    },
+    {
+      "question": "Antunes identifica lógicas distintas nas práticas psicológicas do final do século XIX e início do XX. Qual correspondência entre área e lógica está correta?",
+      "options": [
+        "Psiquiatria: lógica higienista; educação: ajuste e enfoque individualizante; trabalho: lógica adaptativa",
+        "Psiquiatria: lógica adaptativa; educação: lógica higienista; trabalho: ajuste e enfoque individualizante",
+        "Psiquiatria: ajuste e enfoque individualizante; educação: lógica adaptativa; trabalho: lógica higienista",
+        "Psiquiatria: lógica emancipadora; educação: conscientização popular; trabalho: promoção da saúde"
+      ],
+      "correctIndex": 0,
+      "explanation": "Antunes aponta a lógica higienista nas práticas psiquiátricas (que de algum modo alcança também a educação), o enfoque individualizante e a lógica de ajuste na educação e a lógica adaptativa na psicologia aplicada ao trabalho. Daí a conclusão de que a psicologia esteve atrelada aos interesses das elites, e de que a “modernização” buscada era a adequação ao processo de industrialização."
+    },
+    {
+      "question": "Para Patto (2003), o uso do conceito de “normalidade” pela psicologia na educação teve qual significado nas condições históricas em que se tornou dominante?",
+      "options": [
+        "Significou aceitar sem questionamento a ordem estabelecida, buscando ajustar ou eliminar os inadequados",
+        "Significou questionar a ordem estabelecida, buscando transformar a escola a partir dos alunos excluídos",
+        "Significou adotar um critério estatístico neutro, sem implicações para a organização da escola pública",
+        "Significou incluir todas as crianças na escola, buscando respeitar a diversidade de ritmos de aprendizagem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Patto parte da ideia de que a história da psicologia brasileira integra a própria história do país, e do “enraizamento sociopolítico da Psicologia”. A normalidade, como referência, significou aceitação da ordem estabelecida sem questionamentos, com a procura do ajustamento e algum tipo de exclusão de quem não se encaixava. Na citação de Patto, a Pedagogia, para ser eficiente, precisava conhecer sua “matéria-prima”, as crianças, para classificá-la; daí o encontro com a psicologia evolutiva de cunho normativo, a psicometria e a psicanálise em versão adaptativa, “gestora de riscos sociais” (expressão de Robert Castel)."
+    },
+    {
+      "question": "Contini (1998) afirma que a psicologia aplicada à educação ajudou a encobrir as reais causas do fracasso escolar. De que modo?",
+      "options": [
+        "Pela psicometria, deu respostas individuais a questões educacionais e sociais, fazendo do psicólogo o diagnosticador",
+        "Pela educação popular, deu respostas coletivas a questões individuais, fazendo do psicólogo um militante político",
+        "Pela psicanálise, deu respostas familiares a questões pedagógicas, fazendo do psicólogo um terapeuta dos pais",
+        "Pela pesquisa-ação, deu respostas comunitárias a questões escolares, fazendo do psicólogo um gestor administrativo da escola"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Contini, com a psicometria passou a ser possível responder individualmente a problemas que eram educacionais e sociais; marcado pela visão tradicional de saúde e doença, o modelo fez do fracasso escolar “a doença” da escola e do psicólogo o seu diagnosticador. Contini, Bock e Patto convergem: a perspectiva patologizante nasce de concepções que tomam o fenômeno psicológico como natural e fixam padrões de normalidade."
+    },
+    {
+      "question": "Gonçalves conclui que, antes da regulamentação da profissão, o fato de a psicologia estar “ausente” das políticas públicas era na verdade:",
+      "options": [
+        "uma presença que fortalecia políticas assistencialistas, patologizantes, curativas e individualizantes",
+        "uma presença que fortalecia políticas universais, preventivas, participativas e de garantia de direitos",
+        "uma ausência completa, já que nenhum psicólogo atuava em escolas, hospitais ou empresas no período",
+        "uma presença que fortalecia o Estado de bem-estar social, nos moldes dos países industrializados"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ausência era, no fundo, uma presença que reforçava políticas assistencialistas, patologizantes, curativas e individualizantes. As políticas sociais partiam de um Estado autoritário e populista e impunham certa modernização industrial pela garantia do mínimo necessário, muito diferente do Estado de bem-estar social dos países industrializados. Na saúde, a psicologia auxiliava a psiquiatria na higienização e disciplinarização da sociedade."
+    },
+    {
+      "question": "Sobre a prática clínica no modelo do profissional liberal em consultório particular, Gonçalves, apoiada em Antunes, afirma que ela:",
+      "options": [
+        "não foi o início da inserção social da psicologia; surgiu na conjuntura dos anos 1960 e das práticas anteriores",
+        "foi o ponto de partida da psicologia brasileira, já presente no século XIX junto às famílias da elite do Império",
+        "surgiu como reação crítica à psicometria, sob influência direta da psicologia comunitária latino-americana",
+        "foi imposta pela lei de 1962, que proibia o psicólogo de atuar em escolas, empresas e hospitais públicos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A clínica liberal, predominante após a regulamentação, não é por onde a psicologia inicia sua inserção social. Ela aparece por causa da conjuntura econômica e social dos anos 1960 e de necessidades apontadas pelo desenvolvimento da psicologia na saúde, na educação e no trabalho: se essas áreas buscavam corrigir rotas desviantes, era preciso uma intervenção curativa que recuperasse os indivíduos para a normalidade."
+    },
+    {
+      "question": "A psicoterapia, alimentada pela valorização do individualismo, atendia a dois eixos ideológicos importantes no contexto da regulamentação da profissão. Quais?",
+      "options": [
+        "O curativo e o da perscrutação da intimidade",
+        "O preventivo e o de conscientização política",
+        "O educativo e o de organização comunitária",
+        "O coletivo e o de promoção dos direitos sociais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Como a intervenção nas outras áreas buscava corrigir rotas desviantes, era necessária uma intervenção curativa. Associada à valorização do individualismo, essa perspectiva alimentou a psicoterapia, que atendia a dois eixos ideológicos: o curativo e o da perscrutação da intimidade. Prevenção, conscientização e organização comunitária aparecem, ao contrário, nas experiências críticas da psicologia comunitária."
+    },
+    {
+      "question": "A profissão de psicólogo foi regulamentada em 1962. Que contexto, logo em seguida, favoreceu a valorização das profissões liberais de nível superior?",
+      "options": [
+        "A ditadura militar e o “milagre econômico”, em que a via de ascensão da classe média era o diploma superior",
+        "A redemocratização e a Constituição Cidadã, em que a via de ascensão da classe média era o concurso público",
+        "O neoliberalismo e o Estado mínimo, em que a via de ascensão da classe média era o empreendedorismo privado",
+        "O Estado de bem-estar social, em que a via de ascensão da classe média era o emprego nas políticas sociais"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sob a ditadura militar e o “milagre econômico”, o caminho de ascensão apresentada ideologicamente como mais viável era a profissionalização em nível superior, como profissional liberal. Isso contribuiu para a expansão do ensino superior privado, pela desobrigação do Estado com a educação. Como as políticas sociais eram assistencialistas e tecnocráticas, ou inexistentes (a lógica de fazer o bolo crescer primeiro para só depois dividi-lo), o campo de trabalho estava no setor privado."
+    },
+    {
+      "question": "Após a regulamentação, o lugar predominante do psicólogo no campo social era secundário. Qual correspondência descreve corretamente esse lugar?",
+      "options": [
+        "Na escola, auxiliar de professores para os “casos-problema”; na justiça, auxiliar do juiz",
+        "Na escola, gestor do projeto pedagógico; na justiça, responsável pela execução das penas",
+        "Na escola, formulador do currículo nacional; na justiça, mediador de conflitos comunitários",
+        "Na escola, diretor das turmas especiais; na justiça, autoridade sobre as medidas protetivas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na escola, o psicólogo auxiliava ou complementava o trabalho de professores e pedagogos, apenas nos “casos-problema”; também subsidiava o administrador na empresa, auxiliava o médico psiquiatra na saúde e o juiz na justiça. A alternativa era o consultório particular, como profissional autônomo, mas usando o mesmo conhecimento naturalizante e descontextualizado."
+    },
+    {
+      "question": "A análise crítica do período da ditadura sintetiza em cinco traços a psicologia então predominante. Qual traço NÃO faz parte dessa síntese?",
+      "options": [
+        "Ampla inserção social, com serviços acessíveis à maioria da população brasileira",
+        "Pretensa neutralidade, tratando de processos humanos tidos como universais",
+        "Formação predominantemente reprodutora de conhecimentos e práticas, tecnicista",
+        "Aplicação dos conhecimentos sem atentar ao contexto sócio-histórico de cada caso"
+      ],
+      "correctIndex": 0,
+      "explanation": "A síntese descreve uma psicologia pretensamente neutra; que aplicava conhecimentos sem atentar ao contexto sócio-histórico e às subjetividades; com formação reprodutora e tecnicista (a rápida expansão de cursos privados restringiu a pesquisa a poucas escolas públicas de excelência); com pouca inserção social, em espaços acessíveis só à elite e às classes média e média alta; e longe das necessidades mais amplas do país."
+    },
+    {
+      "question": "Em que a psicologia comunitária que surgiu no Brasil sob a ditadura se diferenciava da psicologia comunitária norte-americana?",
+      "options": [
+        "A norte-americana atuava em centros comunitários com práticas assistencialistas; a brasileira rompia com esse modelo",
+        "A norte-americana atuava junto aos movimentos sociais com práticas emancipadoras; a brasileira era assistencialista",
+        "A norte-americana atuava dentro dos hospitais psiquiátricos; a brasileira atuava apenas nos consultórios privados",
+        "A norte-americana atuava com psicometria nas empresas; a brasileira atuava com laudos para o sistema de justiça criminal"
+      ],
+      "correctIndex": 0,
+      "explanation": "A psicologia comunitária norte-americana atuava em centros comunitários, no marco de práticas assistencialistas. No Brasil, ela foi espaço de novos saberes e práticas que negavam o paradigma hegemônico (neutralidade, intervenções “técnicas”, conformação às instituições conservadoras) e articulou uma concepção sócio-histórica de subjetividade a uma prática emancipadora. Freitas descreve essa relação como de origem e ruptura."
+    },
+    {
+      "question": "Sob a ditadura, por que os psicólogos engajados na prática comunitária não podiam estar presentes “apenas” com um saber “neutro” e “técnico”?",
+      "options": [
+        "Porque o acesso à população se dava pelos movimentos sociais, exigindo participar de sua organização",
+        "Porque o Estado autoritário exigia laudos assinados, o que obrigava a explicitar posições ideológicas",
+        "Porque as universidades públicas proibiam a neutralidade, impondo o marxismo como teoria oficial",
+        "Porque os conselhos profissionais fiscalizavam a atuação e puniam quem adotasse técnicas clínicas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O Estado autoritário fazia políticas tecnocráticas em alguns âmbitos e, em outros, não fazia política social nenhuma. O caminho encontrado foi chegar à população pelos movimentos sociais, o que exigia estar presente e participar de sua organização. Cada profissional tinha de definir o objetivo de sua participação, e a psicologia teve de produzir outra psicologia."
+    },
+    {
+      "question": "Freitas (1996) mostra que a própria denominação da psicologia comunitária revela seu processo histórico no Brasil. Qual é a sequência correta das denominações?",
+      "options": [
+        "Psicologia na comunidade; psicologia da comunidade; psicologia (social) comunitária",
+        "Psicologia da comunidade; psicologia na comunidade; psicologia (social) comunitária",
+        "Psicologia (social) comunitária; psicologia na comunidade; psicologia da comunidade",
+        "Psicologia na comunidade; psicologia (social) comunitária; psicologia da comunidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Primeiro, a psicologia na comunidade, nas décadas de 1960 e 1970, em crise com os modelos importados e propondo-se a se deselitizar. Depois, de cerca de 1985 em diante e com força no início dos anos 1990, a psicologia da comunidade, ligada à saúde e mediada por um órgão prestador de serviços. Por fim, a psicologia (social) comunitária, com o enquadre da psicologia social, o trabalho com grupos e a consciência crítica. As fases não são estanques."
+    },
+    {
+      "question": "Lane (1996) usa dois encontros da Abrapso como marcos da psicologia comunitária brasileira. No primeiro, em 1981, que experiências foram apresentadas?",
+      "options": [
+        "Saúde mental em centros comunitários e educação popular inspirada em Paulo Freire",
+        "Psicometria aplicada a empresas e orientação vocacional em escolas particulares",
+        "Laudos para o sistema de justiça e avaliação psicológica de presos e adolescentes",
+        "Psicoterapia individual em consultórios e grupos terapêuticos em clínicas-escola"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em 1981 aparecem experiências em saúde mental, em centros comunitários, como alternativa concreta ao modelo psiquiátrico tradicional, e em educação popular inspirada em Paulo Freire, fora do ensino formal e da escola. É significativo porque a psicologia tinha crescido de modo adaptativo grudada à psiquiatria e à educação; agora, nessas mesmas áreas, surgem práticas de ruptura."
+    },
+    {
+      "question": "Ao avaliar o encontro de psicologia comunitária de 1981, Lane critica uma visão do psicólogo que ainda se definia:",
+      "options": [
+        "pelas técnicas que emprega, e não pelo que conhece do psiquismo humano formado nas relações",
+        "pelo conhecimento do psiquismo, e não pelas técnicas que utiliza nas intervenções comunitárias",
+        "pela militância política, e não pela formação universitária recebida nas faculdades de psicologia",
+        "pela relação grupal, e não pela escuta individual que caracteriza a tradição clínica da profissão"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Lane, ainda se via o psicólogo como alguém definido pelas técnicas que emprega, e não pelo que conhece do psiquismo humano, e uma visão fragmentada do indivíduo: aprendizagem, terapia e conscientização como processos separados. O único ponto constante era a relação grupal, valorizada positivamente: é no encontro com os outros que descobrimos a realidade."
+    },
+    {
+      "question": "Que avanços Lane identifica no segundo encontro de psicologia comunitária, em 1988, e de onde vinha boa parte do referencial da leitura sócio-histórica?",
+      "options": [
+        "Psiquismo integrado, inserção social e grupo como referência; marxismo e materialismo histórico-dialético",
+        "Técnicas mais refinadas, diagnóstico preciso e neutralidade; behaviorismo e psicometria de origem norte-americana",
+        "Clínica ampliada, escuta individual e intimidade; psicanálise francesa e fenomenologia existencial",
+        "Promoção de saúde, prevenção e cura; modelo biomédico e psiquiatria comunitária norte-americana"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em 1988, Lane vê avanço: o psiquismo passa a ser compreendido de forma integrada, entende-se a inserção social do indivíduo e o grupo é reconhecido como referência fundamental tanto para compreender as pessoas quanto para intervir. A leitura sócio-histórica ganha peso, já que grande parte do referencial vem do marxismo e do materialismo histórico-dialético."
+    },
+    {
+      "question": "Quando se tornou possível atuar por dentro de órgãos públicos, o saber da psicologia comunitária somou-se a qual outro movimento para aproximar a psicologia das políticas sociais?",
+      "options": [
+        "A luta antimanicomial, que buscava alternativas às internações e reconhecia a autonomia dos sujeitos",
+        "A psicometria industrial, que buscava selecionar trabalhadores e reconhecia as aptidões individuais",
+        "A higiene mental escolar, que buscava prevenir desvios e reconhecia a normalidade como referência",
+        "A reforma universitária privada, que buscava ampliar vagas e reconhecia o diploma como ascensão"
+      ],
+      "correctIndex": 0,
+      "explanation": "O saber comunitário não foi o único elemento: somou-se às elaborações da saúde mental pela luta antimanicomial, que buscava alternativas às internações em manicômios e reconhecia a autonomia e a capacidade de emancipação dos indivíduos, mesmo em sofrimento psíquico. Institucionalizadas na saúde pública, essas práticas aproximaram a psicologia das políticas reclamadas pelos movimentos de saúde."
+    },
+    {
+      "question": "A pesquisa do Conselho Federal de Psicologia publicada em 1988, quando a profissão completava 25 anos de regulamentação, evidenciou:",
+      "options": [
+        "predomínio da clínica em consultório, pouca presença no setor público e práticas normativas e assistencialistas",
+        "predomínio do setor público, pouca presença em consultórios e práticas críticas e emancipadoras consolidadas",
+        "predomínio da psicologia comunitária, pouca presença na clínica e práticas militantes espalhadas pelo país",
+        "predomínio da psicometria nas empresas, ausência total da clínica e práticas restritas à seleção de pessoal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Muito abrangente, a pesquisa confirmou os traços já conhecidos: domínio da clínica em consultório particular, presença reduzida no setor público e apreço por práticas normativas e assistencialistas. Nos vinte anos seguintes, boa parte da categoria procurou definir um papel próprio para a psicologia diante da realidade do país, com as entidades dando visibilidade à sua parcela mais crítica."
+    },
+    {
+      "question": "O Projeto do Compromisso Social da Psicologia, gestado nos anos 1990, consolidou dois eixos de referência. Quais?",
+      "options": [
+        "Análise de práticas e saberes pelo respeito aos direitos humanos; defesa da presença nas políticas públicas",
+        "Defesa da neutralidade técnica do psicólogo; ampliação do mercado de consultórios para a classe média",
+        "Retorno à psicometria como base científica; afastamento do Estado para preservar a autonomia profissional",
+        "Defesa da psicologia comunitária fora das instituições; recusa a qualquer diálogo com os gestores públicos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os dois eixos são examinar continuamente práticas e saberes à luz do respeito aos direitos humanos e defender que a psicologia esteja presente nas políticas públicas. O projeto, apoiado na militância das décadas anteriores, reuniu as experiências da saúde mental e da psicologia comunitária e a militância por políticas sociais, como nos movimentos que levaram à Constituição de 1988 e ao ECA, em 1990."
+    },
+    {
+      "question": "Que eventos, organizados pelo CFP, pelos Conselhos Regionais e por uma terceira instância, o Fórum de Entidades Nacionais da Psicologia Brasileira, marcaram o reposicionamento social da psicologia? (Sigla CBP: Congresso Brasileiro de Psicologia, com o subtítulo Ciência e Profissão)",
+      "options": [
+        "I Mostra Nacional de Práticas (2001), I CBP (2002) e II CBP (2006), todos em São Paulo",
+        "I Mostra Nacional de Práticas (1981), I CBP (1988) e II CBP (1990), todos em Brasília",
+        "I Mostra Nacional de Práticas (2003), I CBP (2005) e II CBP (2007), todos em Salvador",
+        "I Mostra Nacional de Práticas (1962), I CBP (1964) e II CBP (1985), todos em Recife"
+      ],
+      "correctIndex": 0,
+      "explanation": "São Paulo sediou os três: I Mostra Nacional de Práticas em Psicologia (2001), primeiro CBP (2002) e segundo CBP (2006). Cada um tinha objetivos próprios, mas todos deram visibilidade à prática profissional e abriram espaço para avaliar criticamente os rumos da psicologia no país. Não confundir com os Seminários Nacionais de Psicologia e Políticas Públicas (2001 a 2009, no Norte-Nordeste) nem com os encontros da Abrapso (1981 e 1988)."
+    },
+    {
+      "question": "Qual relação Gonçalves estabelece entre direitos sociais e direitos humanos num contexto de desobrigação do Estado?",
+      "options": [
+        "Quando falta a garantia dos direitos sociais para todos, há violação dos direitos humanos",
+        "Quando os direitos humanos são respeitados, os direitos sociais deixam de ser necessários",
+        "Quando os direitos sociais se universalizam, os direitos humanos passam a ser secundários",
+        "Quando os direitos humanos são violados, os direitos sociais continuam plenamente garantidos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A desobrigação do Estado em relação aos direitos sociais torna decisiva a defesa dos direitos humanos, porque negar direitos sociais a uma parte da população significa violar direitos humanos. Defender os direitos humanos diz respeito ao modelo de sociedade desejado; a das políticas públicas, do compromisso com uma sociedade democrática que respeita os direitos sociais."
+    },
+    {
+      "question": "Gonçalves aponta os limites de uma psicologia naturalizante, por mais “bem-intencionada” que seja. O desafio que ela propõe é gerar conhecimento que tenha como objeto:",
+      "options": [
+        "a dimensão subjetiva da realidade, constituída na história e constituinte dessa mesma realidade",
+        "as leis universais do psiquismo, válidas igualmente para qualquer contexto histórico e social",
+        "os traços inatos da personalidade, que explicariam a adaptação ou o desvio de cada indivíduo",
+        "as técnicas de intervenção mais eficazes, independentemente do contexto em que são aplicadas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trata-se de gerar conhecimento acerca da dimensão subjetiva da realidade, mostrando como ela se forma dentro da realidade histórica e social e como, por sua vez, ajuda a constituir essa mesma realidade. Para isso, são necessárias concepções que operem com a historicidade e identifiquem as mediações dos fenômenos, com seu movimento, suas contradições e suas possibilidades de transformação."
+    },
+    {
+      "question": "Gonçalves analisa a “presença” da psicologia nas políticas públicas a partir de três iniciativas do CFP, que teriam caráter oficial, inovador e público. Quais são elas?",
+      "options": [
+        "Seminários Nacionais de Psicologia e Políticas Públicas, Crepop e Banco Social de Serviços",
+        "Pesquisa nacional de 1988, Mostra Nacional de Práticas e Fórum de Entidades da Psicologia",
+        "Encontros da Abrapso de 1981 e 1988, Banco Social de Serviços e Congresso Norte-Nordeste",
+        "Código de Ética Profissional, Conselhos Regionais de Psicologia e Sindicatos de Psicólogos"
+      ],
+      "correctIndex": 0,
+      "explanation": "As iniciativas são os Seminários Nacionais de Psicologia e Políticas Públicas, o Banco Social de Serviços em Psicologia e o Crepop. São oficiais (da autarquia que regulamenta a profissão), inovadoras (ampla participação, construção coletiva de referenciais éticos e técnicos) e públicas (transparência e publicidade na gestão). Os seminários foram cinco: 2001 e 2005 em Salvador, 2003 em João Pessoa, 2007 em Maceió e 2009 em Belém, junto ao CONPSI."
+    },
+    {
+      "question": "Nos seminários do CFP, defender mais postos de trabalho para psicólogos em políticas públicas foi considerado legítimo sob qual condição?",
+      "options": [
+        "Se associasse a defesa da profissão a um projeto para a sociedade, sendo corporativa sem ser corporativista",
+        "Se garantisse exclusividade aos psicólogos nos cargos públicos, sendo corporativista sem ser corporativa",
+        "Se mantivesse o modelo do profissional liberal como prioridade, sendo técnica sem ser política nem ideológica",
+        "Se dispensasse a participação popular nas decisões, sendo neutra sem ser partidária nem comprometida"
+      ],
+      "correctIndex": 0,
+      "explanation": "O modelo do profissional liberal já não se sustenta, e o crescimento do número de psicólogos faz a ampliação do campo passar pelas políticas públicas. Mas essa justificativa vem acompanhada da reflexão sobre corporativismo versus compromisso ético: a luta pela deselitização passa pelas políticas públicas, e a defesa de postos é legítima por associar a profissão a um projeto para a sociedade. A fórmula: ser corporativo sem ser corporativista."
+    },
+    {
+      "question": "Em 2001, no primeiro Seminário Nacional de Psicologia e Políticas Públicas, a afirmação da presença da psicologia nesse campo ainda se dava principalmente:",
+      "options": [
+        "em torno de potencialidades, isto é, do que ela poderia fazer, mais do que de realidades consolidadas",
+        "em torno de realidades consolidadas, já que os psicólogos eram formados para atuar no setor público",
+        "em torno da defesa da clínica liberal, que deveria ser oferecida gratuitamente pelo Estado a todos",
+        "em torno da recusa ao Estado, já que qualquer política pública seria instrumento de controle social"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em 2001 as justificativas eram incipientes: os psicólogos nunca receberam, e ainda não recebem, formação para o setor público; a prática nesse campo era recente; era recente a compreensão de que a discussão não interessa só a quem atua no setor público. A presença se afirmava pelo que a psicologia poderia fazer e investigar, mais por potencialidades que por realidades consolidadas."
+    },
+    {
+      "question": "No I Seminário, conferencistas e debatedores avaliaram a atuação tradicional dos psicólogos na educação. Que diagnóstico fizeram?",
+      "options": [
+        "Atuação centrada no modelo médico, que culpabiliza o aluno e repete na escola o modelo clínico liberal",
+        "Atuação centrada na educação popular, que politiza o aluno e substitui o professor na sala de aula",
+        "Atuação centrada na gestão escolar, que ignora o aluno e se limita a reorganizar o calendário letivo",
+        "Atuação centrada no coletivo, que dilui o aluno no grupo e abandona por completo a escuta individual"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na educação, os psicólogos trabalhavam segundo o modelo médico: o aluno leva a culpa por não aprender, o objetivo é ajustar o indivíduo ao sistema, a visão inatista tem grande força e os currículos reproduzem essas ideias. Conclusão: na escola se repete o modelo clínico tradicional, apoiado na concepção liberal de homem. Na saúde o diagnóstico foi parecido: o paradigma clínico é uma constante, e é preciso superar a visão individual sem rejeitar a clínica."
+    },
+    {
+      "question": "Nos seminários do CFP a partir de 2003, defende-se que as políticas públicas devem ter “legitimidade subjetiva”. O que isso significa?",
+      "options": [
+        "Considerar aspectos da subjetividade ao formular e implementar as políticas, como nas questões urbanas",
+        "Obter a aprovação pessoal de cada usuário antes de implementar as políticas em seu bairro ou cidade",
+        "Depender da opinião individual do psicólogo responsável, sem necessidade de base legal ou técnica",
+        "Basear-se apenas em pesquisas de satisfação, deixando de lado os direitos previstos na Constituição"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nos seminários de 2003, 2005 e 2007, as justificativas passam a vir da própria psicologia e de seus saberes. Daí a ideia de que as políticas devem ter “legitimidade subjetiva”, isto é, levar em conta a subjetividade da formulação à implementação, como nas políticas voltadas às questões urbanas; e a de que os psicólogos considerem a subjetividade ao lidar com os movimentos sociais, o que daria a eles outra conotação."
+    },
+    {
+      "question": "Nos seminários do CFP aparece esta formulação: “a política da Psicologia deve ser uma política pública”. O que ela significa?",
+      "options": [
+        "Resistir à tentação de tomar a psicologia como saber privado e construí-la na interface com outros saberes",
+        "Transformar o Conselho Federal de Psicologia num órgão do governo, subordinado aos ministérios da área",
+        "Garantir que todo psicólogo seja servidor público, extinguindo a atuação em consultório particular",
+        "Submeter as teorias psicológicas à aprovação dos gestores públicos antes de sua aplicação na prática profissional"
+      ],
+      "correctIndex": 0,
+      "explanation": "A ideia expressa a necessidade de não ceder à tentação de tratar a psicologia como saber privado e de pensar sua relação com o domínio público, porque só no encontro do saber psicológico com outros saberes a “tecnologia da subjetividade” pode ser construída e viabilizada, para uma visão ampla e integral dos fenômenos. Não se trata de estatizar a profissão nem de extinguir a clínica."
+    },
+    {
+      "question": "Os debatedores do I Seminário (2001) descreveram a saúde na década anterior como a luta entre o SUS e uma reforma setorial neoliberal, com “reforma” e “contrarreforma” ao mesmo tempo. Que problemas apontaram?",
+      "options": [
+        "A Noas desvinculou a atenção básica da secundária e terciária, e houve universalização excludente",
+        "A Noas integrou a atenção básica à secundária e terciária, e houve universalização com qualidade",
+        "O SUS foi extinto e trocado por planos privados, com o fim de todo subsídio estatal à saúde",
+        "A descentralização foi revertida, e o Ministério passou a gerir sozinho todos os serviços locais"
+      ],
+      "correctIndex": 0,
+      "explanation": "De um lado, construir um sistema único de saúde que fosse universal, equitativo, integral, descentralizado e participativo; de outro, uma reforma setorial neoliberal: Estado menor, corte de custos, descentralização entendida como desresponsabilização e privatização. A descentralização ganhou força desde 1998, mas a Noas (Norma Operacional de Assistência à Saúde) separa a atenção básica dos níveis secundário e terciário; e houve “universalização excludente”: o SUS se precarizou enquanto os planos de saúde cresciam, até com subsídio estatal."
+    },
+    {
+      "question": "Depois do I Seminário, que perguntava se o Estado é financiador, provedor ou regulador, a questão do Estado aparece nos seminários do CFP em duas dimensões. Quais?",
+      "options": [
+        "O que demandar ao Estado em políticas que garantam direitos; e como a psicologia deve se apresentar a ele",
+        "Como reduzir o tamanho do Estado nas políticas sociais; e como transferir os seus serviços ao mercado",
+        "Como o Estado deve fiscalizar os psicólogos; e como punir as infrações ao código de ética da profissão",
+        "O que exigir do Estado em salários para a categoria; e como garantir a exclusividade nos cargos públicos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A primeira dimensão, o que demandar ao Estado, foi pautada no III e IV Seminários: prevalece o entendimento de que cabe inteiramente ao Estado a responsabilidade pelas políticas públicas, de que os mecanismos de controle social são essenciais e de que os psicólogos precisam ocupar também essas instâncias. A segunda, sobre os motivos e a maneira de a psicologia se apresentar ao Estado enquanto profissão, ganha destaque com o Banco Social de Serviços."
+    },
+    {
+      "question": "O que foi o Banco Social de Serviços em Psicologia, projeto do CFP desenvolvido de 2003 a 2005?",
+      "options": [
+        "Projetos de psicólogos voluntários oferecidos ao Estado para apresentar a psicologia de forma organizada",
+        "Um fundo financeiro que emprestava recursos a psicólogos recém-formados para abrir seus consultórios particulares",
+        "Um cadastro nacional de psicólogos clínicos disponíveis para atendimento gratuito em ONGs e igrejas",
+        "Um programa federal que contratava psicólogos concursados para os CAPS e para o sistema prisional"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diante do diagnóstico de uma presença tímida da psicologia frente ao Estado, o CFP financiou projetos de intervenção e os ofereceu a ministérios e secretarias estaduais, em áreas sem psicólogos ou com necessidade urgente, realizados por voluntários com supervisão de especialistas. A experiência levou a debater como ter um projeto corporativo sem cair no corporativismo, e o Banco Social foi sucedido pelo Crepop."
+    },
+    {
+      "question": "No IV Seminário reaparece o alerta de que políticas que dão tratamento igual a um país desigual tendem apenas a perpetuar as desigualdades. Que conclusão se tirou dele?",
+      "options": [
+        "É preciso entrar no debate político mais amplo: controle social, definição de prioridades e avaliação",
+        "É preciso abandonar a universalidade e oferecer políticas apenas a quem comprovar extrema pobreza",
+        "É preciso manter a neutralidade técnica, aplicando os mesmos procedimentos em todas as regiões",
+        "É preciso transferir as políticas sociais ao terceiro setor, que conhece melhor cada realidade local"
+      ],
+      "correctIndex": 0,
+      "explanation": "Diante da desigualdade que estrutura a sociedade brasileira, reafirmou-se que é preciso participar da discussão política em sentido amplo: nos órgãos de controle social, na definição de prioridades e na avaliação das políticas já realizadas. O campo não é “neutro”: é arena de embate político constante. A universalidade continua sendo princípio, não é abandonada."
+    },
+    {
+      "question": "Nos debates do I Seminário, por que a própria denominação “políticas públicas” já exige um posicionamento?",
+      "options": [
+        "Porque a relação com direitos remete ao poder público: dever do Estado, direito do cidadão",
+        "Porque a relação com o mercado remete à eficiência: serviço ao cliente, lucro da empresa",
+        "Porque a relação com a caridade remete às igrejas: favor ao pobre, gratidão do assistido",
+        "Porque a relação com a técnica remete ao especialista: laudo do perito, adesão do paciente"
+      ],
+      "correctIndex": 0,
+      "explanation": "Políticas públicas são aquelas que asseguram os direitos de cada indivíduo e da coletividade, como saúde, educação, segurança, habitação, lazer, assistência social e cultura. Por envolver direitos, a expressão aponta para o poder público: é dever do Estado e direito do cidadão. Admite-se política social fora do governo, com apoio de ONGs, igrejas ou associações, mas sem prescindir da reivindicação de direitos; e, quando parte do governo, ela atinge amplitude maior."
+    },
+    {
+      "question": "Nos debates do CFP, entende-se que uma política pública de educação equivale, no fundo, a democratizar a educação, o que envolve três ideias. Quais?",
+      "options": [
+        "Democratizar o acesso, o sucesso e a gestão",
+        "Democratizar o currículo, o livro e a merenda",
+        "Democratizar a matrícula, a prova e o diploma",
+        "Democratizar o ensino, a pesquisa e a extensão"
+      ],
+      "correctIndex": 0,
+      "explanation": "A política pública de educação envolve democratizar três coisas: o acesso, o sucesso e a gestão. O desafio é garantir acesso universal com ensino de qualidade para todos os que frequentam a escola; por isso é preciso verificar se essa qualidade está sendo atingida, e a avaliação deve servir de base a políticas e ações que reduzam a desigualdade. Na saúde, o objeto da política devem ser os determinantes e as condições de vida, e não os seus resultados."
+    },
+    {
+      "question": "No debate sobre segurança pública, contrapuseram-se duas concepções de marginalidade e violência. Qual delas foi atribuída ao Estado?",
+      "options": [
+        "Problemas do indivíduo, de sua natureza ou de algum desvio, a enfrentar com repressão e/ou cura",
+        "Produtos de uma estrutura social violenta, a enfrentar com ações políticas e intersetoriais",
+        "Expressões de sofrimento coletivo, a enfrentar com escuta psicológica e intervenção cultural",
+        "Efeitos da falta de lazer e cultura, a enfrentar com programas que “mexem com a cidade”"
+      ],
+      "correctIndex": 0,
+      "explanation": "A concepção adotada pelo Estado via marginalidade e violência como problemas do indivíduo, de sua natureza ou de algum desvio, a tratar com repressão e/ou cura. A outra as via como produtos de uma estrutura social violenta, exigindo ações políticas. Na mesma linha, a política criminal, cujos princípios são reeducação e reinserção, fracassa porque esbarra numa visão secular que localiza as causas do crime só no criminoso."
+    },
+    {
+      "question": "No debate sobre política criminal, apontou-se que a política atual, com base na Constituição de 1988, tem como princípios a reeducação e a reinserção, mas fracassa na prática. Por quê?",
+      "options": [
+        "Enfrenta uma concepção secular que vê as causas do crime só no criminoso, e a prisão apenas disciplina",
+        "Enfrenta a falta de vagas no sistema prisional, e a superlotação impede a aplicação de penas mais duras",
+        "Enfrenta a recusa dos psicólogos, que não aceitam emitir laudos sobre a periculosidade dos presos",
+        "Enfrenta o excesso de atividades educativas nas prisões, que desvia a instituição da função punitiva"
+      ],
+      "correctIndex": 0,
+      "explanation": "Segundo uma das debatedoras do tema, a política criminal esbarra numa visão secular que localiza as causas do crime só no criminoso e ignora as condições que o produzem: uma perspectiva individual e a-histórica, que priva o ser humano de sua capacidade de ação política e social. Na verdade, a prisão existe para disciplinar, e assim perde a função educativa que a política lhe atribui. As políticas criminais deveriam apostar não na função punitiva do Estado, mas na transformação social e institucional."
+    },
+    {
+      "question": "No II Seminário começa a ganhar espaço, como paradigma para elaborar políticas sociais, uma noção que incorpora a leitura psicológica. Qual é ela e a que políticas aparece ligada de início?",
+      "options": [
+        "Sistema de proteção integral, ligado de início às políticas voltadas à infância e à adolescência",
+        "Sistema de vigilância sanitária, ligado de início às políticas de controle de epidemias urbanas",
+        "Sistema de seleção por mérito, ligado de início às políticas de acesso ao ensino superior",
+        "Sistema de higiene mental, ligado de início às políticas de prevenção nas escolas primárias"
+      ],
+      "correctIndex": 0,
+      "explanation": "No II Seminário, a noção de sistema de proteção integral começa a ganhar espaço como paradigma para as políticas sociais e é apresentada como algo que incorpora a leitura psicológica. Naquele momento, ela se vincula às políticas voltadas a crianças e adolescentes; nos seminários seguintes se amplia e aparece também nas políticas de assistência social. O mesmo seminário trata da saúde mental compatível com a Reforma Psiquiátrica, da subjetividade nas políticas de comunicação e da relação dos indivíduos com a cidade."
+    },
+    {
+      "question": "Ao propor que se considere a dimensão subjetiva dos fenômenos sociais, Gonçalves pretende superar qual dicotomia e com base em quê?",
+      "options": [
+        "A dicotomia indivíduo-sociedade, com base na dialética subjetividade-objetividade",
+        "A dicotomia mente-corpo, com base na integração entre psicologia e neurociência",
+        "A dicotomia saúde-doença, com base na classificação dos desvios de normalidade",
+        "A dicotomia teoria-prática, com base no treinamento técnico dos psicólogos"
+      ],
+      "correctIndex": 0,
+      "explanation": "As concepções tradicionais estabelecem dicotomias, e a mais significativa aqui é entre indivíduo e sociedade. A dimensão subjetiva dos fenômenos sociais, fundamentada na dialética subjetividade-objetividade, identifica aspectos que se constituem nas duas direções: aspectos subjetivos individuais passam a constituir os fenômenos sociais, e aspectos objetivos apropriados pelos indivíduos passam a constituir sua subjetividade."
+    },
+    {
+      "question": "Que formulação sintetiza o desenvolvimento dos debates sobre a contribuição da psicologia às políticas públicas?",
+      "options": [
+        "Nas políticas públicas, a psicologia não tem um “objeto”, mas uma perspectiva: a da subjetividade",
+        "Nas políticas públicas, a psicologia tem um objeto próprio: os transtornos mentais dos usuários",
+        "Nas políticas públicas, a psicologia não tem perspectiva própria, apenas técnicas emprestadas",
+        "Nas políticas públicas, a psicologia tem um objeto exclusivo: o comportamento do indivíduo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A síntese é justamente essa: a psicologia entra nas políticas públicas não com um objeto próprio, mas com a perspectiva da subjetividade. Essa perspectiva não pode prescindir de posicionamento ético-político, porque o campo não é neutro, mas de interesses diversos, em que a direção deve ser disputada; por isso valem a firmeza na leitura própria e a abertura para articulações."
+    },
+    {
+      "question": "No II Seminário, cujo tema era o protagonismo social do psicólogo, que posição se defendeu?",
+      "options": [
+        "Que os psicólogos “ocupem a cena” e sejam coconstrutores das condições em que prestam seus serviços",
+        "Que os psicólogos fiquem nos bastidores e só executem os serviços definidos pelos gestores públicos",
+        "Que os psicólogos evitem os direitos humanos, por serem tema político alheio à ciência psicológica",
+        "Que os psicólogos atuem como fiscais do Estado, avaliando a eficiência técnica dos demais servidores"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pergunta era: em que projeto se insere o trabalho do psicólogo? A resposta: os psicólogos devem “ocupar a cena”, ser coconstrutores das condições em que prestam seus serviços e engajar-se na luta por políticas públicas, pondo-se como protagonistas pelo viés dos direitos humanos, compreendidos também como construção histórica, capazes de servir de referência para criticar a sociedade e discutir um projeto alternativo."
+    },
+    {
+      "question": "A perspectiva da “humanização das políticas públicas”, que ganha força nos seminários do CFP, afirma que o alvo das políticas sociais são:",
+      "options": [
+        "sujeitos, considerados de forma plena, e não demandas abstratas ou ações formais e padronizadas",
+        "demandas abstratas, organizadas em metas numéricas, e não sujeitos considerados em suas particularidades",
+        "ações padronizadas, aplicadas igualmente, e não sujeitos com história, memória e identidade",
+        "indicadores econômicos, medidos pelo Estado, e não necessidades expressas pela população"
+      ],
+      "correctIndex": 0,
+      "explanation": "As políticas públicas sociais devem ser saudáveis e humanizadas, reconhecendo que miram sujeitos, e não demandas abstratas ou ações formais e padronizadas. Exemplos dessa leitura nos seminários: a ressignificação do cuidado (sujeito de direitos, integral), a revisão da clínica numa concepção social e política e os territórios ocupados por sujeitos com história, memória e identidade."
+    },
+    {
+      "question": "Numa política de assistência social, uma psicóloga deixa de atender cada família isoladamente e organiza grupos com moradores de uma ocupação para discutir a história, a memória e a identidade do território, articulando-se com a habitação e a saúde. Essa prática expressa:",
+      "options": [
+        "a leitura da dimensão subjetiva presente nos fenômenos sociais, com atuação intersetorial e em rede",
+        "a psicologia aplicada auxiliar, que subsidia outros profissionais com laudos e diagnósticos",
+        "a clínica liberal transposta ao serviço público, centrada na perscrutação da intimidade",
+        "a lógica higienista e adaptativa, que busca reconduzir os desviantes à normalidade social"
+      ],
+      "correctIndex": 0,
+      "explanation": "Considerar sujeitos com história, memória e identidade na ocupação de territórios é um dos exemplos de dimensão subjetiva nas políticas de moradia, e trabalhar com grupos, intersetorialidade e rede está entre as condições apontadas para a presença da psicologia. As demais alternativas descrevem a inserção tradicional: auxiliar, clínica individualizante ou higienista."
+    },
+    {
+      "question": "Num CAPS, um psicólogo atende apenas em sessões individuais, nos moldes de seu consultório particular, e emite pareceres para o psiquiatra. À luz da análise de Gonçalves, essa prática:",
+      "options": [
+        "reproduz o paradigma clínico individual e o lugar secundário, ainda presentes no serviço público",
+        "realiza plenamente a “presença presente”, pois o psicólogo está fisicamente no serviço público",
+        "expressa a psicologia comunitária brasileira, pois o atendimento ocorre fora do consultório",
+        "concretiza a dimensão subjetiva dos fenômenos sociais, pois valoriza a intimidade do usuário"
+      ],
+      "correctIndex": 0,
+      "explanation": "Estar no serviço público não basta: os seminários apontam que o paradigma clínico é uma constante e que é preciso superar a visão individual, sem rejeitar a clínica; os relatórios do Crepop mostram que a perspectiva psicossocial ainda é um desafio diante de práticas apoiadas em atendimentos individuais. Emitir pareceres para o psiquiatra repete o lugar secundário, auxiliar da medicina, da história da profissão."
+    },
+    {
+      "question": "Entre as condições apontadas nos seminários para a participação dos psicólogos nas políticas públicas está a articulação com outros profissionais. Como ela foi descrita?",
+      "options": [
+        "Integrar programas em que todos participam e não há especialistas, defendendo a intersetorialidade e a rede",
+        "Coordenar as equipes como especialista do psiquismo, distribuindo as tarefas entre os demais profissionais da equipe",
+        "Atuar de forma isolada e complementar, recebendo encaminhamentos de médicos e de professores",
+        "Restringir-se ao atendimento individual, deixando a dimensão coletiva para os assistentes sociais"
+      ],
+      "correctIndex": 0,
+      "explanation": "O psicólogo deve fortalecer espaços multiprofissionais e interdisciplinares, integrar programas em que todos participam e não há especialistas, abrir-se a outras áreas, defender a intersetorialidade e atuar em rede. Outras condições: construção coletiva com participação popular e controle social, ruptura com práticas tradicionais, qualidade da formação e defesa do SUS e da reforma psiquiátrica."
+    },
+    {
+      "question": "O Crepop, lançado pelo CFP em agosto de 2005 e sucessor do Banco Social de Serviços, tem metodologia própria. Qual alternativa descreve parte dela?",
+      "options": [
+        "Levantar a inserção dos psicólogos, os marcos legais e as práticas inovadoras, gerando documentos de referência",
+        "Credenciar psicólogos para concursos públicos, fiscalizar consultórios particulares e aplicar multas por infrações éticas",
+        "Selecionar psicólogos voluntários, oferecer projetos aos ministérios e supervisioná-los com especialistas",
+        "Aplicar testes psicológicos padronizados aos gestores públicos e emitir laudos sobre sua aptidão ao cargo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A metodologia do Crepop envolve: levantamentos sobre a inserção dos psicólogos (pesquisa on-line, grupos fechados e reuniões abertas, coordenados pelo CFP e executados pelos Conselhos Regionais); levantamento dos marcos legais; relatórios quantitativos e qualitativos; identificação de práticas inovadoras; e documentos de referência para a prática. Voluntários supervisionados oferecidos a ministérios descrevem o Banco Social."
+    },
+    {
+      "question": "Os relatórios qualitativos do Crepop, que ouviram psicólogos de todo o país, inclusive os com menos acesso aos debates do CFP, indicaram que:",
+      "options": [
+        "atuar numa perspectiva psicossocial ainda é desafio diante de práticas apoiadas em atendimento individual",
+        "a perspectiva psicossocial já é hegemônica, e o atendimento individual desapareceu completamente do setor público",
+        "o trabalho interdisciplinar não existe nas áreas investigadas, por recusa dos próprios psicólogos",
+        "os psicólogos rejeitam o SUS, o SUAS e o ECA, preferindo atuar em organizações privadas e ONGs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os relatórios mostram que a perspectiva psicossocial ainda é desafio frente aos atendimentos individuais, com limites que começam nas teorias de viés individualizante. O trabalho interdisciplinar já é realidade, mas com dificuldades; os psicólogos criticam as políticas, mas reconhecem a necessidade de fortalecer SUS, SUAS, ECA e Reforma Psiquiátrica. Há também práticas inovadoras “inventadas” e a possibilidade de uma intervenção cultural."
+    },
+    {
+      "question": "Como ferramentas para o trabalho nas políticas públicas, Gonçalves apresenta a dimensão subjetiva dos fenômenos sociais, a dialética subjetividade-objetividade e, como complemento analítico, a categoria:",
+      "options": [
+        "historicidade",
+        "normalidade",
+        "neutralidade",
+        "universalidade"
+      ],
+      "correctIndex": 0,
+      "explanation": "A categoria historicidade é o complemento analítico: aponta a necessidade de considerar o conteúdo histórico presente na constituição de sujeitos, da subjetividade e da dimensão subjetiva dos fenômenos sociais. Normalidade, neutralidade e universalidade são justamente noções da psicologia tradicional que o texto critica."
+    },
+    {
+      "question": "Ao defender a atuação em políticas públicas, Gonçalves afirma que os psicólogos estão “contra a corrente”. De que corrente se trata?",
+      "options": [
+        "Do neoliberalismo e de suas diferentes manifestações",
+        "Do marxismo e de suas diferentes interpretações",
+        "Da psicanálise e de suas diferentes escolas clínicas",
+        "Da reforma psiquiátrica e de seus diferentes serviços"
+      ],
+      "correctIndex": 0,
+      "explanation": "Um profissional nunca é apenas técnico: sua inserção social passa por um posicionamento também político. Defendendo o trabalho em políticas públicas, os psicólogos se colocam “contra a corrente”: contra o neoliberalismo, em suas várias expressões, que aposta no mercado e enfraquece o Estado frente às políticas sociais. Inserir-se nas políticas públicas é, para a autora, tarefa primordial da psicologia hoje."
+    },
+    {
+      "question": "O primeiro dos oito pontos com que Gonçalves fecha sua proposta de presença crítica nas políticas públicas afirma que:",
+      "options": [
+        "há necessidade de posicionamento: o psicólogo e as produções subjetivas não são neutros",
+        "há necessidade de neutralidade: o psicólogo deve abster-se de posições diante da realidade",
+        "há necessidade de especialização: o psicólogo deve limitar-se ao saber técnico de sua área",
+        "há necessidade de prudência: o psicólogo deve evitar intervir nas políticas dos governos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ponto 1: é preciso tomar posição; nem o psicólogo nem as produções subjetivas são neutros; diante da realidade, os indivíduos têm posição e precisam explicitá-la; toda produção subjetiva deve envolver direção, escolha e posição. É o primeiro nível do dizer e do fazer, que responde à crítica da pretensa neutralidade da psicologia tradicional."
+    },
+    {
+      "question": "Sobre o alcance das políticas públicas, Gonçalves sustenta, no ponto 2 de sua proposta, que elas devem:",
+      "options": [
+        "criar espaço social para o desenvolvimento de todos e o acesso à riqueza material e cultural",
+        "garantir apenas a sobrevivência e a reprodução da força de trabalho das camadas mais pobres",
+        "assistir somente os excluídos do processo social, focalizando os recursos disponíveis",
+        "priorizar alguns direitos básicos em detrimento de outros, conforme o orçamento do Estado"
+      ],
+      "correctIndex": 0,
+      "explanation": "As políticas devem abranger as várias esferas da vida social e garantir amplo acesso à riqueza produzida socialmente e às conquistas da humanidade. Não se trata apenas de garantir a sobrevivência e a reprodução da força de trabalho, nem de assistir os menos favorecidos: trata-se de criar o espaço social para o desenvolvimento de todos. Tomando o indivíduo como sujeito integral, não há por que priorizar direitos em detrimento de outros."
+    },
+    {
+      "question": "No ponto 3 de sua proposta, reconhecer a necessidade de políticas públicas em sentido amplo equivale, para Gonçalves, a reconhecer:",
+      "options": [
+        "o direito de ter direitos, conquista histórica diante da desigualdade produzida historicamente",
+        "o dever de ter deveres, contrapartida exigida dos beneficiários pelo Estado provedor e regulador",
+        "o mérito de ter méritos, critério para distribuir benefícios entre os mais esforçados da sociedade",
+        "o favor de ter favores, tradição assistencialista que o Estado populista consolidou no Brasil"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ter direitos é uma conquista histórica da humanidade e, diante de uma desigualdade social que a história produziu, significa hoje lutar para superar a sociedade desigual. Admitir as políticas públicas em sentido amplo equivale a admitir o “direito de ter direitos”. As políticas se dirigem “a todos”, isto é, a todos os indivíduos, entendidos como sujeitos dotados de uma subjetividade historicamente produzida."
+    },
+    {
+      "question": "No ponto 4 de sua proposta, Gonçalves define como devem ser as políticas públicas. Qual alternativa expressa esse ponto?",
+      "options": [
+        "Universais, garantidas por Estado e instituições democráticos, com participação dos indivíduos e controle social",
+        "Focalizadas nos mais pobres, geridas por especialistas técnicos, com metas definidas pelos órgãos de governo",
+        "Transferidas ao terceiro setor, com financiamento estatal, sem controle social e geridas pelas próprias ONGs",
+        "Restritas aos direitos básicos, garantidas pelo mercado, com participação apenas dos usuários que pagam"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ponto 4: as políticas públicas precisam ser universais e asseguradas por Estado e instituições democráticos, com controle social e participação dos indivíduos; devem garantir universalmente os direitos e a participação dos sujeitos, rumo a uma sociedade transformada e sem desigualdade. Antes dele, a autora defende a democratização do Estado, que passa pela participação dos que elaboram e implementam as políticas e do público a que se destinam, e afirma que as políticas não devem ser restritivas."
+    },
+    {
+      "question": "No ponto 5 de sua proposta, Gonçalves defende o respeito à diversidade dos modos de realização dos sujeitos, mas com qual ressalva?",
+      "options": [
+        "Não deve encobrir seu caráter histórico nem a desigualdade social, que não é inexorável",
+        "Não deve ser estudada pela psicologia, pois pertence ao campo exclusivo da antropologia",
+        "Não deve ultrapassar os padrões de normalidade, sob pena de configurar desvio patológico",
+        "Não deve ser considerada nas políticas, que precisam tratar todos os cidadãos de modo idêntico"
+      ],
+      "correctIndex": 0,
+      "explanation": "A psicologia sócio-histórica respeita a diversidade e o novo, mas exige situá-los em sua gênese histórica e examinar o conteúdo que carregam, dados os interesses diversos da sociedade: é preciso avaliar o que o novo representa. A diversidade não pode esconder o caráter histórico nem a desigualdade social, que não é inevitável: foi construída historicamente."
+    },
+    {
+      "question": "No ponto 6, Gonçalves afirma que a subjetividade pode sempre ser transformada, inclusive de modo deliberado. Para evitar o risco de arbitrariedade, é preciso:",
+      "options": [
+        "deixar claras as posições e pôr em cena o sujeito da intervenção, para que ele também participe",
+        "ocultar posições e manter o sujeito da intervenção à distância, para preservar a técnica neutra",
+        "seguir protocolos universais e dispensar a participação do sujeito, para garantir a objetividade",
+        "delegar a decisão aos gestores públicos e informar o sujeito depois, para agilizar a intervenção"
+      ],
+      "correctIndex": 0,
+      "explanation": "Desnaturalizar reforça a ideia de que é possível agir sobre a dimensão subjetiva para provocar mudanças; o objetivo são pessoas mais felizes e capazes de tomar decisões sobre a própria vida. Mas, para não haver arbitrariedade, a posição precisa se apoiar em concepções explícitas de homem, sociedade, sujeito e subjetividade, e o sujeito da intervenção deve entrar em cena como protagonista."
+    },
+    {
+      "question": "No ponto 7, Gonçalves afirma que, nas políticas públicas, a atuação deve compreender a dimensão subjetiva dos fenômenos sociais e intervir sobre ela. Por onde começa essa compreensão?",
+      "options": [
+        "Pela afirmação do homem como sujeito e do caráter histórico da subjetividade",
+        "Pela classificação dos usuários segundo padrões universais de normalidade",
+        "Pelo levantamento dos aspectos psicológicos isolados de cada caso atendido",
+        "Pela aplicação de testes padronizados que meçam a personalidade individual"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ponto 7: nas políticas públicas, a atuação deve buscar compreender a dimensão subjetiva dos fenômenos sociais do campo e intervir sobre ela; essa compreensão começa por afirmar o homem como sujeito e a subjetividade como histórica. Reconhecer a dimensão subjetiva vai além de mencionar, de forma fragmentada, aspectos psicológicos: significa reconhecer que há sujeitos históricos presentes nas situações do campo."
+    },
+    {
+      "question": "O ponto 8, que fecha o capítulo, atribui ao psicólogo a responsabilidade de realizar uma possibilidade. Qual?",
+      "options": [
+        "Pôr a psicologia a serviço da transformação social, rumo a um outro mundo possível",
+        "Preservar a psicologia como saber técnico e neutro, imune às disputas políticas da sociedade",
+        "Garantir à psicologia o comando das políticas sociais, acima das demais profissões da equipe",
+        "Restringir a psicologia ao consultório, deixando as políticas públicas aos gestores do Estado"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ponto 8: a psicologia sócio-histórica oferece referências capazes de orientar tanto a formulação de políticas públicas quanto a intervenção do psicólogo, que deve assumir a responsabilidade de concretizar uma possibilidade: pôr a psicologia a serviço da transformação social, rumo a “um outro mundo possível”. Antes dele, a autora sustenta que é possível levar a compreensão de sujeito e de subjetividade do plano da teoria para o da prática profissional."
+    }
+  ]
+}

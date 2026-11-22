@@ -1,0 +1,352 @@
+{
+  "titulo": "Sistema Límbico",
+  "eyebrow": "Neurociência · Emoção e Memória",
+  "subtitulo": "A rede cerebral que liga emoção, memória, motivação e corpo",
+  "intro": "Cobre as estruturas do sistema límbico e suas funções: hipocampo e a rede da memória, hipotálamo, córtex cingulado, amígdala e olfato, as lesões clássicas, as teorias da emoção, o circuito de Papez, a regulação pelo córtex pré-frontal e o sistema de recompensa.",
+  "questoes": [
+    {
+      "question": "Como se define o sistema límbico?",
+      "options": [
+        "Conjunto funcional de estruturas corticais e subcorticais ligadas a emoção, memória e motivação",
+        "Estrutura única e bem delimitada do lobo frontal, responsável sozinha por toda a vida emocional",
+        "Conjunto de núcleos do tronco encefálico que controla apenas a respiração e os batimentos cardíacos",
+        "Faixa de córtex motor que planeja os movimentos voluntários e a expressão facial consciente"
+      ],
+      "correctIndex": 0,
+      "explanation": "O sistema límbico é um conjunto funcional de estruturas corticais e subcorticais envolvidas no processamento emocional, na memória, na motivação, no comportamento e na integração autonômica e endócrina. Não é uma estrutura só, e sim uma rede."
+    },
+    {
+      "question": "Alguém afirma que \"a amígdala é a área da emoção do cérebro\". Qual correção é a mais adequada?",
+      "options": [
+        "O processamento emocional resulta da interação de várias áreas, e não de uma área única",
+        "A emoção é processada só pelo hipocampo; a amígdala cuida apenas da memória espacial",
+        "A emoção é processada só pelo córtex pré-frontal, sem participação de áreas subcorticais",
+        "A emoção é processada só pelo hipotálamo, que dispensa a amígdala e o córtex cingulado"
+      ],
+      "correctIndex": 0,
+      "explanation": "O sistema límbico é uma rede funcional. A amígdala é peça importante do medo e da avaliação emocional, mas a emoção resulta da interação entre amígdala, hipocampo, hipotálamo, córtex cingulado, córtex pré-frontal e outras áreas — não existe uma única \"área da emoção\"."
+    },
+    {
+      "question": "Como evoluiu a compreensão do sistema límbico desde o século XIX?",
+      "options": [
+        "De um lobo anatômico na borda dos hemisférios para uma rede dinâmica de emoção, memória e vísceras",
+        "De uma rede dinâmica de emoção e memória para um único núcleo do tronco encefálico, sem conexões",
+        "De um centro exclusivo da visão para um conjunto de áreas dedicadas só ao controle dos movimentos",
+        "De um órgão endócrino isolado para uma estrutura do cerebelo dedicada ao equilíbrio e à postura"
+      ],
+      "correctIndex": 0,
+      "explanation": "Paul Broca descreveu em 1878 o \"grande lobo límbico\" — de limbus, borda —, a faixa de córtex que contorna o corpo caloso na face medial dos hemisférios. Paul MacLean, a partir de 1949, propôs que essas estruturas formam um sistema único de regulação emocional. Hoje o sistema límbico é visto como uma rede ampla que conecta memória, aprendizagem, motivação e comportamento social aos processos autonômicos viscerais."
+    },
+    {
+      "question": "Neste corte sagital, as estruturas límbicas aparecem separadas em componentes do cérebro e componentes do diencéfalo. Quais pertencem ao diencéfalo?",
+      "options": [
+        "Núcleos anteriores do tálamo, hipotálamo e corpo mamilar",
+        "Giro do cíngulo, giro para-hipocampal e hipocampo",
+        "Corpo caloso, giro do cíngulo e giro para-hipocampal",
+        "Amígdala, hipocampo e giro do cíngulo anterior"
+      ],
+      "correctIndex": 0,
+      "explanation": "O grupo anterior de núcleos talâmicos, o hipotálamo e o corpo mamilar ficam no diencéfalo. O giro do cíngulo, o giro para-hipocampal e o hipocampo são componentes do cérebro (telencéfalo). O sistema límbico, portanto, mistura estruturas corticais e subcorticais.",
+      "image": "pg05",
+      "imageCaption": "Componentes do sistema límbico em corte sagital"
+    },
+    {
+      "question": "Qual é a função mais característica do hipocampo na memória?",
+      "options": [
+        "Converter memórias de curto prazo em memórias de longo prazo, a consolidação",
+        "Armazenar sozinho todas as memórias antigas, que somem se ele for lesado",
+        "Controlar hábitos motores automáticos, como andar de bicicleta e digitar",
+        "Disparar a resposta de luta ou fuga diante de estímulos ameaçadores"
+      ],
+      "correctIndex": 0,
+      "explanation": "O hipocampo é importante para formar memórias novas e ajuda a converter a memória de curto prazo em memória de longo prazo — a consolidação. Também cria mapas espaciais e participa do processamento emocional, porque memórias se relacionam a emoções. A luta ou fuga depende da amígdala e do hipotálamo."
+    },
+    {
+      "question": "Um taxista precisa memorizar o mapa de uma cidade inteira e se orientar por ela. Qual estrutura límbica é a mais exigida nessa tarefa?",
+      "options": [
+        "O hipocampo, que cria mapas espaciais do ambiente",
+        "A amígdala, que avalia a carga emocional do trajeto",
+        "O hipotálamo, que regula a fome e a sede no caminho",
+        "O bulbo olfatório, que reconhece os cheiros das ruas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Além de consolidar informações, o hipocampo é a estrutura da memória espacial: transforma a experiência em mapas do ambiente, usados para navegar e se orientar."
+    },
+    {
+      "question": "No esquema da memória do lobo temporal medial, cada estrutura recebe um papel. Qual delas é o \"portal\", a principal porta de entrada entre o neocórtex e o hipocampo?",
+      "options": [
+        "Córtex entorrinal",
+        "Giro para-hipocampal",
+        "Corpos mamilares",
+        "Córtex cingulado"
+      ],
+      "correctIndex": 0,
+      "explanation": "O córtex entorrinal é o portal: a informação vinda do neocórtex passa por ele para chegar ao hipocampo, e por isso é essencial para a memória declarativa. O hipocampo é o processador (consolida e cria mapas espaciais) e o giro para-hipocampal fornece o contexto (reconhecimento de cenas).",
+      "image": "pg13",
+      "imageCaption": "Portal, processador e contexto da memória"
+    },
+    {
+      "question": "Na doença de Alzheimer, o córtex entorrinal está entre as primeiras regiões a perder volume. Que déficit inicial isso ajuda a explicar?",
+      "options": [
+        "Perda da memória declarativa, porque a informação não chega bem ao hipocampo",
+        "Perda da coordenação motora, porque o cerebelo deixa de receber informações",
+        "Perda da visão, porque o nervo óptico deixa de levar os impulsos ao cérebro",
+        "Perda da fala, porque a área motora da linguagem é destruída logo no início"
+      ],
+      "correctIndex": 0,
+      "explanation": "O córtex entorrinal é a porta de entrada entre o neocórtex e o hipocampo e é essencial para a memória declarativa (fatos e eventos). A perda precoce de volume nessa região no Alzheimer prejudica a formação de memórias novas, um dos primeiros sinais da doença."
+    },
+    {
+      "question": "Qual é o papel do fórnice no circuito da memória?",
+      "options": [
+        "Principal trato de saída do hipocampo; sua lesão prejudica a evocação de memórias",
+        "Principal trato de entrada do cerebelo; sua lesão prejudica o equilíbrio do corpo",
+        "Principal núcleo produtor de dopamina; sua lesão causa a perda do prazer e do desejo",
+        "Principal ponte entre os hemisférios; sua lesão separa as duas metades do cérebro"
+      ],
+      "correctIndex": 0,
+      "explanation": "O fórnice é o principal feixe de fibras de saída do hipocampo, e suas colunas terminam nos corpos mamilares. Danos ao longo dessa via causam problemas diretos e imediatos na evocação (recall) de memórias. A ponte entre os hemisférios é o corpo caloso.",
+      "image": "pg15",
+      "imageCaption": "A via de saída e o terminal"
+    },
+    {
+      "question": "Um homem com alcoolismo crônico e deficiência de tiamina (vitamina B1) passa a esquecer os episódios recentes da própria vida. Qual estrutura límbica é a mais associada a esse quadro?",
+      "options": [
+        "Os corpos mamilares",
+        "A amígdala lateral",
+        "O giro do cíngulo",
+        "O núcleo accumbens"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os corpos mamilares, onde terminam as colunas do fórnice, são cruciais para a memória episódica e muito suscetíveis à deficiência de tiamina. Sua lesão está na síndrome de Wernicke-Korsakoff, frequente no alcoolismo crônico, com perda de memória episódica."
+    },
+    {
+      "question": "Na tabela de lesões das estruturas límbicas, qual combinação de déficit e correlação clínica corresponde à amígdala?",
+      "options": [
+        "Docilidade, hiperfagia e agnosia visual, na síndrome de Klüver-Bucy",
+        "Perda da memória episódica, na síndrome de Wernicke-Korsakoff",
+        "Amnésia anterógrada grave, como no caso do paciente H.M.",
+        "Perda da memória declarativa, na doença de Alzheimer"
+      ],
+      "correctIndex": 0,
+      "explanation": "A lesão da amígdala está ligada à síndrome de Klüver-Bucy: docilidade (perda do medo), hiperfagia (comer em excesso) e agnosia visual. As outras linhas da tabela são do hipocampo (paciente H.M.), dos corpos mamilares (Wernicke-Korsakoff) e do córtex entorrinal (Alzheimer).",
+      "image": "pg28",
+      "imageCaption": "Lesões límbicas e correlações clínicas"
+    },
+    {
+      "question": "Após lesão bilateral do hipocampo, um paciente lembra bem da infância, mas não consegue reter o nome de alguém que acabou de conhecer. Como se chama esse déficit?",
+      "options": [
+        "Amnésia anterógrada",
+        "Amnésia retrógrada",
+        "Amnésia dissociativa",
+        "Agnosia de objetos"
+      ],
+      "correctIndex": 0,
+      "explanation": "Amnésia anterógrada é a incapacidade de formar memórias novas depois da lesão; as lembranças antigas podem continuar acessíveis. É o déficit primário da lesão do hipocampo, e o caso clássico é o do paciente H.M. Na retrógrada, ao contrário, perdem-se memórias anteriores à lesão."
+    },
+    {
+      "question": "Diante de um cão bravo, o medo vira corrida; diante da fome, o desconforto vira busca por comida. Qual estrutura faz essa tradução de necessidade límbica em ação física?",
+      "options": [
+        "O hipotálamo, interface límbico-motora",
+        "O hipocampo, processador da memória",
+        "O córtex entorrinal, portal da memória",
+        "O giro para-hipocampal, sede do contexto"
+      ],
+      "correctIndex": 0,
+      "explanation": "O hipotálamo é a interface límbico-motora e o guardião da homeostase: traduz necessidades límbicas, como medo e fome, em ações físicas de sobrevivência, como fuga e busca por alimento."
+    },
+    {
+      "question": "Qual conjunto de funções é regulado pelo hipotálamo?",
+      "options": [
+        "Fome, sede, ciclo sono-vigília, temperatura corporal e comportamento sexual",
+        "Reconhecimento de rostos, leitura, cálculo e compreensão da linguagem escrita",
+        "Equilíbrio, coordenação motora fina, postura e aprendizagem de movimentos",
+        "Visão de cores, percepção de profundidade e reconhecimento de objetos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O hipotálamo integra respostas endócrinas (eixo hipotálamo-hipófise), autonômicas (simpático e parassimpático) e comportamentais. Regula metabolismo, fome, sede e balanço de água e sais, reprodução e cuidado com a prole, defesa (medo, agressão, fuga) e ritmos biológicos, como sono-vigília e temperatura."
+    },
+    {
+      "question": "O córtex cingulado, situado na face medial do cérebro logo acima do corpo caloso, é descrito como interface entre quais processos?",
+      "options": [
+        "Emoção e cognição",
+        "Visão e audição",
+        "Olfato e paladar",
+        "Fome e saciedade"
+      ],
+      "correctIndex": 0,
+      "explanation": "O córtex cingulado é uma região de interface entre processos emocionais e funções cognitivas superiores. Conecta emoções a decisões, comportamento e motivação, influenciando a adaptação ao ambiente."
+    },
+    {
+      "question": "Qual afirmação diferencia corretamente o córtex cingulado anterior do posterior?",
+      "options": [
+        "O anterior detecta conflitos e controla impulsos; o posterior integra memórias autobiográficas",
+        "O anterior integra memórias autobiográficas; o posterior detecta conflitos e controla impulsos",
+        "O anterior regula a fome e a sede; o posterior regula a temperatura corporal e o sono",
+        "O anterior processa só estímulos visuais; o posterior processa só estímulos auditivos"
+      ],
+      "correctIndex": 0,
+      "explanation": "O cingulado anterior (CCA) processa emoções como dor, empatia e frustração, faz atenção seletiva e detecção de conflitos e participa da decisão e do controle inibitório. O posterior (CCP) integra memórias autobiográficas com emoções, participa da atenção visuoespacial, dos devaneios e da navegação espacial."
+    },
+    {
+      "question": "Qual função é característica da amígdala?",
+      "options": [
+        "Avaliar a carga emocional de um estímulo e disparar respostas de alerta",
+        "Converter a memória de curto prazo em longo prazo e criar mapas espaciais",
+        "Regular o ciclo sono-vigília, a temperatura corporal e a sede do organismo",
+        "Coordenar movimentos finos e manter o equilíbrio e a postura do corpo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A amígdala, no lobo temporal medial, avalia a carga emocional dos estímulos e desencadeia alerta e respostas comportamentais e fisiológicas. Processa medo, ansiedade e agressividade e determina a valência emocional das memórias."
+    },
+    {
+      "question": "Uma criança é mordida por um cachorro e, depois disso, sente medo intenso só de ouvir um latido. Onde e por qual mecanismo essa associação se forma?",
+      "options": [
+        "Nos núcleos laterais da amígdala, por potenciação de longa duração (LTP)",
+        "No córtex entorrinal, por perda de volume ligada ao envelhecimento",
+        "No hipotálamo, por hormônios que apagam a memória do evento",
+        "No bulbo olfatório, por habituação ao cheiro do animal que mordeu"
+      ],
+      "correctIndex": 0,
+      "explanation": "O condicionamento do medo ocorre nos núcleos laterais da amígdala: um estímulo neutro (o latido) passa a se associar fortemente a um estímulo aversivo (a mordida). O mecanismo sináptico é a potenciação de longa duração (LTP), o fortalecimento duradouro das sinapses envolvidas."
+    },
+    {
+      "question": "Uma paciente com lesão bilateral da amígdala olha fotos de rostos assustados e não percebe o medo neles. O que mais se espera nesse quadro?",
+      "options": [
+        "Redução da emotividade e dificuldade em fazer julgamentos sociais",
+        "Perda da capacidade de formar memórias novas de fatos e eventos",
+        "Aumento intenso da ansiedade e crises de pânico cada vez mais frequentes",
+        "Perda da sensação de fome e da regulação da temperatura corporal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Em humanos, a lesão da amígdala reduz a emotividade e a capacidade de reconhecer o medo e de fazer julgamentos sociais. Ansiedade aumentada é o oposto: os transtornos de ansiedade se associam à hiperatividade da amígdala."
+    },
+    {
+      "question": "Por que um cheiro, como o de um perfume antigo, costuma evocar lembranças e emoções tão intensas?",
+      "options": [
+        "Os bulbos olfatórios enviam sinais diretos à amígdala e ao hipocampo",
+        "O olfato passa antes pelo cerebelo, que amplifica a memória do odor",
+        "O olfato é processado só no córtex motor, que controla a face",
+        "O olfato chega ao cérebro pela medula, junto com a dor e o tato"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os bulbos olfatórios processam os odores e enviam sinais diretos à amígdala e ao hipocampo, estruturas da emoção e da memória. Por isso cheiros evocam emoções e memórias tão viscerais, e a amígdala usa pistas de odor para codificar gostos positivos ou negativos."
+    },
+    {
+      "question": "Por que costumamos lembrar com muito mais detalhes do dia em que fomos aprovados no vestibular do que de um dia comum?",
+      "options": [
+        "A amígdala interage com o hipocampo e reforça memórias com carga emocional",
+        "O hipotálamo apaga as memórias neutras para economizar espaço no cérebro",
+        "O cerebelo registra apenas os eventos que envolveram movimentos intensos",
+        "O córtex visual guarda imagens nítidas só dos acontecimentos agradáveis"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hipocampo e amígdala interagem nos dois sentidos. Estados emocionais são importantes moduladores da memória: acontecimentos com carga emocional relevante são lembrados mais facilmente do que os desprovidos de emoção. A comunicação da amígdala com os córtices sensoriais também aumenta a atenção, o que melhora a retenção."
+    },
+    {
+      "question": "Qual definição de emoção é a mais adequada?",
+      "options": [
+        "Conjunto automático de alterações fisiológicas e comportamentais que favorece a sobrevivência",
+        "Pensamento consciente e deliberado, sem relação nenhuma com mudanças fisiológicas do corpo",
+        "Traço estável da personalidade, determinado apenas pela herança genética de cada indivíduo",
+        "Reflexo medular simples, que não envolve nenhuma estrutura do encéfalo nem aprendizagem"
+      ],
+      "correctIndex": 0,
+      "explanation": "Emoção é um complexo conjunto de alterações fisiológicas e comportamentais disparadas por estímulos, com o propósito de tornar a vida mais sobrevivível. É uma expressão automática diante de algo intenso e repentino, fortemente positivo ou negativo."
+    },
+    {
+      "question": "Ao receber uma boa notícia, Ana sente alegria, o coração dela acelera e ela sorri. Como classificar esses componentes da emoção?",
+      "options": [
+        "A alegria é a experiência; o coração acelerado e o sorriso são a expressão",
+        "A alegria é a expressão; o coração acelerado e o sorriso são a experiência",
+        "Os três são experiência, porque todos dependem de uma avaliação subjetiva",
+        "Os três são expressão, porque todos podem ser vistos por outras pessoas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Experiência é o sentimento positivo ou negativo que a situação provoca, depois de uma avaliação subjetiva (\"isso é bom para mim\"). Expressão são os padrões de respostas fisiológicas (frequência cardíaca, respiração, sudorese) e de comportamentos específicos da espécie (sorriso, gestos, fala), que comunicam o estado emocional aos outros."
+    },
+    {
+      "question": "No esquema, a seta vermelha da teoria de James-Lange vai da percepção do estímulo direto à expressão emocional, e só depois à experiência. O que essa teoria afirma?",
+      "options": [
+        "Sentimos medo porque percebemos que trememos e que o coração acelerou",
+        "Trememos e o coração acelera porque, antes, sentimos medo da serpente",
+        "Medo e reações do corpo surgem juntos, de forma independente entre si",
+        "O medo depende só da interpretação mental, sem nenhum papel do corpo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para James-Lange, o corpo vem primeiro: quando trememos, suamos e a frequência cardíaca aumenta, sentimos medo. A experiência emocional seria a percepção dessas respostas somáticas e viscerais — não existe emoção sem manifestações fisiológicas.",
+      "image": "pg30",
+      "imageCaption": "Duas teorias diante da serpente"
+    },
+    {
+      "question": "Qual é a ideia central da teoria de Cannon-Bard?",
+      "options": [
+        "O SNC processa o estímulo e gera, ao mesmo tempo, a experiência e as reações do corpo",
+        "A experiência emocional é apenas a percepção das reações corporais que vieram antes",
+        "A emoção resulta da interação entre o córtex, áreas subcorticais e o sistema periférico",
+        "A emoção é aprendida só por imitação, sem participação do sistema nervoso central"
+      ],
+      "correctIndex": 0,
+      "explanation": "Para Cannon e Bard, o sistema nervoso central causa tanto a experiência subjetiva quanto as manifestações fisiológicas e comportamentais, em respostas simultâneas. A percepção do corpo como causa do sentimento é James-Lange; a interação entre córtex, áreas subcorticais e sistema periférico é a proposta de Antônio Damásio."
+    },
+    {
+      "question": "No circuito de Papez, qual é a sequência correta das estruturas?",
+      "options": [
+        "Hipocampo → fórnix → hipotálamo → tálamo anterior → giro do cíngulo",
+        "Hipocampo → tálamo anterior → amígdala → hipotálamo → giro do cíngulo",
+        "Amígdala → bulbo olfatório → hipotálamo → hipocampo → núcleo accumbens",
+        "Giro do cíngulo → cerebelo → hipotálamo → tálamo anterior → hipocampo"
+      ],
+      "correctIndex": 0,
+      "explanation": "O circuito de Papez, primeiro modelo do circuito neural das emoções, é uma alça: o hipocampo projeta pelo fórnix ao hipotálamo; o hipotálamo projeta aos núcleos anteriores do tálamo; estes, ao giro do cíngulo; e o cíngulo volta ao hipocampo, fechando o circuito. O neocórtex troca informações com o cíngulo.",
+      "image": "pg35",
+      "imageCaption": "O circuito de Papez"
+    },
+    {
+      "question": "No circuito de Papez, que componente da emoção é atribuído ao córtex cingulado e qual ao hipotálamo?",
+      "options": [
+        "Cingulado: experiência emocional; hipotálamo: expressão emocional",
+        "Cingulado: expressão emocional; hipotálamo: experiência emocional",
+        "Cingulado: memória espacial; hipotálamo: reconhecimento de cenas",
+        "Cingulado: processamento olfatório; hipotálamo: memória episódica"
+      ],
+      "correctIndex": 0,
+      "explanation": "No modelo de Papez, o córtex cingulado define parte da experiência emocional, as ações do hipotálamo caracterizam a expressão emocional (visceral) e o neocórtex dá o \"colorido\", a riqueza da experiência. O hipocampo também participa da experiência emocional e da memória."
+    },
+    {
+      "question": "Na véspera de uma prova, um estudante fica muito ansioso, lembra que estudou bastante e consegue se acalmar. Qual estrutura atua nessa reavaliação, reduzindo a intensidade da emoção?",
+      "options": [
+        "O córtex pré-frontal",
+        "O núcleo accumbens",
+        "A amígdala lateral",
+        "O tronco encefálico"
+      ],
+      "correctIndex": 0,
+      "explanation": "O córtex pré-frontal interage com o sistema límbico para ajustar a intensidade e a duração das emoções: pode ampliar (foco na ameaça), atenuar (reavaliação) ou manter um estado emocional. Essa modulação influencia comportamento, decisões e controle de impulsos; quando é ineficiente ou imatura, aumenta a vulnerabilidade à impulsividade e à agressão, como na adolescência."
+    },
+    {
+      "question": "No circuito dopaminérgico mesolímbico, de onde partem os neurônios dopaminérgicos e para onde enviam dopamina para gerar a sensação de recompensa?",
+      "options": [
+        "Da área tegmental ventral para o núcleo accumbens",
+        "Do núcleo accumbens para a área tegmental ventral",
+        "Do hipotálamo para a hipófise, pela corrente sanguínea",
+        "Do hipocampo para os corpos mamilares, pelo fórnice"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os neurônios dopaminérgicos se originam na área tegmental ventral (VTA) e enviam dopamina ao núcleo accumbens, que gera a sensação de prazer e reforço. O córtex pré-frontal avalia consequências e regula impulsos, e amígdala e hipocampo guardam o valor emocional e o contexto da recompensa. Esse sistema se relaciona a vícios, compulsões e à anedonia da depressão.",
+      "image": "pg38",
+      "imageCaption": "Circuito dopaminérgico mesolímbico"
+    },
+    {
+      "question": "Na síntese contemporânea, a anatomia límbica foi reclassificada em três redes funcionais. Qual delas tem como foco a memória autobiográfica e a introspecção?",
+      "options": [
+        "Rede de modo padrão, centrada no giro do cíngulo",
+        "Rede hipocampo-diencefálica, centrada no fórnix",
+        "Rede temporo-amígdala-orbitofrontal, na amígdala",
+        "Rede mesolímbica, centrada no núcleo accumbens"
+      ],
+      "correctIndex": 0,
+      "explanation": "As três redes são: hipocampo-diencefálica (memória e orientação espacial — hipocampo, fórnix, corpos mamilares, giro para-hipocampal), temporo-amígdala-orbitofrontal (associação da emoção com a cognição — amígdala, bulbos olfatórios) e de modo padrão (memória autobiográfica e introspecção — giro do cíngulo e integrações corticais amplas)."
+    }
+  ]
+}

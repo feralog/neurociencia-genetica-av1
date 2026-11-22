@@ -1,0 +1,354 @@
+{
+  "titulo": "Hormônios e o Comportamento Humano",
+  "eyebrow": "Neurociência · Neuroendocrinologia",
+  "subtitulo": "Como o hipotálamo transforma uma ameaça em cortisol no sangue",
+  "intro": "Cobre a definição de hormônio, o eixo hipotálamo-hipófise (adeno e neuro-hipófise), a ocitocina e a vasopressina, o hipotálamo como centro homeostático, o eixo HPA e a resposta ao estresse, a regulação pela amígdala e pelo hipocampo na ansiedade e o ritmo circadiano do cortisol.",
+  "questoes": [
+    {
+      "question": "Pela definição tradicional, o que caracteriza um hormônio?",
+      "options": [
+        "Substância liberada no sangue que age em alvo distante, em concentrações muito baixas",
+        "Substância liberada na fenda sináptica que age na célula vizinha, em concentrações altas",
+        "Substância liberada no sangue que age só na própria célula que a produziu, em alta dose",
+        "Substância liberada em ductos que age na superfície de um epitélio, em concentrações altas"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hormônio é uma substância química produzida por uma célula ou grupo de células e liberada no sangue para ser transportada até um alvo distante, onde age em concentrações muito baixas. Agir na célula vizinha, através de uma fenda, é próprio do neurotransmissor."
+    },
+    {
+      "question": "Um dos critérios que definem um hormônio é agir em concentrações baixas. Qual é essa faixa?",
+      "options": [
+        "Picomolar a nanomolar",
+        "Milimolar a molar",
+        "Micromolar a milimolar",
+        "Decimolar a molar"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os hormônios produzem efeito em concentrações picomolares ou nanomolares — quantidades minúsculas. É por isso que a regulação da secreção precisa ser tão fina: pequenas variações já mudam a resposta das células-alvo."
+    },
+    {
+      "question": "Na resposta endócrina, qual é o caminho percorrido pelo hormônio?",
+      "options": [
+        "Célula sinalizadora, corrente sanguínea, receptor da célula-alvo, resposta",
+        "Célula sinalizadora, fenda sináptica, receptor da célula-alvo, resposta",
+        "Receptor da célula-alvo, corrente sanguínea, célula sinalizadora, resposta",
+        "Célula sinalizadora, ducto excretor, superfície do epitélio-alvo, resposta"
+      ],
+      "correctIndex": 0,
+      "explanation": "A célula sinalizadora libera o hormônio, o sistema circulatório o transporta, ele se liga a um receptor na célula-alvo e esta produz uma resposta. A fenda sináptica pertence à comunicação entre neurônios, não à endócrina."
+    },
+    {
+      "question": "Onde fica a hipófise (pituitária)?",
+      "options": [
+        "Abaixo do hipotálamo, presa a ele pelo infundíbulo, alojada no osso esfenoide",
+        "Acima do tálamo, presa a ele pela glândula pineal, alojada no osso frontal",
+        "Atrás do cerebelo, presa a ele pelo bulbo, alojada no osso occipital",
+        "Abaixo do hipocampo, presa a ele pelo fórnix, alojada no osso temporal"
+      ],
+      "correctIndex": 0,
+      "explanation": "A hipófise é uma pequena glândula situada logo abaixo do hipotálamo, ligada a ele pela haste chamada infundíbulo e acomodada numa cavidade do osso esfenoide, na base do crânio."
+    },
+    {
+      "question": "Por que a adeno-hipófise é considerada uma verdadeira glândula endócrina, ao contrário da neuro-hipófise?",
+      "options": [
+        "Deriva da bolsa de Rathke, epitelial; a neuro-hipófise é extensão neural do hipotálamo",
+        "Deriva do tecido neural do hipotálamo; a neuro-hipófise vem da bolsa de Rathke, epitelial",
+        "Deriva do osso esfenoide, de origem óssea; a neuro-hipófise é extensão neural do tálamo",
+        "Deriva do tronco encefálico, de origem neural; a neuro-hipófise vem do epitélio tireoidiano"
+      ],
+      "correctIndex": 0,
+      "explanation": "A adeno-hipófise (hipófise anterior) vem da bolsa de Rathke, uma evaginação do epitélio faríngeo, e por isso é glândula de origem epitelial. A neuro-hipófise (hipófise posterior) cresce a partir do tecido neural do hipotálamo — é um prolongamento do encéfalo."
+    },
+    {
+      "question": "Os hormônios liberados pela neuro-hipófise são fabricados onde?",
+      "options": [
+        "Em neurônios do hipotálamo, cujos axônios terminam na neuro-hipófise",
+        "Em células epiteliais da própria neuro-hipófise, sob ordem do hipotálamo",
+        "Em células da adeno-hipófise, que os passam à neuro-hipófise pelo sangue",
+        "Em neurônios do bulbo, cujos axônios sobem até a neuro-hipófise pela ponte"
+      ],
+      "correctIndex": 0,
+      "explanation": "A neuro-hipófise é extensão do tecido neural: ela armazena e libera ocitocina e vasopressina, mas quem as fabrica são neurônios hipotalâmicos, como os do núcleo paraventricular (NPV), cujos axônios descem até ela."
+    },
+    {
+      "question": "Pela figura, qual par 'tipo celular da adeno-hipófise → órgão-alvo' está correto?",
+      "options": [
+        "Tireotropos → glândula tireoide",
+        "Somatotropos → glândula mamária",
+        "Lactotropos → córtex adrenal",
+        "Corticotropos → ovário (gônada)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os tireotropos secretam tireotropina (TSH), que age na tireoide. Os somatotropos secretam GH; os lactotropos, prolactina (glândula mamária); os corticotropos, ACTH (córtex adrenal); os gonadotropos, FSH e LH (ovário).",
+      "image": "pg08",
+      "imageCaption": "Hormônios da hipófise anterior e seus alvos"
+    },
+    {
+      "question": "Qual hormônio da adeno-hipófise tem como alvo a glândula mamária, e qual célula o secreta?",
+      "options": [
+        "Prolactina, secretada pelos lactotropos",
+        "Ocitocina, secretada pelos lactotropos",
+        "Tireotropina, secretada pelos tireotropos",
+        "Somatotropina, secretada pelos somatotropos"
+      ],
+      "correctIndex": 0,
+      "explanation": "A prolactina vem dos lactotropos da adeno-hipófise e age na glândula mamária. A ocitocina também age na mama, mas é liberada pela neuro-hipófise e responde pela ejeção do leite, não pela ação da prolactina."
+    },
+    {
+      "question": "Os hormônios folículo-estimulante (FSH) e luteinizante (LH) são secretados por quais células, e onde agem?",
+      "options": [
+        "Gonadotropos da adeno-hipófise; agem nas gônadas, como o ovário",
+        "Gonadotropos da neuro-hipófise; agem no útero e nas mamas",
+        "Lactotropos da adeno-hipófise; agem nas gônadas, como o ovário",
+        "Corticotropos da adeno-hipófise; agem no córtex adrenal"
+      ],
+      "correctIndex": 0,
+      "explanation": "FSH e LH são as gonadotrofinas: saem dos gonadotropos da adeno-hipófise e agem nas gônadas (no ovário, na mulher). A neuro-hipófise não tem gonadotropos — libera apenas ocitocina e vasopressina."
+    },
+    {
+      "question": "Quais hormônios são liberados pela neuro-hipófise?",
+      "options": [
+        "Ocitocina e vasopressina",
+        "Prolactina e ocitocina",
+        "Vasopressina e cortisol",
+        "Tireotropina e ocitocina"
+      ],
+      "correctIndex": 0,
+      "explanation": "A neuro-hipófise libera dois peptídeos curtos e quase idênticos: ocitocina (glândulas mamárias e útero) e vasopressina (rins). Prolactina e tireotropina vêm da adeno-hipófise; cortisol, do córtex da suprarrenal."
+    },
+    {
+      "question": "Qual é o principal órgão-alvo da vasopressina?",
+      "options": [
+        "Os rins, onde regula a retenção de água",
+        "O útero, onde regula as contrações",
+        "As mamas, onde regula a ejeção do leite",
+        "A tireoide, onde regula o metabolismo"
+      ],
+      "correctIndex": 0,
+      "explanation": "A vasopressina age nos rins, fazendo-os reter água — por isso é também chamada hormônio antidiurético. Útero e mamas são alvos da ocitocina, o outro hormônio da neuro-hipófise."
+    },
+    {
+      "question": "Pela figura, o que desencadeia o ciclo de liberação de ocitocina durante o parto?",
+      "options": [
+        "A cabeça do feto pressionando a cérvix",
+        "A sucção do mamilo pelo recém-nascido",
+        "A queda de cortisol no sangue da mãe",
+        "A prolactina liberada pela adeno-hipófise"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cabeça do feto pressiona a cérvix (1), impulsos nervosos chegam ao cérebro (2), a hipófise secreta ocitocina (3), que vai pelo sangue ao útero (4) e estimula contrações que empurram o feto contra a cérvix (5). A sucção do mamilo dispara a ocitocina da amamentação, não a do parto.",
+      "image": "pg10",
+      "imageCaption": "O ciclo da ocitocina no parto"
+    },
+    {
+      "question": "Por que a liberação de ocitocina no parto se amplifica até o nascimento?",
+      "options": [
+        "É retroalimentação positiva: a contração empurra o feto e gera mais ocitocina",
+        "É retroalimentação negativa: a contração empurra o feto e gera menos ocitocina",
+        "É retroalimentação positiva: a contração relaxa a cérvix e gera menos cortisol",
+        "É retroalimentação negativa: a ocitocina inibe o hipotálamo e gera mais prolactina"
+      ],
+      "correctIndex": 0,
+      "explanation": "Na retroalimentação positiva, a resposta reforça o estímulo: a contração aumenta a pressão do feto na cérvix, o que dispara mais ocitocina e mais contração. É o oposto do cortisol, que freia a própria produção por retroalimentação negativa."
+    },
+    {
+      "question": "Como a ocitocina provoca a ejeção do leite?",
+      "options": [
+        "Despolariza as células mioepiteliais dos alvéolos, que se contraem",
+        "Estimula as células epiteliais secretoras a fabricar mais leite",
+        "Relaxa as células mioepiteliais dos ductos, que deixam o leite fluir",
+        "Despolariza os receptores tácteis do mamilo, que liberam o leite"
+      ],
+      "correctIndex": 0,
+      "explanation": "As células mioepiteliais envolvem os alvéolos onde o leite é produzido. A ocitocina as despolariza, elas se contraem e espremem o leite pelos ductos até o mamilo. A ocitocina não fabrica leite: ejeta o que já foi produzido."
+    },
+    {
+      "question": "Pela figura, qual sequência leva o estímulo da sucção até a liberação de ocitocina?",
+      "options": [
+        "Mamilo, medula espinhal, bulbo, hipotálamo (NPV), neuro-hipófise",
+        "Mamilo, medula espinhal, bulbo, neuro-hipófise, hipotálamo (NPV)",
+        "Mamilo, corrente sanguínea, adeno-hipófise, hipotálamo, neuro-hipófise",
+        "Mamilo, medula espinhal, cerebelo, adeno-hipófise, córtex adrenal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Os receptores tácteis do mamilo enviam o sinal à medula espinhal; ele sobe por um trato ascendente, passa pelo bulbo e chega ao núcleo paraventricular (NPV) do hipotálamo, cujos neurônios liberam ocitocina na neuro-hipófise. É um reflexo neuroendócrino: entra como sinal nervoso, sai como hormônio.",
+      "image": "pg12",
+      "imageCaption": "Controle da secreção de ocitocina na amamentação"
+    },
+    {
+      "question": "Qual conjunto reúne funções do hipotálamo como centro de controle homeostático?",
+      "options": [
+        "Termorregulação, fome e sede, comportamento reprodutivo e controle neuroendócrino",
+        "Coordenação motora fina, equilíbrio postural, tônus e aprendizado de movimentos",
+        "Visão, audição primária, linguagem e reconhecimento consciente de rostos",
+        "Memória declarativa, aprendizado espacial, consolidação e evocação de lembranças"
+      ],
+      "correctIndex": 0,
+      "explanation": "O hipotálamo cuida de termorregulação, comportamento alimentar e sede, comportamento reprodutivo, controle neuroendócrino (comando da hipófise) e, via sistema nervoso autônomo, da motricidade visceral e da secreção de glândulas. Coordenação motora é do cerebelo; memória declarativa, do hipocampo."
+    },
+    {
+      "question": "Pela figura, quais centros de controle autônomo ficam no tronco encefálico, e não no hipotálamo?",
+      "options": [
+        "Centro respiratório e controle da frequência cardíaca",
+        "Controle da temperatura e controle do balanço de água",
+        "Controle da alimentação e controle da temperatura",
+        "Balanço de água e controle da alimentação"
+      ],
+      "correctIndex": 0,
+      "explanation": "No tronco encefálico ficam o controle da bexiga urinária, o centro pneumotáxico, a aceleração e a desaceleração cardíaca e o centro respiratório. Temperatura, balanço de água e alimentação são controlados no hipotálamo.",
+      "image": "pg14",
+      "imageCaption": "Áreas de controle autônomo no tronco encefálico e no hipotálamo"
+    },
+    {
+      "question": "Qual é a sequência correta do eixo hipotálamo-hipófise-adrenal (HPA)?",
+      "options": [
+        "Hipotálamo libera CRH, adeno-hipófise libera ACTH, suprarrenal libera cortisol",
+        "Hipotálamo libera ACTH, neuro-hipófise libera CRH, suprarrenal libera cortisol",
+        "Hipotálamo libera CRH, neuro-hipófise libera ACTH, rim libera cortisol",
+        "Suprarrenal libera CRH, adeno-hipófise libera ACTH, hipotálamo libera cortisol"
+      ],
+      "correctIndex": 0,
+      "explanation": "O hipotálamo libera CRH (hormônio liberador de corticotropina); na adeno-hipófise, o CRH provoca a liberação de ACTH (corticotropina); o ACTH chega ao córtex da glândula suprarrenal, que libera cortisol."
+    },
+    {
+      "question": "Pela figura, que efeito o cortisol produz nos seus tecidos-alvo?",
+      "options": [
+        "Suprime a imunidade e estimula gliconeogênese, catabolismo proteico e lipólise",
+        "Estimula a imunidade e a gliconeogênese, a síntese proteica e o acúmulo de gordura",
+        "Suprime a imunidade e inibe gliconeogênese, catabolismo proteico e lipólise",
+        "Estimula a imunidade e inibe gliconeogênese, catabolismo proteico e lipólise"
+      ],
+      "correctIndex": 0,
+      "explanation": "O cortisol suprime a função imune, estimula a gliconeogênese no fígado, o catabolismo de proteínas no músculo e a lipólise no tecido adiposo. O sentido comum é disponibilizar energia para a resposta de luta ou fuga, deixando a defesa imune em segundo plano.",
+      "image": "pg13",
+      "imageCaption": "Eixo hipotálamo-hipófise-adrenal"
+    },
+    {
+      "question": "Como o cortisol controla a própria secreção?",
+      "options": [
+        "Por retroalimentação negativa de alça longa, inibindo CRH e ACTH",
+        "Por retroalimentação positiva de alça longa, estimulando CRH e ACTH",
+        "Por retroalimentação negativa de alça curta, inibindo só a ocitocina",
+        "Por retroalimentação positiva de alça curta, estimulando só o CRH"
+      ],
+      "correctIndex": 0,
+      "explanation": "O cortisol volta pelo sangue e inibe a liberação de CRH no hipotálamo e de ACTH na adeno-hipófise — retroalimentação negativa de alça longa. Funciona como um termostato: cortisol alto desliga a cascata que o produz."
+    },
+    {
+      "question": "Que tipo de estresse aumenta a secreção de corticotropina (ACTH)?",
+      "options": [
+        "Tanto o estresse físico quanto o estresse mental",
+        "Apenas o estresse físico, como lesão ou infecção",
+        "Apenas o estresse mental, como medo ou preocupação",
+        "Nenhum deles; o ACTH depende só do ciclo claro-escuro"
+      ],
+      "correctIndex": 0,
+      "explanation": "O estresse físico ou mental eleva o ACTH. O eixo HPA não distingue uma lesão de uma ameaça percebida — por isso estados psicológicos, como medo ou preocupação, produzem efeitos hormonais no corpo."
+    },
+    {
+      "question": "A resposta ao estresse é uma reação coordenada a estímulos ameaçadores. Qual conjunto a descreve?",
+      "options": [
+        "Esquiva, mais vigilância e alerta, ativação simpática e liberação de cortisol",
+        "Aproximação, sonolência, ativação parassimpática e queda do cortisol",
+        "Esquiva, sonolência, ativação parassimpática e liberação de cortisol",
+        "Aproximação, mais vigilância, ativação simpática e queda do cortisol"
+      ],
+      "correctIndex": 0,
+      "explanation": "A resposta ao estresse reúne quatro componentes: comportamento de esquiva, aumento da vigilância e do alerta, ativação do sistema nervoso simpático e liberação de cortisol pelas glândulas suprarrenais."
+    },
+    {
+      "question": "Pela figura, qual associação entre uma saída do núcleo central da amígdala e sua resposta está correta?",
+      "options": [
+        "Substância cinzenta periaquedutal → comportamento de esquiva",
+        "Sistemas modulatórios difusos → ativação do eixo HPA",
+        "Hipotálamo → aumento do estado de alerta e vigilância",
+        "Substância cinzenta periaquedutal → ativação do eixo HPA"
+      ],
+      "correctIndex": 0,
+      "explanation": "O núcleo central da amígdala projeta para o hipotálamo (ativação do eixo HPA e do simpático), para a substância cinzenta periaquedutal (comportamento de esquiva) e para os sistemas modulatórios difusos (aumento do estado de alerta).",
+      "image": "pg20",
+      "imageCaption": "Saídas do núcleo central da amígdala na resposta ao estresse"
+    },
+    {
+      "question": "Na amígdala, por onde a informação sensorial entra e de onde parte a resposta ao estresse?",
+      "options": [
+        "Entra pelos núcleos basolaterais e parte do núcleo central",
+        "Entra pelo núcleo central e parte dos núcleos basolaterais",
+        "Entra pelo hipocampo e parte do núcleo da estria terminal",
+        "Entra pelo hipotálamo e parte da substância periaquedutal"
+      ],
+      "correctIndex": 0,
+      "explanation": "A informação sensorial chega aos núcleos basolaterais da amígdala e é repassada ao núcleo central. Quando o núcleo central está ativo, a resposta ao estresse é acionada pelas suas projeções."
+    },
+    {
+      "question": "Qual padrão cerebral está associado aos transtornos de ansiedade?",
+      "options": [
+        "Hiperatividade da amígdala e resposta diminuída do hipocampo",
+        "Hipoatividade da amígdala e resposta aumentada do hipocampo",
+        "Hiperatividade da amígdala e resposta aumentada do hipocampo",
+        "Hipoatividade da amígdala e resposta diminuída do hipocampo"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nos transtornos de ansiedade, a amígdala (que aciona a resposta ao estresse) fica hiperativa e o hipocampo (que freia o eixo HPA) responde menos. Acelerador apertado demais e freio fraco: o eixo HPA fica ligado mais do que deveria."
+    },
+    {
+      "question": "Pela figura, como o hipocampo regula o eixo HPA?",
+      "options": [
+        "Tem receptores para cortisol e inibe a secreção de CRH por retroalimentação negativa",
+        "Tem receptores para cortisol e estimula a secreção de CRH, ampliando a resposta",
+        "Não tem receptores para cortisol e estimula o eixo HPA junto com a amígdala",
+        "Tem receptores para ocitocina e inibe a secreção de ACTH na neuro-hipófise"
+      ],
+      "correctIndex": 0,
+      "explanation": "O hipocampo possui receptores para glicocorticoides (cortisol) e suprime o eixo HPA por retroalimentação negativa, inibindo a secreção de CRH. Na figura, a amígdala estimula (+) o HPA, o hipocampo o inibe (−) e o cortisol ativa (+) esse freio hipocampal.",
+      "image": "pg21",
+      "imageCaption": "Amígdala e hipocampo na regulação do eixo HPA"
+    },
+    {
+      "question": "O que acontece quando há excesso prolongado de cortisol?",
+      "options": [
+        "Morrem neurônios do hipocampo, o freio do eixo HPA enfraquece e o cortisol sobe mais",
+        "Proliferam neurônios do hipocampo, o freio do eixo HPA se fortalece e o cortisol cai",
+        "Morrem neurônios da amígdala, a resposta ao medo diminui e o cortisol cai aos poucos",
+        "Aumentam os receptores do hipocampo, o freio do eixo HPA fica mais forte e tudo se ajusta"
+      ],
+      "correctIndex": 0,
+      "explanation": "O excesso de cortisol pode matar neurônios hipocampais. Com menos hipocampo, o freio do eixo HPA enfraquece, o que leva a mais cortisol e mais dano ao hipocampo — um ciclo vicioso."
+    },
+    {
+      "question": "Camundongos modificados para superexpressar CRH e camundongos modificados sem receptores de CRH mostram qual resultado?",
+      "options": [
+        "Os que superexpressam CRH são ansiosos; os sem receptor, menos ansiosos que os normais",
+        "Os que superexpressam CRH são menos ansiosos; os sem receptor, mais ansiosos que os normais",
+        "Os dois grupos ficam mais ansiosos, pois o eixo HPA perde a regulação nos dois casos",
+        "Nenhum grupo muda de comportamento, pois o CRH age só na hipófise e não na ansiedade"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mais CRH produz camundongos ansiosos; sem os receptores de CRH, os animais ficam menos ansiosos que os normais. Alterar um único gene do eixo do estresse muda o comportamento — exemplo concreto da relação entre eixo HPA, genes e ansiedade."
+    },
+    {
+      "question": "Pela figura, em que momento do dia a concentração de cortisol atinge o pico?",
+      "options": [
+        "No início da manhã, por volta das 8 horas",
+        "No fim da tarde, por volta das 18 horas",
+        "Perto da meia-noite, por volta das 24 horas",
+        "No início da tarde, por volta das 14 horas"
+      ],
+      "correctIndex": 0,
+      "explanation": "O cortisol é mínimo perto da meia-noite (cerca de 3 a 4 µg/100 mL), sobe em pulsos de madrugada e atinge o pico por volta das 8 horas (cerca de 20 µg/100 mL), caindo ao longo da tarde e da noite. A subida matinal é a resposta do cortisol ao despertar.",
+      "image": "pg22",
+      "imageCaption": "Ritmo circadiano do cortisol"
+    },
+    {
+      "question": "O ritmo circadiano do cortisol é coordenado por qual estrutura, a partir de quais informações?",
+      "options": [
+        "Núcleo supraquiasmático do hipotálamo, com genes do relógio e o ciclo claro-escuro",
+        "Núcleo central da amígdala, com genes do relógio e o ciclo claro-escuro",
+        "Núcleo supraquiasmático do hipotálamo, com o nível de glicose e a temperatura",
+        "Núcleo paraventricular do hipotálamo, com a sucção do mamilo e a prolactina"
+      ],
+      "correctIndex": 0,
+      "explanation": "O ritmo do cortisol é controlado por genes do relógio biológico e pelas variações do ciclo claro e escuro, que convergem no núcleo supraquiasmático do hipotálamo. Por isso o ritmo circadiano é, ao lado do estresse, um dos dois estímulos para a liberação de CRH."
+    }
+  ]
+}
